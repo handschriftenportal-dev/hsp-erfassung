@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TEI version="5.0" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <respStmt>
+                    <resp>katalogisiert durch</resp>
+                    <persName key="__UUID__">Katrin Sturm</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <licence target="https://creativecommons.org/licenses/by/3.0/de/">
+                        <p>Dieses Dokument steht unter einer Creative Commons Namensnennung 3.0 Deutschland Lizenz (CC BY).</p>
+
+                        <p>Für die Nutzung weiterer Daten wie Digitalisaten gelten gegebenenfalls andere
+              Lizenzen.</p>
+</licence>
+                </availability>
+                <date when="2021-12-02" type="created"/>
+                <date when="2021-12-02" type="modified"/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <msDesc status="intern" xml:id="HSP-2c8f3b67-7ac5-409c-847b-8ece38055c8a" xml:lang="de" subtype="medieval" type="hsp:description">
+                <msIdentifier>
+                    <settlement key="5f22adea-9df0-330b-b784-d08b57acc88e">Düsseldorf</settlement>
+                    <repository key="460f6019-bdb2-3770-b275-38b7a36c6298">Universitäts- und Landesbibliothek Düsseldorf</repository>
+                    <idno>Ms. C 1</idno>
+                    <altIdentifier type="catalog">
+                        <collection>Handschriftenportal Kulturobjektdokument-ID</collection>
+                        <idno>HSP-b7969188-31dd-3dca-8fd3-9c672d5eaa77</idno>
+                    </altIdentifier>
+                </msIdentifier>
+                <head>
+                    <title>Titel</title>
+
+                    <note type="headline">Schlagzeile</note>
+
+                    <index indexName="norm">
+                        <term type="title">__TITEL_NORMIERT__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="material">__MATERIAL__</term>
+                        <term type="material_type">__MATERIAL_NORMIERT__</term>
+                        <term type="material_type">ggfs.__MATERIAL_NORMIERT__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="measure">__ANZAHL_BLÄTTER__</term>
+                        <term type="measure_noOfLeaves">__ANZAHL_BLÄTTER_NORMIERT</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="dimensions">__GRÖSSE__</term>
+                        <term type="height">__HÖHE_NORMIERT__</term>
+                        <term type="width">__BREITE_NORMIERT__</term>
+                        <term type="depth">__TIEFE_NORMIERT__</term>
+                        <term type="dimensions_typeOfInformation">__ABMESSUNGSART_NORMIERT__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="origPlace">__ENTSTEHUNGSORT__</term>
+                        <term type="origPlace_gnd-ID">__GND_NUMMER__</term>
+                        <term type="origPlace_gnd-ID">__ggfs. andere_GND_NUMMER__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="origDate">__ENTSTEHUNGSZEIT__</term>
+                        <term type="origDate_notBefore">__ENTSTEHUNGSZEIT_NORMIERT__BEFORE</term>
+                        <term type="origDate_notAfter">__ENTSTEHUNGSZEIT_NORMIERT__AFTER</term>
+                        <term type="origDate_type">__DATIERUNGSART_NORMIERT__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="textLang">__GRUNDSPRACHE__</term>
+                        <term type="textLang-ID">__GRUNDSPRACHE_NORMIERT__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="form">__FORMTYP_NORMIERT__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="status">__VERFÜGBARKEIT_NORMIERT__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="decoration">__ILLUMINIERT_NORMIERT__</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="musicNotation">__MUSIKNOTATION_NORMIERT__</term>
+                    </index>
+</head>
+                <msContents>
+                    <textLang mainLang="de" otherLangs="la fr">__SPRACHINFORMATIONEN</textLang>
+                    <msItem>
+                        <textLang mainLang="de">__ABSCHNITTSSPRACHE__</textLang>
+                        <note type="text">
+                            <locus from="1r" to="12v">__FOLIOANGABEN__</locus>
+
+                            <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx">__VERFASSSER__</persName>
+
+                            <title>__TITLE__</title>
+
+                            <quote type="incipit">__INCIPIT__</quote>
+__INHALT_TEXT__</note>
+                        <note type="music">__INHALT_MUSIK__</note>
+                        <decoNote type="content">__INHALT_KUNST__</decoNote>
+                        <decoNote type="form">__ÄUßERES_KUNST__</decoNote>
+                    </msItem>
+                    <msItem>
+                        <note type="text">__INHALT_TEXT__</note>
+                        <msItem>
+                            <note type="text">__ABSCHNITT_INHALT_TEXT__</note>
+                        </msItem>
+                    </msItem>
+                    <msItem>
+                        <note type="text">__INHALT_TEXT__usw</note>
+                    </msItem>
+                </msContents>
+                <physDesc>
+                    <p>__ÄUßERES__</p>
+                    <decoDesc>
+                        <decoNote type="form">__ÄUßERES_KUNST__</decoNote>
+                    </decoDesc>
+                </physDesc>
+                <history>
+                    <p>__GESCHICHTE__</p>
+                </history>
+                <additional>
+                    <listBibl>
+                        <bibl>__LITERATUR__</bibl>
+                    </listBibl>
+                </additional>
+                <msPart type="binding">
+                    <msIdentifier>
+                        <idno>__SIGNATUR_EINBAND__</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>___HANDSCHRIFTENTITEL__EINBAND__</title>
+
+                        <note type="headline">__SCHLAGZEILE__EINBAND__</note>
+
+                        <index indexName="norm">
+                            <term type="title">__TITEL_NORMIERT__EINBAND__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="material">__MATERIAL__EINBAND__</term>
+                            <term type="material_type">__MATERIAL_NORMIERT__EINBAND__</term>
+                            <term type="material_type">ggfs.__MATERIAL_NORMIERT__EINBAND__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="measure">__ANZAHL_BLÄTTER__EINBAND__</term>
+                            <term type="measure_noOfLeaves">__ANZAHL_BLÄTTER_NORMIERT__EINBAND__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="dimensions">__UMFANG__EINBAND__</term>
+                            <term type="height">__HÖHE_NORMIERT__EINBAND__</term>
+                            <term type="width">__BREITE_NORMIERT__EINBAND__</term>
+                            <term type="depth">__TIEFE_NORMIERT__EINBAND__</term>
+                            <term type="dimensions_typeOfInformation">__ABMUSSUNGSART_NORMIERT__EINBAND__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="origPlace">__ENTSTEHUNGSORT__EINBAND__</term>
+                            <term type="origPlace_gnd-ID">__GND_NUMMER__EINBAND__</term>
+                            <term type="origPlace_gnd-ID">ggfs.GND_NUMMER__EINBAND__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="origDate">__ENTSTEHUNGSZEIT__EINBAND__</term>
+                            <term type="origDate_notBefore">__ENTSTEHUNGSZEIT_NORMIERT__BEFORE__EINBAND__</term>
+                            <term type="origDate_notAfter">__ENTSTEHUNGSZEIT_NORMIERT__AFTER__EINBAND__</term>
+                            <term type="origDate_type">__DATIERUNGSART_NORMIERT__EINBAND__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="textLang">__GRUNDSPRACHE__EINBAND__</term>
+                            <term type="textLang-ID">__GRUNDSPRACHE_NORMIERT__EINBAND__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="form">binding</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="status">__VERFÜGBARKEIT_NORMIERT__EINBAND__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="decoration">__ILLUMINIERT_NORMIERT__KOK__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="musicNotation">__MUSIKNOTATION_NORMIERT__EINBAND__</term>
+                        </index>
+</head>
+                    <msContents>
+                        <textLang mainLang="de" otherLangs="la fr">__SPRACHINFORMATIONEN__</textLang>
+                        <msItem>
+                            <textLang mainLang="de">__ABSCHNITTSSPRACHE__</textLang>
+                            <note type="text">
+                                <locus from="1r" to="12v">__FOLIOANGABEN__</locus>
+
+                                <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx">__VERFASSSER__</persName>
+
+                                <title>__TITLE__</title>
+
+                                <quote type="incipit">__INCIPIT__</quote>
+__INHALT_TEXT__</note>
+                            <note type="music">__INHALT_MUSIK__</note>
+                            <decoNote type="content">__INHALT_KUNST__</decoNote>
+                            <decoNote type="form">__ÄUßERES_KUNST__</decoNote>
+                        </msItem>
+                        <msItem>
+                            <note type="text">__INHALT_TEXT__</note>
+                            <msItem>
+                                <note type="text">__ABSCHNITT_INHALT_TEXT__</note>
+                            </msItem>
+                        </msItem>
+                        <msItem>
+                            <note type="text">__INHALT_TEXT__usw</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>__ÄUßERES_EINBAND__</p>
+                        <decoDesc>
+                            <decoNote type="form">__ÄUßERES_KUNST__EINBAND__</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <p>__GESCHICHTE_EINBAND__</p>
+                    </history>
+                    <msPart type="fragment">
+                        <msIdentifier>
+                            <idno>SIGNATUR_FRAGMENT_IN_KOK_EINBAND</idno>
+                        </msIdentifier>
+                        <head>
+                            <title>___HANDSCHRIFTENTITEL__FRAGMENT_IN_KOK_EINBAND__</title>
+
+                            <note type="headline">__SCHLAGZEILE__FRAGMENT_IN_KOK_EINBAND__</note>
+
+                            <index indexName="norm">
+                                <term type="title">__TITEL_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="material">__MATERIAL__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="material_type">__MATERIAL_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="material_type">ggfs.__MATERIAL_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="measure">__ANZAHL_BLÄTTER__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="measure_noOfLeaves">__ANZAHL_BLÄTTER_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="dimensions">__UMFANG__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="height">__HÖHE_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="width">__BREITE_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="depth">__TIEFE_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="dimensions_typeOfInformation">__ABMUSSUNGSART_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="origPlace">__ENTSTEHUNGSORT__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="origPlace_gnd-ID">__GND_NUMMER__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="origPlace_gnd-ID">ggfs.GND_NUMMER__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="origDate">__ENTSTEHUNGSZEIT__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="origDate_notBefore">__ENTSTEHUNGSZEIT_NORMIERT__BEFORE__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="origDate_notAfter">__ENTSTEHUNGSZEIT_NORMIERT__AFTER__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="origDate_type">__DATIERUNGSART_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="textLang">__GRUNDSPRACHE__FRAGMENT_IN_KOK_EINBAND__</term>
+                                <term type="textLang-ID">__GRUNDSPRACHE_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="form">fragment</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="status">__VERFÜGBARKEIT_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="decoration">__ILLUMINIERT_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="musicNotation">__MUSIKNOTATION_NORMIERT__FRAGMENT_IN_KOK_EINBAND__</term>
+                            </index>
+</head>
+                        <msContents>
+                            <textLang mainLang="de" otherLangs="la fr">__SPRACHINFORMATIONEN</textLang>
+                            <msItem>
+                                <textLang mainLang="de">__ABSCHNITTSSPRACHE__</textLang>
+                                <note type="text">
+                                    <locus from="1r" to="12v">__FOLIOANGABEN__</locus>
+
+                                    <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx">__VERFASSSER__</persName>
+
+                                    <title>__TITLE__</title>
+
+                                    <quote type="incipit">__INCIPIT__</quote>
+__INHALT_TEXT__</note>
+                                <note type="music">__INHALT_MUSIK__</note>
+                                <decoNote type="content">__INHALT_KUNST__</decoNote>
+                                <decoNote type="form">__ÄUßERES_KUNST__</decoNote>
+                            </msItem>
+                            <msItem>
+                                <note type="text">__INHALT_TEXT__</note>
+                                <msItem>
+                                    <note type="text">__ABSCHNITT_INHALT_TEXT__</note>
+                                </msItem>
+                            </msItem>
+                            <msItem>
+                                <note type="text">__INHALT_TEXT__usw</note>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <p>__ÄUßERES_FRAGMENT_IN_KOK_EINBAND__</p>
+                            <decoDesc>
+                                <decoNote type="form">__ÄUßERES_KUNST__FRAGMENT_IN_KOK_EINBAND__</decoNote>
+                            </decoDesc>
+                        </physDesc>
+                        <history>
+                            <p>__GESCHICHTE_FRAGMENT_IN_KOK_EINBAND__</p>
+                        </history>
+                    </msPart>
+                </msPart>
+                <msPart type="booklet">
+                    <msIdentifier>
+                        <idno>__SIGNATUR_FASZIKEL__</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>___HANDSCHRIFTENTITEL__FASZIKEL__</title>
+
+                        <note type="headline">__SCHLAGZEILE__FASZIKEL__</note>
+
+                        <index indexName="norm">
+                            <term type="title">__TITEL_NORMIERT__FASZIKEL__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="material">__MATERIAL__FASZIKEL___</term>
+                            <term type="material_type">__MATERIAL_NORMIERT__FASZIKEL___</term>
+                            <term type="material_type">ggfs.__MATERIAL_NORMIERT__FASZIKEL___</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="measure">__ANZAHL_BLÄTTER__FASZIKEL__</term>
+                            <term type="measure_noOfLeaves">__ANZAHL_BLÄTTER_NORMIERT_FASZIKEL__</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="dimensions">__UMFANG__FASZIKEL___</term>
+                            <term type="height">__HÖHE_NORMIERT__FASZIKEL____</term>
+                            <term type="width">__BREITE_NORMIERT__FASZIKEL____</term>
+                            <term type="depth">__TIEFE_NORMIERT__FASZIKEL____</term>
+                            <term type="dimensions_typeOfInformation">__ABMUSSUNGSART_NORMIERT__FASZIKEL____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="origPlace">__ENTSTEHUNGSORT__FASZIKEL____</term>
+                            <term type="origPlace_gnd-ID">__GND_NUMMER__FASZIKEL____</term>
+                            <term type="origPlace_gnd-ID">ggfs.GND_NUMMER__FASZIKEL____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="origDate">__ENTSTEHUNGSZEIT__FASZIKEL__</term>
+                            <term type="origDate_notBefore">__ENTSTEHUNGSZEIT_NORMIERT__BEFORE__FASZIKEL__</term>
+                            <term type="origDate_notAfter">__ENTSTEHUNGSZEIT_NORMIERT__AFTER__FASZIKEL____</term>
+                            <term type="origDate_type">__DATIERUNGSART_NORMIERT__FASZIKEL____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="textLang">__GRUNDSPRACHE__FASZIKEL____</term>
+                            <term type="textLang-ID">__GRUNDSPRACHE_NORMIERT__FASZIKEL____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="form">booklet</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="status">__VERFÜGBARKEIT_NORMIERT__FASZIKEL____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="decoration">__ILLUMINIERT_NORMIERT__FASZIKEL____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="musicNotation">__MUSIKNOTATION_NORMIERT__FASZIKEL____</term>
+                        </index>
+</head>
+                    <msContents>
+                        <textLang mainLang="de" otherLangs="la fr">__SPRACHINFORMATIONEN</textLang>
+                        <msItem>
+                            <textLang mainLang="de">__ABSCHNITTSSPRACHE__</textLang>
+                            <note type="text">
+                                <locus from="1r" to="12v">__FOLIOANGABEN__</locus>
+
+                                <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx">__VERFASSSER__</persName>
+
+                                <title>__TITLE__</title>
+
+                                <quote type="incipit">__INCIPIT__</quote>
+__INHALT_TEXT__</note>
+                            <note type="music">__INHALT_MUSIK__</note>
+                            <decoNote type="content">__INHALT_KUNST__</decoNote>
+                            <decoNote type="form">__ÄUßERES_KUNST__</decoNote>
+                        </msItem>
+                        <msItem>
+                            <note type="text">__INHALT_TEXT__</note>
+                            <msItem>
+                                <note type="text">__ABSCHNITT_INHALT_TEXT__</note>
+                            </msItem>
+                        </msItem>
+                        <msItem>
+                            <note type="text">__INHALT_TEXT__usw</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>__ÄUßERES_FASZIKEL____</p>
+                        <decoDesc>
+                            <decoNote type="form">__ÄUßERES_KUNST_FASZIKEL__</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <p>__GESCHICHTE_FASZIKEL____</p>
+                    </history>
+                </msPart>
+                <msPart type="accMat">
+                    <msIdentifier>
+                        <idno>__SIGNATUR_BEIGABE__</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>___HANDSCHRIFTENTITEL__BEIGABE____</title>
+
+                        <note type="headline">__SCHLAGZEILE__BEIGABE____</note>
+
+                        <index indexName="norm">
+                            <term type="title">__TITEL_NORMIERT__BEIGABE____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="material">__MATERIAL__BEIGABE_____</term>
+                            <term type="material_type">__MATERIAL_NORMIERT__BEIGABE_____</term>
+                            <term type="material_type">ggfs.__MATERIAL_NORMIERT__BEIGABE_____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="measure">__ANZAHL_BLÄTTER__BEIGABE____</term>
+                            <term type="measure_noOfLeaves">__ANZAHL_BLÄTTER_NORMIERT_BEIGABE____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="dimensions">__UMFANG__BEIGABE_____</term>
+                            <term type="height">__HÖHE_NORMIERT__BEIGABE______</term>
+                            <term type="width">__BREITE_NORMIERT__BEIGABE______</term>
+                            <term type="depth">__TIEFE_NORMIERT__BEIGABE______</term>
+                            <term type="dimensions_typeOfInformation">__ABMUSSUNGSART_NORMIERT__BEIGABE______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="origPlace">__ENTSTEHUNGSORT__BEIGABE______</term>
+                            <term type="origPlace_gnd-ID">__GND_NUMMER__BEIGABE______</term>
+                            <term type="origPlace_gnd-ID">ggfs.GND_NUMMER__BEIGABE______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="origDate">__ENTSTEHUNGSZEIT__BEIGABE____</term>
+                            <term type="origDate_notBefore">__ENTSTEHUNGSZEIT_NORMIERT__BEFORE__BEIGABE____</term>
+                            <term type="origDate_notAfter">__ENTSTEHUNGSZEIT_NORMIERT__AFTER__BEIGABE______</term>
+                            <term type="origDate_type">__DATIERUNGSART_NORMIERT__BEIGABE______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="textLang">__GRUNDSPRACHE__BEIGABE______</term>
+                            <term type="textLang-ID">__GRUNDSPRACHE_NORMIERT__BEIGABE______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="form">accMat</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="status">__VERFÜGBARKEIT_NORMIERT__BEIGABE______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="decoration">__ILLUMINIERT_NORMIERT__BEIGABE______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="musicNotation">__MUSIKNOTATION_NORMIERT__BEIGABE______</term>
+                        </index>
+</head>
+                    <msContents>
+                        <textLang mainLang="de" otherLangs="la fr">__SPRACHINFORMATIONEN</textLang>
+                        <msItem>
+                            <textLang mainLang="de">__ABSCHNITTSSPRACHE__</textLang>
+                            <note type="text">
+                                <locus from="1r" to="12v">__FOLIOANGABEN__</locus>
+
+                                <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx">__VERFASSSER__</persName>
+
+                                <title>__TITLE__</title>
+
+                                <quote type="incipit">__INCIPIT__</quote>
+__INHALT_TEXT__</note>
+                            <note type="music">__INHALT_MUSIK__</note>
+                            <decoNote type="content">__INHALT_KUNST__</decoNote>
+                            <decoNote type="form">__ÄUßERES_KUNST__</decoNote>
+                        </msItem>
+                        <msItem>
+                            <note type="text">__INHALT_TEXT__</note>
+                            <msItem>
+                                <note type="text">__ABSCHNITT_INHALT_TEXT__</note>
+                            </msItem>
+                        </msItem>
+                        <msItem>
+                            <note type="text">__INHALT_TEXT__usw</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>__ÄUßERES_BEIGABE____</p>
+                        <decoDesc>
+                            <decoNote type="form">__ÄUßERES_KUNST_BEIGABE</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <p>__GESCHICHTE_BEIGABE____</p>
+                    </history>
+                </msPart>
+                <msPart type="fragment">
+                    <msIdentifier>
+                        <idno>__SIGNATUR_FRAGMENT__</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>___HANDSCHRIFTENTITEL__FRAGMENT____</title>
+
+                        <note type="headline">__SCHLAGZEILE__FRAGMENT____</note>
+
+                        <index indexName="norm">
+                            <term type="title">__TITEL_NORMIERT__FRAGMENT____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="material">__MATERIAL__FRAGMENT_____</term>
+                            <term type="material_type">__MATERIAL_NORMIERT__FRAGMENT_____</term>
+                            <term type="material_type">ggfs.__MATERIAL_NORMIERT__FRAGMENT_____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="measure">__ANZAHL_BLÄTTER__FRAGMENT____</term>
+                            <term type="measure_noOfLeaves">__ANZAHL_BLÄTTER_NORMIERT_FRAGMENT____</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="dimensions">__UMFANG__FRAGMENT_____</term>
+                            <term type="height">__HÖHE_NORMIERT__FRAGMENT______</term>
+                            <term type="width">__BREITE_NORMIERT__FRAGMENT______</term>
+                            <term type="depth">__TIEFE_NORMIERT__FRAGMENT______</term>
+                            <term type="dimensions_typeOfInformation">__ABMUSSUNGSART_NORMIERT__FRAGMENT______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="origPlace">__ENTSTEHUNGSORT__FRAGMENT______</term>
+                            <term type="origPlace_gnd-ID">__GND_NUMMER__FRAGMENT______</term>
+                            <term type="origPlace_gnd-ID">ggfs.GND_NUMMER__FRAGMENT______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="origDate">__ENTSTEHUNGSZEIT__FRAGMENT____</term>
+                            <term type="origDate_notBefore">__ENTSTEHUNGSZEIT_NORMIERT__BEFORE__FRAGMENT____</term>
+                            <term type="origDate_notAfter">__ENTSTEHUNGSZEIT_NORMIERT__AFTER__FRAGMENT______</term>
+                            <term type="origDate_type">__DATIERUNGSART_NORMIERT__FRAGMENT______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="textLang">__GRUNDSPRACHE__FRAGMENT______</term>
+                            <term type="textLang-ID">__GRUNDSPRACHE_NORMIERT__FRAGMENT______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="form">fragment</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="status">__VERFÜGBARKEIT_NORMIERT__FRAGMENT______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="decoration">__ILLUMINIERT_NORMIERT__FRAGMENT______</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="musicNotation">__MUSIKNOTATION_NORMIERT__FRAGMENT______</term>
+                        </index>
+</head>
+                    <msContents>
+                        <textLang mainLang="de" otherLangs="la fr">__SPRACHINFORMATIONEN</textLang>
+                        <msItem>
+                            <textLang mainLang="de">__ABSCHNITTSSPRACHE__</textLang>
+                            <note type="text">
+                                <locus from="1r" to="12v">__FOLIOANGABEN__</locus>
+
+                                <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx">__VERFASSSER__</persName>
+
+                                <title>__TITLE__</title>
+
+                                <quote type="incipit">__INCIPIT__</quote>
+__INHALT_TEXT__</note>
+                            <note type="music">__INHALT_MUSIK__</note>
+                            <decoNote type="content">__INHALT_KUNST__</decoNote>
+                            <decoNote type="form">__ÄUßERES_KUNST__</decoNote>
+                        </msItem>
+                        <msItem>
+                            <note type="text">__INHALT_TEXT__</note>
+                            <msItem>
+                                <note type="text">__ABSCHNITT_INHALT_TEXT__</note>
+                            </msItem>
+                        </msItem>
+                        <msItem>
+                            <note type="text">__INHALT_TEXT__usw</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>__ÄUßERES_FRAGMENT__</p>
+                        <decoDesc>
+                            <decoNote type="form">__ÄUßERES_KUNST_FRAGMENT</decoNote>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <p>__GESCHICHTE_FRAGMENT__</p>
+                    </history>
+                    <msPart type="fragment">
+                        <msIdentifier>
+                            <idno>__SIGNATUR_FRAGMENT_IN_KOK_FRAGMENT_</idno>
+                        </msIdentifier>
+                        <head>
+                            <title>___HANDSCHRIFTENTITEL__FRAGMENT_IN_KOK_FRAGMENT___</title>
+
+                            <note type="headline">__SCHLAGZEILE__FRAGMENT_IN_KOK_FRAGMENT___</note>
+
+                            <index indexName="norm">
+                                <term type="title">__TITEL_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT___</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="material">__MATERIAL__FRAGMENT_IN_KOK_FRAGMENT____</term>
+                                <term type="material_type">__MATERIAL_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT____</term>
+                                <term type="material_type">ggfs.__MATERIAL_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT____</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="measure">__ANZAHL_BLÄTTER__FRAGMENT_IN_KOK_FRAGMENT___</term>
+                                <term type="measure_noOfLeaves">__ANZAHL_BLÄTTER_NORMIERT_FRAGMENT_IN_KOK_FRAGMENT___</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="dimensions">__UMFANG__FRAGMENT_IN_KOK_FRAGMENT____</term>
+                                <term type="height">__HÖHE_NORMIERT__FRAGMENT__IN_KOK_FRAGMENT____</term>
+                                <term type="width">__BREITE_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                                <term type="depth">__TIEFE_NORMIERT__FRAGMENT__IN_KOK_FRAGMENT____</term>
+                                <term type="dimensions_typeOfInformation">__ABMUSSUNGSART_NORMIERT__FRAGMENT__IN_KOK_FRAGMENT____</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="origPlace">__ENTSTEHUNGSORT__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                                <term type="origPlace_gnd-ID">__GND_NUMMER__FRAGMENT__IN_KOK_FRAGMENT____</term>
+                                <term type="origPlace_gnd-ID">ggfs.GND_NUMMER__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="origDate">__ENTSTEHUNGSZEIT__FRAGMENT_IN_KOK_FRAGMENT___</term>
+                                <term type="origDate_notBefore">__ENTSTEHUNGSZEIT_NORMIERT__BEFORE__FRAGMENT_IN_KOK_FRAGMENT___</term>
+                                <term type="origDate_notAfter">__ENTSTEHUNGSZEIT_NORMIERT__AFTER__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                                <term type="origDate_type">__DATIERUNGSART_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="textLang">__GRUNDSPRACHE__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                                <term type="textLang-ID">__GRUNDSPRACHE_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="form">fragment</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="status">__VERFÜGBARKEIT_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="decoration">__ILLUMINIERT_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                            </index>
+
+                            <index indexName="norm">
+                                <term type="musicNotation">__MUSIKNOTATION_NORMIERT__FRAGMENT_IN_KOK_FRAGMENT_____</term>
+                            </index>
+</head>
+                        <msContents>
+                            <textLang mainLang="de" otherLangs="la fr">__SPRACHINFORMATIONEN</textLang>
+                            <msItem>
+                                <textLang mainLang="de">__ABSCHNITTSSPRACHE__</textLang>
+                                <note type="text">
+                                    <locus from="1r" to="12v">__FOLIOANGABEN__</locus>
+
+                                    <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx">__VERFASSSER__</persName>
+
+                                    <title>__TITLE__</title>
+
+                                    <quote type="incipit">__INCIPIT__</quote>
+__INHALT_TEXT__</note>
+                                <note type="music">__INHALT_MUSIK__</note>
+                                <decoNote type="content">__INHALT_KUNST__</decoNote>
+                                <decoNote type="form">__ÄUßERES_KUNST__</decoNote>
+                            </msItem>
+                            <msItem>
+                                <note type="text">__INHALT_TEXT__</note>
+                                <msItem>
+                                    <note type="text">__ABSCHNITT_INHALT_TEXT__</note>
+                                </msItem>
+                            </msItem>
+                            <msItem>
+                                <note type="text">__INHALT_TEXT__usw</note>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <p>__ÄUßERES_FRAGMENT_IN_KOK_FRAGMENT_</p>
+                            <decoDesc>
+                                <decoNote type="form">__ÄUßERES_KUNST_FRAGMENT_IN_KOK_FRAGMENT</decoNote>
+                            </decoDesc>
+                        </physDesc>
+                        <history>
+                            <p>__GESCHICHTE_FRAGMENT_IN_KOK_FRAGMENT_</p>
+                        </history>
+                    </msPart>
+                </msPart>
+                <msPart type="other">
+                    <msIdentifier>
+                        <idno>Sonstiges</idno>
+                    </msIdentifier>
+                    <p>__SONSTIGES__</p>
+                </msPart>
+            </msDesc>
+        </body>
+    </text>
+</TEI>
