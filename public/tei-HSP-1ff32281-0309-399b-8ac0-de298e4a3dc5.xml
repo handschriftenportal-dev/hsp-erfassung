@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TEI xml:id="leipzig_obj-90682838-T_L_UB_Kat_Dt_Hss" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beschreibung von Leipzig, Universitätsbibliothek Leipzig, Ms 758 (PENSEL, Franzjosef: Verzeichnis der deutschen mittelalterlichen Handschriften in der Universitätsbibliothek Leipzig / zum Druck gebracht von Irene STAHL . - Berlin: Akademie-Verlag, 1998. - (Deutsche Texte des Mittelalters; Bd. 70: Verzeichnis altdeutscher Handschriften; Bd. 3))</title>
+                <respStmt>
+                    <resp>Beschrieben von</resp>
+                    <persName role="author">Franzjosef Pensel</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp>Diese Datei wurde automatisch erzeugt, unter Verwendung der MXML-to-TEI-P5-Stylesheets, die an der Herzog August Bibliothek Wolfenbüttel im Rahmen des Projektes "Handschriftenportal" gepflegt werden. 2021-11-25</resp>
+                    <name type="org">Handschriftenportal</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Handschriftenportal</name>
+</publisher>
+                <date when="2021-11-25" type="published">2009</date>
+                <date when="2009-10-14" type="issued">2009-10-14</date>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-sa/3.0/de/">
+                        <p>http://creativecommons.org/licenses/by-sa/3.0/de/</p>
+</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Automatisch generierte Beschreibung aus einem im HIDA-DOC1-XMLFormat am 02.07.2021 13:00:06:735 erstellten MXML-Dokument. Grundlage ist ein Retrokonversionsdokument.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic xml:id="HSK0516_b069_leipzig_obj-90682838-T_L_UB_Kat_Dt_Hss" url="http://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0516_b069_jpg.htm"/>
+    </facsimile>
+    <text>
+        <body>
+            <msDesc status="intern" xml:id="HSP-1ff32281-0309-399b-8ac0-de298e4a3dc5" xml:lang="de" subtype="medieval" type="hsp:description">
+                <msIdentifier>
+                    <settlement key="4a887b8a-68ac-39b0-8d9d-027bddedb06b">Leipzig</settlement>
+                    <repository key="444a6f1b-4bcb-3fa7-a96d-b6cafe49f0d0" ref="http://d-nb.info/gnd/30026-3 https://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-15" rend="UB">Universitätsbibliothek Leipzig</repository>
+                    <collection>Ms</collection>
+                    <collection type="baseShelfmarkGroup">Ms 0022-0961</collection>
+                    <idno>Ms 758</idno>
+                    <altIdentifier type="catalog">
+                        <idno>msDesc_leipzig_obj-90682838-T_L_UB_Kat_Dt_Hss</idno>
+                    </altIdentifier>
+                    <altIdentifier type="catalog">
+                        <collection>Handschriftenportal Kulturobjektdokument-ID</collection>
+                        <idno>HSP-1503a6bc-d639-3db9-a5e0-17c54b1677a7</idno>
+                    </altIdentifier>
+                </msIdentifier>
+                <head>
+                    <title>Theologische Sammelhandschrift (lat. und dt.)</title>
+
+                    <note type="headline">· 243 (Blatt) · 21,4 : 13,5 (cm) · 14. Jh.</note>
+
+                    <index indexName="norm">
+                        <term type="title">Theologische Sammelhandschrift, lat. und dt.</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="material">Pergament</term>
+                        <term type="material_type">Pergament</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="measure">243 Bl.</term>
+                        <term type="measure_noOfLeaves">243</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="dimensions">21,4 × 13,5</term>
+                        <term type="height">21</term>
+                        <term type="width">13</term>
+                        <term type="dimensions_typeOfInformation">real</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="origDate">14. Jh.</term>
+                        <term type="origDate_notBefore">1301</term>
+                        <term type="origDate_notAfter">1400</term>
+                        <term type="origDate_type">Datierung</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="textLang">lateinisch</term>
+                        <term type="textLang-ID">la</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="textLang">tschechisch</term>
+                        <term type="textLang-ID">cz</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="textLang">deutsch</term>
+                        <term type="textLang-ID">4120278-8</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="form">codex</term>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="status"/>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="decoration"/>
+                    </index>
+
+                    <index indexName="norm">
+                        <term type="musicNotation"/>
+                    </index>
+</head>
+                <msContents>
+                    <msItem xml:id="obj_90682841_INI">
+                        <note type="text">
+                            <locus>154r</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Di czehen gebot di got selber gab Moysi geschriben mit gotes vinger an czwayn stainen taveln, di scholtu merken an disem buoche</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682844_INI">
+                        <note type="text">
+                            <locus>163v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Also sprichet got czu dem menschen, der seinen heiligen leichnam wirdicleichen enpfehet und froloket in seiner sele: Duo enpfehst mich, so rainig ich dich fon suenden</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682847_INI">
+                        <note type="text">
+                            <locus>173v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">grüßen, gegrüßt - Gegruest seistu Maria, in dem munde ain suzer name, in dem herczen ain teur schacze</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682848_INI">
+                        <note type="text">
+                            <locus>180v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="la">Tres sunt penae ingratuitorum: Privatio gratiae spiritualis ... Et nota undecim nomina inferni: Primo vocatur in sacra scriptura lacus mortis, ain ze des todes</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682849_INI">
+                        <note type="text">
+                            <locus>180v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Tres sunt penae ingratuitorum: Privatio gratiae spiritualis ... Et nota undecim nomina inferni: Primo vocatur in sacra scriptura lacus mortis, ain ze des todes</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682851_INI">
+                        <note type="text">
+                            <locus>182v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="la">Elatio dicitur uebermuot, arrogantia - geuden vel gueften</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682852_INI">
+                        <note type="text">
+                            <locus>182v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Elatio dicitur uebermuot, arrogantia - geuden vel gueften</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682854_INI">
+                        <note type="text">
+                            <locus>183v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="la">Araxanus - habr; franeus - iessen</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682855_INI">
+                        <note type="text">
+                            <locus>183v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Araxanus - habr; franeus - iessen</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682857_INI">
+                        <note type="text">
+                            <locus>204r</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Der heilig vater sant Bernhard ist geleichet dreien achpern fuersten von der alten e. Der erste ist Moyses</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682860_INI">
+                        <note type="text">
+                            <locus>222v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Dise hohczeit unser vrawen hat drey merkleich namen: Des ersten ist si genant der tage des slaffes, darumme das gottes muoter an disem tage di valsche werlt ueberwunde hat</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682862_INI">
+                        <note type="text">
+                            <locus>225r</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Dise predig mant uns, das wir den heyligen gaist enphahen schuellen in fierlay weise: Des ersten mit des cristenleichen frides gemaynunge</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682864_INI">
+                        <note type="text">
+                            <locus>227v</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Sant Peter und send Paul seint mit ainadern [!] gewonet als tzwen bruder an siben sachen. Des ersten an der cristenhait stiftunge</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682866_INI">
+                        <note type="text">
+                            <locus>231r</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">An der gaistleichen freude sein sechs hande pilde, dar an sich sant Margareth gefreut hat und uns das pilde der freuden gelassen hat</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682867_INI">
+                        <note type="text">
+                            <locus>231r</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Der gotes suon ist in dise werlt quomen in ierlay weise: Sein erste chuonfte ist wunderleich, di leit an unser menschait vorainunge</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682868_INI">
+                        <note type="text">
+                            <locus>231r</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Der grosße heilige prophete David spricht yn dem ersten psalme nach hundertin des salters</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682871_INI">
+                        <note type="text">
+                            <locus>232r</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">An disen worten seint czuo merken czway ding: Das ain ist der menschleichen crankhait derchennunge, das ander der gotleichen barmhertichait gemainunge</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem xml:id="obj_90682874_INI">
+                        <note type="text">
+                            <locus>234r</locus>
+
+                            <index indexName="initien">
+                                <term facs="#HSK0516_b069" xml:lang="de">Unser hailant der gotes suon sicczet auf sechs stuelen uns czuo trost und czuo ainer fuerderunge. Des ersten siczzet er als ein mayster</term>
+                            </index>
+</note>
+                    </msItem>
+                    <msItem>
+                        <note type="text">Inhalt Text</note>
+                    </msItem>
+                </msContents>
+                <msPart type="other">
+                    <msIdentifier>
+                        <idno>Sonstige Informationen</idno>
+                    </msIdentifier>
+                    <p>
+                        <index indexName="norm">
+                            <term type="publicationStmt_status">Beschreibung</term>
+                            <term type="publicationStmt_author">Franzjosef Pensel</term>
+                            <term type="publicationStmt_date_published">1998</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="biblScope">Anfang</term>
+                            <term type="biblScope_page">103</term>
+                            <term type="biblScope_line">6</term>
+                            <term type="biblScope_Alto-Element-ID">Page103_Block6</term>
+                        </index>
+
+                        <index indexName="norm">
+                            <term type="biblScope">Ende</term>
+                            <term type="biblScope_page">105</term>
+                            <term type="biblScope_line">4</term>
+                            <term type="biblScope_Alto-Element-ID">Page105_Block4</term>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682839_KRZ">
+                            <term facs="#HSK0516_b069">Datierung</term>
+                            <index>
+                                <term>Zeiträume</term>
+                                <index>
+                                    <term>14. Jh.</term>
+                                </index>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682840_KRZ">
+                            <term facs="#HSK0516_b069">Schreibsprache</term>
+                            <index>
+                                <term>bair.</term>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682842_KRZ">
+                            <term facs="#HSK0516_b069">Handschriften, zitierte</term>
+                            <index>
+                                <term>Wien, ÖNB</term>
+                                <index>
+                                    <term>1646</term>
+                                </index>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682843_KRZ">
+                            <term facs="#HSK0516_b069">Johannes von Iglau</term>
+                            <index>
+                                <term>Dekalogerklärung</term>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682845_KRZ">
+                            <term facs="#HSK0516_b069">Eucharistie-Sakrament</term>
+                            <index>
+                                <term>Traktate</term>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682850_KRZ">
+                            <term facs="#HSK0516_b069">Hölle</term>
+                            <index>
+                                <term>Die elf Namen der Hölle</term>
+                                <index>
+                                    <term>lat.-dt.</term>
+                                </index>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682853_KRZ">
+                            <term facs="#HSK0516_b069">Vokabular</term>
+                            <index>
+                                <term>lat.-dt.</term>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682856_KRZ">
+                            <term facs="#HSK0516_b069">Vokabular</term>
+                            <index>
+                                <term>lat.-dt.-tschech.</term>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682858_KRZ">
+                            <term facs="#HSK0516_b069">Bernardus Claraevallensis</term>
+                            <index>
+                                <term>Vergleiche zu seiner Person</term>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682859_KRZ">
+                            <term facs="#HSK0516_b069">Maria, Hl. Jungfrau</term>
+                            <index>
+                                <term>Marienfeste</term>
+                                <index>
+                                    <term>Himmelfahrt, Predigt (lat.) und Auslegung (dt.)</term>
+                                </index>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682863_KRZ">
+                            <term facs="#HSK0516_b069">Petrus und Paulus, Hll.</term>
+                            <index>
+                                <term>Predigt (lat.) und Auslegung (dt.)</term>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682865_KRZ">
+                            <term facs="#HSK0516_b069">Margarethe von Antiochien, Hl.</term>
+                            <index>
+                                <term>Predigt (lat.) und Auslegung (dt.)</term>
+                            </index>
+                        </index>
+
+                        <index indexName="namensachen" xml:id="obj_90682869_KRZ">
+                            <term facs="#HSK0516_b069">Maria, Hl. Jungfrau</term>
+                            <index>
+                                <term>Marienfeste</term>
+                                <index>
+                                    <term>Verkündigung, Auslegung einer Predigt</term>
+                                </index>
+                            </index>
+                        </index>
+</p>
+                </msPart>
+            </msDesc>
+        </body>
+    </text>
+</TEI>
