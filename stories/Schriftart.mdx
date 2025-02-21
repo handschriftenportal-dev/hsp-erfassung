@@ -1,0 +1,361 @@
+import { Meta, Typeset } from "@storybook/blocks";
+import '../src/assets/css/fonts.css';
+import { SonderzeichenAPI } from '../src/domain/sonderzeichen/SonderzeichenAPI'
+
+export const ExampleText = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+export const ExampleSpecialCharacter = Object.fromEntries(
+  SonderzeichenAPI.gruppen().map((gruppe) =>
+    [
+      gruppe,
+      SonderzeichenAPI.getList({ gruppe })
+        .map(key => SonderzeichenAPI.getSonderzeichen(key).sign)
+        .join(' ')
+    ]
+))
+
+export const unicodeRange = (from, to) => {
+  let result = []
+  for (let i = from; i <= to; i++) {
+    result.push(String.fromCodePoint(i))
+  }
+  return result.join(' ')
+}
+
+export const typography = {
+    type: {
+      primary: 'Roboto',
+      secondary: '"HSPExt", "Junicode", "Filler", "NotDef"',
+    },
+    weight: {
+        regular: '400',
+        bold: '700',
+      },
+    size: {
+      s: 16,
+      m: 20,
+      l: 24,
+      xl: 26,
+    },
+};
+
+<Meta title="Schriftart" />
+
+## Schriftart für das Handschriftenportal
+
+Da Beschreibungen von Handschriften alte Texte mit speziellen Sonderzeichen
+benötigen, sind die Anforderungen an eine einheitliche und gut aufeinander
+abgestimmte Schriftart hoch. Es können Texte in unterschiedlichen Sprachen
+aus unterschiedlichen Zeitaltern auftreten.
+
+Um alle nötigen Schriftzeichen zu untersuchen nutzen wir Adobe NotDef, um
+fehlende Schriftzeichen schneller zu erkennen.
+
+## Außerhalb des Editors
+
+Für Bedienelemente, Menüs, Hoveransichten, Buttons, Hilfetexte, inklusive
+Sidebar
+
+- **Font:** Roboto
+- **Weights:** 400(regular), 700(bold)
+
+## Innerhalb des Editors
+
+Für Texte innerhalb einer Beschreibung, inklusive Vorschautexten in der Sidebar
+
+- **Font:** Junicode Beta 2
+- **Fallback:** Adobe Not-Def
+- **Weights:** 400(regular), 700(bold)
+
+## Vorschau
+
+### UI Elemente
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+    Number(typography.size.m),
+    Number(typography.size.l),
+    Number(typography.size.xl),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleText}
+  fontFamily={typography.type.primary}
+/>
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+    Number(typography.size.m),
+    Number(typography.size.l),
+    Number(typography.size.xl),
+  ]}
+  fontWeight={typography.weight.bold}
+  sampleText={ExampleText}
+  fontFamily={typography.type.primary}
+/>
+
+
+
+### Einfacher Text innerhalb des Editors
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+    Number(typography.size.m),
+    Number(typography.size.l),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleText}
+  fontFamily={typography.type.secondary}
+/>
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+    Number(typography.size.m),
+    Number(typography.size.l),
+  ]}
+  fontWeight={typography.weight.bold}
+  sampleText={ExampleText}
+  fontFamily={typography.type.secondary}
+/>
+
+### Sonderzeichen Erfassung
+
+> {ExampleSpecialCharacter.hsp}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleSpecialCharacter.hsp}
+  fontFamily={typography.type.secondary}
+/>
+
+### Symbole
+
+> {ExampleSpecialCharacter.symbole}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleSpecialCharacter.symbole}
+  fontFamily={typography.type.secondary}
+/>
+
+### Lateinische Zeichen
+
+> {ExampleSpecialCharacter.latein}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleSpecialCharacter.latein}
+  fontFamily={typography.type.secondary}
+/>
+
+### Zahlen und Maßeinheiten
+
+> {ExampleSpecialCharacter.zahlen}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleSpecialCharacter.zahlen}
+  fontFamily={typography.type.secondary}
+/>
+
+### Griechische Zeichen
+
+> {ExampleSpecialCharacter.griechisch}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleSpecialCharacter.griechisch}
+  fontFamily={typography.type.secondary}
+/>
+
+### Alchemistische Symbole
+
+> {ExampleSpecialCharacter.alchemie}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleSpecialCharacter.alchemie}
+  fontFamily={typography.type.secondary}
+/>
+
+### Geomantische Figuren
+
+Die geomantischen Figuren sind vorläufig in Unicode als _proposal_ aufgenommen.
+Gegebenenfalls sind sie 2025 in Unicode Version 17.0.0 enthalten (siehe
+<a href="https://www.unicode.org/L2/L2023/23231.htm#177-C34"
+   target="_blank">L2/L2023/23231.htm#177-C34</a>).
+Eine Schriftart, welche die geomantischen Figuren unter diesen Codepoints
+speichert, muss noch gefunden oder erstellt werden.
+
+
+> {ExampleSpecialCharacter.geomantie}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={ExampleSpecialCharacter.geomantie}
+  fontFamily={typography.type.secondary}
+/>
+
+## Sprachen
+
+### Arabisch
+
+> Standard
+> {unicodeRange(0x0600, 0x06FF)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0x0600, 0x06FF)}
+  fontFamily={typography.type.secondary}
+/>
+
+> Arabische Ergänzung
+> {unicodeRange(0x0750, 0x077F)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0x0750, 0x077F)}
+  fontFamily={typography.type.secondary}
+/>
+
+
+> Arabische, erweitert A
+> {unicodeRange(0x08A0, 0x08FF)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0x08A0, 0x08FF)}
+  fontFamily={typography.type.secondary}
+/>
+
+> Arabische Präsentationsformen-A
+> {unicodeRange(0xFB50, 0xFDFF)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0xFB50, 0xFDFF)}
+  fontFamily={typography.type.secondary}
+/>
+
+> Arabische Präsentationsformen-B
+> {unicodeRange(0xFE70, 0xFEFF)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0xFE70, 0xFEFF)}
+  fontFamily={typography.type.secondary}
+/>
+
+### Hebräisch
+
+> Standard
+> {unicodeRange(0x0590, 0x05FF)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0x0600, 0x06FF)}
+  fontFamily={typography.type.secondary}
+/>
+
+> Standard
+> {unicodeRange(0xFB1D, 0xFB4F)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0xFB1D, 0xFB4F)}
+  fontFamily={typography.type.secondary}
+/>
+
+### Kyrillisch
+
+> Standard
+> {unicodeRange(0x0400, 0x04FF)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0x0400, 0x04FF)}
+  fontFamily={typography.type.secondary}
+  />
+
+> Komi, Chantisch, Tschuktschisch, Itelmenisch und Enzisch
+> {unicodeRange(0x0500, 0x052F)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0x0500, 0x052F)}
+  fontFamily={typography.type.secondary}
+/>
+
+> Kyrillisch erweitert-A
+> {unicodeRange(0x2DE0, 0x2DFF)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0x2DE0, 0x2DFF)}
+  fontFamily={typography.type.secondary}
+/>
+
+> Kyrillisch, erweitert-B
+> {unicodeRange(0xA640, 0xA69F)}
+
+<Typeset
+  fontSizes={[
+    Number(typography.size.s),
+  ]}
+  fontWeight={typography.weight.regular}
+  sampleText={unicodeRange(0xA640, 0xA69F)}
+  fontFamily={typography.type.secondary}
+/>

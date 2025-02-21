@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beispieltext Latein</title>
+      </titleStmt>
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <msDesc>
+        <msIdentifier>
+          <repository>.</repository>
+          <altIdentifier type="corpus">
+            <idno>Example</idno>
+          </altIdentifier>
+        </msIdentifier>
+        <head>
+          <title></title>
+          <note type="headline"></note>
+          <index indexName="norm_title">
+            <term type="title"></term>
+          </index>
+          <index indexName="norm_material">
+            <term type="material"></term>
+            <term type="material_type"></term>
+          </index>
+          <index indexName="norm_measure">
+            <term type="measure">.</term>
+            <term type="measure_noOfLeaves"></term>
+          </index>
+          <index indexName="norm_dimensions">
+            <term type="dimensions">.</term>
+            <term type="height"></term>
+            <term type="width"></term>
+            <term type="depth"></term>
+            <term type="dimensions_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_format">
+            <term type="format"></term>
+            <term type="format_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_origPlace">
+            <term type="origPlace"></term>
+            <term type="origPlace_norm"></term>
+          </index>
+          <index indexName="norm_origDate">
+            <term type="origDate"></term>
+            <term type="origDate_notBefore"></term>
+            <term type="origDate_notAfter"></term>
+            <term type="origDate_type"></term>
+          </index>
+          <index indexName="norm_textLang">
+            <term type="textLang"></term>
+            <term type="textLang-ID"></term>
+          </index>
+          <index indexName="norm_form">
+            <term type="form"></term>
+          </index>
+          <index indexName="norm_status">
+            <term type="status"></term>
+          </index>
+          <index indexName="norm_decoration">
+            <term type="decoration"></term>
+          </index>
+          <index indexName="norm_musicNotation">
+            <term type="musicNotation"></term>
+          </index>
+        </head>
+        <msContents>
+          <textLang mainLang=""></textLang>
+          <msItem>
+            <note type="text">
+              Spätgotischer Holzdeckelband mit hellbraunem Lederüberzug; Streicheisenlinien und
+              Einzelstempel (EBDB w000067 – Regensburg-St. Emmeram). Spuren von fünf
+              Metallbeschlägen je Deckel; Spuren und Reste einer Schließe; Kettenöse erhalten.
+              Titelschild, Pergament, 15. Jh.: Liber de quatuor virtutibus Martini [episcop]i ad
+              Mironem regem. Vita sancti Siluestri pape. Liber Cipri[ani] martiris de 12cim abusiuis
+              seculi. Augustinus de disciplina Christiano[rum]. Sermo beati Jeronimi de uespere
+              sabbati paschalis; darüber kleines Papierschild mit der Signatur &gt;S&lt; 10; direkt auf
+              dem Leder des Rückdeckels Signatur J &gt;18&lt;. Auf dem vorderen, sonst leeren
+              Papierspiegel Inhaltsverzeichnis (fast gleichlautend wie auf Titelschild) in der Zeit
+              von Laurentius Aicher eingetragen; darüber kleines Papierschild mit Aicher-Signatur
+              26·6. Rückentitel: Martinus Episc. ad Mironem Regem […] Sæc. X. (darunter vermutlich
+              Signatur) und -signatur: G. CXX[II.]. Hinterer Spiegel, Papier, leer.
+            </note>
+            <note type="text">
+              Spätgotischer Holzdeckelband mit hellbraunem Lederüberzug; Streicheisenlinien und
+              Einzelstempel (EBDB w000067 – Regensburg-St. Emmeram). Spuren von fünf
+              Metallbeschlägen je Deckel und einer Kettenöse; Schließe erhalten. Ein nummerierter
+              Blattweiser, Pergament, auf Bl. 20 (II). Titelschild, Pergament, 15. Jh.: De diuersis
+              obseruacionibus temporum, mensium et dierum; darüber kleines Papierschild mit der
+              Signatur V 3 (?); auf Lederüberzug des Rückdeckels mit Tinte m aufgetragen. Auf dem
+              vorderen Papierspiegel, Titel, 2. Hälfte 15. Jh.: Diuerse obseruac[i]o[ne]s temporum
+              et dierum; darunter Initium von 3r-v (s. unten); darüber kleines Papierschild mit
+              Aicher-Signatur 56·5. Rückentitel: Ven. Bedæ de Rat. Temp. Sæc. IX. (daneben mit Rötel
+              G 109), darunter direkt auf Ledereinband zwei nicht mehr lesbare Schriftzeilen
+              (Titel?), und -signatur: G. CIX. Hinterer Spiegel, Papier, leer. Um die ersten beiden
+              Lagen Pergamentfalz aus einem Glossar (Buchstabe D), 1. Hälfte 9. Jh.; vgl. BISCHOFF,
+              Schreibschulen 2, S. 63 Anm. 39.
+            </note>
+            <note type="text">
+              Herkunft: Nach dem Schriftbefund in St. Emmeram entstanden (BISCHOFF). Auf 177v
+              Besitzeintrag, 10. oder 11. Jh.: Iste liber pertinet ad sanctum Emmer(amum); darunter
+              möglicherweise von anderer Hand: Engilfriᵭ ᵭia (‚Engilfridus diaconus‘). Der Band
+              gelangte in die Bibliothek Hermann Pötzlingers (gest. 1469 März 20), wie aus der um
+              1500 von Dionysius Menger angelegten Zusammenstellung seiner nachgelassenen Bücher
+              (mit der Signatur I 3) hervorgeht; vgl. MBK 4/1, S. 182 und RUMBOLD, Pötzlinger, S.
+              339. Im Katalog Mengers von 1500/01 unter der Signatur I 17 verzeichnet; vgl. MBK 4/1,
+              S. 213. Auf 1r unten mit Bleistift KRAUS-Nr. 228.
+            </note>
+            <note type="text">
+              (1r-8r) Gregorius Magnus, Expositio in Canticum canticorum, Prologus: ›Incipit
+              prologus Cantica canticorum. In nomine domini nostri Iesu Christi‹ Postquam a paradisi
+              gaudiis expulsum est genus humanum … ‒ … saltem ad hunc thalamum adolescentulę
+              conueniamus; (8r-13r) Magister Ismio, Glossa super Cantica canticorum, Prolog: ›In
+              nomine domini nostri Iesu Christi. Incipiunt stillę uerborum magistri Ismionis super
+              cantica canticorum‹ Cum tuę nobilitatis reuerentię luce clarius constet me … ‒ … pace
+              uera ualeat existere. Liber iste idem est, qui a quibusdam epythalamius uocatur … quod
+              intelligitur nuptiale canticum; (13r-123v) ›Incipiunt Cantica canticorum‹ Incipiunt,
+              id est intus capiunt exordium cantica canticorum, id est cantus super omnes cantus.
+              Vel aliter. Incipiunt Cantica canticorum, id est liber de contemplatione … ‒ (14v)
+              Osculetur me … (Ct 1,1). Quod est dicere: Perfectam pacem plenamque dilectionem faciat
+              mecum … ‒ im ergänzten Teil, 15. Jh. (99r-123v) zunächst wohl Fortführung des
+              Kommentars, auf 100v zu Ct 7,1: … Ecclesie, synagogam fideliter monenti, ut ad gratiam
+              sponsi reuertatur …; (ab 103r Z. 11) Exzerpte aus Beda Venerabilis, In Cantica
+              canticorum, beginnend mit Zitaten aus liber VI (nach Gregorius Magnus, In Ezechielem
+              homiliae und Moralia in Iob): … quid per nasum nisi speculatorum discretio designatur?
+              Qui nimirum nasus … ‒ (103v-123v) Fortsetzung mit liber IIII (zu Ct 7,4), dann liber V
+              \(zu Ct 7,5 bis Ct 8,14), endet (123v): … appetitu celestium appellari spiritalium
+              merentur montes aromatum; 124r-125v leer; gelegentlich wegen schlechter
+              Pergamentqualität Zeilen freigelassen (80v, 85v, 88v, 91v); (10v) Stichworte am Rand,
+              15./16. Jh.; (99r, 119v) am unteren Rand Angabe kurzer Textstellen von anderer etwa
+              zeitgenössischer Hand.
+            </note>
+          </msItem><msItem>
+            <note type="text">
+              133r-v Versus de alphabeto Graeco (Nachtrag, 10. Jh.)
+            </note>
+            <note type="text">
+              Id est grecarum. RΑΤΑΛωΓΟC ΓΡΑΜΤΟΝ ΕΛΛΥΝΝΟΝ (lies: ΚΑΤΑΛΟΓΟC ΓΡΑΜΜΑΤΟΝ ΕΛΛΗNωΝ; mit
+              Bleistift übergeschrieben) Qvattuor his nunc versiculis perpende, magister, Tres in
+              personis, vnum in deitate potentem: / Α· Alfa patrem signat, quoniam caput esse
+              videtur / … ‒ … ω· ω finis perfecta [ligans?] et cuncta resoluens.
+            </note>
+            <note type="text">
+              Edition: MGH Poetae 3, ed. Ludwig TRAUBE (1906), S. 699f. Nr. XIV/II (‚Carmina
+              Scottorum Latina et Graecanica‘). ‒ SCHALLER/KÖNSGEN 644 (Initium dieser Hs. nach
+              Halm-Katalog zit.) u. 13135; WALTHER, Initia carminum 837 (diese Hs. genannt);
+              LAPIDGE/SHARPE, S. 200f. Nr. 745. ‒ Vgl. dazu Walter BERSCHIN, Griechisch-lateinisches
+              Mittelalter. Bern/München 1980, S. 175.
+            </note>
+            <note type="text">
+              134v-135r Exzerpt aus Eucherius Lugdunensis, Instructiones II (‚De nominibus
+              hebraicis‘): Micheas quę (! lies: quis) est iustę (! lies: iste). Naum germen vel
+              consolatio … ‒ … Barrabas filius magistri eorum, id est diaboli. Hebrei translatores.
+              / E (?) Hebrei transgressores. Farisei diuisi. Saducei iusti; Folgendes aus anderen
+              Quellen, beginnend mit Zitat wohl aus Isidorus Hispalensis, Etymologiae VIII, 3,4:
+              Secta a sequendo ... Oracius: Camine (! lies: Carmine) qui traico (? lies: tragico)
+              uilem certauit ob ircum (Horatius, Ars poetica 220); es folgt erster Vers der Versus
+              de alphabeto Graeco (s. oben 133v).
+            </note>
+            <note type="text">
+              Edition: CCL 66, ed. Carmela MANDOLFO (2004), S. 189,77-191,99 u. S. 191,106-107; das
+              Horaz-Zitat auch in Sedulius Scotus, Collectaneum miscellaneum LXXX, II,8 (CCCM 67,
+              S. 316).
+            </note>
+            <note type="text">
+              135r Responsorium (neumiert): Ecce dies uenient, dicit dominus … ‒ … habi[t]abit
+              confidenter. Et hoc (CAO 6583).
+            </note>
+          </msItem><msItem>
+            <note type="text">
+              135v-168v Glossae breves in psalmos
+            </note>
+            <note type="text">
+              Exzerpte, stark verkürzt und teilweise paraphrasiert, bis Ps 100 auf 161r aus der
+              Glossa psalmorum ex traditione seniorum, ab Ps 101 auf 161r aus Hieronymus, Tractatus
+              LIX in psalmos: Beatus vir. Beatus grecum est, in latino inmortalis, laudabilis,
+              gloriosus … ‒ (161r) In matutino (vgl. Ps 100,8), in futuro iudicio, ut disperdam de
+              ciuitate (Ps 100,8), de sancta ec[c]lesia praesente vel futura. Ossa dicit ipsam
+              fortitudinem (zu Ps. 101,4) … ‒ … (rotes Kreuz am Rand) Silogismum (in folgender Lücke
+              von anderer Hand wiederholt). Dominus erigit allisos (Ps 145,8). Si iacebas, securus
+              esto. Iocunda laudatio (Ps 146), non uoce, sed conscientia. Pulli coruorum (Ps 146,9)
+              salui erunt in resurrectione. Equos homines peccatores (zu Ps 146,10).
+            </note>
+            <note type="text">
+              Edition: Anonymi Glosa psalmorum ex traditione seniorum. Teil 1: Praefatio und Psalmen
+              1–100, hrsg. von Helmut BOESE. Freiburg 1992 (Vetus Latina. Aus der Geschichte der
+              lateinischen Bibel 22), passim S. 7-456; vgl. dazu CPL 1167c; die Stellen aus
+              Hieronymus in CCL 78, ed. Germain MORIN (1958), passim S. 178-335; dazu CPL 592.
+            </note>
+            <note type="text">
+              169r-v Glossae variae: Amos (? darüber Zirkumflex; statt Osea? oder Anîos?):
+              commaticus preuis (!) est, succin[c]tus in loquendo … ‒ … Dedecorat: inhonesta[t] (?);
+              (169r-v) von anderer (späterer?) Hand: Depreciant: separant; Occurentium: uenientium
+              … ‒ … Lenocinantibus: seducentibus; von anderer Hand hinzugefügt: Palatarum: nouarum
+              (?) caricarum; zwei ahd. Textglossen.
+            </note>
+            <note type="text">
+              Zum Anfang vgl. CCCM 189B, Glossae Biblicae II, S. 207 10.11 (zu Os, Prol. 2). Die
+              beiden ahd. Textglossen bei STEINMEYER/SIEVERS 4, S. 225 Nr. MCCIII; ein großer Teil
+              der Lemmata ebd., S. 225 Anm. 4; vgl. Paul SIEVERS, Die Accente in althochdeutschen
+              und altsächsischen Handschriften. Berlin 1909 (Palaestra 57), S. 50 u. 42 (s. oben
+              12v, 87r).
+            </note>
+            <note type="text">
+              170r-v Exzerpt aus Remigius Altissiodorensis, Commentum in Artem minorem Donati
+              (‚Tituli expositio‘): Rome. Roma proprium nomen es[t] magne ciuitatis … ‒ … ciuitas
+              Roma a Ramulo (!) conditore [nach c verschrieben] suo.
+            </note>
+            <note type="text">
+              Edition: Remigii Autissiodorensis In artem Donati Minorem commentum, ed. Wilhelm FOX.
+              Leipzig 1902 (Bibliotheca Teubneriana), S. 4-5 Z. 20; vermutlich aus dem vollständigen
+              Kommentar in Clm 14763/I exzerpiert.
+            </note>
+            <note type="text">
+              171r-v Glossae in III Rg 2-9, 15 (lat.-ahd.): Excelsis: abgutirun [korr.]. Abiegnis
+              [e übergeschrieben]: tennînen … ‒ … Summa: zala; Rest der Seite leer; Notizen (u. a.
+              Verweis auf Rg III und PEZ, s. unten), Korrekturen und Unterstreichungen mit Bleistift
+              (s. auch oben 1r, vorderer Spiegel und Iv).
+            </note>
+          </msItem><msItem>
+            <note type="text">
+              142v-163v Hervaeus Natalis (?): Super I-II libros Perihermeneias
+            </note>
+            <note type="text">
+              Primum quidem oportet constituere, quit (!) nomen. Qudd Quid debeat dici subiectum in
+              hac scientia [a hinzugefügt von Korrekturhand]? Patet ex diuisione loyces … ‒ … In hoc
+              terminatur sententia istius lectoris et per continens (?) tocius libri Peryerminias.
+              Heu male finiui, quia non bene scribere sciui (vgl. COLOPHONS 21802). Deo gratias. –
+              Iste liber est fratris (es folgt von anderer Hand, 2. Hälfte 14. Jh.) Hainrici
+              [Folgendes durch Rasur getilgt]. – Et est opus editum a magistro Ervegio, magno
+              [ma]gistro [Wortanfang durch Tintenfleck unleserlich] in theologia, ordinis
+              predicatorum.<lb/>
+              Zur Diskussion über die Zuschreibungen an einen Autor siehe die unten aufgeführte
+              Literatur.
+            </note>
+            <note type="text">
+              Alain DE LIBERA, Les Abstractiones d’Hervé le Sophiste (Hervaeus Sophista), in:
+              Archives d’histoire doctrinale et littéraire du Moyen Âge 60 (1986), S. 163-230, hier
+              S. 173f. und Anm. 22; TABARRONI (wie oben), S. 393f., 397f., 400f. (Hervaeus Natalis);
+              Claude LAFLEUR, Hervé le Breton et le Ms. Oxford, C.C.C. 283, in: Archives d’histoire
+              doctrinale et littéraire du Moyen Âge 69 (1994), S. 149-226, u.a. S. 158, 206; Olga
+              WEIJERS, Le travail intellectuel à la Faculte des arts de Paris: Textes et maîtres
+              (ca. 1200-1500). Bd. 4, Turnhout 2001, S. 73-76 (Hervaeus Natalis); SCHULTHESS (wie
+              oben), S. 415 und S. 454.
+            </note>
+          </msItem><msItem>
+            <note type="text">
+              2r-105r Alcuinus: Quaestiones in Genesim ad litteram per interrogationes et
+              responsiones
+            </note>
+            <note type="text">
+              (Überschrift s. Inhaltsverzeichnis 1v). ›Int(errogatio) ‹ Quomodo conuenit quod in
+              Genesi legitur: Requieuit deus die septimo ab omnibus operibus suis (vgl. Gn 2,2) et
+              in euangelio: Pater meus usque modo operatur et ego operor (Io 5,17). ›R(esponsio) ‹
+              … ‒ … huius mundi extollitur, qui retro cadere dicitur; Korrekturen (Ergänzungen
+              gelegentlich auf Rasur wie z. B. auf 4v, 24r, 26v, 97r Text auf Rasur teilweise
+              fehlerhaft, fortgesetzt mit Verweiszeichen am unteren Rand; auf 40r mit ħ markiert und
+              am unteren Rand nachgetragen) meist nach dem Paralleltext in Clm 14727 (vgl. hier die
+              entsprechenden Stellen fol. 54v, 64v, 65v, 122v fortgesetzt 131r, 73r) oder deren
+              Vorlage.
+            </note>
+            <note type="text">
+              Druck: PL 101, 517-566, Abdruck aus Frobenius FORSTER (Fürstabt von St. Emmeram),
+              Beati Flacci Albini seu Alcuini … opera. Bd. I, 2. Regensburg 1777, p. 305-338 (die
+              beiden Emmeramer Hss. ergänzend herangezogen, s. bei Clm 14727). ‒ Zur Einordnung in
+              die Handschriftenfamilie β (einleitendes Inhaltsverzeichnis, ‚Quaestiones‘ ohne
+              Widmungsbrief und die folgenden vier Brieftraktate Alkuins) vgl. Michael FOX, Alcuin
+              the Exegete: The Evidence of the Quaestiones in Genesim, in: The Study of the Bible
+              in the Carolingian Era, hrsg. von Celia CHAZELLE / Burton VAN NAME EDWARDS. Turnhout
+              2003 (Medieval Church Studies 3), S. 39-60, zu Clm 14760 S. 59 Nr. 16, zur Recensio
+              der Hss. mit Alkuins ‚Quaestiones in Genesim‘ S. 52. ‒ STEGMÜLLER, RB 2 u. 8, 1085;
+              Clavis Galliae 2, S. 485-488 ALC 76 (diese Hs. genannt).
+            </note>
+          </msItem><msItem>
+            <note type="text">
+              105r-115r Alcuinus: Epistulae 133, 81, 134, 135
+            </note>
+            <note type="text">
+              (105r-108r) Ep. 133: De sexagenario reginarum et octogenario concubinarum numero.
+              Dilectissimo filio meo Daphni Albinus pater salutem. Quia pridem de numerorum ratione
+              mecum egisti interrogans …; (105v) Auslassung ‚dividi possunt … Inpares sunt‘; (106r)
+              Ergänzung am unteren Rand (mit Verweis ħ im Text und unten): Item octogenarius …
+              partes (wohl aus Clm 14727, 124r, da in dieser Hs. sonst die korrekte Form octonarium
+              bzw. octonario verwendet wird); (108v-111r) Ep. 81: Conparatio noui et ueteris
+              testamenti a denario numero usque ad unum. Dilecto filio meo Gallicellulo … Quia me
+              rogasti de numerorum ratione uel magis conparatione …; (111r-113r) Ep. 134: De
+              sacramento baptismatis. Albinus magister filio carissimo Oduino presbitero salutem. Et
+              quia diuina donante gratia ad id diutino te perduxi labore …; (113r-115r) Ep. 135: De
+              tribus generibus uisionum. Tria sunt genera uisionum … ‒ … sed a paucis intellecta.
+            </note>
+            <note type="text">
+              Edition: MGH Epp. 4/2, ed. Ernst DÜMMLER (1895), S. 200f. (Auslassung S. 200 Z. 18f.),
+              123f., 202-204; Ep. 134 auch in KEEFE, Water and the Word II, S. 238-245 (Text 9; Clm
+              14760 = Sigle Mu13); am Rand zu den jeweiligen Briefen vom Bearbeiter des
+              Halm-Katalogs mit Bleistift die alte Ausgabe von Ernst DÜMMLER in: Bibliotheca rerum
+              Germanicarum, hrsg. von Philipp JAFFÉ. Bd. 6. Berlin 1873, S. 818, 821, 824, 816
+              vermerkt. ‒ Die Briefe weisen eine größere Nähe zu Paris, BNF, Lat. 13373 auf als zu
+              Clm 14727/II; vgl. FOX, Alcuin the Exegete (wie oben), S. 59 Nr. 16. ‒ Clavis Galliae
+              2, 251f., 220, 252-254 ALC 45.133, 81, 134, 135.
+            </note>
+          </msItem><msItem>
+            <note type="text">
+              65r-89v Ambrosius Autpertus: Sermo in purificatione sanctae Mariae
+            </note>
+            <note type="text">
+              Incipit sermo in ΥΠΠωΠΑNΤΙ (lies: Ypapanti) sanctæ Mariæ. Avgvstinvs. Si subtiliter a
+              fidelibus quae sit huius diei festiuitas [tas über der Zeile] perpendatur … ‒ … immo
+              certe conpulit ire, qui cum deo patre et eodem spiritu sancto … Amen; (77v) nach …
+              oculis aspexerunt Zusatz von späterer Hand über der Zeile: ante eorum faciem salutare
+              dei dicitur preparatvm (s. 77r: Ante faciem ergo …).
+            </note>
+            <note type="text">
+              Edition: CCCM 27B, ed. Robert WEBER (1979), S. 983-1002 (Clm 14746 = Sigle M, fehlt
+              bei der Nennung der Hs. im Index siglorum; vgl. Einl. ebd., S. 884); zur
+              Überlieferung vgl. auch Peter ERHART, in: Te.Tra. 2 (2005), S. 83 (diese Hs. genannt).
+              ‒ LAMBERT, BHM 3B, 713 (diese Hs. S. 593 genannt); CPPM 1A, 2258 (Ps.-Augustinus;
+              diese Hs. genannt); Clavis Italiae, S. 15f. (AMA7; diese Hs. genannt).
+            </note>
+          </msItem><msItem>
+            <note type="text">
+              90ra-91r Verzeichnisse bzw. Glossare hebräischer und griechischer Namen und Begriffe
+              (nach Eucherius Lugdunensis, Instructionum liber II)
+            </note>
+            <note type="text">
+              Beginn mit hebräischen Monatsnamen (nur Aufzählung mit Ordnungszahl): De nominibus
+              mensuum. Nisan, primus. Iar, secundus … Adar, duodecimus; De Iudaicis sollemnitatibus.
+              Annus iobeleus: idest quinquagesimus … Scene: tabernaculum; Idola, simulacra.
+              Beelfegor: Priapus [Eintrag über der Zeile punktiert] … Satanas: aduersarius uel
+              transgressor; (90rb-91r) De grecis nominibus. Omousion: unius substantię … ‒ …
+              parabola: similitudo; Rest der Seite leer.
+            </note>
+            <note type="text">
+              Die Kapitel ‚De mensibus‘, ‚De sollemnitatibus‘ und ‚De idolis‘ bei Eucherius
+              Lugdunensis, Instructiones II entweder nur als Liste mit Nummerierung wiedergegeben
+              oder zu Wortglossaren reduziert, z. T. in veränderter Reihenfolge und nur in Auswahl;
+              etwas ausführlicher das Kapitel ‚De Graecis nominibus‘ exzerpiert; vgl. CCL 66, ed.
+              Carmela MANDOLFO (2004), S. 203-207, 213-216; zu den hebräischen Monats- und sonstigen
+              Namen vgl. Matthias THIEL, Grundlagen und Gestalt der Hebräischkenntnisse des frühen
+              Mittelalters. Spoleto 1973 (Bibliotheca degli „Studi medievali“ IV), S. 127-138
+              (besonders Tabelle nach S. 133) u. Glossar S. 221ff.
+            </note>
+          </msItem><msItem>
+            <note type="text">
+              91v-98v, 99r-v Beda Venerabilis: De temporibus liber, cc. XVI-XXII (Chronica minora),
+              cc. VIII, IIII
+            </note>
+            <note type="text">
+              Cap. XVI-XXII: De [e korr.] mvndi etatibus. Sex etatibus mundi tempora distinguntur
+              … ‒ … Tiberius dehinc quintum agit annum / indictione prima. Reliquum sextae etatis
+              deo soli patet; (99r-v) cap. VIII, IIII: Tempora sunt uices mutationum … ‒ … frigore
+              torpeat. De ebdomada. Ebdomada ·UII· diebus constat … ‒ … Pentecosten, annum uero
+              Iobeleum, id est libertatem, uocantes.
+            </note>
+            <note type="text">
+              Edition: CCL 123C, ed. Charles W. JONES (1980), S. 600-611, 591, 586f.; diese Hs. S.
+              582 Nr. xii genannt, aber nicht eingesehen; Chronica minora (cc. XVI- XXII) in MGH
+              Auct. ant. 13 (Chronica minora saec. IV, V, VI, VII, Bd. III) ed. Theodor MOMMSEN
+              (1898), S. 247-317, diese Hs. S. 241 genannt, aber nicht herangezogen. ‒ LAISTNER,
+              Bede manuscripts, S. 147 (bei den Hss., die nur die Chronica minora enthalten); CPL
+              2273. ‒ Zum Datum dcc nouem auf 95v (letzte Z.) vgl. Masako OHASHI, The Annus Domini
+              and the sexta aetas: Problems in the Transmission of Bedeʼs De temporibus, in:
+              Computus and its Cultural Context in the Latin West, AD 300‒1200. Proceedings of the
+              1st International Conference on the Science of Computus in Ireland and Europe, Galway,
+              14‒16 July, 2006, hrsg. von Immo WARNTJES / Dáibhí Ó CRÓINÍN. Turnhout 2010 (Studia
+              traditionis theologiae 5), S. 190-203, hierzu S. 193 mit Anm. 19.
+            </note>
+            <note type="text">
+              98v-99v Dialogus: De solstitio et equinoctio. Δ (=Discipulus): Solstitium unde dictum
+              est? M(agister) Isidorus dicit: Solstitium dictum est quasi solis statio … ‒ … ut non
+              ante uernalis equinoctii transgressum pascha celebretur.
+            </note>
+          </msItem>
+          <msItem>
+            <note type="text">
+              157r-184v Carmina Salisburgensia
+            </note>
+            <note type="text">
+              (157r-160r) Carmen VII (1): Praemicat, alme, tuum, pręsul, uenerabile nomen, / …;
+              (160r-161r) Dungalus Hibernicus, Carmen XXIV (2): Baldo, dei famule, clare magister /
+              …; (161r-164v) Carmen X (3): Ydioma mensium singulorum (in griech. Buchstaben) Fertur
+              de Iano dictus Ianuarius olim, / … Anfang der zwei Distichen zu jedem Monat (ab
+              Februar) mit Kreuz am Rand markiert (ab September abwechselnd rot und dunkelbraun);
+              (164v) Carmen XII (4): Haec quisquis pedibus penetret solaria prudens / …;
+              (165r-166v) Carmen XI (5): Item alii uersus. Pone focum mensis dictus de nomine Iani
+              / …; (166v-169v) Alcuinus, Carmen XLVIII (6): Per montes campos aquilam, mea cartula,
+              quęre, / …; (169v-171v) Alcuinus, Carmen IL (7): Item alii uersus. Dicta uocatur auis
+              proprio cognomine gallus. / …; (171v-172r) Carmen I, Ia (8): De ordine
+              conprouincialium pontificum Dicta Iuuauo fuit quondam metropolis ista, / … (auf 172r
+              am unteren Rand radierte Federprobe); (172v-174r) Carmen I, Ib (9): Hic locus, ut
+              fertur, dudum Iuuauo uocatus, / … (nach Gedichtende über die Hälfte von 174r leer);
+              (174v-175r) Carmen I, II (10): Hic Reginensis sedis uocitatur ab urbe, / …; (175r-v)
+              Carmen I, III (11): Frigisiensis enim sedis haec aula uocata est, / …; (175v-176r)
+              Carmen I, IV (12): Pattauiensi ergo sedi est haec aula dicata, / …; (176r-v) Carmen I,
+              V (13): Hæc sedis uallis Noricanę dicta Sebana, / …; (176v-177r) Carmen II (14): Hic
+              pater et pastor humilis doctusque sacerdos / … (nach Gedichtende etwa ein Viertel der
+              Seite frei); (177v-178r) Carmen III (15): Quisque uelis criptam subsistens nosse,
+              uiator, / … / Quatenus æternam me/rear habitare quietem (am Rand neben Trennungslinie
+              zum folgenden carmen rotes Kreuz); (178r-179r) Carmen IV (16): Sum (! lies: Tu) quod
+              es [mit Kürzungsstrich?], ipse fui, tu nunc perpende, uiator, / …; (179r-180r) Carmen
+              V (17): Si quis non ualeas pręsens cum uoce referre, / …; (180r-181v) Carmen VI (18):
+              Palma sacerdotum, rerum doctrina bonarum, / …; (182r) Carmen XIII (19; beginnt mit
+              rotem Kreuz): Stellarum in cælo fabulose scemata (!) quidam / …; (182r-v) Carmen XIII
+              (zweite Strophe, beginnt mit rotem Kreuz; 20): Rex ubi uersifico psalmorum cantica
+              plectro / …; (182v-184r) Carmen VIII (21): Nobilis hanc aries cognomine dictus auito
+              (aries mit Bleistift unterstrichen und am Rand Verweis auf fol. 126v) / …; (184r-v)
+              Carmen IX (22): Hl(udouicus) rex [auf radierter Überschrift wohl in normaler Tinte]
+              (König Ludwig der Deutsche) Inmensas grates uolumus tibi dicere, Baldo, / … ‒ … Hoc
+              tamen oramus, ut nobis pandas aperte; vor Bl. 160 und 184 jeweils ein Papierzettel
+              eingebunden, die auf der Versoseite Notizen des 18. Jh.s (Sanftl?) zum Carmen Dungali
+              und zu Carmen IX bezüglich der Person Baldos enthalten, den Jean MABILLON in einer
+              Bemerkung zum Druck dieses Gedichts in den Vetera analecta … Nova editio. Paris 1723,
+              col. 348 als Bischof bezeichnet.
+            </note>
+          </msItem>
+        </msContents>
+      </msDesc>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI version="5.0" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogi bibliothecae Bordesholmensis</title>
+                <respStmt>
+                    <resp>katalogisiert durch</resp>
+                    <persName role="author conservator" key="__UUID__">Katrin Sturm</persName>
+                    <persName role="author" key="__UUID__">Konstantin Görlitz</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Elektronische Ausgabe nach TEI P5</edition>
+                <respStmt>
+                    <resp> Diese Datei wurde unter Anwendung des MXML-to-TEI-P5-Stylesheets, welches
+                        an der Herzog August Bibliothek Wolfenbüttel im Rahmen des Projektes
+                        "Handschriftenportal" gepflegt wird aus einem am 01.07.2021 21:53:57:160
+                        erstellten HIDA-DOC1-XML-Dokument erstellt. </resp>
+                    <name type="org">Handschriftenportal</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Handschriftenportal</name>
+                </publisher>
+                <date when="2020-01-01">01.01.2020</date>
+                <availability status="restricted">
+                    <licence target="http://rightsstatements.org/vocab/InC/1.0/"><p>Dieses
+                        Dokument wird im Handschriftenportal unter der Lizenz http://rightsstatements.org/vocab/InC/1.0/ veröffentlicht.</p>
+                        <p>Für die Nutzung weiterer Daten wie Digitalisaten gelten gegebenenfalls
+                            andere Lizenzen.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>#{BIBLIOGRAPHISCHEANGABE}# <biblScope from="__PageBlock__" to="__PageBlock__"
+                        facs="__rangeURL__">#{SEITENZAHL}#</biblScope>
+                    <ptr type="hsp" target="__manifestURL__"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="2020-01-01">01.01.2020</date>
+            </creation>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date when="2020-01-01">01.01.2020</date>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <msDesc xml:id="__UUID__" xml:lang="de" type="hsp:description" subtype="medieval"
+                status="intern">
+                <msIdentifier>
+                    <settlement key="1a75b353-14be-3c19-b22c-5c5334d78c8f">Kiel</settlement>
+                    <repository key="9caa05ee-be18-3003-bfa9-454aa6349a9f"
+                        >Universitätsbibliothek</repository>
+                    <idno>Cod. ms. Bord. 1</idno>
+                    <altIdentifier type="hsp-ID">
+                        <collection>Handschriftenportal Kulturobjektdokument-ID</collection>
+                        <idno>HSP-3d18a39c-1429-341e-b397-ca2bb8f9cdfb</idno>
+                    </altIdentifier>
+                    <altIdentifier type="mxml-ID">
+                        <collection>Manuscripta-Medievalia-ID</collection>
+                        <idno>obj_123456</idno>
+                    </altIdentifier>
+                    <altIdentifier type="corpus">
+                        <collection>Bordesholmer Handschriften</collection>
+                        <idno>dolor sit amet</idno>
+                    </altIdentifier>
+                    <altIdentifier type="former">
+                        <settlement key="26cf9267-82fe-3bf1-a37-c9960658499f"
+                            >Regensburg</settlement>
+                        <repository key="654a4abc-3191-3e68-995b-4fdbd157cf9d">Sankt
+                            Emmeran</repository>
+                        <idno>St. Emm 57</idno>
+                    </altIdentifier>
+                </msIdentifier>
+                <head>
+                    <index indexName="norm_title">
+                        <term type="title">Catalogi bibliothecae Bordesholmensis, Bordesholmer
+                            Handschriften</term>
+                    </index>
+                    <title>Catalogi bibliothecae Bordesholmensis</title>
+                    <note type="headline">Lorem ipsum, dolor, dit, amet, 16 × 12, vor 1488, 103
+                        Bl.</note>
+                    <index indexName="norm_material">
+                        <term type="material">Mischung aus Papier und Leinen</term>
+                        <term type="material_type">linen</term>
+                        <term type="material_type">paper</term>
+                    </index>
+                    <index indexName="norm_measure">
+                        <term type="measure">103 Bl. , aus zwei Teilen zusammengesetzt</term>
+                        <term type="measure_noOfLeaves">103</term>
+                    </index>
+                    <index indexName="norm_dimensions">
+                        <term type="dimensions">16 × 12 (Teil I)</term>
+                        <term type="height">16</term>
+                        <term type="width">12</term>
+                        <term type="depth">2</term>
+                        <term type="dimensions_typeOfInformation">factual</term>
+                    </index>
+                    <index indexName="norm_dimensions">
+                        <term type="dimensions">12,5 × 15,5 (Teil II)</term>
+                        <term type="height">12,5</term>
+                        <term type="width">15,5</term>
+                        <term type="depth">1</term>
+                        <term type="dimensions_typeOfInformation">deduced</term>
+                    </index>
+                    <index indexName="norm_format">
+                        <term type="format">folio</term>
+                        <term type="format_typeOfInformation">factual</term>
+                    </index>
+                    <index indexName="norm_format">
+                        <term type="format">oblong</term>
+                        <term type="format_typeOfInformation">deduced</term>
+                    </index>
+                    <index indexName="norm_origPlace">
+                        <term type="origPlace">Bordesholm, Kiel</term>
+                        <term type="origPlace_norm" ref="http://d-nb.info/gnd/4007721-4">Bordesholm</term>
+                        <term type="origPlace_norm" ref="http://dnb.indo/4030481-4" key="1a75b353-14be-3c19-b22c-5c5334d78c8f">Kiel</term>
+                    </index>
+                    <index indexName="norm_origDate">
+                        <term type="origDate">1488 (Teil I)</term>
+                        <term type="origDate_notBefore">1488</term>
+                        <term type="origDate_notAfter">1488</term>
+                        <term type="origDate_type">dated</term>
+                    </index>
+                    <index indexName="norm_origDate">
+                        <term type="origDate">um 1665 (Teil II)</term>
+                        <term type="origDate_notBefore">1651</term>
+                        <term type="origDate_notAfter">1680</term>
+                        <term type="origDate_type">datable</term>
+                    </index>
+                    <index indexName="norm_textLang">
+                        <term type="textLang">lateinisch, deutsch</term>
+                        <term type="textLang-ID">la</term>
+                        <term type="textLang-ID">de</term>
+                    </index>
+                    <index indexName="norm_form">
+                        <term type="form">codex</term>
+                    </index>
+                    <index indexName="norm_status">
+                        <term type="status">existent</term>
+                    </index>
+                    <index indexName="norm_decoration">
+                        <term type="decoration">yes</term>
+                    </index>
+                    <index indexName="norm_musicNotation">
+                        <term type="musicNotation">yes</term>
+                    </index>
+                </head>
+                <physDesc>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+                        eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+                        voluptua. Hauptsächlich von <persName ref="http://d-nb.info/gnd/118575449"
+                            role="author">Martin Luther</persName>, der <persName key="31711049"
+                            role="author">Martin Luther</persName>, der wirkliche <persName
+                            ref="http://d-nb.info/gnd/118575449" key="31711049" role="author"
+                        >Martin Luther</persName> und nicht der <persName role="author"
+                        >Martin Luther</persName> At vero eos et accusam et justo duo dolores et ea
+                        rebum. Stet clita kasd gubergren </p>
+                    <decoDesc>
+                        <decoNote type="form">Dolor sit amet</decoNote>
+                        <decoNote type="form">Dolor sit amet</decoNote>
+                        <decoNote type="form">Dolor sit amet <persName role="author"
+                                ref="http://d-nb.info/gnd/118575449">Martin
+                            Luther</persName></decoNote>
+                    </decoDesc>
+                </physDesc>
+                <msContents>
+                    <msItem>
+                        <textLang mainLang="de">Abschnittstext in Deutsch</textLang>
+                        <note type="text">
+                            <locus from="1r" to="12v">1r-12v</locus>
+                            <persName role="author" ref="http://d-nb.info/gnd/100092624"
+                                      key="12345b-123456a3-12354654b5">Corvinus, Johann August</persName>
+                            <title>Titel</title>
+                            <quote type="incipit">Lorem ipsum dolor sit amet</quote>, consetetur
+                            sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                        <note type="music">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                            sed diam nonumy eirmod tempor invidunt ut labore </note>
+                        <decoNote type="content">Lorem ipsum dolor sit amet, consetetur sadipscing
+                            elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                        <decoNote type="form">Lorem ipsum dolor sit amet, consetetur sadipscing
+                            elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                    </msItem>
+                    <msItem>
+                        <note type="text"> et justo duo dolores et ea rebum. Stet clita kasd
+                            gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet in
+                            <placeName role="origin" key="berlin" ref="http://d-nb.info/gnd/4005728-8"
+                            >Berlin</placeName>
+                        </note>
+                        <msItem>
+                            <note type="text"> et justo duo dolores et ea rebum. Stet clita kasd
+                                gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet in
+                                <placeName role="origin" key="berlin" ref="http://d-nb.info/gnd/4005728-8"
+                                >Berlin</placeName></note>
+                        </msItem>
+                    </msItem>
+                    <msItem>
+                        <note type="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                            sed diam nonumy eirmod tempor invidunt ut labore </note>
+                        <msItem>
+                            <note type="text"> et justo duo dolores et ea rebum. Stet clita kasd
+                                gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet in
+                                <placeName role="origin" key="berlin" ref="http://d-nb.info/gnd/4005728-8"
+                                >Berlin</placeName></note>
+                            <msItem>
+                                <note type="text"> et justo duo dolores et ea rebum. Stet clita kasd
+                                    gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+                                    amet in <placeName role="origin" key="berlin"
+                                                       ref="http://d-nb.info/gnd/4005728-8"
+                                    >Berlin</placeName></note>
+                            </msItem>
+                        </msItem>
+                        <note type="music">Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+                            sed diam nonumy eirmod tempor invidunt ut labore</note>
+                        <decoNote type="content">Lorem ipsum dolor sit amet, consetetur sadipscing
+                            elitr, sed diam nonumy eirmod tempor invidunt ut labore</decoNote>
+                        <decoNote type="form">Lorem ipsum dolor sit amet, consetetur sadipscing
+                            elitr, sed diam nonumy eirmod tempor invidunt ut labore</decoNote>
+                    </msItem>
+                    <msItem>
+                        <note type="music"> et dolore magna aliquyam erat, sed diam voluptua. At
+                            vero eos et accusam et dolore magna aliquyam erat, für die <orgName
+                                    role="commissionedBy" ref="http://d-nb.info/gnd/5036103-X">
+                                Staatsbibliothek zu Berlin</orgName> oder der<orgName key="30002258"
+                                                                                      role="commissionedBy">Staatsbibliothek zu Berlin</orgName>,
+                            vielleicht auch der <orgName key="30002258"
+                                                         ref="http://d-nb.info/gnd/5036103-X" role="author">Staatsbibliothek
+                                zu Berlin</orgName> und der <orgName role="scribe"
+                            >Staatsbibliothek zu Berlin</orgName> sed diam voluptua. At vero eos
+                            et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                            no sea takimata sanctus est Lorem ipsum dolor sit amet.</note>
+                    </msItem>
+                </msContents>
+                <history>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+                        eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+                        voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                        clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+                        amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                        nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+                        diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+                        clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+                        amet.</p>
+                </history>
+                <additional>
+                    <listBibl>
+                        <bibl>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                            nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                            sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
+                            rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
+                            ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
+                            elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                            aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+                            dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+                            est Lorem ipsum dolor sit amet.</bibl>
+                    </listBibl>
+                </additional>
+
+                <msPart type="binding">
+                    <msIdentifier>
+                        <settlement key="1a75b353-14be-3c19-b22c-5c5334d78c8f">Kiel</settlement>
+                        <repository key="9caa05ee-be18-3003-bfa9-454aa6349a9f"
+                            >Universitätsbibliothek</repository>
+                        <idno>Einband I</idno>
+                        <altIdentifier type="former">
+                            <idno>Bord. Ms. 1</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title">
+                            <term type="title"/>
+                        </index>
+                        <title/>
+                        <note type="headline">Pappeinband mit braunem Sprenkelpapier überzogen,
+                            spätes 18. bis frühes 19. Jh. Buchschnitt rot gefärbt. Restauriert 1993.
+                            Mit drei neuen Spiegel- und Vorsatzbl. versehen. Zwei ehemalige
+                            Vorsatzbl. erhalten.</note>
+                        <index indexName="norm_material">
+                            <term type="material">Leder</term>
+                            <term type="material_type">leather</term>
+                        </index>
+                        <index indexName="norm_measure">
+                            <term type="measure"/>
+                            <term type="measure_noOfLeaves"/>
+                        </index>
+                        <index indexName="norm_dimensions">
+                            <term type="dimensions">20 × 15</term>
+                            <term type="height">20</term>
+                            <term type="width">15</term>
+                            <term type="depth">5</term>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index>
+                        <index indexName="norm_format">
+                            <term type="format">larger than folio</term>
+                            <term type="format_typeOfInformation">deduced</term>
+                        </index>
+                        <index indexName="norm_origPlace">
+                            <term type="origPlace">Bordesholm, Kiel</term>
+                            <term type="origPlace_norm" ref="http://dnb.indo/4007721-4" key="" >Bordesholm</term>
+                            <term type="origPlace_norm" ref="http://dnb.indo/4030481-4" key="1a75b353-14be-3c19-b22c-5c5334d78c8f">Kiel</term>
+                        </index>
+                        <index indexName="norm_origDate">
+                            <term type="origDate">um 1900</term>
+                            <term type="origDate_notBefore">1885</term>
+                            <term type="origDate_notAfter">1915</term>
+                            <term type="origDate_type">datable</term>
+                        </index>
+                        <index indexName="norm_textLang">
+                            <term type="textLang"/>
+                            <term type="textLang-ID"/>
+                        </index>
+                        <index indexName="norm_form">
+                            <term type="form">binding</term>
+                        </index>
+                        <index indexName="norm_status">
+                            <term type="status">existent</term>
+                        </index>
+                        <index indexName="norm_decoration">
+                            <term type="decoration">no</term>
+                        </index>
+                        <index indexName="norm_musicNotation">
+                            <term type="musicNotation">no</term>
+                        </index>
+                    </head>
+                    <msContents>
+                        <textLang mainLang="de" otherLangs="la fr">amet</textLang>
+                        <msItem>
+                            <note type="text">
+                                <locus from="1r" type="12v">1r-12v</locus>
+                                <persName role="author" ref="http://d-nb.info/gnd/xxxxxxxx"
+                                    >Autor</persName>
+                                <title>Titel</title>
+                                <quote type="incipit">Lorem ipsum dolor sit amet</quote>, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                            <note type="music">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                            <decoNote type="content">Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                            <decoNote type="form">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                        </msItem>
+                        <msItem>
+                            <note type="text">Und so weiter... Die Struktur ist wie in
+                                msDesc/msContents </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                            erat, sed diam voluptua.</p>
+                    </physDesc>
+                    <history>
+                        <p>At vero eos et accusam et justo duo dolores et ea rebum</p>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                                nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                                erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+                                et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+                                Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+                                et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                                accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                                no sea takimata sanctus est Lorem ipsum dolor sit amet.</bibl>
+                        </listBibl>
+                    </additional>
+                    <msPart type="fragment">
+                        <msIdentifier>
+                            <idno>Fragment I</idno>
+                        </msIdentifier>
+                        <head>
+                            <index indexName="norm_title">
+                                <term type="title">Lorem ipsum</term>
+                            </index>
+                            <title>Lorem Ipsum</title>
+                            <note type="headline">Im innern des Buchdeckels gefundenes Fragment, um
+                                1300, 10 × 13, Pergament</note>
+                            <index indexName="norm_material">
+                                <term type="material">Pergament</term>
+                                <term type="material_type">parchment</term>
+                            </index>
+                            <index indexName="norm_measure">
+                                <term type="measure">1 Bl.</term>
+                                <term type="measure_noOfLeaves">1</term>
+                            </index>
+                            <index indexName="norm_dimensions">
+                                <term type="dimensions">10 × 13</term>
+                                <term type="height">10</term>
+                                <term type="width">13</term>
+                                <term type="depth">0</term>
+                                <term type="dimensions_typeOfInformation">factual</term>
+                            </index>
+                            <index indexName="norm_format">
+                                <term type="format">quarto</term>
+                                <term type="format_typeOfInformation">factual</term>
+                            </index>
+                            <index indexName="norm_origPlace">
+                                <term type="origPlace">Bordesholm(?)</term>
+                                <term type="origPlace_norm" ref="http://dnb.indo/4007721-4" key="" >Bordesholm</term>
+                            </index>
+                            <index indexName="norm_origDate">
+                                <term type="origDate">um 1300</term>
+                                <term type="origDate_notBefore">1285</term>
+                                <term type="origDate_notAfter">0315</term>
+                                <term type="origDate_type">datable</term>
+                            </index>
+                            <index indexName="norm_textLang">
+                                <term type="textLang">lateinisch</term>
+                                <term type="textLang-ID">la</term>
+                            </index>
+                            <index indexName="norm_form">
+                                <term type="form">fragment</term>
+                            </index>
+                            <index indexName="norm_status">
+                                <term type="status">existent</term>
+                            </index>
+                            <index indexName="norm_decoration">
+                                <term type="decoration">no</term>
+                            </index>
+                            <index indexName="norm_musicNotation">
+                                <term type="musicNotation">no</term>
+                            </index>
+                        </head>
+                        <msContents>
+                            <textLang mainLang="de" otherLangs="la fr">amet</textLang>
+                            <msItem>
+                                <note type="text">
+                                    <locus from="1r" type="12v">1r-12v</locus>
+                                    <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx"
+                                        >Autor</persName>
+                                    <title>Titel</title>
+                                    <quote type="incipit">Lorem ipsum dolor sit amet</quote>,
+                                    consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+                                    invidunt ut labore </note>
+                                <note type="music">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                    elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                                <decoNote type="content">Lorem ipsum dolor sit amet, consetetur
+                                    sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+                                    labore </decoNote>
+                                <decoNote type="form">Lorem ipsum dolor sit amet, consetetur
+                                    sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+                                    labore </decoNote>
+                            </msItem>
+                            <msItem>
+                                <note type="text">Und so weiter... Die Struktur ist wie in
+                                    msDesc/msContents </note>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <p>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                                aliquyam erat, sed diam voluptua.</p>
+                        </physDesc>
+                        <history>
+                            <p>At vero eos et accusam et justo duo dolores et ea rebum</p>
+                        </history>
+                        <additional>
+                            <listBibl>
+                                <bibl>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                                    diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                                    aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                                    justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+                                    takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
+                                    dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+                                    eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                                    sed diam voluptua. At vero eos et accusam et justo duo dolores
+                                    et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+                                    est Lorem ipsum dolor sit amet.</bibl>
+                            </listBibl>
+                        </additional>
+                        <msPart type="other">
+                            <msIdentifier>
+                                <idno>Sonstiges</idno>
+                            </msIdentifier>
+                            <p>sed diam voluptua</p>
+                        </msPart>
+                    </msPart>
+                    <msPart type="other">
+                        <msIdentifier>
+                            <idno>Sonstiges</idno>
+                        </msIdentifier>
+                        <p>lorem</p>
+                    </msPart>
+                </msPart>
+
+                <msPart type="fragment">
+                    <msIdentifier>
+                        <idno>Fragment II</idno>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title">
+                            <term type="title">Lorem ipsum</term>
+                        </index>
+                        <title>Lorem Ipsum</title>
+                        <note type="headline">gefundenes Fragment, um 1300, 10 × 13,
+                            Pergament</note>
+                        <index indexName="norm_material">
+                            <term type="material">Pergament</term>
+                            <term type="material_type">parchment</term>
+                        </index>
+                        <index indexName="norm_measure">
+                            <term type="measure">1 Bl.</term>
+                            <term type="measure_noOfLeaves">1</term>
+                        </index>
+                        <index indexName="norm_dimensions">
+                            <term type="dimensions">10 × 13</term>
+                            <term type="height">10</term>
+                            <term type="width">13</term>
+                            <term type="depth">0</term>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index>
+                        <index indexName="norm_format">
+                            <term type="format">quarto</term>
+                            <term type="format_typeOfInformation">factual</term>
+                        </index>
+                        <index indexName="norm_origPlace">
+                            <term type="origPlace">Bordesholm(?)</term>
+                            <term type="origPlace_norm" ref="http://dnb.indo/4007721-4" key="" >Bordesholm</term>
+                        </index>
+                        <index indexName="norm_origDate">
+                            <term type="origDate">um 1300</term>
+                            <term type="origDate_notBefore">1285</term>
+                            <term type="origDate_notAfter">0315</term>
+                            <term type="origDate_type">datable</term>
+                        </index>
+                        <index indexName="norm_textLang">
+                            <term type="textLang">lateinisch</term>
+                            <term type="textLang-ID">la</term>
+                        </index>
+                        <index indexName="norm_form">
+                            <term type="form">fragment</term>
+                        </index>
+                        <index indexName="norm_status">
+                            <term type="status">existent</term>
+                        </index>
+                        <index indexName="norm_decoration">
+                            <term type="decoration">no</term>
+                        </index>
+                        <index indexName="norm_musicNotation">
+                            <term type="musicNotation">no</term>
+                        </index>
+                    </head>
+                    <msContents>
+                        <textLang mainLang="de" otherLangs="la fr">amet</textLang>
+                        <msItem>
+                            <note type="text">
+                                <locus from="1r" type="12v">1r-12v</locus>
+                                <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx"
+                                    >Autor</persName>
+                                <title>Titel</title>
+                                <quote type="incipit">Lorem ipsum dolor sit amet</quote>, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                            <note type="music">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                            <decoNote type="content">Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                            <decoNote type="form">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                        </msItem>
+                        <msItem>
+                            <note type="text">Und so weiter... Die Struktur ist wie in
+                                msDesc/msContents </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                            erat, sed diam voluptua.</p>
+                    </physDesc>
+                    <history>
+                        <p>At vero eos et accusam et justo duo dolores et ea rebum</p>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                                nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                                erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+                                et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+                                Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+                                et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                                accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                                no sea takimata sanctus est Lorem ipsum dolor sit amet.</bibl>
+                        </listBibl>
+                    </additional>
+                    <msPart type="fragment">
+                        <msIdentifier>
+                            <idno>Fragment III</idno>
+                        </msIdentifier>
+                        <head>
+                            <index indexName="norm_title">
+                                <term type="title">Lorem ipsum</term>
+                            </index>
+                            <title>Lorem Ipsum</title>
+                            <note type="headline">gefundenes Fragment, um 1300, 10 × 13,
+                                Pergament</note>
+                            <index indexName="norm_material">
+                                <term type="material">Pergament</term>
+                                <term type="material_type">parchment</term>
+                            </index>
+                            <index indexName="norm_measure">
+                                <term type="measure">1 Bl.</term>
+                                <term type="measure_noOfLeaves">1</term>
+                            </index>
+                            <index indexName="norm_dimensions">
+                                <term type="dimensions">10 × 13</term>
+                                <term type="height">10</term>
+                                <term type="width">13</term>
+                                <term type="depth">0</term>
+                                <term type="dimensions_typeOfInformation">factual</term>
+                            </index>
+                            <index indexName="norm_format">
+                                <term type="format">quarto</term>
+                                <term type="format_typeOfInformation">factual</term>
+                            </index>
+                            <index indexName="norm_origPlace">
+                                <term type="origPlace">Bordesholm(?)</term>
+                                <term type="origPlace_norm" ref="http://dnb.indo/4007721-4" key="" >Bordesholm</term>
+                            </index>
+                            <index indexName="norm_origDate">
+                                <term type="origDate">um 1300</term>
+                                <term type="origDate_notBefore">1285</term>
+                                <term type="origDate_notAfter">0315</term>
+                                <term type="origDate_type">datable</term>
+                            </index>
+                            <index indexName="norm_textLang">
+                                <term type="textLang">lateinisch</term>
+                                <term type="textLang-ID">la</term>
+                            </index>
+                            <index indexName="norm_form">
+                                <term type="form">fragment</term>
+                            </index>
+                            <index indexName="norm_status">
+                                <term type="status">existent</term>
+                            </index>
+                            <index indexName="norm_decoration">
+                                <term type="decoration">no</term>
+                            </index>
+                            <index indexName="norm_musicNotation">
+                                <term type="musicNotation">no</term>
+                            </index>
+                        </head>
+                        <msContents>
+                            <textLang mainLang="de" otherLangs="la fr">amet</textLang>
+                            <msItem>
+                                <note type="text">
+                                    <locus from="1r" type="12v">1r-12v</locus>
+                                    <persName role="author" ref="http://d-nb.info/gnd/xxxxxxx"
+                                        >Autor</persName>
+                                    <title>Titel</title>
+                                    <quote type="incipit">Lorem ipsum dolor sit amet</quote>,
+                                    consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+                                    invidunt ut labore </note>
+                                <note type="music">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                    elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                                <decoNote type="content">Lorem ipsum dolor sit amet, consetetur
+                                    sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+                                    labore </decoNote>
+                                <decoNote type="form">Lorem ipsum dolor sit amet, consetetur
+                                    sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+                                    labore </decoNote>
+                            </msItem>
+                            <msItem>
+                                <note type="text">Und so weiter... Die Struktur ist wie in
+                                    msDesc/msContents </note>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <p>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                                aliquyam erat, sed diam voluptua.</p>
+                        </physDesc>
+                        <history>
+                            <p>At vero eos et accusam et justo duo dolores et ea rebum</p>
+                        </history>
+                        <additional>
+                            <listBibl>
+                                <bibl>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                                    diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                                    aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                                    justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+                                    takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum
+                                    dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+                                    eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+                                    sed diam voluptua. At vero eos et accusam et justo duo dolores
+                                    et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+                                    est Lorem ipsum dolor sit amet.</bibl>
+                            </listBibl>
+                        </additional>
+                        <msPart type="other">
+                            <msIdentifier>
+                                <idno>Sonstiges</idno>
+                            </msIdentifier>
+                            <p/>
+                        </msPart>
+                    </msPart>
+                    <msPart type="other">
+                        <msIdentifier>
+                            <idno>Sonstiges</idno>
+                        </msIdentifier>
+                        <p/>
+                    </msPart>
+                </msPart>
+
+                <msPart type="booklet">
+                    <msIdentifier>
+                        <idno>Faszikel I</idno>
+                        <altIdentifier type="former">
+                            <settlement key="1a75b353-14be-3c19-b22c-5c5334d78c8f">Kiel</settlement>
+                            <repository key="9caa05ee-be18-3003-bfa9-454aa6349a9f"
+                                >Universitätsbibliothek</repository>
+                            <idno>Abt. 53-b</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title">
+                            <term type="title">Lorem ipsum</term>
+                        </index>
+                        <title>Lorem ipsum</title>
+                        <note type="headline">Augustiner Chorherrenstift Bordesholm, 1488, 97 Bl. 16
+                            × 12 (Teil I)</note>
+                        <index indexName="norm_material">
+                            <term type="material">Mischung aus Papier und Leinen</term>
+                            <term type="material_type">linen</term>
+                            <term type="material_type">paper</term>
+                        </index>
+                        <index indexName="norm_measure">
+                            <term type="measure">97 Bl.</term>
+                            <term type="measure_noOfLeaves">97</term>
+                        </index>
+                        <index indexName="norm_dimensions">
+                            <term type="dimensions">16 × 12</term>
+                            <term type="height">16</term>
+                            <term type="width">12</term>
+                            <term type="depth">2</term>
+                            <term type="dimensions_typeOfInformation">factual</term>
+                        </index>
+                        <index indexName="norm_format">
+                            <term type="format">quarto</term>
+                            <term type="format_typeOfInformation">factual</term>
+                        </index>
+                        <index indexName="norm_format">
+                            <term type="format">oblong</term>
+                            <term type="format_typeOfInformation">factual</term>
+                        </index>
+                        <index indexName="norm_origPlace">
+                            <term type="origPlace">Bordesholm, Chorherrenstift</term>
+                            <term type="origPlace_norm" ref="http://dnb.indo/4007721-4" key="" >Bordesholm</term>
+                        </index>
+                        <index indexName="norm_origDate">
+                            <term type="origDate">1488</term>
+                            <term type="origDate_notBefore">1488</term>
+                            <term type="origDate_notAfter">1488</term>
+                            <term type="origDate_type">dated</term>
+                        </index>
+                        <index indexName="norm_textLang">
+                            <term type="textLang">latein</term>
+                            <term type="textLang-ID">la</term>
+                        </index>
+                        <index indexName="norm_form">
+                            <term type="form">booklet</term>
+                        </index>
+                        <index indexName="norm_status">
+                            <term type="status">existent</term>
+                        </index>
+                        <index indexName="norm_decoration">
+                            <term type="decoration">yes</term>
+                        </index>
+                        <index indexName="norm_musicNotation">
+                            <term type="musicNotation">no</term>
+                        </index>
+                    </head>
+                    <msContents>
+                        <textLang mainLang="de" otherLangs="la fr">amet</textLang>
+                        <msItem>
+                            <note type="text">
+                                <locus from="1r" type="12v">1r-12v</locus>
+                                <persName role="author" ref="http://d-nb.info/gnd/XXXXXX"
+                                    >Autor</persName>
+                                <title>Titel</title>
+                                <quote type="incipit">Lorem ipsum dolor sit amet</quote>, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                            <note type="music">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                            <decoNote type="content">Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                            <decoNote type="form">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                        </msItem>
+                        <msItem>
+                            <note type="text">Und so weiter... Die Struktur ist wie in
+                                msDesc/msContents </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                            erat, sed diam voluptua.</p>
+                    </physDesc>
+                    <history>
+                        <p>At vero eos et accusam et justo duo dolores et ea rebum</p>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                                nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                                erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+                                et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+                                Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+                                et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                                accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                                no sea takimata sanctus est Lorem ipsum dolor sit amet.</bibl>
+                        </listBibl>
+                    </additional>
+                    <msPart type="other">
+                        <msIdentifier>
+                            <idno>Sonstiges</idno>
+                        </msIdentifier>
+                        <p/>
+                    </msPart>
+                </msPart>
+
+                <msPart type="accMat">
+                    <msIdentifier>
+                        <idno>Beigabe</idno>
+                    </msIdentifier>
+                    <head>
+                        <index indexName="norm_title">
+                            <term type="title">Lorem ipsum</term>
+                        </index>
+                        <title>Lorem ipsum</title>
+                        <note type="headline"> dolor sit amet </note>
+                        <index indexName="norm_material">
+                            <term type="material">Mischung aus Papier und Leinen</term>
+                            <term type="material_type">linen</term>
+                            <term type="material_type">paper</term>
+                        </index>
+                        <index indexName="norm_measure">
+                            <term type="measure">6 Bl.</term>
+                            <term type="measure_noOfLeaves">6</term>
+                        </index>
+                        <index indexName="norm_dimensions">
+                            <term type="dimensions">22 × 12,5</term>
+                            <term type="height">22</term>
+                            <term type="width">12,5</term>
+                            <term type="depth">0</term>
+                            <term type="dimensions_typeOfInformation">deduced</term>
+                        </index>
+                        <index indexName="norm_format">
+                            <term type="format">quarto</term>
+                            <term type="format_typeOfInformation">deduced</term>
+                        </index>
+                        <index indexName="norm_origPlace">
+                            <term type="origPlace">Bordesholm, Chorherrenstift</term>
+                            <term type="origPlace_norm" ref="http://dnb.indo/4007721-4" key="" >Bordesholm</term>
+                        </index>
+                        <index indexName="norm_origDate">
+                            <term type="origDate">um 1665</term>
+                            <term type="origDate_notBefore">1651</term>
+                            <term type="origDate_notAfter">1680</term>
+                            <term type="origDate_type">datable</term>
+                        </index>
+                        <index indexName="norm_textLang">
+                            <term type="textLang">latein</term>
+                            <term type="textLang-ID">la</term>
+                        </index>
+                        <index indexName="norm_form">
+                            <term type="form">loose insert</term>
+                        </index>
+                        <index indexName="norm_status">
+                            <term type="status">existent</term>
+                        </index>
+                        <index indexName="norm_decoration">
+                            <term type="decoration">yes</term>
+                        </index>
+                        <index indexName="norm_musicNotation">
+                            <term type="musicNotation">no</term>
+                        </index>
+                    </head>
+                    <msContents>
+                        <textLang mainLang="de" otherLangs="la fr">amet</textLang>
+                        <msItem>
+                            <note type="text">
+                                <locus from="1r" type="12v">1r-12v</locus>
+                                <persName role="author" ref="http://d-nb.info/gnd/xxxxxx"
+                                    >Autor</persName>
+                                <title>Titel</title>
+                                <quote type="incipit">Lorem ipsum dolor sit amet</quote>, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                            <note type="music">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore </note>
+                            <decoNote type="content">Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                            <decoNote type="form">Lorem ipsum dolor sit amet, consetetur sadipscing
+                                elitr, sed diam nonumy eirmod tempor invidunt ut labore </decoNote>
+                        </msItem>
+                        <msItem>
+                            <note type="text">Und so weiter... Die Struktur ist wie in
+                                msDesc/msContents </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                            erat, sed diam voluptua.</p>
+                    </physDesc>
+                    <history>
+                        <p>At vero eos et accusam et justo duo dolores et ea rebum</p>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <bibl>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+                                nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+                                erat, sed diam voluptua. At vero eos et accusam et justo duo dolores
+                                et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est
+                                Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+                                sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
+                                et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
+                                accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+                                no sea takimata sanctus est Lorem ipsum dolor sit amet.</bibl>
+                        </listBibl>
+                    </additional>
+                    <msPart type="other">
+                        <msIdentifier>
+                            <idno>Sonstiges</idno>
+                        </msIdentifier>
+                        <p/>
+                    </msPart>
+                </msPart>
+
+                <msPart type="other">
+                    <msIdentifier>
+                        <idno>Sonstiges</idno>
+                    </msIdentifier>
+                    <p>dolor sit amet</p>
+                </msPart>
+
+            </msDesc>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1570 @@
+{
+  "medieval": {
+    "msIdentifier": {
+      "allowedNumbers": "1",
+      "required": true,
+      "allowedComponents": [],
+      "allowedIn": [
+        "medieval",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment"
+      ],
+      "allowedFollower": [
+        "head",
+        "physDesc",
+        "msContents",
+        "history",
+        "msPartbinding",
+        "msPartfragment",
+        "msPartbooklet",
+        "msPartaccMat",
+        "msPartother",
+        "additional"
+      ],
+      "allowedPredecessor": [],
+      "selfContainting": false,
+      "defaultElement": {
+        "data_origin": "msIdentifier",
+        "region": "msIdentifier",
+        "component": "msIdentifier"
+      },
+      "defaultChildren": [
+        {
+          "data_origin": "idno",
+          "region": "msIdentifier",
+          "allowedNumbers": "multi",
+          "required": true,
+          "data_sortKey": [
+            {
+              "required": false
+            }
+          ],
+          "children": [
+            {
+              "region": "msIdentifier",
+              "text": "__SIGNATUR__"
+            }
+          ]
+        }
+      ],
+      "children": [
+        {
+          "data_origin": "settlement",
+          "region": "msIdentifier",
+          "allowedNumbers": "1",
+          "required": false,
+          "data_key": [
+            {
+              "required": false
+            }
+          ],
+          "children": [
+            {
+              "text": "__AUFBEWAHRUNGSORT__",
+              "region": "msIdentifier"
+            }
+          ]
+        },
+        {
+          "data_origin": "repository",
+          "region": "msIdentifier",
+          "allowedNumbers": "1",
+          "required": false,
+          "data_key": [
+            {
+              "required": false
+            }
+          ],
+          "children": [
+            {
+              "text": "__AUFBEWAHRENDE_INSTITUTION__",
+              "region": "msIdentifier"
+            }
+          ]
+        },
+        {
+          "data_origin": "collection",
+          "region": "msIdentifier",
+          "allowedNumbers": "multi",
+          "required": false,
+          "children": [
+            {
+              "text": "__SAMMLUNG__",
+              "region": "msIdentifier"
+            }
+          ]
+        },
+        {
+          "data_origin": "altIdentifier",
+          "region": "msIdentifier",
+          "data_type": [
+            {
+              "required": true,
+              "valueList": [
+                "catalog",
+                "formerShelfMark"
+              ]
+            }
+          ],
+          "required": false,
+          "children": [
+            {
+              "data_origin": "collection",
+              "region": "msIdentifier",
+              "required": false,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__SAMMLUNG__",
+                  "region": "msIdentifier"
+                }
+              ]
+            },
+            {
+              "data_origin": "idno",
+              "region": "msIdentifier",
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__SIGNATUR__",
+                  "region": "msIdentifier"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "head": {
+      "allowedNumbers": "1",
+      "required": true,
+      "allowedComponents": [],
+      "selfContainting": false,
+      "allowedIn": [
+        "medieval",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment"
+      ],
+      "allowedFollower": [
+        "msContents",
+        "physDesc",
+        "history",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment",
+        "additional",
+        "msPartother"
+      ],
+      "allowedPredecessor": [
+        "msIdentifier"
+      ],
+      "defaultElement": {
+        "data_origin": "head",
+        "region": "head",
+        "component": "head"
+      },
+      "defaultChildren": [
+        {
+          "data_origin": "title",
+          "region": "head",
+          "required": true,
+          "allowedNumbers": "1",
+          "children": [
+            {
+              "text": "__HANDSCHRIFTENTITEL__",
+              "region": "head"
+            }
+          ]
+        },
+        {
+          "data_origin": "note",
+          "region": "head",
+          "required": true,
+          "allowedNumbers": "1",
+          "data_type": [
+            {
+              "required": true,
+              "valueList": [
+                "headline"
+              ]
+            }
+          ],
+          "children": [
+            {
+              "text": "__SCHLAGZEILE__",
+              "region": "head"
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "required": true,
+          "allowedNumbers": "1",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "title"
+                  ]
+                }
+              ],
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__TITEL_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "required": true,
+          "allowedNumbers": "1",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "material"
+                  ]
+                }
+              ],
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__MATERIAL__",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "material_type"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "multi",
+              "children": [
+                {
+                  "text": "__MATERIAL_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "required": true,
+          "allowedNumbers": "1",
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "measure"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__ANZAHL_BLÄTTER__",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "measure_noOfLeaves"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "___ANZAHL_BLÄTTER_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "required": true,
+          "allowedNumbers": "multi",
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "dimensions"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__GRÖßE__",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "height"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__HÖHE_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "width"
+                  ]
+                }
+              ],
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__BREITE_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "dimensions_typeOfInformation"
+                  ]
+                }
+              ],
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__ABMESSUNGSART_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "allowedNumbers": "1",
+          "required": true,
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "origPlace"
+                  ]
+                }
+              ],
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__ENTSTEHUNGSORT__",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "origPlace_gnd-ID"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "multi",
+              "children": [
+                {
+                  "text": "__GND_NUMMER__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "allowedNumbers": "multi",
+          "required": true,
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "origDate"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__ENTSTEHUNGSZEIT__",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "origDate_notBefore"
+                  ]
+                }
+              ],
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__ENTSTEHUNGSZEIT_NORMIERT__BEFORE",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "origDate_notAfter"
+                  ]
+                }
+              ],
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__ENTSTEHUNGSZEIT_NORMIERT__AFTER",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "origDate_type"
+                  ]
+                }
+              ],
+              "allowedNumbers": "1",
+              "required": true,
+              "children": [
+                {
+                  "text": "__DATIERUNGSART_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "required": true,
+          "allowedNumbers": "1",
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "textLang"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__GRUNDSPRACHE__",
+                  "region": "head"
+                }
+              ]
+            },
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "textLang-ID"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "multi",
+              "children": [
+                {
+                  "text": "__GRUNDSPRACHE_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "required": true,
+          "allowedNumbers": "1",
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "form"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__FORMTYP_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "required": true,
+          "allowedNumbers": "1",
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "status"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__VERFÜGBARKEIT_NORMIERT__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "required": true,
+          "allowedNumbers": "1",
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "decoration"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__YES/NO__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data_origin": "index",
+          "region": "head",
+          "data_indexName": [
+            {
+              "required": true,
+              "valueList": [
+                "norm"
+              ]
+            }
+          ],
+          "required": true,
+          "allowedNumbers": "1",
+          "children": [
+            {
+              "data_origin": "term",
+              "region": "head",
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "musicNotation"
+                  ]
+                }
+              ],
+              "required": true,
+              "allowedNumbers": "1",
+              "children": [
+                {
+                  "text": "__YES/NO__",
+                  "region": "head"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "msContents": {
+      "allowedNumbers": "1",
+      "required": false,
+      "selfContainting": false,
+      "allowedComponents": [
+        "contentText",
+        "contentMusic",
+        "contentIconography",
+        "formIconography",
+        "msItem"
+      ],
+      "allowedIn": [
+        "medieval",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment"
+      ],
+      "allowedFollower": [
+        "physDesc",
+        "history",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment",
+        "additional",
+        "msPartother"
+      ],
+      "allowedPredecessor": [
+        "msIdentifier",
+        "head"
+      ],
+      "defaultElement": {
+        "data_origin": "msContents",
+        "region": "msContents",
+        "component": "msContents"
+      },
+      "defaultChildren": [
+        {
+          "data_origin": "msItem",
+          "region": "msItem",
+          "component": "msItem",
+          "required": true,
+          "allowedNumbers": "multi",
+          "selfContainting": false,
+          "children": [
+            {
+              "data_origin": "textLang",
+              "region": "msItem",
+              "required": false,
+              "allowedNumbers": "1",
+              "data_mainLang": {
+                "required": true
+              },
+              "data_otherLangs": {
+                "required": false
+              },
+              "children": [
+                {
+                  "text": "__SPRACHENANGABEN__",
+                  "region": "msItem"
+                }
+              ]
+            },
+            {
+              "data_origin": "note",
+              "region": "msItem",
+              "component": "contentText",
+              "allowedNumbers": "multi",
+              "selfContaining": true,
+              "maxlayer": 7,
+              "required": false,
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "text"
+                  ]
+                }
+              ],
+              "children": [
+                {
+                  "data_origin": "locus",
+                  "region": "contentText",
+                  "required": false,
+                  "allowedNumbers": "1",
+                  "data_from": {
+                    "required": true
+                  },
+                  "data_to": {
+                    "required": true
+                  },
+                  "children": {
+                    "text": "__FOLIOANGABEN__",
+                    "region": "contentText"
+                  }
+                },
+                {
+                  "data_origin": "title",
+                  "region": "contentText",
+                  "required": false,
+                  "allowedNumbers": "1"
+                },
+                {
+                  "data_origin": "msItem",
+                  "allowedNumbers": "multi",
+                  "region": "contentText",
+                  "allowedPredecessor": [
+                    "contentText",
+                    "contentMusic",
+                    "contentIconography",
+                    "formIconography"
+                  ],
+                  "required": false
+                },
+                {
+                  "data_origin": "decoNote",
+                  "allowedNumbers": "multi",
+                  "component": "contentIconography",
+                  "region": "contentText",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "content"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "decoNote",
+                  "allowedNumbers": "multi",
+                  "component": "formIconography",
+                  "region": "contentText",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "form"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "note",
+                  "allowedNumbers": "multi",
+                  "region": "contentText",
+                  "component": "contentMusic",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "music"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "__INHALT_TEXT__",
+                  "region": "contentText"
+                }
+              ]
+            },
+            {
+              "data_origin": "note",
+              "region": "msItem",
+              "allowedNumbers": "multi",
+              "required": false,
+              "component": "contentMusic",
+              "selfContaining": true,
+              "maxlayer": 7,
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "music"
+                  ]
+                }
+              ],
+              "children": [
+                {
+                  "data_origin": "locus",
+                  "region": "contentMusic",
+                  "required": false,
+                  "allowedNumbers": "1",
+                  "data_from": [
+                    {
+                      "required": true
+                    }
+                  ],
+                  "data_to": [
+                    {
+                      "required": true
+                    }
+                  ],
+                  "children": [
+                    {
+                      "text": "__FOLIOANGABEN__",
+                      "region": "contentMusic"
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "title",
+                  "region": "contentMusic",
+                  "required": false,
+                  "allowedNumbers": "1"
+                },
+                {
+                  "data_origin": "msItem",
+                  "allowedNumbers": "multi",
+                  "region": "contentMusic",
+                  "allowedPredecessor": [
+                    "contentMusic",
+                    "contentText",
+                    "contentIconography",
+                    "formIconography"
+                  ],
+                  "required": false
+                },
+                {
+                  "data_origin": "decoNote",
+                  "allowedNumbers": "multi",
+                  "component": "contentIconography",
+                  "region": "contentMusic",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "content"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "decoNote",
+                  "allowedNumbers": "multi",
+                  "component": "formIconography",
+                  "region": "contentMusic",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "form"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "note",
+                  "allowedNumbers": "multi",
+                  "region": "contentMusic",
+                  "component": "contentText",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "text"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "__INHALT_MUSIK__",
+                  "region": "contentMusic"
+                }
+              ]
+            },
+            {
+              "data_origin": "decoNote",
+              "region": "msItem",
+              "allowedNumbers": "multi",
+              "required": false,
+              "component": "contentIconography",
+              "selfContaining": true,
+              "maxlayer": 7,
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "content"
+                  ]
+                }
+              ],
+              "children": [
+                {
+                  "data_origin": "locus",
+                  "region": "contentIconography",
+                  "required": false,
+                  "allowedNumbers": "1",
+                  "data_from": [
+                    {
+                      "required": true
+                    }
+                  ],
+                  "data_to": [
+                    {
+                      "required": true
+                    }
+                  ],
+                  "children": [
+                    {
+                      "text": "__FOLIOANGABEN__",
+                      "region": "contentIconography"
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "title",
+                  "region": "contentIconography",
+                  "required": false,
+                  "allowedNumbers": "1"
+                },
+                {
+                  "data_origin": "msItem",
+                  "allowedNumbers": "multi",
+                  "region": "contentIconography",
+                  "allowedPredecessor": [
+                    "contentMusic",
+                    "contentText",
+                    "contentIconography",
+                    "formIconography"
+                  ],
+                  "required": false
+                },
+                {
+                  "data_origin": "decoNote",
+                  "allowedNumbers": "multi",
+                  "component": "formIconography",
+                  "region": "contentIconography",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "form"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "note",
+                  "allowedNumbers": "multi",
+                  "region": "contentIconography",
+                  "component": "contentText",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "text"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "note",
+                  "allowedNumbers": "multi",
+                  "region": "contentIconography",
+                  "component": "contentMusic",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "music"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "__INHALT_KUNST__",
+                  "region": "contentIconography"
+                }
+              ]
+            },
+            {
+              "data_origin": "decoNote",
+              "region": "msItem",
+              "allowedNumbers": "multi",
+              "required": false,
+              "component": "formIconography",
+              "selfContaining": true,
+              "maxlayer": 7,
+              "data_type": [
+                {
+                  "required": true,
+                  "valueList": [
+                    "form"
+                  ]
+                }
+              ],
+              "children": [
+                {
+                  "data_origin": "locus",
+                  "region": "formIconography",
+                  "required": false,
+                  "allowedNumbers": "1",
+                  "data_from": [
+                    {
+                      "required": true
+                    }
+                  ],
+                  "data_to": [
+                    {
+                      "required": true
+                    }
+                  ],
+                  "children": [
+                    {
+                      "text": "__FOLIOANGABEN__",
+                      "region": "formIconography"
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "title",
+                  "region": "formIconography",
+                  "required": false,
+                  "allowedNumbers": "1"
+                },
+                {
+                  "data_origin": "msItem",
+                  "allowedNumbers": "multi",
+                  "region": "formIconography",
+                  "allowedPredecessor": [
+                    "contentMusic",
+                    "contentText",
+                    "contentIconography",
+                    "formIconography"
+                  ],
+                  "required": false
+                },
+                {
+                  "data_origin": "decoNote",
+                  "allowedNumbers": "multi",
+                  "component": "contentIconography",
+                  "region": "formIconography",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "content"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "note",
+                  "allowedNumbers": "multi",
+                  "region": "formIconography",
+                  "component": "contentText",
+                  "required": false,
+                  "data_type": [
+                    {
+                      "required": true,
+                      "valueList": [
+                        "text"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "data_origin": "note",
+                  "allowedNumbers": "multi",
+                  "region": "formIconography",
+                  "component": "contentMusic",
+                  "required": false,
+                  "data_type": {
+                    "required": true,
+                    "valueList": [
+                      "music"
+                    ]
+                  }
+                },
+                {
+                  "text": "__ÄUßERES_KUNST__",
+                  "region": "formIconography"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "children": [
+        {
+          "data_origin": "textLang",
+          "region": "msItem",
+          "required": false,
+          "allowedNumbers": "1",
+          "data_mainLang": {
+            "required": true
+          },
+          "data_otherLangs": {
+            "required": false
+          },
+          "children": {
+            "text": "__SPRACHENANGABEN__",
+            "region": "msContents"
+          }
+        }
+      ]
+    },
+    "physDesc": {
+      "allowedNumbers": "1",
+      "selfContainting": false,
+      "required": false,
+      "allowedComponents": [
+        "formIconography",
+        "physDesc"
+      ],
+      "allowedIn": [
+        "medieval",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment"
+      ],
+      "allowedFollower": [
+        "history",
+        "additional",
+        "msPartaccMat",
+        "msPartbinding",
+        "msPartbooklet",
+        "msPartfragment",
+        "msPartother"
+      ],
+      "allowedPredecessor": [
+        "msIdentifier",
+        "head",
+        "msContents"
+      ],
+      "defaultElement": {
+        "data_origin": "physDesc",
+        "region": "physDesc",
+        "component": "physDesc"
+      },
+      "children": [
+        {
+          "data_origin": "p",
+          "region": "physDesc",
+          "required": false,
+          "allowedNumbers": "multi",
+          "selfContaining": false,
+          "children": {
+            "text": "__ÄUßERES__",
+            "region": "physDesc"
+          }
+        },
+        {
+          "data_origin": "decoDesc",
+          "region": "physDesc",
+          "required": false,
+          "allowedNumbers": "1",
+          "selfContaining": false,
+          "children": {
+            "data_origin": "decoNote",
+            "region": "formIconography",
+            "allowedNumbers": "multi",
+            "required": true,
+            "selfContaining": false,
+            "data_type": {
+              "region": "formIconography",
+              "valueList": [
+                "form"
+              ]
+            },
+            "children": {
+              "text": "__ÄUßERES_KUNST__",
+              "region": "formIconography"
+            }
+          }
+        }
+      ]
+    },
+    "history": {
+      "allowedNumbers": "1",
+      "selfContaining": false,
+      "required": false,
+      "allowedComponents": [
+        "history"
+      ],
+      "allowedIn": [
+        "medieval",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment"
+      ],
+      "allowedFollower": [
+        "additional",
+        "msPartaccMat",
+        "msPartbinding",
+        "msPartbooklet",
+        "msPartfragment",
+        "msPartother"
+      ],
+      "allowedPredecessor": [
+        "msIdentifier",
+        "head",
+        "msContents",
+        "physDesc"
+      ],
+      "defaultElement": {
+        "data_origin": "history",
+        "component": "history",
+        "region": "history"
+      },
+      "children": [
+        {
+          "data_origin": "p",
+          "region": "history",
+          "required": true,
+          "allowedNumbers": "multi",
+          "selfContaining": false,
+          "children": [
+            {
+              "text": "__GESCHICHTE__",
+              "region": "history"
+            }
+          ]
+        }
+      ]
+    },
+    "additional": {
+      "allowedNumbers": "1",
+      "selfContaining": false,
+      "required": false,
+      "allowedComponents": [
+        "additional"
+      ],
+      "allowedIn": [
+        "medieval",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment"
+      ],
+      "allowedFollower": [
+        "msPartaccMat",
+        "msPartbinding",
+        "msPartbooklet",
+        "msPartfragment",
+        "msPartother"
+      ],
+      "allowedPredecessor": [
+        "msIdentifier",
+        "head",
+        "msContents",
+        "physDesc",
+        "history"
+      ],
+      "defaultElement": {
+        "data_origin": "additional",
+        "region": "additional",
+        "component": "additional"
+      },
+      "children": [
+        {
+          "data_origin": "listBibl",
+          "region": "additional",
+          "required": false,
+          "allowedNumbers": "1",
+          "selfContaining": false,
+          "children": {
+            "data_origin": "bibl",
+            "region": "additional",
+            "allowedNumbers": "multi",
+            "required": true,
+            "selfContaining": false,
+            "children": {
+              "text": "__LITERATUR__",
+              "region": "additional"
+            }
+          }
+        }
+      ]
+    },
+    "msPartother": {
+      "allowedNumbers": "1",
+      "selfContaining": false,
+      "required": false,
+      "allowedComponents": [
+        "msPartother"
+      ],
+      "allowedIn": [
+        "medieval",
+        "msPartbinding",
+        "msPartaccMat",
+        "msPartbooklet",
+        "msPartfragment"
+      ],
+      "allowedFollower": [
+        "msPartaccMat",
+        "msPartbinding",
+        "msPartbooklet",
+        "msPartfragment"
+      ],
+      "allowedPredecessor": [
+        "msIdentifier",
+        "head",
+        "msContents",
+        "physDesc",
+        "history",
+        "additional"
+      ],
+      "defaultElement": {
+        "data_origin": "msPart",
+        "component": "msPartother",
+        "region": "msPartother"
+      },
+      "defaultChildren": [
+        {
+          "data-origin": "msIdentifier",
+          "region": "msPartother",
+          "required": true,
+          "allowedNumbers": "1",
+          "selfContaining": false,
+          "children": [
+            {
+              "data-origin": "idno",
+              "required": true,
+              "allowedNumbers": "1",
+              "selfContaining": false,
+              "region": "msPartother",
+              "children": [
+                {
+                  "text": "Sonstiges",
+                  "region": "msPartother"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "children": [
+        {
+          "data-origin": "p",
+          "region": "msPartother",
+          "required": true,
+          "allowedNumbers": "1",
+          "selfContaining": false,
+          "children": [
+            {
+              "text": "__SONSTIGES__",
+              "region": "msPartother"
+            }
+          ]
+        }
+      ]
+    },
+    "msPartbinding": {
+    },
+    "msPartaccMat": {
+    },
+    "msPartbooklet": {
+    },
+    "msPartFragment": {
+    }
+  }
+}

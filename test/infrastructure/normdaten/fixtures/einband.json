@@ -1,0 +1,5182 @@
+{
+  "data": {
+    "findSubjectArea": {
+      "id": "NORM-3a6f71fd-2f0a-3bf3-b351-52f16603e7bb",
+      "notation": "BNDG",
+      "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG",
+      "labels": [
+        {
+          "text": "Binding",
+          "isoCode": "en"
+        },
+        {
+          "text": "Einband",
+          "isoCode": "de"
+        }
+      ],
+      "thesauri": [
+        {
+          "id": "NORM-5ce551fc-fbc3-3610-bfcf-86598c9b9b87",
+          "notation": "BNDG-A",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A",
+          "labels": [
+            {
+              "text": "Binding type",
+              "isoCode": "en"
+            },
+            {
+              "text": "Einbandtyp",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-1727e64f-d87c-34a8-a07c-ae1d6d569d71",
+              "notation": "BNDG-A460",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A460",
+              "labels": [
+                {
+                  "text": "without binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einband nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "ohne Einband",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Es gibt keinen schützenden Einband: Er kann entweder entfernt worden sein oder ursprünglich nicht vorgesehen gewesen sein.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-821ba04d-895d-3e45-970b-3a93d5a7ab7f",
+                "NORM-e2f86653-17df-3aa8-98e6-19722454124c"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-f3bd05cd-c31d-314b-bafa-cda21482d0c0",
+              "notation": "BNDG-A239",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A239",
+              "labels": [
+                {
+                  "text": "with binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einband vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "full cover",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mit Einband",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Jeder noch vorhandene Schutz für den Buchblock einer mittelalterlichen oder neuzeitlichen Buchhandschrift. Einbände werden nach ihren Haupterscheinungsformen in feste Einbände, flexible Einbände und lose Umschläge untergliedert.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-ac703c4f-45c9-3940-9def-d71b8e5b5fc3",
+                "NORM-75d4cbe0-0e1f-3ed4-a01a-dc3bdf56493c",
+                "NORM-bdf90ca7-680c-3791-83c6-13ded902bd33"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-821ba04d-895d-3e45-970b-3a93d5a7ab7f",
+              "notation": "BNDG-A180",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A180",
+              "labels": [
+                {
+                  "text": "binding removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einband entfernt (mit Resten eines ursprünglichen Einbands)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Einband entfernt",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Es gibt keinen schützenden Einband mehr. Dieser war jedoch ursprünglich vorhanden und wurde im Laufe der Zeit abgenommen oder zerstört. In der Regel finden sich Reste des einstigen Einbands bzw. der Bindung am Buchblock, wie beispielsweise Lederreste. Auch nicht mehr genutzte Bindelöcher können auf eine ursprüngliche Bindung hinweisen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-1727e64f-d87c-34a8-a07c-ae1d6d569d71"
+            },
+            {
+              "id": "NORM-e2f86653-17df-3aa8-98e6-19722454124c",
+              "notation": "BNDG-A284",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A284",
+              "labels": [
+                {
+                  "text": "originally without binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einband ursprünglich nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "ursprünglich ohne Einband",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Es gibt keinen schützenden Einband; dieser war ursprünglich nicht vorgesehen. Dementsprechend befinden sich keinerlei Spuren eines ursprünglichen Einbands auf dem Buchblock. Einblatthandschriften begegnen häufig ohne Einband. Auch können einzelne Lagen ursprünglich ohne Einband sein, beispielsweise wenn sie nicht fertiggestellt und nie den Status eines Buchs erreicht haben.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-1727e64f-d87c-34a8-a07c-ae1d6d569d71"
+            },
+            {
+              "id": "NORM-ac703c4f-45c9-3940-9def-d71b8e5b5fc3",
+              "notation": "BNDG-A532",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A532",
+              "labels": [
+                {
+                  "text": "hardbound",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fester Einband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Festband",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Ein fester Einband bezeichnet Bindungen unter Verwendung von stabilem Deckelmaterial wie Holz oder Pappe.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-02dc5af4-364a-37b1-a035-aa54168f14c4",
+                "NORM-2ce4fc63-ba6e-3026-a440-62a4b8e9642f"
+              ],
+              "broader": "NORM-f3bd05cd-c31d-314b-bafa-cda21482d0c0"
+            },
+            {
+              "id": "NORM-75d4cbe0-0e1f-3ed4-a01a-dc3bdf56493c",
+              "notation": "BNDG-A507",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A507",
+              "labels": [
+                {
+                  "text": "limp binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Flexibler Einband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Umschlag",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Flexible Einbände bestehen aus biegsamem – also flexiblem – Deckelmaterial wie Pergament. In der Regel sind flexible Einbände daher leichter und besser transportabel als feste Einbände. Die Heftung erfolgt überwiegend ohne die Verwendung von zusätzlichem Trägermaterial (wie Bünden oder Kordeln), sondern der Faden wird direkt in das Material gearbeitet. Typische flexible Einbände des Mittelalters oder der Frühen Neuzeit sind Kopert- oder Pergamentbände.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-42f87478-1152-339d-8093-f78a56dc1e82",
+                "NORM-c47f976e-aba5-36ad-8a0e-d962b14d01e8"
+              ],
+              "broader": "NORM-f3bd05cd-c31d-314b-bafa-cda21482d0c0"
+            },
+            {
+              "id": "NORM-bdf90ca7-680c-3791-83c6-13ded902bd33",
+              "notation": "BNDG-A343",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A343",
+              "labels": [
+                {
+                  "text": "wrapper",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Loser Umschlag",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "case",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "loose cover",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "cover",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Schutzmaterial für einen Buchblock oder auch einen Lagenverbund, der jedoch nicht mit diesem verbunden ist: Buchblock oder Lagenverbund liegen lose im Umschlag.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-f3bd05cd-c31d-314b-bafa-cda21482d0c0"
+            },
+            {
+              "id": "NORM-02dc5af4-364a-37b1-a035-aa54168f14c4",
+              "notation": "BNDG-A345",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A345",
+              "labels": [
+                {
+                  "text": "binding with flap",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fester Einband mit Klappe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Bindung unter Verwendung von stabilem Deckelmaterial wie Holz oder Pappe mit einer Klappe. Häufig begegnet diese Einbandart bei Handschriften aus dem persischen Kulturraum.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-ac703c4f-45c9-3940-9def-d71b8e5b5fc3"
+            },
+            {
+              "id": "NORM-2ce4fc63-ba6e-3026-a440-62a4b8e9642f",
+              "notation": "BNDG-A206",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A206",
+              "labels": [
+                {
+                  "text": "binding without flap",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fester Einband ohne Klappe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Bindung unter Verwendung von stabilem Deckelmaterial wie Holz oder Pappe ohne Klappe. Diese Einbandart ist die dominierende unter den mittelalterlichen Handschriften, zuweilen auch noch bei den neuzeitlichen Handschriften. Holzdeckelbände mit Lederüberzug stellen solche festen Einbände ohne Klappe dar.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-ac703c4f-45c9-3940-9def-d71b8e5b5fc3"
+            },
+            {
+              "id": "NORM-42f87478-1152-339d-8093-f78a56dc1e82",
+              "notation": "BNDG-A960",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A960",
+              "labels": [
+                {
+                  "text": "limp binding with flap",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Flexibler Einband mit Klappe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Bindung unter Verwendung von flexiblem Deckelmaterial mit einer Klappe. Die häufigsten Vertreter dieser Einbandart sind Kopertbände, die häufig eine vom Hinterdeckel ausgehende Klappe aufweisen, die auf dem Vorderdeckel geschlossen wird.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-75d4cbe0-0e1f-3ed4-a01a-dc3bdf56493c"
+            },
+            {
+              "id": "NORM-c47f976e-aba5-36ad-8a0e-d962b14d01e8",
+              "notation": "BNDG-A415",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-A415",
+              "labels": [
+                {
+                  "text": "limp binding without flap",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Flexibler Einband ohne Klappe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Bindung unter Verwendung von flexiblem Deckelmaterial ohne Klappe.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-75d4cbe0-0e1f-3ed4-a01a-dc3bdf56493c"
+            }
+          ]
+        },
+        {
+          "id": "NORM-a28cc090-2db2-3621-988b-a61bc197a2cc",
+          "notation": "BNDG-X",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-X",
+          "labels": [
+            {
+              "text": "specialist terms binding",
+              "isoCode": "en"
+            },
+            {
+              "text": "Fachbegriffe Einband",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-54b7d37c-ad43-3e69-8094-efa754004f57",
+              "notation": "BNDG-X774",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-X774",
+              "labels": [
+                {
+                  "text": "Girdle book",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Beutelbuch",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das sogenannte Beutelbuch stellte einen Sonderform des Einbandes dar; er diente insbesondere dazu, Bücher (meist Brevier, Gebet- oder Andachtsbücher) bequem bei sich zu halten und am Gürtel tragen zu können. Hierfür wurde der lang über den Unterschnitt des Buches hinausragende Lederbezug des Buches - sei es der ursprüngliche oder eine über diesen gelegte zweite Hülle - an seinem Ende mit einem Knoten zusammengefasst und am Gürtel befestigt. Beutelbücher sind seit dem 14. Jahrhundert bezeugt und noch bis ins 16. Jahrhundert belegt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-cd8796dd-5067-366f-9a68-c651c2a9b47f",
+              "notation": "BNDG-X980",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-X980",
+              "labels": [
+                {
+                  "text": "chained book",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Liber catenatus",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Kettenbuch",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "In mittelalterlichen Bibliotheken wurden die auf Pulten liegenden Bücher oft zum Schutz gegen Diebstahl angekettet. Diese sog. Libri catenati oder Kettenbücher hingen an einer Kette, die meist am oberen Rand des Hinterdeckels und an ihrem anderen Ende an einer Stange am Pult befestigt war.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-c329900e-60db-3079-8de1-f7f33f18f56b",
+              "notation": "BNDG-X671",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-X671",
+              "labels": [
+                {
+                  "text": "brocaded paper wrapper",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Brokatpapierumschlag",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-4471bc16-5906-335b-a8bf-de6f25409f83",
+              "notation": "BNDG-X717",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-X717",
+              "labels": [
+                {
+                  "text": "Blindprägeeinband",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "blind-tooled binding",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "binding with blind-tooled decoration",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Werden die Verzierungselemente ohne Farbe auf die Buchdeckel aufgepresst, spricht man von Blinddruck bzw. Blindpressung.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": ["NORM-acf21b42-a2ab-3aee-b86e-506c8b1dd58a"],
+              "broader": null
+            },
+            {
+              "id": "NORM-acf21b42-a2ab-3aee-b86e-506c8b1dd58a",
+              "notation": "BNDG-X986",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-X986",
+              "labels": [
+                {
+                  "text": "blind-stamped binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Blindstempeleinband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "binding with blind-stemped decoration",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Verzierung des mittelalterlichen Ledereinbandes geschah mit Hilfe des Streicheisens und der Stempel. Werden diese Ornamente ohne Verwendung von Farbe auf die Buchdeckel aufgepresst, so spricht man von Blindstempeleinbänden. Die Stempel bestehen aus einem Metallteil, in deren prägende Fläche ein Schmuckmotiv eingraviert ist, und aus einem Holzgriff zur Handhabung durch den Buchbinder.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4471bc16-5906-335b-a8bf-de6f25409f83"
+            }
+          ]
+        },
+        {
+          "id": "NORM-5b3316ba-61f6-3b7e-b625-1cde0acd2a83",
+          "notation": "BNDG-C",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C",
+          "labels": [
+            {
+              "text": "Endleaves material",
+              "isoCode": "en"
+            },
+            {
+              "text": "Vorsatzmaterial",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-e09d2b9b-f231-3274-a097-41b561d3befb",
+              "notation": "BNDG-C380",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C380",
+              "labels": [
+                {
+                  "text": "Parchment (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Pergament (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-70dab0c2-254a-31dd-b940-9f4957d356ad",
+              "notation": "BNDG-C506",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C506",
+              "labels": [
+                {
+                  "text": "Textile (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Textil (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-1ac8b905-74ec-343d-9ec1-486bfd219f1d",
+              "notation": "BNDG-C142",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C142",
+              "labels": [
+                {
+                  "text": "Paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-371685d3-38a3-32e3-addb-320957dd66c8",
+                "NORM-3f9def04-1fcf-3d5b-ab02-1a97e5be7db6"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-e8690945-fe78-348b-8024-31bf9c3cd001",
+              "notation": "BNDG-C231",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C231",
+              "labels": [
+                {
+                  "text": "Other kinds of endleaves material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Vorsatzmaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-371685d3-38a3-32e3-addb-320957dd66c8",
+              "notation": "BNDG-C607",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C607",
+              "labels": [
+                {
+                  "text": "Decorated paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Buntpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-fdff88c9-9776-366c-8378-c09a61d721f3",
+                "NORM-11a62a01-8a4e-3470-b3dd-f2a1d0084667",
+                "NORM-09528518-add6-3f57-8e92-476a12b5ab26",
+                "NORM-2568830e-0194-3397-9bf0-b3535a96e795",
+                "NORM-3df6f684-041c-3ac2-baa3-fd47b552394d",
+                "NORM-a659d4dd-5e6c-3624-b2a3-2572f2f220cc",
+                "NORM-ec5276b6-fe59-354a-b671-b1e9f837a722",
+                "NORM-95657a34-afe4-30ce-98c1-e4704b31e248",
+                "NORM-24d2b12a-a072-3548-b83e-e79cdd69028b"
+              ],
+              "broader": "NORM-1ac8b905-74ec-343d-9ec1-486bfd219f1d"
+            },
+            {
+              "id": "NORM-3f9def04-1fcf-3d5b-ab02-1a97e5be7db6",
+              "notation": "BNDG-C666",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C666",
+              "labels": [
+                {
+                  "text": "Non-decorated paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rohpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-1ac8b905-74ec-343d-9ec1-486bfd219f1d"
+            },
+            {
+              "id": "NORM-fdff88c9-9776-366c-8378-c09a61d721f3",
+              "notation": "BNDG-C306",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C306",
+              "labels": [
+                {
+                  "text": "Monochrome brushed paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einfarbiges Papier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            },
+            {
+              "id": "NORM-11a62a01-8a4e-3470-b3dd-f2a1d0084667",
+              "notation": "BNDG-C986",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C986",
+              "labels": [
+                {
+                  "text": "Marbled paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Marmorpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            },
+            {
+              "id": "NORM-09528518-add6-3f57-8e92-476a12b5ab26",
+              "notation": "BNDG-C237",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C237",
+              "labels": [
+                {
+                  "text": "Block printed paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Modeldruckpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            },
+            {
+              "id": "NORM-2568830e-0194-3397-9bf0-b3535a96e795",
+              "notation": "BNDG-C932",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C932",
+              "labels": [
+                {
+                  "text": "Paste paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kleisterpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            },
+            {
+              "id": "NORM-3df6f684-041c-3ac2-baa3-fd47b552394d",
+              "notation": "BNDG-C105",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C105",
+              "labels": [
+                {
+                  "text": "Other kinds of decorated paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Buntpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            },
+            {
+              "id": "NORM-a659d4dd-5e6c-3624-b2a3-2572f2f220cc",
+              "notation": "BNDG-C225",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C225",
+              "labels": [
+                {
+                  "text": "Brocaded paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Brokatpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            },
+            {
+              "id": "NORM-ec5276b6-fe59-354a-b671-b1e9f837a722",
+              "notation": "BNDG-C348",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C348",
+              "labels": [
+                {
+                  "text": "Crinkled paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Knitterpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            },
+            {
+              "id": "NORM-95657a34-afe4-30ce-98c1-e4704b31e248",
+              "notation": "BNDG-C577",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C577",
+              "labels": [
+                {
+                  "text": "Stamp printed paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Stempeldruckpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            },
+            {
+              "id": "NORM-24d2b12a-a072-3548-b83e-e79cdd69028b",
+              "notation": "BNDG-C175",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-C175",
+              "labels": [
+                {
+                  "text": "Sprinkled paper (endleaves)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sprenkelpapier (Vorsatz)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-371685d3-38a3-32e3-addb-320957dd66c8"
+            }
+          ]
+        },
+        {
+          "id": "NORM-9f825206-7bd7-3ecb-ac02-27042a632140",
+          "notation": "BNDG-H",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H",
+          "labels": [
+            {
+              "text": "Edge decoration",
+              "isoCode": "en"
+            },
+            {
+              "text": "Verzierungsart Schnitt",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-920fc72e-3219-3d9f-a9ac-c5734d33a4c5",
+              "notation": "BNDG-H857",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H857",
+              "labels": [
+                {
+                  "text": "with edge decoration",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnittverzierung vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-52040756-2804-39f7-8c16-cea264cfe0c1",
+                "NORM-10a62af8-9d42-33e0-841e-23bbc72a34ae",
+                "NORM-91c6c885-a528-3bfd-a334-b50432c58002",
+                "NORM-4b018cb6-5b1e-3df9-af8c-110a5e269462",
+                "NORM-d70dfd28-7acd-3f71-ae4e-0afbea7c0221",
+                "NORM-eca6431d-2a13-391a-9baf-c29a4fc8674f"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-9ce238df-e084-37bb-a1ea-54ac9a9d8891",
+              "notation": "BNDG-H581",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H581",
+              "labels": [
+                {
+                  "text": "without edge decoration",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnittverzierung nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-52040756-2804-39f7-8c16-cea264cfe0c1",
+              "notation": "BNDG-H783",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H783",
+              "labels": [
+                {
+                  "text": "sprinkled edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnittsprenkelung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Schnitt gesprenkelt",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-920fc72e-3219-3d9f-a9ac-c5734d33a4c5"
+            },
+            {
+              "id": "NORM-10a62af8-9d42-33e0-841e-23bbc72a34ae",
+              "notation": "BNDG-H219",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H219",
+              "labels": [
+                {
+                  "text": "marbled edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnitt marmoriert",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-920fc72e-3219-3d9f-a9ac-c5734d33a4c5"
+            },
+            {
+              "id": "NORM-91c6c885-a528-3bfd-a334-b50432c58002",
+              "notation": "BNDG-H466",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H466",
+              "labels": [
+                {
+                  "text": "edge tooling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnittprägung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-920fc72e-3219-3d9f-a9ac-c5734d33a4c5"
+            },
+            {
+              "id": "NORM-4b018cb6-5b1e-3df9-af8c-110a5e269462",
+              "notation": "BNDG-H788",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H788",
+              "labels": [
+                {
+                  "text": "coloured edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnittfärbung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Schnitt gefärbt",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-ed2b9bf3-dc19-3a52-97dd-c9ef5c537bbf",
+                "NORM-eed0e981-4edb-3525-aae9-009b2766563e",
+                "NORM-79994a64-a10b-3971-802d-9aeab020f318",
+                "NORM-07a63824-abae-3aa9-8c89-068c2c2fe1ec",
+                "NORM-14ea38fd-da69-3dfa-9a93-3f4fb8197771",
+                "NORM-937781c3-c676-3de5-a827-f4a2f065e75d"
+              ],
+              "broader": "NORM-920fc72e-3219-3d9f-a9ac-c5734d33a4c5"
+            },
+            {
+              "id": "NORM-d70dfd28-7acd-3f71-ae4e-0afbea7c0221",
+              "notation": "BNDG-H505",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H505",
+              "labels": [
+                {
+                  "text": "edge gauffering",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnittpunzierung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-920fc72e-3219-3d9f-a9ac-c5734d33a4c5"
+            },
+            {
+              "id": "NORM-eca6431d-2a13-391a-9baf-c29a4fc8674f",
+              "notation": "BNDG-H963",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H963",
+              "labels": [
+                {
+                  "text": "painted edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnittbemalung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "In der Neuzeit erlangte für hochwertige Einbände die aufwändige Bemalung von Schnitten größere Verbreitung, vor allem in England.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-920fc72e-3219-3d9f-a9ac-c5734d33a4c5"
+            },
+            {
+              "id": "NORM-ed2b9bf3-dc19-3a52-97dd-c9ef5c537bbf",
+              "notation": "BNDG-H139",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H139",
+              "labels": [
+                {
+                  "text": "blue coloured edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnitt blau gefärbt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "blaue Schnittfärbung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4b018cb6-5b1e-3df9-af8c-110a5e269462"
+            },
+            {
+              "id": "NORM-eed0e981-4edb-3525-aae9-009b2766563e",
+              "notation": "BNDG-H873",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H873",
+              "labels": [
+                {
+                  "text": "red coloured edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnitt rot gefärbt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "rote Schnittfärbung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4b018cb6-5b1e-3df9-af8c-110a5e269462"
+            },
+            {
+              "id": "NORM-79994a64-a10b-3971-802d-9aeab020f318",
+              "notation": "BNDG-H589",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H589",
+              "labels": [
+                {
+                  "text": "Gilding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnitt gold gefärbt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Goldschnitt",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4b018cb6-5b1e-3df9-af8c-110a5e269462"
+            },
+            {
+              "id": "NORM-07a63824-abae-3aa9-8c89-068c2c2fe1ec",
+              "notation": "BNDG-H819",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H819",
+              "labels": [
+                {
+                  "text": "yellow coloured edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnitt gelb gefärbt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "gelbe Schnittfärbung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4b018cb6-5b1e-3df9-af8c-110a5e269462"
+            },
+            {
+              "id": "NORM-14ea38fd-da69-3dfa-9a93-3f4fb8197771",
+              "notation": "BNDG-H682",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H682",
+              "labels": [
+                {
+                  "text": "green coloured edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnitt grün gefärbt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "grüne Schnittfärbung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4b018cb6-5b1e-3df9-af8c-110a5e269462"
+            },
+            {
+              "id": "NORM-937781c3-c676-3de5-a827-f4a2f065e75d",
+              "notation": "BNDG-H918",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-H918",
+              "labels": [
+                {
+                  "text": "coloured edge with other colours",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sonstige Schnittfärbung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4b018cb6-5b1e-3df9-af8c-110a5e269462"
+            }
+          ]
+        },
+        {
+          "id": "NORM-dc62f2ac-cc95-309f-92d5-d57b1a3ea96d",
+          "notation": "BNDG-E",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E",
+          "labels": [
+            {
+              "text": "Covering material",
+              "isoCode": "en"
+            },
+            {
+              "text": "Bezugsmaterial",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-434c5521-b635-3e8d-ba76-e36e129cc516",
+              "notation": "BNDG-E978",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E978",
+              "labels": [
+                {
+                  "text": "Paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-b481c64c-bcea-30a1-bad4-b28804be3da0",
+                "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4",
+                "NORM-66f4793d-a47e-3fac-9b4d-6f955116ce58"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-d5201867-c794-3548-98c7-65ef52848a41",
+              "notation": "BNDG-E746",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E746",
+              "labels": [
+                {
+                  "text": "Parchment (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Pergament (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Pergament war neben Leder das verbreitetste Bezugsmaterial für Einbände. Es wurden hauptsächlich Felle von Schafen, Ziegen, Kälbern und Schweinen verwendet. Pergamenteinbände waren als oft unverzierte Gebrauchseinbände bis in die Neuzeit gängig; im 18. Jahrhundert kamen auch Halbpergamentbände mit einem Überzug aus Buntpapier auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-794fc366-406c-3377-9eca-78be3caade73",
+              "notation": "BNDG-E418",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E418",
+              "labels": [
+                {
+                  "text": "Textile (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Textil (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-f716201e-fa38-34dc-9839-387973c3411e",
+                "NORM-51262c68-6b75-35da-b800-a4f90e2d45bc",
+                "NORM-5449189a-4215-3a0e-b8c9-85863d960adb",
+                "NORM-e357d5e8-79bc-3cb2-9bc7-7dafbcd6d2b6",
+                "NORM-fcd835e9-f38a-3bf2-a2e5-9b006b5ad6eb"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-adbffb33-cb8b-37af-9e0b-d9ca4cee6895",
+              "notation": "BNDG-E798",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E798",
+              "labels": [
+                {
+                  "text": "Other kinds of covering material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Bezugsmaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Andere Bezugsmaterialien",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-7156b67d-f316-33d7-af9d-3f41348ba8db",
+              "notation": "BNDG-E702",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E702",
+              "labels": [
+                {
+                  "text": "Leather covering",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Leder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Leder als Bezugsmaterial ist bei mittelalterlichen Einbänden sehr verbreitet. Das mit Klebstoff bestrichene Leder wurde über die Deckel und Bünde gezogen und angebpresst sowie an den Kanten eingeschlagen. Es wurden unterschiedliche Ledersorten verwendet, die entweder schmucklos belassen wurden oder eine Verzierung aufweisen können.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-4caa1861-fa6f-39b7-b443-54b28f647bef",
+                "NORM-9d431476-8b95-31a0-9dbe-6cdd8e5d3181"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-b481c64c-bcea-30a1-bad4-b28804be3da0",
+              "notation": "BNDG-E235",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E235",
+              "labels": [
+                {
+                  "text": "Non-decorated paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rohpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Nicht gefärbtes bzw. verziertes Papier",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-434c5521-b635-3e8d-ba76-e36e129cc516"
+            },
+            {
+              "id": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4",
+              "notation": "BNDG-E851",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E851",
+              "labels": [
+                {
+                  "text": "Buntpapier (Bezug)",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Decorated paper (covering)",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Buntpapier ist nachträglich veredeltes Papier. Entscheidend ist die meist dekorative Bearbeitung der Papiere – durch Färben, Bedrucken, Prägen oder andere Verfahren – nach ihrer Herstellung als Rohpapier.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-a3f47b25-fece-37f8-8d74-085f0445b830",
+                "NORM-04f120c3-9194-3d0f-99cb-6e25252d35f3",
+                "NORM-d33c0ea7-a492-381d-a19b-a806296a3a00",
+                "NORM-6ad90514-dd49-3acd-8e9c-b39fe96fb787",
+                "NORM-0a7349f5-1168-321c-ac05-87a7acdffcd5",
+                "NORM-4d1a10a1-a4d1-3b0b-b2db-dfd435662f1e",
+                "NORM-d4f02c5d-d9a2-3f00-bc16-7c79988efee4",
+                "NORM-36acf876-d855-3360-bed2-8c9c2bea5e56",
+                "NORM-09fbff20-eb35-35a5-86f5-67c15f458007"
+              ],
+              "broader": "NORM-434c5521-b635-3e8d-ba76-e36e129cc516"
+            },
+            {
+              "id": "NORM-66f4793d-a47e-3fac-9b4d-6f955116ce58",
+              "notation": "BNDG-E574",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E574",
+              "labels": [
+                {
+                  "text": "Other kinds of paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Papier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Andere Papierarten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-434c5521-b635-3e8d-ba76-e36e129cc516"
+            },
+            {
+              "id": "NORM-f716201e-fa38-34dc-9839-387973c3411e",
+              "notation": "BNDG-E491",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E491",
+              "labels": [
+                {
+                  "text": "Velvet (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Samt (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-794fc366-406c-3377-9eca-78be3caade73"
+            },
+            {
+              "id": "NORM-51262c68-6b75-35da-b800-a4f90e2d45bc",
+              "notation": "BNDG-E613",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E613",
+              "labels": [
+                {
+                  "text": "Silk (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Seide (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Samtseide",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-794fc366-406c-3377-9eca-78be3caade73"
+            },
+            {
+              "id": "NORM-5449189a-4215-3a0e-b8c9-85863d960adb",
+              "notation": "BNDG-E697",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E697",
+              "labels": [
+                {
+                  "text": "Linen (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Leinen (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-794fc366-406c-3377-9eca-78be3caade73"
+            },
+            {
+              "id": "NORM-e357d5e8-79bc-3cb2-9bc7-7dafbcd6d2b6",
+              "notation": "BNDG-E757",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E757",
+              "labels": [
+                {
+                  "text": "Brocade (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Brokat (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-794fc366-406c-3377-9eca-78be3caade73"
+            },
+            {
+              "id": "NORM-fcd835e9-f38a-3bf2-a2e5-9b006b5ad6eb",
+              "notation": "BNDG-E824",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E824",
+              "labels": [
+                {
+                  "text": "Other textiles (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Textil (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-794fc366-406c-3377-9eca-78be3caade73"
+            },
+            {
+              "id": "NORM-4caa1861-fa6f-39b7-b443-54b28f647bef",
+              "notation": "BNDG-E741",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E741",
+              "labels": [
+                {
+                  "text": "Corrected grain leather",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Glattleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Glattleder kam seit dem 14. Jahrhundert vermehrt als Bezugsmaterial zum Einsatz.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-1eae3a21-564b-3e9c-9918-c0f5167d0377",
+                "NORM-6fe20019-6bec-344a-b06d-fe6145db0c79",
+                "NORM-e27c5e4f-d9a1-3579-b1db-0c4d01dafec9",
+                "NORM-2f443bec-cf95-3da6-8c31-107c5fd48509",
+                "NORM-bf20acd0-b850-3405-90eb-5ddb5334d5d9"
+              ],
+              "broader": "NORM-7156b67d-f316-33d7-af9d-3f41348ba8db"
+            },
+            {
+              "id": "NORM-9d431476-8b95-31a0-9dbe-6cdd8e5d3181",
+              "notation": "BNDG-E672",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E672",
+              "labels": [
+                {
+                  "text": "Full-grain leather",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rauleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Wildleder",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Rauleder, d.h. nicht geglättetes Leder, war als Bezugsmaterial in frühmittelalterlicher Zeit sehr verbreitet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-31790938-96ac-34ec-bade-1b7b0de34b64",
+                "NORM-f6b9cad8-89bd-36ac-93fd-34ea8afff452"
+              ],
+              "broader": "NORM-7156b67d-f316-33d7-af9d-3f41348ba8db"
+            },
+            {
+              "id": "NORM-a3f47b25-fece-37f8-8d74-085f0445b830",
+              "notation": "BNDG-E359",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E359",
+              "labels": [
+                {
+                  "text": "Paste paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kleisterpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Kleisterpapier ist meist vollständig mit gefärbtem Kleister bedeckt. Merkmal des Kleisterpapiers ist die deutlich erkennbare Textur des Kleisters. Zusätzliche Verzierungen oder Musterungen ergeben sich aus der Verformung des Kleisters mit dem Werkzeug. Demnach unterscheidet man verschiedene Formen des Kleisterpapiers, wie beispielsweise das gestrichene Kleisterpapier, das geäderte Kleisterpapier, Kleisterpapier mit Verdrängungsdekor oder Kleisterpapier mit Einmalungen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-04f120c3-9194-3d0f-99cb-6e25252d35f3",
+              "notation": "BNDG-E428",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E428",
+              "labels": [
+                {
+                  "text": "Crinkled paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Knitterpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Unter Knitterpapier versteht man Papier, das vollfälächig gefärbt, geknittert und wieder geglättet wurde. Das Knittern und Färben können in beliebiger Reihenfolge stattfinden. Das Knitterpapier kann dabei auch aus mehreren Lagen bestehen. Danach unterscheidet man einlagiges und zweilagiges Knitterpapier.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-d33c0ea7-a492-381d-a19b-a806296a3a00",
+              "notation": "BNDG-E642",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E642",
+              "labels": [
+                {
+                  "text": "Stamp printed paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Stempeldruckpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "„Stempeldruckpapiere werden mit Stempeln aus Holz, Gummi oder aus Kartoffeln bedruckt. im Gegensatz zu Modeldruckpapieren sind die Stempel in der Regenkleiner und werden - regelmäßig oder unregelmäßig - über die Fläche verteilt abgedruckt.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-6ad90514-dd49-3acd-8e9c-b39fe96fb787",
+              "notation": "BNDG-E340",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E340",
+              "labels": [
+                {
+                  "text": "Marbled paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Marmorpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Marmoriertes Papier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "„Das Dekor von Marmorierten Papieren entsteht durch das Aufbringen von flüssigen Farben auf den sog. Marmoriergrund. Die Farben können aufgetropft oder gesprüht und anschließend noch mit Nadeln oder Kämmen verzogen werden. Durch Auflegen eines Bogen Papiers auf den \\\"Farbteppich\\\" wird das Dekor auf das Papier übertragen.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-0a7349f5-1168-321c-ac05-87a7acdffcd5",
+              "notation": "BNDG-E317",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E317",
+              "labels": [
+                {
+                  "text": "Sprinkled paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sprenkelpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Kiebitzpapier",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "„Sprenkelpapiere werden manuell oder maschinell ein- oder mehrfarbig besprenkelt. Die Sprenkel von meist annnähernd gleicher Größe sind in der Regel gleichmäßig über die gesamte Fläche des Trägerpapiers verteilt.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-4d1a10a1-a4d1-3b0b-b2db-dfd435662f1e",
+              "notation": "BNDG-E801",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E801",
+              "labels": [
+                {
+                  "text": "Block printed paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Modeldruckpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "„Modeldruckpapiere entstehen im Handdruckverfahren mit Modeln aus Holz, seltener auch aus anderen Materialen. Gedruckt wurde ursprünglich mit Leim- oder Kleisterfarben. Bei mehrfarbigen Drucken wird für jede Farbe ein eigener Model benötigt.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-d4f02c5d-d9a2-3f00-bc16-7c79988efee4",
+              "notation": "BNDG-E155",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E155",
+              "labels": [
+                {
+                  "text": "Other kinds of decorated paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Buntpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Andere Arten von Buntpapier",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-36acf876-d855-3360-bed2-8c9c2bea5e56",
+              "notation": "BNDG-E625",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E625",
+              "labels": [
+                {
+                  "text": "Brocaded paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Brokatpapier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Bei der Herstellung des Brokatpapiers wird hauchdünnes Blattgold unter dem Druck einer Walzenpresse mit angefeuchtetem Papier verbunden. Das Motiv wird dabei aus einer Messing- oder Kupferplatte als Relief herausgestochen. Sowohl negativer als auch positiver Druck ist dadurch möglich.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-09fbff20-eb35-35a5-86f5-67c15f458007",
+              "notation": "BNDG-E739",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E739",
+              "labels": [
+                {
+                  "text": "monochrome brushed paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einfarbiges Papier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Single-color paper (covering)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einfarbig gestrichenes Papier (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Fläche des Papiers wird vollständig mit einer Farbe bestrichen, also mit einem Pinsel aufgetragen. Die Spuren der Pinselborsten sind in der Regel klar erkennbar.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4d9a5e26-3f90-3d64-8ae3-c0eb69f67ec4"
+            },
+            {
+              "id": "NORM-1eae3a21-564b-3e9c-9918-c0f5167d0377",
+              "notation": "BNDG-E179",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E179",
+              "labels": [
+                {
+                  "text": "Corrected grain leather from other animals",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Glattleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4caa1861-fa6f-39b7-b443-54b28f647bef"
+            },
+            {
+              "id": "NORM-6fe20019-6bec-344a-b06d-fe6145db0c79",
+              "notation": "BNDG-E150",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E150",
+              "labels": [
+                {
+                  "text": "Goatskin",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Ziegenleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ziegenleder war als Bezugsmaterial vor allem im Süden Europas verbreitet. In der Neuzeit war insbesondere das Maroquin-Leder, ein gefärbtes Ziegenleder, für bibliophile Einbände im Gebrauch.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4caa1861-fa6f-39b7-b443-54b28f647bef"
+            },
+            {
+              "id": "NORM-e27c5e4f-d9a1-3579-b1db-0c4d01dafec9",
+              "notation": "BNDG-E913",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E913",
+              "labels": [
+                {
+                  "text": "Cowhide",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rindsleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Rindsleder ist ein sehr starkes Leder, das seit dem 14. Jahrhundert als Bezugsmaterial verwendet wurde, oft auch für Lederschnitteinbände.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4caa1861-fa6f-39b7-b443-54b28f647bef"
+            },
+            {
+              "id": "NORM-2f443bec-cf95-3da6-8c31-107c5fd48509",
+              "notation": "BNDG-E244",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E244",
+              "labels": [
+                {
+                  "text": "Pigskin",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schweinsleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Schweinsleder war insbesondere im deutschsprachigen Raum im 15. und 16. Jahrhundert ein sehr gängiges Bezugsmaterial.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4caa1861-fa6f-39b7-b443-54b28f647bef"
+            },
+            {
+              "id": "NORM-bf20acd0-b850-3405-90eb-5ddb5334d5d9",
+              "notation": "BNDG-E456",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E456",
+              "labels": [
+                {
+                  "text": "Calf",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kalbsleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Kalbsleder war seit dem 14. Jahrhundert ein gängiges Bezugsmaterial.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4caa1861-fa6f-39b7-b443-54b28f647bef"
+            },
+            {
+              "id": "NORM-31790938-96ac-34ec-bade-1b7b0de34b64",
+              "notation": "BNDG-E336",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E336",
+              "labels": [
+                {
+                  "text": "Full-grain leather from other animals",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Rauleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Auch Rauleder von anderen Tieren, z.B. Gämsen, wurde als Bezugsmaterial verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-9d431476-8b95-31a0-9dbe-6cdd8e5d3181"
+            },
+            {
+              "id": "NORM-f6b9cad8-89bd-36ac-93fd-34ea8afff452",
+              "notation": "BNDG-E698",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-E698",
+              "labels": [
+                {
+                  "text": "Sheepskin",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schafsleder (Bezug)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Schafsleder wurde vom frühen bis ins späte Mittelalter als Bezugsmaterial verwendet. Oft sind Schafslederbände rot oder blau eingefärbt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-9d431476-8b95-31a0-9dbe-6cdd8e5d3181"
+            }
+          ]
+        },
+        {
+          "id": "NORM-55017133-2224-3001-913e-3b61626f92ae",
+          "notation": "BNDG-F",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F",
+          "labels": [
+            {
+              "text": "Covering type",
+              "isoCode": "en"
+            },
+            {
+              "text": "Bezugsart",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-53ef5994-5350-34a2-a3c6-a79f555e2b06",
+              "notation": "BNDG-F863",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F863",
+              "labels": [
+                {
+                  "text": "Full-binding with overcover on one board edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug nur über die untere oder obere Kante hinaus verlängert (vollständig bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Bezug nur die untere oder obere Kanten hinaus überhängend (vollständig bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-7080406a-dcf1-3950-b665-a8bf22014b1b",
+              "notation": "BNDG-F549",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F549",
+              "labels": [
+                {
+                  "text": "without covering",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Nicht bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-8bba1731-f0b5-3cbb-8f1c-9894ce57c0e2",
+                "NORM-3cecbf01-d73b-3955-952a-c16d5fbcbfe8"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-21d862ca-c205-346c-87a7-d703b8b96af6",
+              "notation": "BNDG-F468",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F468",
+              "labels": [
+                {
+                  "text": "with covering",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-0fec8aab-7a1c-3560-a482-1c025fdce01c",
+                "NORM-6722e193-6ac4-36ec-b210-5878b8b7bd5a",
+                "NORM-cf7e881a-234f-3e97-b4a9-812781af7128"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-3c0caee6-6d90-3779-b1b7-b1766746e979",
+              "notation": "BNDG-F807",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F807",
+              "labels": [
+                {
+                  "text": "Full-binding with overcover on all board edges",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug über alle Kanten hinaus verlängert (vollständig bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Bezug über alle Kanten hinaus überhängend (vollständig bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-56498745-5a67-38e7-a575-2a29e3f28eba",
+              "notation": "BNDG-F310",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F310",
+              "labels": [
+                {
+                  "text": "with secondary covering and overcover on all board edges",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug über alle Kanten hinaus verlängert (doppelt bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Bezug über alle Kanten hinaus überhängend (doppelt bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-44703e90-d2d2-3258-8bcf-725a4fed7a4d",
+              "notation": "BNDG-F297",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F297",
+              "labels": [
+                {
+                  "text": "with secondary covering and overcover on one board edge",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug nur über die untere oder obere Kanten hinaus verlängert (doppelt bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Bezug nur die untere oder obere Kanten hinaus überhängend (doppelt bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-8bba1731-f0b5-3cbb-8f1c-9894ce57c0e2",
+              "notation": "BNDG-F619",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F619",
+              "labels": [
+                {
+                  "text": "covering removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug entfernt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-7080406a-dcf1-3950-b665-a8bf22014b1b"
+            },
+            {
+              "id": "NORM-3cecbf01-d73b-3955-952a-c16d5fbcbfe8",
+              "notation": "BNDG-F748",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F748",
+              "labels": [
+                {
+                  "text": "originally without covering",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug ursprünglich nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Ursprünglich nicht bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-7080406a-dcf1-3950-b665-a8bf22014b1b"
+            },
+            {
+              "id": "NORM-0fec8aab-7a1c-3560-a482-1c025fdce01c",
+              "notation": "BNDG-F501",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F501",
+              "labels": [
+                {
+                  "text": "Full-binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Vollständig bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-4d7b6764-e19d-3035-a5ee-f0a14ed81bd6",
+                "NORM-a009f400-7ab7-3334-9d05-dd1f2e381f36"
+              ],
+              "broader": "NORM-21d862ca-c205-346c-87a7-d703b8b96af6"
+            },
+            {
+              "id": "NORM-6722e193-6ac4-36ec-b210-5878b8b7bd5a",
+              "notation": "BNDG-F682",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F682",
+              "labels": [
+                {
+                  "text": "Half-binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Teilweise bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-21d862ca-c205-346c-87a7-d703b8b96af6"
+            },
+            {
+              "id": "NORM-cf7e881a-234f-3e97-b4a9-812781af7128",
+              "notation": "BNDG-F868",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F868",
+              "labels": [
+                {
+                  "text": "with secondary covering",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Doppelt bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-3c11081f-9b89-3cb6-8ab0-24da6f5a802b",
+                "NORM-ee028de2-4d3d-3008-8de6-050ba8f029bc"
+              ],
+              "broader": "NORM-21d862ca-c205-346c-87a7-d703b8b96af6"
+            },
+            {
+              "id": "NORM-4d7b6764-e19d-3035-a5ee-f0a14ed81bd6",
+              "notation": "BNDG-F414",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F414",
+              "labels": [
+                {
+                  "text": "Full-binding of several materials",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Mit unterschiedlichem Material vollständig bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-0fec8aab-7a1c-3560-a482-1c025fdce01c"
+            },
+            {
+              "id": "NORM-a009f400-7ab7-3334-9d05-dd1f2e381f36",
+              "notation": "BNDG-F571",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F571",
+              "labels": [
+                {
+                  "text": "Full-binding of one material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Mit einem Material vollständig bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "mit einem Material bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-65cc2dc4-f81c-327e-9a21-79695a90ebad",
+                "NORM-4e0ee2ec-6701-3165-a023-f2432b18e4a1"
+              ],
+              "broader": "NORM-0fec8aab-7a1c-3560-a482-1c025fdce01c"
+            },
+            {
+              "id": "NORM-3c11081f-9b89-3cb6-8ab0-24da6f5a802b",
+              "notation": "BNDG-F946",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F946",
+              "labels": [
+                {
+                  "text": "covering and secondary covering of one material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Mit einem Material doppelt bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-cf4b6bec-33da-3a55-b7b1-ba048df8ff9d",
+                "NORM-9311ac5c-8aea-3312-ae06-82cd3a9594a3"
+              ],
+              "broader": "NORM-cf7e881a-234f-3e97-b4a9-812781af7128"
+            },
+            {
+              "id": "NORM-ee028de2-4d3d-3008-8de6-050ba8f029bc",
+              "notation": "BNDG-F124",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F124",
+              "labels": [
+                {
+                  "text": "covering and secondary covering of different materials",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Mit unterschiedlichem Material doppelt bezogen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-cf7e881a-234f-3e97-b4a9-812781af7128"
+            },
+            {
+              "id": "NORM-65cc2dc4-f81c-327e-9a21-79695a90ebad",
+              "notation": "BNDG-F293",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F293",
+              "labels": [
+                {
+                  "text": "Full-binding with overcover",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug über die Kanten hinaus verlängert (vollständig bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Bezug über die Kanten überhängend",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-a009f400-7ab7-3334-9d05-dd1f2e381f36"
+            },
+            {
+              "id": "NORM-4e0ee2ec-6701-3165-a023-f2432b18e4a1",
+              "notation": "BNDG-F971",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F971",
+              "labels": [
+                {
+                  "text": "Full-binding with turn-ins",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug an den Kanten umgeschlagen (vollständig bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-a009f400-7ab7-3334-9d05-dd1f2e381f36"
+            },
+            {
+              "id": "NORM-cf4b6bec-33da-3a55-b7b1-ba048df8ff9d",
+              "notation": "BNDG-F122",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F122",
+              "labels": [
+                {
+                  "text": "with secondary covering and overcover",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug über die Kanten hinaus verlängert (doppelt bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-3c11081f-9b89-3cb6-8ab0-24da6f5a802b"
+            },
+            {
+              "id": "NORM-9311ac5c-8aea-3312-ae06-82cd3a9594a3",
+              "notation": "BNDG-F173",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-F173",
+              "labels": [
+                {
+                  "text": "with secondary covering and turn-ins",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bezug an den Kanten doppelt umgeschlagen (doppelt bezogen)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-3c11081f-9b89-3cb6-8ab0-24da6f5a802b"
+            }
+          ]
+        },
+        {
+          "id": "NORM-6b3c565b-2670-33eb-97f8-ce6ee42674f2",
+          "notation": "BNDG-K",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K",
+          "labels": [
+            {
+              "text": "fastenings",
+              "isoCode": "en"
+            },
+            {
+              "text": "Verschlüsse",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-7aab2d50-20a9-3fc9-b230-1b750cddc14f",
+              "notation": "BNDG-K594",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K594",
+              "labels": [
+                {
+                  "text": "without fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Verschluss nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-98a49fd0-1395-3c33-929d-acbb2585b8bd",
+                "NORM-b90289b9-01f1-35aa-a0d4-ea1d7be792a4"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-902f17f1-8685-3112-ad98-13690fd19983",
+              "notation": "BNDG-K755",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K755",
+              "labels": [
+                {
+                  "text": "with fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Verschluss vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-11d8c963-a2a6-3eec-a458-16cacca89c89",
+                "NORM-4e6d4e42-cd51-32f7-8cd8-34cbd24020e8"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-98a49fd0-1395-3c33-929d-acbb2585b8bd",
+              "notation": "BNDG-K707",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K707",
+              "labels": [
+                {
+                  "text": "originally without fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Verschluss ursprünglich nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-7aab2d50-20a9-3fc9-b230-1b750cddc14f"
+            },
+            {
+              "id": "NORM-b90289b9-01f1-35aa-a0d4-ea1d7be792a4",
+              "notation": "BNDG-K408",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K408",
+              "labels": [
+                {
+                  "text": "fastening removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Verschluss entfernt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-7aab2d50-20a9-3fc9-b230-1b750cddc14f"
+            },
+            {
+              "id": "NORM-11d8c963-a2a6-3eec-a458-16cacca89c89",
+              "notation": "BNDG-K706",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K706",
+              "labels": [
+                {
+                  "text": "clasp fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schließe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Fester Verschluss",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-48bc490e-2b76-3357-9356-93ef2faa4736",
+                "NORM-6bd0efa4-831f-3371-bd8a-922157a5f2ad",
+                "NORM-59536122-71b7-3941-98e4-87162e3ab5c4"
+              ],
+              "broader": "NORM-902f17f1-8685-3112-ad98-13690fd19983"
+            },
+            {
+              "id": "NORM-4e6d4e42-cd51-32f7-8cd8-34cbd24020e8",
+              "notation": "BNDG-K257",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K257",
+              "labels": [
+                {
+                  "text": "tie fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bindeverschluss",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Beweglicher Verschluss",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-9161038e-bbfd-393b-9130-2b419d9a4c08",
+                "NORM-b38deb6e-388e-346b-9cba-2f6e7415380a",
+                "NORM-f65bb4b9-712c-3c42-aabe-d791bde3913a"
+              ],
+              "broader": "NORM-902f17f1-8685-3112-ad98-13690fd19983"
+            },
+            {
+              "id": "NORM-48bc490e-2b76-3357-9356-93ef2faa4736",
+              "notation": "BNDG-K129",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K129",
+              "labels": [
+                {
+                  "text": "metal fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Metallschließe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-11d8c963-a2a6-3eec-a458-16cacca89c89"
+            },
+            {
+              "id": "NORM-6bd0efa4-831f-3371-bd8a-922157a5f2ad",
+              "notation": "BNDG-K311",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K311",
+              "labels": [
+                {
+                  "text": "leather strap fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Lederriemenschließe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-4da2b9b3-724d-31a9-ae63-4fa08c3e2fcc",
+                "NORM-57b5dc4e-01fd-3150-a407-0e9fe2c104d9"
+              ],
+              "broader": "NORM-11d8c963-a2a6-3eec-a458-16cacca89c89"
+            },
+            {
+              "id": "NORM-59536122-71b7-3941-98e4-87162e3ab5c4",
+              "notation": "BNDG-K350",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K350",
+              "labels": [
+                {
+                  "text": "other kinds of fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Schließe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-11d8c963-a2a6-3eec-a458-16cacca89c89"
+            },
+            {
+              "id": "NORM-9161038e-bbfd-393b-9130-2b419d9a4c08",
+              "notation": "BNDG-K366",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K366",
+              "labels": [
+                {
+                  "text": "knotted ties",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schleifenverschluss",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4e6d4e42-cd51-32f7-8cd8-34cbd24020e8"
+            },
+            {
+              "id": "NORM-b38deb6e-388e-346b-9cba-2f6e7415380a",
+              "notation": "BNDG-K691",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K691",
+              "labels": [
+                {
+                  "text": "other kinds of tie fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiger Bindeverschluss",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4e6d4e42-cd51-32f7-8cd8-34cbd24020e8"
+            },
+            {
+              "id": "NORM-f65bb4b9-712c-3c42-aabe-d791bde3913a",
+              "notation": "BNDG-K927",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K927",
+              "labels": [
+                {
+                  "text": "cord and button fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Wickelverschluss",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-4e6d4e42-cd51-32f7-8cd8-34cbd24020e8"
+            },
+            {
+              "id": "NORM-4da2b9b3-724d-31a9-ae63-4fa08c3e2fcc",
+              "notation": "BNDG-K767",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K767",
+              "labels": [
+                {
+                  "text": "Hook-clasp fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kurzriemenschließe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-6bd0efa4-831f-3371-bd8a-922157a5f2ad"
+            },
+            {
+              "id": "NORM-57b5dc4e-01fd-3150-a407-0e9fe2c104d9",
+              "notation": "BNDG-K763",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-K763",
+              "labels": [
+                {
+                  "text": "Long-strap fastening",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Langriemenschließe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-6bd0efa4-831f-3371-bd8a-922157a5f2ad"
+            }
+          ]
+        },
+        {
+          "id": "NORM-b55f5a22-938c-341b-9f5f-90ddd46efcdd",
+          "notation": "BNDG-D",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D",
+          "labels": [
+            {
+              "text": "Binding: Board or wrapping material",
+              "isoCode": "en"
+            },
+            {
+              "text": "Deckelkern- oder Umschlagmaterial",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-3545f756-1288-3ef9-ac0b-76f1cbf803d8",
+              "notation": "BNDG-D864",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D864",
+              "labels": [
+                {
+                  "text": "parchment (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Pergament (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Pergament als Deckel- oder Umschlagmaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-8a290f5b-bab0-31c6-900e-b4c63d35edab",
+              "notation": "BNDG-D235",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D235",
+              "labels": [
+                {
+                  "text": "board",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Pappe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ab dem 16. bzw. 17. Jahrhundert treten neben Deckel aus Holz oder Pergament auch Deckel aus Pappe. Pappe ist zunächst die Bezeichnung für den Kleister der Buchbinder: Mit ihm wurden Papier- und Pergamentbögen zusammengeklebt bzw. zusammengepappt. Als Deckelmaterial wird Pappe im 17. und 18. Jahrhundert gebraucht. Häufig sind die Pappen zusätzlich mit Pergament überzogen (=> Pergamentband) oder auch Leder überzogen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-d03e0ede-ec98-3728-8d4f-5a50e0cf6f1a",
+                "NORM-7a13baa1-59c3-3ba1-85f7-eb87b7b0f9bd"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-b2fefc2d-d79c-3221-b46c-8faebe8bb6eb",
+              "notation": "BNDG-D174",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D174",
+              "labels": [
+                {
+                  "text": "wood",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Holz",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "wooden",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Vielzahl der mittelalterlichen Bindungen bestehen aus Holzdeckeln. Sie verleihen Schutz sowie Stabilität. Ihr Gewicht ermöglicht es gleichzeitig gerade bei Buchblöcken aus Pergament ein (Gegen-)gewicht zum arbeitenden Pergament zu bilden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-32e47e21-261b-3fb6-a28d-f106bd1b4490",
+              "notation": "BNDG-D745",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D745",
+              "labels": [
+                {
+                  "text": "other board material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Deckelmaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Verwendung anderer Materialien als Deckelkern oder Umschlag",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-4d98d800-d8af-3eca-a7a6-b0b655298dab",
+              "notation": "BNDG-D138",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D138",
+              "labels": [
+                {
+                  "text": "textile (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Textil (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Textilien als Deckel- oder Umschlagmaterialien",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-b419518a-8e55-3424-a93f-12b553b8b679",
+              "notation": "BNDG-D941",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D941",
+              "labels": [
+                {
+                  "text": "paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Papier als reines Deckelmaterial wird für Handschriften seltener verwendet. Häufig ist es dabei auf dünne Bücher oder Helfte beschränkt, da mittels Papier keine so große Stabilität und kein so großer Schutz für den Buchblock geboten werden kann wie mittels Pappe oder Holz.\\r\\nPapier kann auch als Bezug für Pappdeckel verwendet werden, dann jedoch ist nicht von Papier als Deckelmaterial die Rede.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-090fb8fc-54c9-3a6d-a8b0-10690366a440",
+                "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b",
+                "NORM-febe8860-1ab2-3bfd-838f-aa8e1167d4ad"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-f805b2d9-3da4-3e0a-b550-be01694b2a31",
+              "notation": "BNDG-D803",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D803",
+              "labels": [
+                {
+                  "text": "leather (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Leder (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Leder als Deckel- oder Umschlagmaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-d03e0ede-ec98-3728-8d4f-5a50e0cf6f1a",
+              "notation": "BNDG-D123",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D123",
+              "labels": [
+                {
+                  "text": "genuine board",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Echte Pappe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Karton",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-8a290f5b-bab0-31c6-900e-b4c63d35edab"
+            },
+            {
+              "id": "NORM-7a13baa1-59c3-3ba1-85f7-eb87b7b0f9bd",
+              "notation": "BNDG-D930",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D930",
+              "labels": [
+                {
+                  "text": "adhesive-laminated board",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Klebepappe",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Vor allem im 16. Jh. und 17. Jahrhundert griff man auf sogenannte Klebepappen zurück, also aus makuliertem Handschriften- oder Druckmaterial aus Papier oder Pergament zusammengefügte Pappen. Auch diese könnten zusätzlich mit Pergament oder Leder überzogen sein.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-8a290f5b-bab0-31c6-900e-b4c63d35edab"
+            },
+            {
+              "id": "NORM-090fb8fc-54c9-3a6d-a8b0-10690366a440",
+              "notation": "BNDG-D354",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D354",
+              "labels": [
+                {
+                  "text": "other kinds of paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Papier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Andere Papierarten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-b419518a-8e55-3424-a93f-12b553b8b679"
+            },
+            {
+              "id": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b",
+              "notation": "BNDG-D431",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D431",
+              "labels": [
+                {
+                  "text": "Buntpapier (Deckel)",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "decorated paper (board)",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Buntpapier ist nachträglich veredeltes Papier. Entscheidend ist die meist dekorative Bearbeitung der Papiere – durch Färben, Bedrucken, Prägen oder andere Verfahren – nach ihrer Herstellung als Rohpapier.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-2a50641e-6f05-3af0-96e7-85391db62018",
+                "NORM-6f37e2c3-ebfd-3503-852e-90da99314cb6",
+                "NORM-c5e06fbd-b235-3015-83bf-0c0c09f98bbc",
+                "NORM-a552312e-7387-3625-b49a-5c319623721d",
+                "NORM-51022592-e3c0-30de-887b-f0a7e5b00d2c",
+                "NORM-4df08386-3ebd-3830-95ff-6c67bce8bde6",
+                "NORM-1c9d82d6-cb5e-30bb-a860-36c7c986b4b9",
+                "NORM-5481a6b6-95a1-36bf-b85a-83061b0b5665",
+                "NORM-154f9d62-e7be-321e-bc99-1d7cae52ef1c"
+              ],
+              "broader": "NORM-b419518a-8e55-3424-a93f-12b553b8b679"
+            },
+            {
+              "id": "NORM-febe8860-1ab2-3bfd-838f-aa8e1167d4ad",
+              "notation": "BNDG-D898",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D898",
+              "labels": [
+                {
+                  "text": "Non-decorated paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rohpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Nicht gefärbtes bzw. verziertes Papier",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-b419518a-8e55-3424-a93f-12b553b8b679"
+            },
+            {
+              "id": "NORM-2a50641e-6f05-3af0-96e7-85391db62018",
+              "notation": "BNDG-D630",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D630",
+              "labels": [
+                {
+                  "text": "stamp printed paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Stempeldruckpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "„Stempeldruckpapiere werden mit Stempeln aus Holz, Gummi oder aus Kartoffeln bedruckt. im Gegensatz zu Modeldruckpapieren sind die Stempel in der Regenkleiner und werden - regelmäßig oder unregelmäßig - über die Fläche verteilt abgedruckt.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            },
+            {
+              "id": "NORM-6f37e2c3-ebfd-3503-852e-90da99314cb6",
+              "notation": "BNDG-D738",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D738",
+              "labels": [
+                {
+                  "text": "crinkled paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Knitterpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Unter Knitterpapier versteht man Papier, das vollfälächig gefärbt, geknittert und wieder geglättet wurde. Das Knittern und Färben können in beliebiger Reihenfolge stattfinden. Das Knitterpapier kann dabei auch aus mehreren Lagen bestehen. Danach unterscheidet man einlagiges und zweilagiges Knitterpapier.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            },
+            {
+              "id": "NORM-c5e06fbd-b235-3015-83bf-0c0c09f98bbc",
+              "notation": "BNDG-D586",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D586",
+              "labels": [
+                {
+                  "text": "monochrome brushed paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einfarbiges Papier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "single-color paper",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einfarbig gestrichenes Papier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Fläche des Papiers wird vollständig mit einer Farbe bestrichen, also mit einem Pinsel aufgetragen. Die Spuren der Pinselborsten sind in der Regel klar erkennbar.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            },
+            {
+              "id": "NORM-a552312e-7387-3625-b49a-5c319623721d",
+              "notation": "BNDG-D253",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D253",
+              "labels": [
+                {
+                  "text": "sprinkled paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sprenkelpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "„Sprenkelpapiere werden manuell oder maschinell ein- oder mehrfarbig besprenkelt. Die Sprenkel von meist annnähernd gleicher Größe sind in der Regel gleichmäßig über die gesamte Fläche des Trägerpapiers verteilt.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            },
+            {
+              "id": "NORM-51022592-e3c0-30de-887b-f0a7e5b00d2c",
+              "notation": "BNDG-D341",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D341",
+              "labels": [
+                {
+                  "text": "paste paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kleisterpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Kleisterpapier ist meist vollständig mit gefärbtem Kleister bedeckt. Merkmal des Kleisterpapiers ist die deutlich erkennbare Textur des Kleisters. Zusätzliche Verzierungen oder Musterungen ergeben sich aus der Verformung des Kleisters mit dem Werkzeug. Demnach unterscheidet man verschiedene Formen des Kleisterpapiers, wie beispielsweise das gestrichene Kleisterpapier, das geäderte Kleisterpapier, Kleisterpapier mit Verdrängungsdekor oder Kleisterpapier mit Einmalungen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            },
+            {
+              "id": "NORM-4df08386-3ebd-3830-95ff-6c67bce8bde6",
+              "notation": "BNDG-D367",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D367",
+              "labels": [
+                {
+                  "text": "other decorated paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Buntpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Andere Arten von Buntpapier",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            },
+            {
+              "id": "NORM-1c9d82d6-cb5e-30bb-a860-36c7c986b4b9",
+              "notation": "BNDG-D401",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D401",
+              "labels": [
+                {
+                  "text": "brocaded paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Brokatpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Bei der Herstellung des Brokatpapiers wird hauchdünnes Blattgold unter dem Druck einer Walzenpresse mit angefeuchtetem Papier verbunden. Das Motiv wird dabei aus einer Messing- oder Kupferplatte als Relief herausgestochen. Sowohl negativer als auch positiver Druck ist dadurch möglich.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            },
+            {
+              "id": "NORM-5481a6b6-95a1-36bf-b85a-83061b0b5665",
+              "notation": "BNDG-D624",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D624",
+              "labels": [
+                {
+                  "text": "marbled paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Marmorpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Marmoriertes Papier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "„Das Dekor von Marmorierten Papieren entsteht durch das Aufbringen von flüssigen Farben auf den sog. Marmoriergrund. Die Farben können aufgetropft oder gesprüht und anschließend noch mit Nadeln oder Kämmen verzogen werden. Durch Auflegen eines Bogen Papiers auf den \\\"Farbteppich\\\" wird das Dekor auf das Papier übertragen.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            },
+            {
+              "id": "NORM-154f9d62-e7be-321e-bc99-1d7cae52ef1c",
+              "notation": "BNDG-D971",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-D971",
+              "labels": [
+                {
+                  "text": "block printed paper (board)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Modeldruckpapier (Deckel)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "„Modeldruckpapiere entstehen im Handdruckverfahren mit Modeln aus Holz, seltener auch aus anderen Materialen. Gedruckt wurde ursprünglich mit Leim- oder Kleisterfarben. Bei mehrfarbigen Drucken wird für jede Farbe ein eigener Model benötigt.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-85d70460-c7ff-3637-a2d2-82ec52692a3b"
+            }
+          ]
+        },
+        {
+          "id": "NORM-549c93cc-34c9-3b88-ab62-6715832e24a1",
+          "notation": "BNDG-G",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G",
+          "labels": [
+            {
+              "text": "Covering and back decoration",
+              "isoCode": "en"
+            },
+            {
+              "text": "Verzierungsart Deckel- und Rückenbezug",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-64facc7e-2387-328b-a3f7-43b8bca59c08",
+              "notation": "BNDG-G117",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G117",
+              "labels": [
+                {
+                  "text": "without decoration",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Verzierung nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "unverziert",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-d88d24fd-ef3f-31b2-8e7b-e1ec39963619",
+                "NORM-ac8a861f-d513-39cb-b5cc-b395eef33e66"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9",
+              "notation": "BNDG-G607",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G607",
+              "labels": [
+                {
+                  "text": "Verzierung vorhanden",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "with decoration",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Verziert",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Der Einband weist Verzierungen auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-7a48931b-08b2-31b5-b7ca-b97b2b64b31f",
+                "NORM-4d67db30-9289-31fe-bc6d-e1ae609e1b88",
+                "NORM-84af7d18-d82f-33f7-95fd-82a8d1aa4afb",
+                "NORM-df1b527a-ae07-3601-b9d8-c8d049f87b8f",
+                "NORM-2b1df75a-5249-33d5-af4f-156f786cca40",
+                "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9",
+                "NORM-005770c5-00b9-3e24-910d-93eabdcbf306",
+                "NORM-aaa2b7a4-7cb6-3e3e-a777-83bd355d3e1c",
+                "NORM-336e9ef1-e966-3841-b69e-3dea4dc725d5"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-d88d24fd-ef3f-31b2-8e7b-e1ec39963619",
+              "notation": "BNDG-G720",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G720",
+              "labels": [
+                {
+                  "text": "originally without decoration",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Verzierung ursprünglich nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "ursprünglich nicht verziert",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-64facc7e-2387-328b-a3f7-43b8bca59c08"
+            },
+            {
+              "id": "NORM-ac8a861f-d513-39cb-b5cc-b395eef33e66",
+              "notation": "BNDG-G463",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G463",
+              "labels": [
+                {
+                  "text": "decoration removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Verzierung entfernt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-64facc7e-2387-328b-a3f7-43b8bca59c08"
+            },
+            {
+              "id": "NORM-7a48931b-08b2-31b5-b7ca-b97b2b64b31f",
+              "notation": "BNDG-G218",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G218",
+              "labels": [
+                {
+                  "text": "Tooling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Prägung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Bei einer Prägung wird in das Bezugsmaterial der Deckel unter Zuhilfenahme von Druck und Temperatur eine Verzierung eingepresst.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-99a7b7f3-a2e9-3409-9bfe-49ecc8f70c77",
+                "NORM-d22b1060-c7dd-3b40-9fd5-054bed98a1f6",
+                "NORM-246c837f-4119-3ba0-b302-4cf6eb834e03"
+              ],
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-4d67db30-9289-31fe-bc6d-e1ae609e1b88",
+              "notation": "BNDG-G948",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G948",
+              "labels": [
+                {
+                  "text": "painting",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bemalung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-84af7d18-d82f-33f7-95fd-82a8d1aa4afb",
+              "notation": "BNDG-G993",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G993",
+              "labels": [
+                {
+                  "text": "incised leather",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Lederschnitt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "cuir ciselé",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-df1b527a-ae07-3601-b9d8-c8d049f87b8f",
+              "notation": "BNDG-G512",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G512",
+              "labels": [
+                {
+                  "text": "carving",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schnitzerei",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-2b1df75a-5249-33d5-af4f-156f786cca40",
+              "notation": "BNDG-G818",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G818",
+              "labels": [
+                {
+                  "text": "other kinds of decoration",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Verzierung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9",
+              "notation": "BNDG-G188",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G188",
+              "labels": [
+                {
+                  "text": "embossed decoration",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Besatz",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-e5846c41-f075-36f4-96af-5d297cf1457e",
+                "NORM-564546fb-64b6-3e04-a794-ad20b0646948",
+                "NORM-977f9dec-efc7-329d-b09b-16583867b653",
+                "NORM-53474446-83d7-3494-bccd-9c3cad5f50f7",
+                "NORM-4a8aa4a3-e71c-3929-ac3f-c72fedd6b6ac",
+                "NORM-8a660689-e5ab-3121-855f-4eb6f6a59904",
+                "NORM-7bd86f40-7c9f-3ab7-a4fd-1b5a80f30a59",
+                "NORM-b88dc796-38c4-3579-bb75-3f40e35dc9aa"
+              ],
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-005770c5-00b9-3e24-910d-93eabdcbf306",
+              "notation": "BNDG-G270",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G270",
+              "labels": [
+                {
+                  "text": "punch marks",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Punzierung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-aaa2b7a4-7cb6-3e3e-a777-83bd355d3e1c",
+              "notation": "BNDG-G152",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G152",
+              "labels": [
+                {
+                  "text": "engraving",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Gravur",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-336e9ef1-e966-3841-b69e-3dea4dc725d5",
+              "notation": "BNDG-G550",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G550",
+              "labels": [
+                {
+                  "text": "drawing",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Zeichnung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-f011a141-e777-3666-ad90-e59a874ddaa9"
+            },
+            {
+              "id": "NORM-99a7b7f3-a2e9-3409-9bfe-49ecc8f70c77",
+              "notation": "BNDG-G699",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G699",
+              "labels": [
+                {
+                  "text": "Gold-tooling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Goldprägung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-51df2586-1d47-38d1-9855-1a75561ab089",
+                "NORM-0701260e-eb99-31bc-bf5e-0040d6d9b59e",
+                "NORM-7b5852b1-a2f6-33ae-89d8-6c6e56554e77",
+                "NORM-402939f6-559a-3e8c-847c-265479e8e4b6",
+                "NORM-17cc55c0-6477-37f8-b094-6376d0385b60"
+              ],
+              "broader": "NORM-7a48931b-08b2-31b5-b7ca-b97b2b64b31f"
+            },
+            {
+              "id": "NORM-d22b1060-c7dd-3b40-9fd5-054bed98a1f6",
+              "notation": "BNDG-G655",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G655",
+              "labels": [
+                {
+                  "text": "Silver-tooling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Silberprägung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-5870448c-a211-39be-b43c-439b14ce25c1",
+                "NORM-d4977f41-e245-35de-8a80-f12e424b33a3",
+                "NORM-f9afde71-7c96-36ad-b3d1-95382d957ba5",
+                "NORM-cd35317a-b98f-365e-a1b7-e47a799d10d7",
+                "NORM-94f5f6b3-16b6-301b-8188-7657665a4c91"
+              ],
+              "broader": "NORM-7a48931b-08b2-31b5-b7ca-b97b2b64b31f"
+            },
+            {
+              "id": "NORM-246c837f-4119-3ba0-b302-4cf6eb834e03",
+              "notation": "BNDG-G747",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G747",
+              "labels": [
+                {
+                  "text": "Blind-tooling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Blindprägung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Blindprägung bezeichnet eine Prägung des feuchten Deckelleders mittels Stempeln und ähnlichen Werkzeugen ohne Verwendung von Farbe, Gold oder Silber.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-af918434-ad3d-3de5-94cb-4f7227c6bd81",
+                "NORM-64fa0b63-9af1-3269-8c78-4299ee63e519",
+                "NORM-7e1588f7-c685-3db4-9377-bde3cfc1366c",
+                "NORM-a389dfdd-55e7-354d-8b46-bc4178e6607e",
+                "NORM-d7af2a6c-833c-3b4e-a217-8cab48442998"
+              ],
+              "broader": "NORM-7a48931b-08b2-31b5-b7ca-b97b2b64b31f"
+            },
+            {
+              "id": "NORM-e5846c41-f075-36f4-96af-5d297cf1457e",
+              "notation": "BNDG-G489",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G489",
+              "labels": [
+                {
+                  "text": "Gem",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Gemme",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9"
+            },
+            {
+              "id": "NORM-564546fb-64b6-3e04-a794-ad20b0646948",
+              "notation": "BNDG-G430",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G430",
+              "labels": [
+                {
+                  "text": "Enamel",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Emaille",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9"
+            },
+            {
+              "id": "NORM-977f9dec-efc7-329d-b09b-16583867b653",
+              "notation": "BNDG-G870",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G870",
+              "labels": [
+                {
+                  "text": "other kinds of embossed decoration",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiger Besatz",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9"
+            },
+            {
+              "id": "NORM-53474446-83d7-3494-bccd-9c3cad5f50f7",
+              "notation": "BNDG-G153",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G153",
+              "labels": [
+                {
+                  "text": "horn",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Horn",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9"
+            },
+            {
+              "id": "NORM-4a8aa4a3-e71c-3929-ac3f-c72fedd6b6ac",
+              "notation": "BNDG-G502",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G502",
+              "labels": [
+                {
+                  "text": "bone",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Knochen / Bein",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9"
+            },
+            {
+              "id": "NORM-8a660689-e5ab-3121-855f-4eb6f6a59904",
+              "notation": "BNDG-G924",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G924",
+              "labels": [
+                {
+                  "text": "Ivory",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Elfenbein",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9"
+            },
+            {
+              "id": "NORM-7bd86f40-7c9f-3ab7-a4fd-1b5a80f30a59",
+              "notation": "BNDG-G494",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G494",
+              "labels": [
+                {
+                  "text": "pearl",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Perle",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9"
+            },
+            {
+              "id": "NORM-b88dc796-38c4-3579-bb75-3f40e35dc9aa",
+              "notation": "BNDG-G863",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G863",
+              "labels": [
+                {
+                  "text": "precious stone / semiprecious stone",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Edelstein / Halbedelstein",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-af91e9c2-5207-39c6-a1bf-a315a7bb3ac9"
+            },
+            {
+              "id": "NORM-51df2586-1d47-38d1-9855-1a75561ab089",
+              "notation": "BNDG-G292",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G292",
+              "labels": [
+                {
+                  "text": "Gold-tooling with stamps",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einzelstempel (Goldprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-99a7b7f3-a2e9-3409-9bfe-49ecc8f70c77"
+            },
+            {
+              "id": "NORM-0701260e-eb99-31bc-bf5e-0040d6d9b59e",
+              "notation": "BNDG-G248",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G248",
+              "labels": [
+                {
+                  "text": "other kinds of gold-tooling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Goldprägung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-99a7b7f3-a2e9-3409-9bfe-49ecc8f70c77"
+            },
+            {
+              "id": "NORM-7b5852b1-a2f6-33ae-89d8-6c6e56554e77",
+              "notation": "BNDG-G446",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G446",
+              "labels": [
+                {
+                  "text": "Gold-tooling with fillets",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Streicheisenlinien (Goldprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-99a7b7f3-a2e9-3409-9bfe-49ecc8f70c77"
+            },
+            {
+              "id": "NORM-402939f6-559a-3e8c-847c-265479e8e4b6",
+              "notation": "BNDG-G246",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G246",
+              "labels": [
+                {
+                  "text": "Gold-tooling with rolls",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rolle (Goldprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Rollenstempel (Goldprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-99a7b7f3-a2e9-3409-9bfe-49ecc8f70c77"
+            },
+            {
+              "id": "NORM-17cc55c0-6477-37f8-b094-6376d0385b60",
+              "notation": "BNDG-G215",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G215",
+              "labels": [
+                {
+                  "text": "Gold-tooled supralibros",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Supralibros (Goldprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Mit Supralibros, auch Superexlibris oder Außenexlibris, wird das Wappen oder Monogramm auf der Außenseite des Einbandes bezeichnet, mit dem der Besitz eines Buches gekennzeichnet wird. Supralibros in Goldprägung, bisweilen sehr aufwändig gestaltet, erfreuten sich insbesondere in der Zeit der Renaissance mit dem Aufkommen großer Privatbibliotheken großer Beliebtheit.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-99a7b7f3-a2e9-3409-9bfe-49ecc8f70c77"
+            },
+            {
+              "id": "NORM-5870448c-a211-39be-b43c-439b14ce25c1",
+              "notation": "BNDG-G253",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G253",
+              "labels": [
+                {
+                  "text": "Silver-tooling with stamps",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einzelstempel (Silberprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-d22b1060-c7dd-3b40-9fd5-054bed98a1f6"
+            },
+            {
+              "id": "NORM-d4977f41-e245-35de-8a80-f12e424b33a3",
+              "notation": "BNDG-G242",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G242",
+              "labels": [
+                {
+                  "text": "Silver-tooling with rolls",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rolle (Silberprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Rollenstempel (Silberprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-d22b1060-c7dd-3b40-9fd5-054bed98a1f6"
+            },
+            {
+              "id": "NORM-f9afde71-7c96-36ad-b3d1-95382d957ba5",
+              "notation": "BNDG-G862",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G862",
+              "labels": [
+                {
+                  "text": "Silver-tooling with fillets",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Streicheisenlinien (Silberprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-d22b1060-c7dd-3b40-9fd5-054bed98a1f6"
+            },
+            {
+              "id": "NORM-cd35317a-b98f-365e-a1b7-e47a799d10d7",
+              "notation": "BNDG-G245",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G245",
+              "labels": [
+                {
+                  "text": "other kinds of silver-tooling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Silberprägung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-d22b1060-c7dd-3b40-9fd5-054bed98a1f6"
+            },
+            {
+              "id": "NORM-94f5f6b3-16b6-301b-8188-7657665a4c91",
+              "notation": "BNDG-G308",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G308",
+              "labels": [
+                {
+                  "text": "Silver-tooled supralibros",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Supralibros (Silberprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-d22b1060-c7dd-3b40-9fd5-054bed98a1f6"
+            },
+            {
+              "id": "NORM-af918434-ad3d-3de5-94cb-4f7227c6bd81",
+              "notation": "BNDG-G437",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G437",
+              "labels": [
+                {
+                  "text": "Blind-tooling with fillets",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Streicheisenlinien (Blindprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-246c837f-4119-3ba0-b302-4cf6eb834e03"
+            },
+            {
+              "id": "NORM-64fa0b63-9af1-3269-8c78-4299ee63e519",
+              "notation": "BNDG-G525",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G525",
+              "labels": [
+                {
+                  "text": "Blind-tooling with rolls",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rolle (Blindprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Rollenstempel (Blindprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Bei der Rolle trägt eine Zylinderfläche ein Muster, das durch Abrollen des Zylinders auf das Leder übertragen wird. Die Rolle ist in Europa seit der Mitte des 15. Jahrhunderts im Gebrauch.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-246c837f-4119-3ba0-b302-4cf6eb834e03"
+            },
+            {
+              "id": "NORM-7e1588f7-c685-3db4-9377-bde3cfc1366c",
+              "notation": "BNDG-G124",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G124",
+              "labels": [
+                {
+                  "text": "other kinds of blind-tooling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Blindprägung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-246c837f-4119-3ba0-b302-4cf6eb834e03"
+            },
+            {
+              "id": "NORM-a389dfdd-55e7-354d-8b46-bc4178e6607e",
+              "notation": "BNDG-G882",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G882",
+              "labels": [
+                {
+                  "text": "Blind-tooling with stamps",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einzelstempel (Blindprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Zur Blindprägung werden Stempel verwendet, die aus einem Metallteil mit dem eingravierten Schmuckmotiv und einem Holzgriff bestehen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-246c837f-4119-3ba0-b302-4cf6eb834e03"
+            },
+            {
+              "id": "NORM-d7af2a6c-833c-3b4e-a217-8cab48442998",
+              "notation": "BNDG-G114",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-G114",
+              "labels": [
+                {
+                  "text": "Blind-tooled supralibros",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Supralibros (Blindprägung)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-246c837f-4119-3ba0-b302-4cf6eb834e03"
+            }
+          ]
+        },
+        {
+          "id": "NORM-12865286-76e6-3a6b-9c27-977cb56466d7",
+          "notation": "BNDG-B",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B",
+          "labels": [
+            {
+              "text": "Binding technique",
+              "isoCode": "en"
+            },
+            {
+              "text": "Einbandtechnik",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-9b56f422-a95c-39fa-9669-652d3331d1a7",
+              "notation": "BNDG-B869",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B869",
+              "labels": [
+                {
+                  "text": "Other binding techniques",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Heftung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Sonstige Heftungsart",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Sonstiges",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Andere Heftarten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-7f20442e-c19f-3f54-9dcc-3ee441f5644d",
+              "notation": "BNDG-B285",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B285",
+              "labels": [
+                {
+                  "text": "Link-stitch sewing",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kettenstichheftung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Bei dieser Heftart wird der Faden, wenn er vom Lageninneren nach außen geführt wird, mittels eines Kettenstiches mit dem Faden der vorhergehenden Lage verbunden. Dadurch entsteht mehr Halt für die Lagen sowie die Grundlage für die Befestigung der Buchdeckel.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-700b02d0-d07d-381f-9ead-bebac8424662",
+              "notation": "BNDG-B699",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B699",
+              "labels": [
+                {
+                  "text": "Short-stitch sewing",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kurzstichheftung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-1a02603b-bc5d-323d-869d-0e33d83a1412",
+              "notation": "BNDG-B859",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B859",
+              "labels": [
+                {
+                  "text": "Sewing",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Heftung ist die Verbindung der einzelnen Blätter bzw. Seiten oder der gefalzten Papierbögen zu einem Heft oder Buchblock.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-ca34eca0-ad40-36d4-abae-893bfb47d15d",
+                "NORM-47298c03-938d-39b3-8665-e78aaaf9de5f",
+                "NORM-2110968e-294f-3ab8-b168-75436b7948ff",
+                "NORM-aaf0f40b-0703-3a30-8724-a8b413d36c38",
+                "NORM-f1e41003-d238-3515-ab37-30f426a6e252",
+                "NORM-90d8afaf-f26c-3241-ab0a-928afb3dbfa3"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-af593adc-65d9-385c-8883-ecfcba779efd",
+              "notation": "BNDG-B329",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B329",
+              "labels": [
+                {
+                  "text": "adhesive binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Klebung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Klebebindung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Bindungen, bei denen die Lagen nur durch Klebstoffe zusammengehalten werden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-e72f66c5-8444-33a7-88ca-2e7bfdf8800a",
+              "notation": "BNDG-B964",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B964",
+              "labels": [
+                {
+                  "text": "Other sewing techniques without supports",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Heftung ohne zusätzliches Trägermaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Andere Heftarten, bei denen kein Trägermaterial verwendet wird.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-ca34eca0-ad40-36d4-abae-893bfb47d15d",
+              "notation": "BNDG-B726",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B726",
+              "labels": [
+                {
+                  "text": "Sewing on supports",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung auf Bünde",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Bindung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Heftung auf Bünde ist seit etwa 600 n. Chr. bekannt und war das charakteristische Bindeverfahren des Abendlandes. Sie ist zwingend mit der handwerklichen Herstellung und dem Verfahren des angesetzten Bandes verbunden; daher wurde sie nach der Einführung des industriellen Deckenbandes immer seltener und kommt heute nur noch bei bibliophilen Büchern zum Einsatz. Abhängig von der Form der Bünde werden verschiedene Hefttechniken definiert.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-1b8d5c1e-9b0c-3de0-8f34-21c6b8f5ef3d",
+                "NORM-6993660a-e1f4-3565-9ba3-fec900e47dea"
+              ],
+              "broader": "NORM-1a02603b-bc5d-323d-869d-0e33d83a1412"
+            },
+            {
+              "id": "NORM-47298c03-938d-39b3-8665-e78aaaf9de5f",
+              "notation": "BNDG-B478",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B478",
+              "labels": [
+                {
+                  "text": "Sewing on support material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung mit zusätzlichem Trägermaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Lagen werden auf Trägermaterialien (Bünde, Bänder) geheftet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-1a02603b-bc5d-323d-869d-0e33d83a1412"
+            },
+            {
+              "id": "NORM-2110968e-294f-3ab8-b168-75436b7948ff",
+              "notation": "BNDG-B548",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B548",
+              "labels": [
+                {
+                  "text": "Sewing without supports",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung ohne zusätzliches Trägermaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Lagen werden nicht auf Trägermaterialien geheftet, sondern direkt miteinander verbunden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-1a02603b-bc5d-323d-869d-0e33d83a1412"
+            },
+            {
+              "id": "NORM-aaf0f40b-0703-3a30-8724-a8b413d36c38",
+              "notation": "BNDG-B783",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B783",
+              "labels": [
+                {
+                  "text": "Sewing on flat band",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung auf Band",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Durch die Verwendung von Bändern anstelle von Kordeln wird ein flaches Aufliegen des Buches ermöglicht.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-1a02603b-bc5d-323d-869d-0e33d83a1412"
+            },
+            {
+              "id": "NORM-f1e41003-d238-3515-ab37-30f426a6e252",
+              "notation": "BNDG-B993",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B993",
+              "labels": [
+                {
+                  "text": "Long-stitch sewing",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Langstichheftung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Bei dieser Heftart werden die Lagen der Länge nach zusammengeheftet, indem die Heftfäden aus dem Innern der Lagen durch den Rückenbezug hindurchgeführt werden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-1a02603b-bc5d-323d-869d-0e33d83a1412"
+            },
+            {
+              "id": "NORM-90d8afaf-f26c-3241-ab0a-928afb3dbfa3",
+              "notation": "BNDG-B561",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B561",
+              "labels": [
+                {
+                  "text": "Thread stitching",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fadenheftung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Zur Heftung wird Faden verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-1a02603b-bc5d-323d-869d-0e33d83a1412"
+            },
+            {
+              "id": "NORM-1b8d5c1e-9b0c-3de0-8f34-21c6b8f5ef3d",
+              "notation": "BNDG-B118",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B118",
+              "labels": [
+                {
+                  "text": "Sewing on recessed supports",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung auf versenkte Bünde",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Bei dieser Heftart liegen die Bünde im Rücken versenkt. Dabei wird in Position der Heftbünde der Buchblock eingesägt; das Ergebnis ist ein glatter Rücken.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-ca34eca0-ad40-36d4-abae-893bfb47d15d"
+            },
+            {
+              "id": "NORM-6993660a-e1f4-3565-9ba3-fec900e47dea",
+              "notation": "BNDG-B260",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B260",
+              "labels": [
+                {
+                  "text": "Sewing on raised supports",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung auf erhabene Bünde",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Bei dieser Heftart sind die Bünde am Rücken als Erhöhung sichtbar; der Heftfaden wird um die Kordeln bzw. das für den Bund verwendete Material herumgeführt. Man unterscheidet hier zwischen der Heftung auf einem einfachen Bund und auf einem Doppelbund, abhängig von der Verwendung einer Kordel oder zwei Kordeln bzw. anderem Material pro Bund.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-8592059c-10a3-3418-99e9-e168b0abe21a",
+                "NORM-c7353c06-d538-3256-b6bb-e44f56dc8bec"
+              ],
+              "broader": "NORM-ca34eca0-ad40-36d4-abae-893bfb47d15d"
+            },
+            {
+              "id": "NORM-8592059c-10a3-3418-99e9-e168b0abe21a",
+              "notation": "BNDG-B854",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B854",
+              "labels": [
+                {
+                  "text": "Sewing on single supports",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung auf Einzelbünde",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Heftung auf einfache Bünde",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Bei dieser Heftart wird pro Bund nur eine Kordel bzw. anderes Trägermaterial für die Heftung verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-6993660a-e1f4-3565-9ba3-fec900e47dea"
+            },
+            {
+              "id": "NORM-c7353c06-d538-3256-b6bb-e44f56dc8bec",
+              "notation": "BNDG-B568",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-B568",
+              "labels": [
+                {
+                  "text": "Sewing on double supports",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Heftung auf Doppelbünde",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Heftung auf doppelte Bünde",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Bei dieser Heftart werden pro Bund zwei Kordeln bzw. andere Trägermaterialien für die Heftung verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-6993660a-e1f4-3565-9ba3-fec900e47dea"
+            }
+          ]
+        },
+        {
+          "id": "NORM-cfe22a51-e7db-34af-aeab-eb179a4fcb11",
+          "notation": "BNDG-N",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-N",
+          "labels": [
+            {
+              "text": "book chain",
+              "isoCode": "en"
+            },
+            {
+              "text": "Buchkette",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-5fd2ff63-5777-30ba-8d55-56d77c8063c0",
+              "notation": "BNDG-N315",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-N315",
+              "labels": [
+                {
+                  "text": "without chain",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kette nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Buchkette ist nicht oder nicht mehr vorhanden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-1a8d45b0-6036-3668-bc46-3cdd100b265a",
+                "NORM-4f8a246b-c8ce-3361-b027-c7b310d420b2"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-5271c031-82cb-342a-85a1-811d827c9cfe",
+              "notation": "BNDG-N174",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-N174",
+              "labels": [
+                {
+                  "text": "with chain",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kette vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "In mittelalterlichen Bibliotheken wurden die auf Pulten liegenden Bücher oft zum Schutz gegen Diebstahl angekettet. Diese sog. Kettenbücher hingen an einer Kette, die meist am oberen Rand des Hinterdeckels und an ihrem anderen Ende an einer Stange am Pult befestigt war. Die Ketten sind nur in relativ seltenen Fällen erhalten geblieben.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": null,
+              "broader": null
+            },
+            {
+              "id": "NORM-1a8d45b0-6036-3668-bc46-3cdd100b265a",
+              "notation": "BNDG-N291",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-N291",
+              "labels": [
+                {
+                  "text": "chain removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kette entfernt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Auf dem Buchdeckel sind Spuren einer Kette bzw. ihrer Befestigung zu erkennen, die darauf schließen lassen, dass das Buch einst angekettet war, die Kette aber später entfernt wurde.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-5fd2ff63-5777-30ba-8d55-56d77c8063c0"
+            },
+            {
+              "id": "NORM-4f8a246b-c8ce-3361-b027-c7b310d420b2",
+              "notation": "BNDG-N625",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-N625",
+              "labels": [
+                {
+                  "text": "originally without chain",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kette ursprünglich nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Es war ursprünglich keine Kette an dem Buch angebracht.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-5fd2ff63-5777-30ba-8d55-56d77c8063c0"
+            }
+          ]
+        },
+        {
+          "id": "NORM-04afd67f-7273-30ef-9a6e-d6411b02081e",
+          "notation": "BNDG-M",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M",
+          "labels": [
+            {
+              "text": "furnishings",
+              "isoCode": "en"
+            },
+            {
+              "text": "Beschläge",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-e999291b-5974-3519-bea5-6368448ffb5c",
+              "notation": "BNDG-M340",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M340",
+              "labels": [
+                {
+                  "text": "with furnishings",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Beschlag vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "„Buchbeschläge dienen zum Schutz des Äußeren des Buches und werden an verschiedenen Stellen der Deckel angebracht (Massivbuckel, Mittelbeschlag, Eckbeschlag, Beschlagplatten, Beschlagleisten, Stehfüße). Sie schaffen einen Sicherheitsabstand von der Auflagefläche eines Tisches oder Pultes zur Oberfläche des Einbandes und zu den Deckelkanten und -ecken. Das verwendete Material ist Metall, Horn, Elfenbein oder Hartholz.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-a5874231-7c6b-3039-b472-f2bb854f6cc7",
+                "NORM-dd7dbb28-9778-345e-8cbd-ba64a6c75d54",
+                "NORM-12c35a54-1e33-312b-b271-0ae23b084ae4",
+                "NORM-82bbbacf-3492-3f74-87d1-8c6dfdacd131"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-6289b6cd-6c1c-3a6e-b265-47c7c20913b5",
+              "notation": "BNDG-M301",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M301",
+              "labels": [
+                {
+                  "text": "without furnishings",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Beschlag nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Beschläge nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-15d0ffbf-2df1-38b9-9a3a-ad51304eef6c",
+                "NORM-ebcb5974-b066-3435-bb8e-efbd4716df6b"
+              ],
+              "broader": null
+            },
+            {
+              "id": "NORM-a5874231-7c6b-3039-b472-f2bb854f6cc7",
+              "notation": "BNDG-M426",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M426",
+              "labels": [
+                {
+                  "text": "with center pieces",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Mittelbeschlag (vorhanden)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "„Der Mittelbeschlag tritt selten alleine, meist mit Eckbeschlägen auf. Er schützt den Lederbezug der Deckelmitte, indem er einen Abstand von der Deckeloberfläche zur Auflagefläche schafft. Da dieser Abstand entsprechend der Dicke des Beschalgs nur gering ist, wird er meist dadurch vergrößert, indem er mit einem Buckel versehen wird.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-e999291b-5974-3519-bea5-6368448ffb5c"
+            },
+            {
+              "id": "NORM-dd7dbb28-9778-345e-8cbd-ba64a6c75d54",
+              "notation": "BNDG-M398",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M398",
+              "labels": [
+                {
+                  "text": "with shoes",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Randbeschlag / Randleiste (vorhanden)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Kanten- und Winkelleiste (vorhanden)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Um die Deckelkanten zu schützen, wurden insbesondere bis Anfang des 16. Jahrhunderts Metallplatten bzw. -leisten an den Buchdeckeln befestigt. Ab dem 18. Jahrhundert kamen sie bei bei aufwändig gestalteten Bucheinbänden erneut zum Einsatz „Kanten- und Winkelleisten wurden in den freien Bereichen der Deckelkanten eingesetzt: Die Kantenleiste sitzt nur auf der Deckelkante und schützt auch nur diese. […] Dir Rücken-Kantenleiste wurde als Abschlussleiste an Kopf und Fuß des Buchrückens angebracht und ist hauptsächlich eine Schmuckleiste. […] Die Winkelleiste schützt die Deckelkante und den Deckelrandbereich und wurde an der Kopf- und an der Fußkante des Deckels angebracht. Die Rücken-Winkelleiste wurde zum Schutz von spröden Rückenmaterialien (Schildpatt, Perlmutter oder Kunst-Elfenbein) an Kopf und Fuß der Rückenplatte angebracht.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-e999291b-5974-3519-bea5-6368448ffb5c"
+            },
+            {
+              "id": "NORM-12c35a54-1e33-312b-b271-0ae23b084ae4",
+              "notation": "BNDG-M829",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M829",
+              "labels": [
+                {
+                  "text": "with corner pieces",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Eckbeschlag (vorhanden)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "„Der Eckbeschlag schützt die Deckelecken und den Deckelüberzug vor Beschädigung, Er schafft Abstand von der Deckeloberfläche zur Tischfläche. … Er kann durch die Anbringung eines Hohlbuckels, der in das Material gedrückt wird, oder einen aufgesetzten Massivbuckel vergrößert werden. Eckbeschläge wurden an allen Ecken des Vorder- und des Hinterdeckels befestigt.“",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-e999291b-5974-3519-bea5-6368448ffb5c"
+            },
+            {
+              "id": "NORM-82bbbacf-3492-3f74-87d1-8c6dfdacd131",
+              "notation": "BNDG-M530",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M530",
+              "labels": [
+                {
+                  "text": "with other kinds of furnishings",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiger Beschlag",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Zum Schutz und Schmuck der Buchdeckel wurden neben Mittel-, Eck- und Randbeschlägen bisweilen auch Beschlagstangen (massiv), Beschlagrinnen (u-förmig hohl) sowie Schmuck- und Reliefplatten angebracht. Letztere dienten zum einen einem großflächigen Deckelschutz, hatten vorwiegend aber künstlerische Zwecke zu erfüllen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-e999291b-5974-3519-bea5-6368448ffb5c"
+            },
+            {
+              "id": "NORM-15d0ffbf-2df1-38b9-9a3a-ad51304eef6c",
+              "notation": "BNDG-M760",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M760",
+              "labels": [
+                {
+                  "text": "furnishings removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Beschlag entfernt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Beschläge entfernt",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-8de04b68-b1d0-3803-a21d-2bf9671a0512",
+                "NORM-49cc3d7b-1287-3b14-8c52-5475851261c5",
+                "NORM-1ffc6ef8-ebbc-3385-b5a1-0e173a831845",
+                "NORM-27291f17-78e6-3e48-bed2-e45d0ca177f8"
+              ],
+              "broader": "NORM-6289b6cd-6c1c-3a6e-b265-47c7c20913b5"
+            },
+            {
+              "id": "NORM-ebcb5974-b066-3435-bb8e-efbd4716df6b",
+              "notation": "BNDG-M878",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M878",
+              "labels": [
+                {
+                  "text": "originally without furnishings",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Beschlag ursprünglich nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Beschläge ursprünglich nicht vorhanden",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-6289b6cd-6c1c-3a6e-b265-47c7c20913b5"
+            },
+            {
+              "id": "NORM-8de04b68-b1d0-3803-a21d-2bf9671a0512",
+              "notation": "BNDG-M354",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M354",
+              "labels": [
+                {
+                  "text": "corner pieces removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Eckbeschlag (entfernt)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-15d0ffbf-2df1-38b9-9a3a-ad51304eef6c"
+            },
+            {
+              "id": "NORM-49cc3d7b-1287-3b14-8c52-5475851261c5",
+              "notation": "BNDG-M383",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M383",
+              "labels": [
+                {
+                  "text": "shoes removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Randbeschlag / Randleiste (entfernt)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Kanten- und Winkelleiste (entfernt)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-15d0ffbf-2df1-38b9-9a3a-ad51304eef6c"
+            },
+            {
+              "id": "NORM-1ffc6ef8-ebbc-3385-b5a1-0e173a831845",
+              "notation": "BNDG-M837",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M837",
+              "labels": [
+                {
+                  "text": "center pieces removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Mittelbeschlag (entfernt)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-15d0ffbf-2df1-38b9-9a3a-ad51304eef6c"
+            },
+            {
+              "id": "NORM-27291f17-78e6-3e48-bed2-e45d0ca177f8",
+              "notation": "BNDG-M246",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/vocabulary/BNDG-M246",
+              "labels": [
+                {
+                  "text": "other kinds of furnishings removed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiger entfernter Beschlag",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": null,
+              "broader": "NORM-15d0ffbf-2df1-38b9-9a3a-ad51304eef6c"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

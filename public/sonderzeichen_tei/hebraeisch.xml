@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beispieltext Hebräisch</title>
+      </titleStmt>
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <msDesc>
+        <msIdentifier>
+          <repository>.</repository>
+          <altIdentifier type="corpus">
+            <idno>Example</idno>
+          </altIdentifier>
+        </msIdentifier>
+        <head>
+          <title></title>
+          <note type="headline"></note>
+          <index indexName="norm_title">
+            <term type="title"></term>
+          </index>
+          <index indexName="norm_material">
+            <term type="material"></term>
+            <term type="material_type"></term>
+          </index>
+          <index indexName="norm_measure">
+            <term type="measure">.</term>
+            <term type="measure_noOfLeaves"></term>
+          </index>
+          <index indexName="norm_dimensions">
+            <term type="dimensions">.</term>
+            <term type="height"></term>
+            <term type="width"></term>
+            <term type="depth"></term>
+            <term type="dimensions_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_format">
+            <term type="format"></term>
+            <term type="format_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_origPlace">
+            <term type="origPlace"></term>
+            <term type="origPlace_norm"></term>
+          </index>
+          <index indexName="norm_origDate">
+            <term type="origDate"></term>
+            <term type="origDate_notBefore"></term>
+            <term type="origDate_notAfter"></term>
+            <term type="origDate_type"></term>
+          </index>
+          <index indexName="norm_textLang">
+            <term type="textLang"></term>
+            <term type="textLang-ID"></term>
+          </index>
+          <index indexName="norm_form">
+            <term type="form"></term>
+          </index>
+          <index indexName="norm_status">
+            <term type="status"></term>
+          </index>
+          <index indexName="norm_decoration">
+            <term type="decoration"></term>
+          </index>
+          <index indexName="norm_musicNotation">
+            <term type="musicNotation"></term>
+          </index>
+        </head>
+        <msContents>
+          <textLang mainLang=""></textLang>
+          <msItem>
+            <note type="text">
+              (VDS und HDS) FRAGMENT aus dem babylonischen Talmud mit Kommentaren: TRAKTAT KᴱRITOT
+              (= Ausgrenzungen) 15a–b und 18a–b, Ordnung „Heilige Dinge“ (Seder Kodashim)
+              (hebräisch, aramäisch).<lb/>
+              Perg., 308 × 216. Schriftraum 265 × 170. Zwei Spalten, von feinen Bleistiftlinien
+              gerahmt, zu 31 Zeilen mit feinen Bleistiftlinien und Zirkelstiche. Aschkenasische
+              Quadratschrift 13.-14. Jh. Die sorgfältige Schrift weist auf einen südaschkenasischen
+              Ursprung hin, charakteristisch für Norditalien.<lb/>
+              Dieser Traktat (=Massechet) ist kein gängig studierter Talmudtraktat und verlangt
+              große Gelehrsamkeit; auch entspricht er dem „tossafistischen“,
+              tsarfato-aschkenasischen System. Der Text weist viele orthographische und textliche
+              Varianten und Zusätze zum Standarttext auf.
+            </note>
+            <note type="text">
+              (VDS) Babylonischer Talmud, Traktat bKᵉritot 15a (Schluss) und bKᵉritot 15b.<lb/>
+              Inc. mut., 1. Spalte von rechts, Z.1–4: ]<lb/>
+              1 דהואיל ושמות מוחלקין<lb/>
+              2 וגופין מוחלקין דכוותה<lb/>
+              3 קצר וקצר היכי משכחת<lb/>
+              4 דלא מחייב כגון שצר לה<lb/>
+            </note>
+            <note type="text">
+              (HDS) auf dem Kopf stehend, da verkehrt eingeklebt: Babylonischer Talmud, Traktat
+              bKᵉritot 18a-b.<lb/>
+              Inc. mut.: 1. Spalte von rechts, Z.1–4:]<lb/>
+              : 1 משום דלא נקבע ראשון<lb/>
+              2 בחטאת, נימא ליה אייתי<lb/>
+              3 חולין לעזרהִ אמ׳ רב אשי רֺ<lb/>
+              4 אליעֺ היא דאֺ מתנדב<lb/>
+              (Ir) Besitzvermerk, Signatur und Stempel (s. bei G). Tit. (18. Jh.): Franciscus
+              Petrarcha De Remedio utriusque Fortunæ.<lb/>
+              (Iv) leer.
+            </note>
+            <note type="text">
+              (1r–184va) FRANCISCUS PETRARCA: De remediis utriusque fortunae libri duo (Druck: u. a.
+              GW M31614–31618, M31620–21, M31623. Ed.: Ch. Carraud, Pétrarque. Les remèdes aux deux
+              fortunes – De remediis utriusque fortune. 1354–1366. T. 1 et 2. Grenoble 2002.
+              Teiled.: Francesco Petrarca: Heilmittel gegen Glück und Unglück. De remediis utriusque
+              fortunae. Lat.-dt. Ausgabe in Auswahl übersetzt und kommentiert von R. Schottlaender,
+              hg. E. Keßler [Humanistische Bibliothek II 18]. München 1988).<lb/>
+              (1r–3v) Prolog. Inc.: Cum res fortunasque hominum cogito incertos et subitos rerum
+              motus nichil ... – Expl.: ... Nichil est enim sine mensura ac parcium proporcione
+              formosum etc.<lb/>
+              (3v–182va) Text. Tit.: De etate florida et spe vite longioris. Capitulum primum.
+              Gaudium. – Inc.: Etas florida est multum super est vite ... – Expl.: ... Age res tuas
+              curam hanc linque viventibus etc.<lb/>
+              Enthält: (4ra) Lib. 1. – (86vb) Lib. 2.<lb/>
+              (182vb) nur Rahmung.<lb/>
+              (183r) Schlussschrift: De remediis utriusque fortune liber secundus explicit. Editus
+              et ad finem perductus a laureato poeta Francisco Petrarcha Ticini anno domini M° CCC°
+              LXVI IIII nonas octobris etc.<lb/>
+              (183ra–184va) Kapitelübersicht.<lb/>
+              (183ra) Tit.: Incipiunt tituli capitulorum primi libri. – (183vb) Tit.: Tituli libri
+              secundi. – (184va) Schlussschrift: Expliciunt tituli.<lb/>
+              (184vb) nur Rahmung.<lb/>
+              (185r–194r) leer.
+            </note>
+            <note type="text">
+              (221r) Tit.: De plebano ad plebanum. – Inc.: Oraciones meas tum omnimoda
+              promptitudinis complacencia sincerius cum amore. Meam sinceri amoris operacionem
+              omnimodam omnis boni fervens … – Expl.: … vobis sciatis favorosum nuncque semper.
+              Datum etc.<lb/>
+              Darunter: B. plebanus ecclesie huius. Discreto viro domino H. ecclesie huius rectori
+              fautorique sibi preclaro.<lb/>
+              (221v) Tit.: De conventore ecclesie ad conventorem ecclesie. – Inc.: Preces meas cum
+              omnimoda servitutis complacencia sinceriter cum amore. Domine discrete ac fautorum
+              mihi predilecte … – Expl.: … securiter quavis hora. Datum.<lb/>
+              Darunter: D. conventor ecclesie huius. Discreto viro domino B. ecclesie huius
+              conventori ymo fautori sibi sinceriter karissimo debet etc.<lb/>
+              (222r–226r) nur Rahmung.<lb/>
+              (226v) Besitzvermerk (s. bei G).<lb/>
+              (I*r–v) leer.
+            </note>
+            <note type="text">
+              (urspr. VDS und HDS) Fragment hebräisch: LITURGIE FÜR PESAḤ, HAGGADA<lb/>
+              Perg. 210 × 157 (urspr. VDS) bzw 207 × 145 (urspr. HDS). Erhaltener Schriftraum:
+              198 × 115 (urspr. VDS) bzw. 180 ×114 (urspr. HDS), von Blindlinien gerahmt.
+              Erhalten 32 bzw. 28 Zeilen auf Blindlinierung. Am VD urspr. beschriebene Seite
+              aufgeklebt, am HD beidseitig beschrieben, Rectoseite jedoch stark verblasst bzw.
+              radiert.<lb/>
+              (urspr. VDSr) (Text verblasst und erst lesbar ab der 2. Blatthälfte nach dem Bug):
+              Incipit: ואתן ליצחק את יעקב ואת עשו Explicit (lesbar ab 5. Zeile von unten):
+              עומדים עלינו לכלותינו<lb/>
+              (urspr. VDSv) Angabe der Blattzahl Folia 226.
+                Incipit (lesbar ab 5. Zeile): כמה שנ׳ בבעים נפש ירדו אבותך
+                Explicit (lesbar ab dem 3. Wort): לוחצים אותם ויוציאנו יוי<lb/>
+              (urspr. HDSr) Notiz (stark verblasst): Stainparasim (?). Darunter einstige hebräische
+              Beschriftung kaum mehr lesbar.<lb/>
+              (urspr. HDSr) Inc. mut.: צרח כשומר ושח ואתא Expl: אלהינו מלך העולם
+            </note>
+            <note type="text">
+              Vier Pergamentblätter, urpr. an den Buchdeckeln unter dem Lederbezug (s. bei E):
+              Fragment aus einem GRADUALE, Temporale und Sanctorale gemischt, um 1300. Mit
+              Neumen.<lb/>
+              Perg. 212/216 × 138/142. Urspr. Doppelbl., beschnitten. Beidseitig beschrieben,
+              allerdings tw. kaum mehr erkennbar. Erhaltener Schriftraum 130 × 85/95, von Tinten-
+              bzw. Blindlinien seitlich begrenzt (gerahmt?). Erhalten 25–28 Zeilen auf
+              Blindlinierung. Frühgotische Minuskel um 1300. Linienlose deutsche Neumen. Rote
+              Auszeichnungsstriche, Überschriften sowie ein- bis vierzeilige Lombarden.<lb/>
+              Erhalten sind u. a. die Gesänge zu Dnca 4. adv., In vigilia nativ. dni, In galli
+              cantu, In primo mane, Stephanus, Iohannes, Felix, Marcellus papa, Prisca, Fabianus,
+              Agnes, Vincentius, Octava Agnetis, In purificatione BMV (Antiphone und Messe), Fer. 4
+              Quatuor temporum, Dnca in Septuagesima, Dnca in Sexagesima, Dnca in Quadragesima, In
+              capite ieiunii, Fer. 4 in capite ieiunii, Fer. 5, Fer. 6.
+            </note>
+          </msItem>
+        </msContents>
+      </msDesc>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,130 @@
+import { Meta, IconGallery, IconItem } from '@storybook/blocks';
+
+import { NormdatenIconFactory } from '../src/domain/editor/icons/NormdatenIcons'
+import { AddBlackIcon } from '../src/domain/editor/icons/AddBlackIcon'
+import { AddChildIcon } from '../src/domain/editor/icons/AddChildIcon'
+import { DeleteWhiteIcon } from '../src/domain/editor/icons/DeleteWhiteIcon'
+import { DuplicateBlackIcon } from '../src/domain/editor/icons/DuplicateBlackIcon'
+import { LineOne } from '../src/domain/editor/icons/LineOne'
+import { RemoveBlackIcon } from '../src/domain/editor/icons/RemoveBlackIcon'
+import { AutoRenewIcon } from '../src/domain/toolbar/icons/AutoRenewWhiteIcon'
+import { CancelIcon } from '../src/domain/toolbar/icons/CancelWhiteIcon'
+import { DiscountOutlinedIcon } from '../src/domain/toolbar/icons/DiscountOutlinedIcon'
+import { EditIcon } from '../src/domain/toolbar/icons/EditWhiteIcon'
+import { EnterFullscreenIcon} from '../src/domain/toolbar/icons/StartFullscreenIcon'
+import { FullscreenExitIcon } from '../src/domain/toolbar/icons/ExitFullscreenIcon'
+import { NormalansichtIcon } from '../src/domain/toolbar/icons/NormalansichtIcon'
+import { NotesIcon } from '../src/domain/toolbar/icons/NotesIcon'
+import { SaveIcon } from '../src/domain/toolbar/icons/SaveWhiteIcon'
+import { TEIEncodingIcon } from '../src/domain/toolbar/icons/TEIEncodingIcon'
+import { ValidateIcon } from '../src/domain/toolbar/icons/ValidateWhiteIcon'
+import { VisibilityNew24db2 } from '../src/domain/toolbar/icons/VisibilityNew24db2'
+import { XMLTagIcon } from '../src/domain/toolbar/icons/XMLTagIcon'
+import { UnfoldLessIcon } from '../src/domain/toolbar/icons/UnfoldLessBlack24dp'
+import { UnfoldMoreIcon } from '../src/domain/toolbar/icons/UnfoldMoreBlack24dp'
+
+<Meta title="Icons" />
+
+## Ikonographie
+
+### Normdaten Icons
+
+<IconGallery>
+  <IconItem name="person">
+    <NormdatenIconFactory type="person"/>
+  </IconItem>
+  <IconItem name="körperschaft">
+    <NormdatenIconFactory type="körperschaft"/>
+  </IconItem>
+  <IconItem name="ort">
+    <NormdatenIconFactory type="ort"/>
+  </IconItem>
+  <IconItem name="sprache">
+    <NormdatenIconFactory type="sprache"/>
+  </IconItem>
+  <IconItem name="schriftart">
+    <NormdatenIconFactory type="schriftart"/>
+  </IconItem>
+  <IconItem name="initium">
+    <NormdatenIconFactory type="initium"/>
+  </IconItem>
+  <IconItem name="einband">
+    <NormdatenIconFactory type="einband"/>
+  </IconItem>
+  <IconItem name="textgattung">
+    <NormdatenIconFactory type="textgattung"/>
+  </IconItem>
+</IconGallery>
+
+### Editor
+
+<IconGallery>
+  <IconItem name="add">
+    <AddBlackIcon />
+  </IconItem>
+  <IconItem name="add child">
+    <AddChildIcon />
+  </IconItem>
+  <IconItem name="delete">
+    <DeleteWhiteIcon />
+  </IconItem>
+  <IconItem name="duplicate">
+    <DuplicateBlackIcon />
+  </IconItem>
+  <IconItem name="line one">
+    <LineOne />
+  </IconItem>
+  <IconItem name="remove">
+    <RemoveBlackIcon />
+  </IconItem>
+</IconGallery>
+
+### Toolbar
+
+<IconGallery>
+  <IconItem name="auto renew">
+    <AutoRenewIcon />
+  </IconItem>
+  <IconItem name="cancel">
+    <CancelIcon />
+  </IconItem>
+  <IconItem name="discount outlined">
+    <DiscountOutlinedIcon />
+  </IconItem>
+  <IconItem name="edit">
+    <EditIcon />
+  </IconItem>
+  <IconItem name="start fullscreen">
+    <EnterFullscreenIcon />
+  </IconItem>
+  <IconItem name="exit fullscreen">
+    <FullscreenExitIcon />
+  </IconItem>
+  <IconItem name="normalansicht">
+    <NormalansichtIcon />
+  </IconItem>
+  <IconItem name="notes">
+    <NotesIcon />
+  </IconItem>
+  <IconItem name="save">
+    <SaveIcon />
+  </IconItem>
+  <IconItem name="tei encoding">
+    <TEIEncodingIcon />
+  </IconItem>
+  <IconItem name="validate">
+    <ValidateIcon />
+  </IconItem>
+  <IconItem name="visibility new">
+    <VisibilityNew24db2 />
+  </IconItem>
+  <IconItem name="unfold less">
+    <UnfoldLessIcon />
+  </IconItem>
+  <IconItem name="unfold more">
+    <UnfoldMoreIcon />
+  </IconItem>
+  <IconItem name="xml tag">
+    <XMLTagIcon />
+  </IconItem>
+</IconGallery>

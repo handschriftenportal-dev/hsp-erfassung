@@ -1,0 +1,27 @@
+import { Meta, ColorPalette, ColorItem } from '@storybook/blocks';
+import { colors } from '../src/theme'
+
+<Meta title="Farben" />
+
+<ColorPalette>
+  <ColorItem
+    title="colors.greyscale"
+    subtitle="Grautöne"
+    colors={colors.greyscale}
+  />
+  <ColorItem
+    title="colors.primary"
+    subtitle="Primärfarben"
+    colors={colors.primary}
+  />
+  <ColorItem
+    title="colors.secondary"
+    subtitle="Sekundärfarben"
+    colors={colors.secondary}
+  />
+  <ColorItem
+    title="colors.special"
+    subtitle="Special"
+    colors={colors.special}
+  />
+</ColorPalette>

@@ -1,0 +1,670 @@
+/*
+ * MIT License
+ *
+ * Copyright (c) 2024 Staatsbibliothek zu Berlin - Preußischer Kulturbesitz
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ *
+ */
+
+.MuiAutocomplete-option {
+  display: list-item !important;
+}
+
+.align-svg-icons-right-in-the-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: end;
+}
+
+.override-bottom-color {
+  background-color: #3e464c !important;
+}
+
+.override-grey-bottom-color {
+  background-color: #e7e5e4 !important;
+  float: right;
+  text-transform: none !important;
+  width: fit-content !important;
+}
+
+.align-button-right-fit-content-color-white {
+  width: fit-content;
+  float: right;
+  text-transform: none !important;
+  color: white !important;
+}
+
+.align-display-flex-align-items-center {
+  display: flex;
+  align-items: center;
+}
+
+.hsp-autocomplete-link-color {
+  color: #00838b;
+  float: right;
+}
+
+.align-display-table-cell-vertical-align {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.group-beschreibungs-element-with-line {
+  border-left: solid;
+  border-width: 1px;
+}
+
+.override-duplicate-svgicon-color {
+  color: white !important;
+}
+
+.small-bottom-gab {
+  margin-bottom: 12px;
+}
+
+.mid-bottom-gab {
+  margin-top: 12px !important;
+}
+
+.big-top-gab {
+  margin-top: 48px;
+}
+
+.hilfe-text {
+  font-weight: normal;
+  font-size: 13px;
+}
+
+.override-duplicate-dialog-bottom-color {
+  height: 36.5px !important;
+  background-color: #3e464c !important;
+  color: white !important;
+}
+
+.loading-circle-icon {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin: 1px;
+  border-radius: 50%;
+  border: 3px solid;
+  border-color: #d65151 #d65151 transparent;
+  animation: spin 1.4s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.deletion-button {
+  background-color: #d65151;
+}
+
+.hsp-editor-is-top {
+  text-decoration: underline;
+  text-decoration-color: #89f9ee;
+  text-decoration-thickness: 0.3em;
+  width: fit-content;
+}
+
+.hsp-editor-xml-style {
+  color: #0b31b9;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 85%;
+  display: table;
+  overflow: visible;
+}
+
+.hsp-editor-xml-tag {
+  display: flex;
+  float: left;
+}
+
+.hsp-editor-edit-mode {
+  padding: 38px;
+  background-color: white;
+}
+
+.hsp-editor-preview-mode {
+  padding: 0;
+  background-color: transparent;
+}
+
+.tei-lb-element {
+  display: block;
+  height: 16px;
+}
+
+.horizontal-rule-edit-mode {
+  margin: 1px;
+  border-bottom: unset;
+  border-left: unset;
+  border-right: unset;
+  border-top: #adaba9 solid 1px;
+}
+
+.horizontal-rule-read-mode {
+  border-top: #adaba9 solid 1px;
+  margin: 1px;
+  margin-block-start: 0;
+  margin-block-end: 32px;
+  border-bottom: unset;
+  border-left: unset;
+  border-right: unset;
+}
+
+.horizontal-rule-edit-mode-light {
+  border-top: #e7e5e3 solid 2px;
+  margin: 1px 1px 1px -24px;
+  border-bottom: unset;
+  border-left: unset;
+  border-right: unset;
+}
+
+.horizontal-rule-read-mode-light {
+  border-top: #e7e5e3 solid 0;
+  margin-block-start: 0;
+  margin-block-end: 32px;
+  border-bottom: unset;
+  border-left: unset;
+  border-right: unset;
+}
+
+.svg-expand-icon.MuiSvgIcon-root {
+  margin-left: 3px;
+  cursor: pointer;
+  margin-top: 20px;
+  width: 16px;
+  height: 16px;
+}
+
+.label-styles-edit-mode {
+  font-weight: bold;
+}
+
+.label-styles-preview-mode {
+  font-weight: 501;
+  font-size: 85%;
+}
+
+.label-styles-text-field-input-label.MuiInputLabel-root {
+  color: #000000;
+}
+
+.label-styles-text-field-input-label.MuiInputLabel-root.Mui-focused {
+  color: #000000;
+}
+
+.normdata-table {
+  border-collapse: collapse;
+}
+
+.normdata-table td {
+  padding: 0 32px 16px 0;
+}
+
+.normdata-table td:nth-child(1) {
+  font-weight: bold;
+}
+
+.normdata-table td:nth-child(2) {
+  font-style: italic;
+  color: #4f4d4b;
+}
+
+.normdata-table td:nth-child(3) {
+  font-weight: normal;
+}
+
+.normdata-table td a {
+  color: #00838b;
+  text-decoration: none;
+}
+
+.normdata-empty-component {
+  font-style: italic;
+  color: #4f4d4b;
+}
+
+.text-field-input-style.MuiFilledInput-root {
+  background-color: rgba(79, 77, 75, 0.08);
+}
+
+.text-field-input-style.MuiFilledInput-root:hover {
+  background-color: rgba(79, 77, 75, 0.2);
+}
+
+.text-field-input-style.MuiFilledInput-root.Mui-disabled {
+  background-color: rgba(79, 77, 75, 0.04);
+}
+
+.text-field-input-style.MuiFilledInput-root.Mui-focused {
+  background-color: rgba(79, 77, 75, 0.08);
+}
+
+.text-field-input-style.MuiFilledInput-underline:after {
+  border-bottom: 1px solid #000000;
+}
+
+.text-field-input-style.MuiFilledInput-underline:before {
+  border-bottom: 1px solid #adaba8;
+}
+
+.grey-add-button-style {
+  padding: 6px 15px;
+  float: right;
+  text-transform: none;
+  width: fit-content !important;
+  background-color: #e7e5e4;
+  color: #000000;
+  line-height: normal;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  border-radius: 3px;
+}
+
+.grey-add-button-style:hover {
+  background-color: rgba(79, 77, 75, 0.2);
+}
+
+.grey-add-button-style:disabled {
+  background-color: #d0cecc;
+  color: #7b7a78;
+  box-shadow: none;
+}
+
+.black-add-button-style {
+  padding: 6px 15px;
+  float: right;
+  text-transform: none;
+  width: fit-content !important;
+  background-color: #4f4d4b;
+  color: white;
+  line-height: normal;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  border-radius: 3px;
+}
+
+.black-add-button-style:hover {
+  background-color: #000000;
+}
+.black-add-button-style:disabled {
+  background-color: #909090;
+  color: #dedede;
+  box-shadow: none;
+}
+
+.autocomplete-input-style.MuiFilledInput-root {
+  background-color: rgba(79, 77, 75, 0.08);
+}
+
+.autocomplete-input-style.MuiFilledInput-root:hover {
+  background-color: rgba(79, 77, 75, 0.2);
+}
+
+.autocomplete-input-style.MuiFilledInput-root.Mui-disabled {
+  background-color: rgba(79, 77, 75, 0.04);
+}
+
+.autocomplete-input-style.MuiFilledInput-root.Mui-focused {
+  background-color: rgba(79, 77, 75, 0.08);
+}
+
+.autocomplete-option-style {
+  min-height: 30px;
+}
+
+.autocomplete-input-style.MuiFilledInput-underline:after {
+  border-bottom: 1px solid #000000;
+}
+
+.autocomplete-input-style.MuiFilledInput-underline:before {
+  border-bottom: 1px solid #adaba8;
+}
+
+.autocomplete-option-style[aria-selected='true'] {
+  background-color: #ffffff;
+}
+
+.autocomplete-option-style[data-focus='true'] {
+  background-color: #f1f1f1;
+}
+
+.autocomplete-paper-style {
+  box-shadow: 0 6px 9px rgba(0, 0, 0, 0.35);
+}
+
+.sidebar-item-active-element {
+  background-color: #89f9ee;
+}
+
+.sidebar-item-normal-element {
+  background-color: white;
+}
+
+.sidebar-item-list-item-root.MuiListItem-root {
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 40px;
+}
+
+.sidebar-item-list-item-root.MuiListItem-gutters {
+  padding: 0;
+}
+
+.sidebar-item-list-item-root::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar-item-list-item-root::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}
+
+.sidebar-item-list-padding.MuiList-padding {
+  padding: 0;
+}
+
+.sidebar-item-icon-button-root.MuiIconButton-root {
+  padding: 7px;
+}
+
+.sidebar-item-icon-button-root.MuiIconButton-root:hover {
+  background-color: white;
+}
+
+.sidebar-item-one-line-icon-button {
+  align-self: baseline;
+  padding: 7px 2px 7px 7px;
+}
+
+.sidebar-item-list-item-text.MuiListItemText-primary {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.sidebar-item-divider-root.MuiDivider-root {
+  border-top: #f6f4f1 solid 2px;
+  margin-left: -200px;
+  background-color: unset;
+}
+
+.sidebar-item-divider-root.MuiDivider-inset {
+  margin: 0;
+}
+
+.rich-text-editor {
+  border: 1px solid #f1f1f1;
+  background: #f1f1f1;
+  padding: 13px;
+}
+
+.rich-text-editor[contenteditable='false'] {
+  border: transparent;
+  background: transparent;
+}
+
+.rich-text-editor:focus,
+.rich-text-editor:hover[contenteditable='true'] {
+  border: 1px solid #8d8686;
+}
+
+.hsp-grid-layout {
+  display: grid;
+  grid-template-columns: clamp(10em, 30%, 22em) auto;
+  align-items: start;
+  gap: 10px 52px;
+}
+
+.themenbereich-dialog-layout-edit {
+  display: grid;
+  height: 70vh;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: max-content 1fr;
+  grid-template-areas:
+    'linked-text linked-text'
+    'auswahl ansicht';
+  grid-gap: 10px;
+  overflow: hidden;
+}
+
+.themenbereich-dialog-layout-readonly {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: max-content 1fr;
+  grid-template-areas:
+    'linked-text'
+    'ansicht';
+  grid-gap: 10px;
+}
+
+.themenbereich-dialog-linked-text {
+  grid-area: linked-text;
+}
+
+.themenbereich-dialog-ansicht {
+  grid-area: ansicht;
+  overflow-y: auto;
+}
+
+.themenbereich-dialog-auswahl {
+  grid-area: auswahl;
+  overflow-y: auto;
+}
+
+.themenbereich-baum-auswahl-item-leaf-box {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.importiere-normdatum-dialog-layout {
+  display: grid;
+  height: 500px;
+  grid-template-columns: clamp(10em, 40%, 22em) auto;
+  grid-template-rows: max-content 1fr;
+  grid-template-areas:
+    'suche details'
+    'liste details';
+  grid-gap: 10px;
+  overflow: hidden;
+}
+
+.importiere-normdatum-dialog-layout.MuiDialogContent-root {
+  padding-bottom: 0;
+}
+
+.importiere-normdatum-dialog-suche {
+  grid-area: suche;
+}
+
+.importiere-normdatum-dialog-liste {
+  grid-area: liste;
+  overflow-y: auto;
+}
+
+.importiere-normdatum-dialog-details {
+  grid-area: details;
+  overflow-y: auto;
+}
+
+.sonderzeichen-auswahl-container {
+  max-height: 100%;
+}
+
+.sonderzeichen-auswahl-container.MuiPaper-root {
+  background: #f6f4f1;
+  margin: 0;
+}
+
+.sonderzeichen-auswahl-content.MuiDialogContent-root {
+  padding: 0;
+  margin: 0;
+}
+
+.sonderzeichen-grid-scroll-container {
+  overflow-y: auto;
+  height: 50vh;
+}
+
+.sonderzeichen-grid {
+  user-select: none;
+  cursor: pointer;
+  margin: 1px 0;
+  width: 100%;
+  border-collapse: collapse;
+  padding: 0;
+  border-bottom: 1px solid #adaba8;
+  border-top: 1px solid #adaba8;
+
+  background: white;
+  background-position: top left;
+  background-size: 70px 54px;
+  background-image:
+    linear-gradient(to right, grey 1px, transparent 1px),
+    linear-gradient(to bottom, grey 1px, transparent 1px);
+}
+
+.sonderzeichen-grid th,
+.sonderzeichen-grid td {
+  border-collapse: collapse;
+}
+
+.sonderzeichen-grid td {
+  font-size: 1.5em;
+  width: 70px;
+  height: 54px;
+  text-align: center;
+}
+
+.sonderzeichen-grid td[role='gridcell'][aria-selected='true'] {
+  outline-offset: -5px;
+  outline: 5px solid #35cfbe;
+}
+
+.sonderzeichen-grid td[role='gridcell'][aria-disabled='false']:hover {
+  outline-offset: -5px;
+  outline: 5px solid #00838b;
+}
+
+@media all and (display-mode: fullscreen) {
+  .hsp-grid-layout {
+    margin: 0 52px;
+  }
+}
+
+.scrollbar {
+  overflow: auto;
+  scrollbar-width: thin;
+}
+
+.scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+}
+
+.sonderzeichen-gruppen-select .MuiFormLabel-root {
+  visibility: hidden;
+}
+.sonderzeichen-gruppen-select .MuiInputBase-root .MuiSelect-select {
+  font-size: 14px;
+  padding: 4px 32px 4px 8px;
+  margin-top: 2px;
+}
+.sonderzeichen-gruppen-select .MuiInputBase-root .MuiSelect-select:focus {
+  outline: #000 2px solid;
+}
+.sonderzeichen-gruppen-select .MuiInputBase-root.MuiInput-underline:hover {
+  border: none;
+}
+.sonderzeichen-gruppen-select .MuiInputBase-root::before,
+.sonderzeichen-gruppen-select
+  .MuiInputBase-root.MuiInput-underline:hover::before,
+.sonderzeichen-gruppen-select .MuiInputBase-root:hover::before {
+  display: none;
+}
+.sonderzeichen-gruppen-select .MuiInputBase-root::after {
+  display: none;
+}
+.sonderzeichen-gruppen-select .MuiList-root {
+  background-color: #7b7a78;
+}
+.sonderzeichen-gruppen-select .MuiInputBase-root {
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+}
+
+.sonderzeichen-gruppen-menu .MuiList-root {
+  background-color: #dedad5;
+}
+.sonderzeichen-gruppen-menu .MuiButtonBase-root.Mui-selected:focus,
+.sonderzeichen-gruppen-menu .MuiButtonBase-root.Mui-selected {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.sonderzeichen-gruppen-menu .MuiButtonBase-root.Mui-selected:hover {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.sonderzeichen-gruppen-menu .MuiButtonBase-root:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.sonderzeichen-gruppen-menu .MuiButtonBase-root.MuiMenuItem-root {
+  font-size: 14px;
+  padding: 4px 8px;
+}
+
+.xml-preview-container {
+  white-space: pre;
+  overflow-y: auto;
+  font-family: monospace;
+}
+.xml-preview-character-data {
+  font-weight: bold;
+  color: #0b31b9;
+}
+.xml-preview-document-type {
+  font-weight: bold;
+}
+.xml-preview-comment {
+  font-style: italic;
+  color: #d65151;
+}
+.xml-preview-element {
+  color: #0b31b9;
+}
+.xml-preview-attribute-key {
+  color: #a70096;
+}
+.xml-preview-attribute-value {
+  color: #00838b;
+}
