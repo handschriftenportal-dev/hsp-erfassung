@@ -1,0 +1,1626 @@
+{
+  "data": {
+    "findGNDEntityFacts": [
+      {
+        "id": "NORM-65c10911-d8b8-3912-99a2-1ebacf46da01",
+        "uri": null,
+        "gndIdentifier": "4120278-8",
+        "preferredName": "neugriechisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "ell",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "el",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Neugriechisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Greek, Modern (1453-)",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-5108c216-2963-3009-9d28-956c37fe60d1",
+        "uri": null,
+        "gndIdentifier": null,
+        "preferredName": "unbekannt",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "unk",
+            "type": ""
+          }
+        ],
+        "variantName": [
+          {
+            "name": "unknown",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-0cd00ec1-4f1d-35d4-9937-5d6a37d183a6",
+        "uri": null,
+        "gndIdentifier": "4120162-0",
+        "preferredName": "bretonisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "bre",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "br",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Breton",
+            "languageCode": "en"
+          },
+          {
+            "name": "Bretonisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-a2a551a6-458a-3de2-a446-cc76d639a9e9",
+        "uri": null,
+        "gndIdentifier": "4120209-0",
+        "preferredName": "isländisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "isl",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "is",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "ice",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Isländische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Icelandic",
+            "languageCode": "en"
+          },
+          {
+            "name": "Isländisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-197639b2-7805-3c51-9189-add5413712e3",
+        "uri": null,
+        "gndIdentifier": "4114622-0",
+        "preferredName": "mongolisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "mn",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "mon",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Mongolisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Mongolian",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-b4f90e11-4cba-38d8-8884-0ea9a0325a31",
+        "uri": null,
+        "gndIdentifier": "4043439-4",
+        "preferredName": "okzitanisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "oci",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "oc",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Occitan",
+            "languageCode": "en"
+          },
+          {
+            "name": "Okzitanisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-3b9379ae-655d-3268-83d1-44b64d005a62",
+        "uri": null,
+        "gndIdentifier": "4120349-5",
+        "preferredName": "syrisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "syc",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Syriac",
+            "languageCode": "en"
+          },
+          {
+            "name": "Syrisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-a4dbfd6a-ef3b-3045-be61-aa0146debdf8",
+        "uri": null,
+        "gndIdentifier": "4132167-4",
+        "preferredName": "kirchenslawisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "cu",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "chu",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Kirchenslawisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Church Slavic",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-0d149b90-e739-3297-b01c-90191ae775f0",
+        "uri": null,
+        "gndIdentifier": "4114056-4",
+        "preferredName": "italienisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "ita",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "it",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Italienisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Italienische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Italian",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-5ca2aa84-5c8c-35ac-a6b0-16841f100d82",
+        "uri": null,
+        "gndIdentifier": "4113262-2",
+        "preferredName": "dänisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "da",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "dan",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Danish",
+            "languageCode": "en"
+          },
+          {
+            "name": "Dänisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Dänische Sprache",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-fec8f2a3-f2e8-38cc-b17c-4d278b4fa469",
+        "uri": null,
+        "gndIdentifier": "4120353-7",
+        "preferredName": "tamil",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "ta",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "tam",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Tamilisch Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Tamil language",
+            "languageCode": "en"
+          },
+          {
+            "name": "Tamil",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-3abf3fc2-c744-3732-9898-901330b4ceb1",
+        "uri": null,
+        "gndIdentifier": "4120183-8",
+        "preferredName": "friesisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "fry",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "fy",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Friesisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Frisian",
+            "languageCode": "en"
+          },
+          {
+            "name": "Friesische Sprache",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-ecc174e3-e02c-32f3-8c14-fe860bf47ef2",
+        "uri": null,
+        "gndIdentifier": "4124679-2",
+        "preferredName": "georgisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "geo",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "ka",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "georgian",
+            "languageCode": "en"
+          },
+          {
+            "name": "Georgisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-8cfbcfcd-27c8-3a9c-a364-8bb0386c654b",
+        "uri": null,
+        "gndIdentifier": "4133214-3",
+        "preferredName": "quechua",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "que",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "qu",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Quechua",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-e7d707a2-6e7f-3b6f-b52c-489c60e429b1",
+        "uri": null,
+        "gndIdentifier": "4120079-2",
+        "preferredName": "türkisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "tur",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "tr",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Türkisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Türkische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Turkish language",
+            "languageCode": "en"
+          },
+          {
+            "name": "Turkish",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-62a165d5-9f8d-3f42-a2df-5f3c5aed8a2f",
+        "uri": null,
+        "gndIdentifier": "4133301-9",
+        "preferredName": "serbisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "srp",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "sr",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Serbisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Serbian",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+        "uri": null,
+        "gndIdentifier": "4114364-4",
+        "preferredName": "lateinisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "la",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "lat",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Lateinisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Latin",
+            "languageCode": "en"
+          },
+          {
+            "name": "Lateinische Sprache",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-5f02f088-9301-3d7b-a1ac-972c11bf3e7d",
+        "uri": null,
+        "gndIdentifier": "4113292-0",
+        "preferredName": "deutsch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "de",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "deu",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "ger",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Hochdeutsch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Neuhochdeutsch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Deutsche Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Deutsch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-12f367df-b34d-38dd-820d-530e29b6c89c",
+        "uri": null,
+        "gndIdentifier": "4033245-7",
+        "preferredName": "kroatisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "hr",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "hrv",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Kroatisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Serbian",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-1a13105b-7e4e-35fb-ae7c-9515ac06aa48",
+        "uri": null,
+        "gndIdentifier": "4122614-8",
+        "preferredName": "niederländisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "nl",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "dut",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Neuniederländisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Niederländische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Dutch",
+            "languageCode": "en"
+          },
+          {
+            "name": "Niederländisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-124c5435-5f39-3f0d-9b0f-653d105340b3",
+        "uri": null,
+        "gndIdentifier": "4113791-7",
+        "preferredName": "griechisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "gre",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "el",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Greek",
+            "languageCode": "en"
+          },
+          {
+            "name": "Griechisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-cf9f3fde-7326-31d8-a642-05f0e07a3695",
+        "uri": null,
+        "gndIdentifier": "4133531-4",
+        "preferredName": "indisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "inc",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Indoarische Sprachen",
+            "languageCode": "de"
+          },
+          {
+            "name": "Indisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Indic languages",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-9cfefed8-fb94-37ba-a5cd-519d7d2bb5d7",
+        "uri": null,
+        "gndIdentifier": "4014777-0",
+        "preferredName": "englisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "en",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "eng",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Englisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Englische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "English",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-a95a0b39-186f-387b-949f-87f20b44bdb5",
+        "uri": null,
+        "gndIdentifier": "4116533-0",
+        "preferredName": "sorbisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "wen",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Wendisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Sorbische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Sorbian",
+            "languageCode": "en"
+          },
+          {
+            "name": "Sorbisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-e3e48b96-d966-3ee1-b5cc-cdbc9d6f6d43",
+        "uri": null,
+        "gndIdentifier": "4120036-6",
+        "preferredName": "slawisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "sla",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Slawische Sprachen",
+            "languageCode": "de"
+          },
+          {
+            "name": "Slaic languages",
+            "languageCode": "de"
+          },
+          {
+            "name": "Slawisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-28840420-4e3d-3522-a930-8317344a285d",
+        "uri": null,
+        "gndIdentifier": "4120314-8",
+        "preferredName": "polnisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "pol",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "pl",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Polnisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Polnische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Polish",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-6044f05a-a3cc-3bb9-b13c-6a26b30036b6",
+        "uri": null,
+        "gndIdentifier": "4120207-7",
+        "preferredName": "irisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "ga",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "gle",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Irish",
+            "languageCode": "en"
+          },
+          {
+            "name": "Irisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-12470fe4-06d4-3017-996e-ab37dd65fc14",
+        "uri": null,
+        "gndIdentifier": "4077640-2",
+        "preferredName": "spanisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "es",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "spa",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Kastilisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Spanisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Castilian",
+            "languageCode": "en"
+          },
+          {
+            "name": "Spanish",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-9e355490-ae25-39e3-921d-a9eaa2826228",
+        "uri": null,
+        "gndIdentifier": "4028614-9",
+        "preferredName": "jiddisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "yid",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "yi",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Jiddisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Yiddish",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-72525cfd-a9e3-3ac4-b024-cabe7c6d45e3",
+        "uri": null,
+        "gndIdentifier": "4120352-5",
+        "preferredName": "tagalog",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "tgl",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "tl",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Tagalog",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-060b5f3c-5859-31e1-96e9-323ff6eeb143",
+        "uri": null,
+        "gndIdentifier": "4117212-7",
+        "preferredName": "tibetisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "bo",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "tib",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Tibetan",
+            "languageCode": "en"
+          },
+          {
+            "name": "Tibetisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-3ab67158-8c22-3448-9378-a52b9b542d31",
+        "uri": null,
+        "gndIdentifier": "4113214-2",
+        "preferredName": "chinesisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "zho",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "zh",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Chinesisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Chinesische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Chinese",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-2181d277-b2d0-3e83-a999-12fd8b56f061",
+        "uri": null,
+        "gndIdentifier": "4120210-7",
+        "preferredName": "javanisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "jv",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "jav",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Javanisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Javanese",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-fc9fdf08-4e29-3f26-a270-390dc49061a2",
+        "uri": null,
+        "gndIdentifier": "4120316-1",
+        "preferredName": "portugiesisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "pt",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "por",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Portugiesische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Portugese",
+            "languageCode": "en"
+          },
+          {
+            "name": "Portugiesisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-77d8c068-b77e-3abd-a2ba-3f873706079c",
+        "uri": null,
+        "gndIdentifier": "4120111-5",
+        "preferredName": "Altaische Sprachen",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "tut",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Altaic languages",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-6eecdc76-2106-38f3-9f52-e510dd061c29",
+        "uri": null,
+        "gndIdentifier": "4120373-2",
+        "preferredName": "ukrainisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "uk",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "ukr",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Ukrainisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Ukrainian",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-fe3838c7-c11a-3406-9d95-6566e17360d5",
+        "uri": null,
+        "gndIdentifier": "4065403-5",
+        "preferredName": "persisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "per",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "fa",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Persisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Persian",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-7538ebc3-7ad0-3178-93e0-44b9b42bd8a4",
+        "uri": null,
+        "gndIdentifier": "4458737-5",
+        "preferredName": "maduresisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "mad",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Madurese",
+            "languageCode": "en"
+          },
+          {
+            "name": "Maduresisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-89484b14-b36a-3d53-a942-6a3d944d2983",
+        "uri": null,
+        "gndIdentifier": "4051038-4",
+        "preferredName": "russisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "ru",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "rus",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Russian",
+            "languageCode": "en"
+          },
+          {
+            "name": "Russisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Russische Sprache",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-c582dec9-43ff-3b74-baa0-691df291cea6",
+        "uri": null,
+        "gndIdentifier": "4241223-7",
+        "preferredName": "arabisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "ar",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "ara",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Arabische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Arabisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Arabic",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-82a9e4d2-6595-387a-b6e4-42391d8c5bba",
+        "uri": null,
+        "gndIdentifier": "4113615-9",
+        "preferredName": "französisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "fra",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "fr",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Französisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Französische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "French",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-9a4b6f88-4971-3cb4-a517-2876b335baab",
+        "uri": null,
+        "gndIdentifier": "4037194-3",
+        "preferredName": "malaiisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "may",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "ms",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Malay",
+            "languageCode": "en"
+          },
+          {
+            "name": "Malaiisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-ac5585d9-8646-3255-a99c-359140537783",
+        "uri": null,
+        "gndIdentifier": "4107780-5",
+        "preferredName": "singhalesisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "si",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "sin",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Singhalesische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Sinhala",
+            "languageCode": "en"
+          },
+          {
+            "name": "Singhalesisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Sinhala language",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-bd9a2916-f0e0-34a9-b61a-98a97b8db5dc",
+        "uri": null,
+        "gndIdentifier": "4133282-9",
+        "preferredName": "äthiopisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "sem",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Äthiopisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Äthiosemitische Sprachen",
+            "languageCode": "de"
+          },
+          {
+            "name": "semitic languages",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-5523c88d-d347-31b7-8c61-7f632b7efdb7",
+        "uri": null,
+        "gndIdentifier": "4120165-6",
+        "preferredName": "bulgarisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "bg",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "bul",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Bulgarische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Bulgarian language",
+            "languageCode": "en"
+          },
+          {
+            "name": "Bulgarisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Bulgarian",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-6f96cfdf-e5cc-3627-8adf-24b41725caa4",
+        "uri": null,
+        "gndIdentifier": "4023922-6",
+        "preferredName": "hebräisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "he",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "heb",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Hebräisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Hebrew language",
+            "languageCode": "en"
+          },
+          {
+            "name": "Hebräische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Hebrew",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-06a9ad3b-b612-3f43-8d91-f827a3ac1f90",
+        "uri": null,
+        "gndIdentifier": "4120336-7",
+        "preferredName": "slowenisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "sl",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "slv",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Slovenian",
+            "languageCode": "en"
+          },
+          {
+            "name": "Slowenisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-18bd9197-cb1d-333b-8352-f47535c00320",
+        "uri": null,
+        "gndIdentifier": "4120374-4",
+        "preferredName": "ungarisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "hu",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "hun",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Ungarisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Ungarische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Hungarian",
+            "languageCode": "en"
+          },
+          {
+            "name": "Hungarian language",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-06b53047-cf29-3f72-8778-9ff5293ad2dc",
+        "uri": null,
+        "gndIdentifier": "4119929-7",
+        "preferredName": "mandschurisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "mnc",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Manchu",
+            "languageCode": "en"
+          },
+          {
+            "name": "Mandschurisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-5435c69e-d3bc-35b2-a4d5-80e393e373d3",
+        "uri": null,
+        "gndIdentifier": "4120218-1",
+        "preferredName": "katalanisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "cat",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "ca",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Catalan",
+            "languageCode": "en"
+          },
+          {
+            "name": "Valencian",
+            "languageCode": "en"
+          },
+          {
+            "name": "Katalanisch",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-909ba4ad-2bda-36b1-8aac-3c5b7f01abd5",
+        "uri": null,
+        "gndIdentifier": "4085880-7",
+        "preferredName": "aramäisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "arc",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Reichsaramäisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Aramaic",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-95cc64dd-2825-39df-93ec-4ad683ecf339",
+        "uri": null,
+        "gndIdentifier": "4061084-6",
+        "preferredName": "tschechisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "ces",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "cs",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Tschechisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Tschechische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Czech",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-74354112-1c12-3113-af80-7d1582c74bea",
+        "uri": null,
+        "gndIdentifier": "4116437-4",
+        "preferredName": "schwedisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "swe",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "sv",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Schwedisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Svedish language",
+            "languageCode": "en"
+          },
+          {
+            "name": "Swedish",
+            "languageCode": "en"
+          },
+          {
+            "name": "Schwedische Sprache",
+            "languageCode": "de"
+          }
+        ]
+      },
+      {
+        "id": "NORM-3070910e-4d32-3805-abcc-9a4c93566a71",
+        "uri": null,
+        "gndIdentifier": "4220899-3",
+        "preferredName": "maya-sprache",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "myn",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Maya-Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Mayan languages",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-f926b3e2-22d7-3fee-9707-1b2256839701",
+        "uri": null,
+        "gndIdentifier": "4120142-5",
+        "preferredName": "armenisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "hy",
+            "type": "ISO_639-1"
+          },
+          {
+            "text": "arm",
+            "type": "ISO_639-2"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Armenisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Armenian",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "id": "NORM-3605c251-087b-3821-ac9b-ca890e07ad9c",
+        "uri": "https://normdaten.staatsbibliothek-berlin.de/data/authority-file/NORM-3605c251-087b-3821-ac9b-ca890e07ad9c",
+        "gndIdentifier": "4115807-6",
+        "preferredName": "rumänisch",
+        "typeName": "Language",
+        "identifier": [
+          {
+            "text": "rum",
+            "type": "ISO_639-2"
+          },
+          {
+            "text": "ro",
+            "type": ""
+          },
+          {
+            "text": "ro",
+            "type": "ISO_639-1"
+          }
+        ],
+        "variantName": [
+          {
+            "name": "Rumänische Sprache",
+            "languageCode": "de"
+          },
+          {
+            "name": "Rumänisch",
+            "languageCode": "de"
+          },
+          {
+            "name": "Romanian",
+            "languageCode": "en"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  },
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "src/*": ["src/*"],
+      "test/*": ["test/*"],
+      "stories/*": ["stories/*"],
+      "skripte/*": ["skripte/*"]
+    },
+    "target": "ES2018",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": false,
+    "jsx": "react-jsx",
+    "jsxImportSource": "@emotion/react",
+    "noEmit": false,
+    "outDir": "dist"
+  },
+  "include": [
+    "src/**/*",
+    "src/types/**/*",
+    "test/**/*",
+    "skripte/**/*",
+    "stories/**/*",
+    ".storybook/**/*",
+    "*.js"
+  ]
+}

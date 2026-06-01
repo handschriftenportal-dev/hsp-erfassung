@@ -1,0 +1,4225 @@
+{
+  "data": {
+    "findSubjectArea": {
+      "id": "NORM-341870c5-3762-38cc-9dd7-f7b2bca32a31",
+      "notation": "SCRP",
+      "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP",
+      "labels": [
+        {
+          "text": "scripts",
+          "isoCode": "en"
+        },
+        {
+          "text": "Schriften",
+          "isoCode": "de"
+        }
+      ],
+      "thesauri": [
+        {
+          "id": "NORM-0ead570f-623e-31e5-ade6-f6ef9a6b85ee",
+          "notation": "SCRP-X",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X",
+          "labels": [
+            {
+              "text": "Fachbegriffe Schriften",
+              "isoCode": "de"
+            },
+            {
+              "text": "specialist terms scripts",
+              "isoCode": "en"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "notation": "SCRP-X710",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X710",
+              "labels": [
+                {
+                  "text": "Frühminuskel",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "old minuscule",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "minuscola antica",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "minuscola libraria",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-852ab7b7-fd0b-3336-b4b4-285c96a7003b",
+                "NORM-faaf77a7-f999-33f7-b4c3-145120d131e1",
+                "NORM-c5ad44f2-c0ac-37c7-9cbc-695e2d994c40",
+                "NORM-ce1aafcc-120d-3261-bb3e-ead279940e06",
+                "NORM-16a58110-4bf8-36d3-9211-2c9876055ee3",
+                "NORM-dad63614-5630-3bc9-ab8f-a359bb4f8997",
+                "NORM-ea43c3ef-6b06-368f-a8d4-cabfdaeee0f3",
+                "NORM-c237bb61-0d39-3a33-b644-4161daa627fd"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c5424973-f63b-3914-a7a3-faa45fda495b",
+              "notation": "SCRP-X966",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X966",
+              "labels": [
+                {
+                  "text": "Hodegon-Style",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Hodegonstil",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Hodegon-Stil wurde vor allem in liturgischen Handschriften des 14. Jh. verwendet und wird in Verbindung mit dem Konstantinopeler Kloster τῶν Ὁδηγῶν gebracht. Diese regelmäßige und gut lesbare Schrift weist einen mäßigen Kontrast des Schriftgrades, eine Tendenz zu geometrischen Formen und eine fast vollständige Abwesenheit von Kürzungen auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": ["NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ded4cb2f-f416-3787-a9cd-9dadb12fc695",
+              "notation": "SCRP-X977",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X977",
+              "labels": [
+                {
+                  "text": "„Konstantinopolitanische Auszeichnungsschrift“",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Konstantinopolitanische Auszeichnungsschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Constantinopolitan majuscule as a distinctive script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "senkrechte Spitzbogenmajuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Konstantinopolitanische Auszeichnungsschrift ist eine griechische Auszeichnungsschrift, auch Spitzbogenmajuskel genannt. Das Alphabet wurde hierbei von der Bibelmajuskel abgeleitet. Diese Schrift wird oft mit älteren Minuskeln und der italo-griechischen Schrift verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b0f59dc1-93ee-3876-8a26-4c2545577e5e",
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f944f51f-6b40-3d55-8fe9-ffd785479261",
+              "notation": "SCRP-X473",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X473",
+              "labels": [
+                {
+                  "text": "Printed Minuscule (greek)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Druckminuskel (griechisch)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Typographic Script (greek)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Typographische Schrift (griechisch)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Druckmajuskel entstand im 16. Jh. und orentiert sich an den Buchstaben in gedruckten Büchern. Herbert Hunger hat daher die Bezeichnung Druckminuskel geprägt. Beispielhaft ist hier die Schrift von Giovanni Onorio, der sowohl Texte in dieser Schrift verfasste als auch an der Gestaltung der griechischen Buchstaben für den Druck beteiligt war.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": ["NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-403bac9b-5f10-332d-af4e-07b9d8f234fa",
+              "notation": "SCRP-X364",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X364",
+              "labels": [
+                {
+                  "text": "Insular Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Insulare Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Anglo-Saxon Script",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Der Sammelbegriff der insularen Schriften umfasst die Schriften auf den britischen Inseln, darunter die irische Schrift, weitere keltische Schriften und die angelsächsische Schrift. Ausgangspunkt für ihre Entstehung war die Christianisierung Irlands ab dem 5. Jh. Missionare brachten insbesondere die Unziale und Halbunziale aus Rom mit und trafen vor Ort auf die (altirischen) Ogham-Schriften. Kennzeichen der insularen Schriften sind im Allgemeinen spachtelförmige Schaftansätze. Es werden zwei Formen unterschieden, zum einen die ältere Rundschrift und zum anderen die jüngere Spitzschrift. Die Spitzschrift entstand etwa im 7. Jh. und wurde im Mittelalter vor allem für volkssprachige Texte verwendet; die Rundschrift verschwand hingegen bereits im 9. Jh. Etwa ab dem Ende des 6. Jh. brachten irische und angelsächsische Mönche ihre Schrift ins Fränkische Reich auf dem Festland, wodurch sich die insularen Schriften auch im heutigen Frankreich, Deutschland und in Oberitalien verbreiteten.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": ["NORM-e8702ffb-d6c2-36be-84bb-189018868d0b"],
+              "broader": null,
+              "hasKeyFeature": ["NORM-b220d36a-baba-371a-8b59-7f6829e9bde7"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4139b0e5-08e2-3c30-80c3-83ab2a7518a1",
+              "notation": "SCRP-X207",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X207",
+              "labels": [
+                {
+                  "text": "Merovingian Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Merowingische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Merovingische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Merowingische Schrift ist eine Minuskelschrift. Sie ist vor allem in den Urkunden der Merowingerkönige bzw. merowingischen Kanzlei (ca. 457–751 n. Chr.) überliefert. Teilweise ist sie aber auch in der Kanzlei der karolingischen Könige zu finden. Sie leitet sich in direkter Linie von der (jüngeren) römischen Kursive ab und wurde insbesondere in den Klöstern Luxeuil, Laon und Corbie geschrieben. Erstmals belegt ist sie im Jahr 625; mit dem Aufkommen der karolingischen Minuskel verschwand sie im Laufe des 9. Jh. Merkmale der Schrift sind die deutlich ausgezogenen Ober- und Unterlängen, die teilweise stark von den heute üblichen Schreibweisen abweichen, sowie die enge Anordnung der Buchstaben, die teilweise fast ineinander übergehen. Da zudem keine Wortabstände vorhanden sind, erscheint die Schrift unübersichtlich. Die verschiedenen Ausformungen (Typen) der merowingischen Schrift werden meist nach den verschiedenen Schreibweisen des Minuskel-a unterschieden, etwa Luxeuil-Typ (a wie cc), der Laon-Typ (ein a aus zwei Winkeln, das z ist hochgezogen) oder der Corbie-Typ (a wie ic, b meist in Ligatur mit den folgenden Buchstaben vom oberen Ende des Bogens aus).",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ff9f9335-560f-379e-a4f1-a0c8f9d3caa7",
+              "notation": "SCRP-X591",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X591",
+              "labels": [
+                {
+                  "text": "Epigraphic majuscule as a distinctive script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Epigraphische Auszeichnungsschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die epigraphische Auszeichnungsschrift ist eine der griechsischen Auszeichnungsschriften (weitere sind die Alexandrinische sowie die Konstantinopolitanische Auszeichnungsschrift). Die Bezeichnung leitet sich von der vermuteten Abstammung der Inschriftenschrift her. Merkmale sind Minuskelformen, Juxtapositionen und Ligaturen sowie die Hochstellung und Einschließung einzelner Buchstaben. Unterschieden wird zwischen einer schmalen und einer harmonischen Variante sowie einer quadratischen und einer ausladenden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b0f59dc1-93ee-3876-8a26-4c2545577e5e",
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-0cf8c750-5708-32ad-9508-c80e6ba72a3b",
+              "notation": "SCRP-X952",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X952",
+              "labels": [
+                {
+                  "text": "Alexandrine majuscule as a distinctive script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Alexandrinische Auszeichnungsschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Alexandrinische Auszeichnungsminuskel ist eine Stilart der griechischen Auszeichnungsschriften (weitere sind die Konstantinopolitanische sowie die Epigraphische Auszeichnungsschrift). Zwischen dem 2. und dem 7. Jh. wurde sie Buchschrift, nach dem 7. Jh. noch lange als Auszeichnungsschrift verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b0f59dc1-93ee-3876-8a26-4c2545577e5e",
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-707e9d27-699c-3e3d-aab1-e285673d91c4",
+              "notation": "SCRP-X138",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X138",
+              "labels": [
+                {
+                  "text": "Fettaugenmode",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fettaugenmode",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Grease-Globule Fashion",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fettaugenelemente",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die bemerkenswerteste paläographische Entwicklung des 13. Jh. ist das Aufkommen der sogenannten Fettaugenmode. Der von Herbert Hunger geprägte Begriff bezieht sich auf die auffallenden vergrößerten kreisförmigen Buchstaben, die gewissermaßen dem Aussehen der Oberfläche einer fettigen Suppe ähneln. Der allgemein kleine Schriftgrad lässt dieses Merkmal besonders hervorstechen. Hunger argumentiert außerdem, dass diese Schrift mangels weiterer Charakteristika nicht als Stil, sondern besser als Mode zu bezeichnen sei. In den ersten beiden Jahrzehnten des 14. Jh. wurden Schriften mit derartig markanten runden Buchstaben noch verwendet, jedoch gilt die extremste Form dieser Mode als typisch für die letzten Jahrzehnte des 13. Jh.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6c957d21-516e-36fc-bd59-cf7494123207",
+              "notation": "SCRP-X100",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X100",
+              "labels": [
+                {
+                  "text": "Beta-Gamma-Style",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Beta-Gamma-Stil",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Beta-Gamma-Stil wurde in der gesamten zweiten Hälfte des 13. Jh. verwendet. Namensgebend sind die extravaganten Vergrößerungen des herzförmigen Beta und abgerundeten, majuskelartigen Gamma bei allgemein kleinem Schriftgrad. Weitere Charakteristika sind die doppelte Biegung im Abstrich des Rho und die eckige, aber verschobene Form der Pik-As Ligatur für Epsilon-Rho. Zudem teilt diese Schrift einige weitere Tendenzen mit anderen zeitgenössischen Schriften wie den modernen Formen von Kappa, Nu und Epsilon. Letzteres ist zurückgelehnt, also gegen den Uhrzeigersinn gelehnt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-70253812-c682-3607-b9c0-9136502138fc",
+              "notation": "SCRP-X747",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X747",
+              "labels": [
+                {
+                  "text": "Süditalienische Schriften",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Italo-Greek Scripts",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Scritture italo-greche",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Unter Süditalienischen Schriften versteht man Formen der griechischen Buchschrift, die zwischen dem 9. und 12. Jh. im griechischsprachigen Süden Italiens und auf Sizilien verwendet wurden. Sie sind ein Sonderfall innerhalb der byzantinischen Paläographie, da geographische Zuschreibungen bei griechischen Minuskeln sonst nur selten möglich sind. Die Existenz griechischer Schreibzentren in Süditalien hängt mit der dort seit der Spätantike bestehenden griechischsprachigen Bevölkerung zusammen, deren kulturelle Kontinuität durch die politische und kirchliche Abhängigkeit großer Teile der Region von Konstantinopel gefördert wurde. Besonders in Kalabrien, Lukanien, Kampanien und Nordostsizilien lässt sich vom 9. bis 11. Jh. eine rege Tätigkeit griechischer Schreiber nachweisen. Im 12. Jh. kam unter der normannischen Herrschaft eine weitere Blütephase hinzu, insbesondere in der Region Otranto (Salento) an der Adriaküste.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-7fade14d-da4e-30be-bc3e-b11442eb4396",
+                "NORM-be436ae1-2e74-3ae9-93bc-c3b917de24f1",
+                "NORM-042a2e21-18d6-36d1-9a23-7827909b21f4",
+                "NORM-08c2cebe-1c52-38d7-b2f7-015226f485a3",
+                "NORM-4438095f-3533-35f4-abbc-0ceb55574ced"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b58d48a1-f4a4-38bf-820c-cbb2ec05bbe9",
+              "notation": "SCRP-X985",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X985",
+              "labels": [
+                {
+                  "text": "Vorkarolingische Minuskelschrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Pre-Caroline Scripts",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Praecarolina",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Vorkarolingische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Zu den vorkarolingischen Minuskelschriften werden die frühesten Minuskelschriften gezählt, die (wohl) als Grundlage für die karolingische Minuskel darstellten. Sie unterscheiden sich von den Urkundenschriften des 7. und 8. Jh., die vor allem in Frankenreich verwendet wurden und aus der römischen Kursive bzw. Halbkursive entstanden waren. Die neuen Minuskelschriften sind sehr viel stärker (als die Kursiven) ohne Ligaturen geschrieben, die Betonung der Vertikalen lässt nach und die Buchstaben sind ruhig aneinandergesetzt. Die frühesten Formen gehen in die Mitte des 8. Jh. zurück. Als die wichtigsten Zentren für vorkarolingische Minuskelschriften sind v. a. Tours, Corbie und St. Gallen zu nennen. Teilweise wurden die vorkarolingischen Minuskelschriften noch eine Weile parallel zur karolingischen Minuskel gebraucht, allerdings wurden sie bald abgelöst.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-9b430dd3-2b45-3b4c-bf0d-bb130b57cdc5",
+                "NORM-7901bf7a-abe0-3605-aa75-51937ea6f7fc"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-bf0c1fbf-64f8-3cbd-b1a2-d3d4dcd6e2b7",
+              "notation": "SCRP-X201",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X201",
+              "labels": [
+                {
+                  "text": "Pearl Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Perlschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Perlschrift ist die dominante Buchschrift der zweiten Hälfte des 10. und des größten Teils des 11. Jh. Nach H. Hunger dient das Omikron als konzeptionelle Grundform aller Buchstaben (Alpha ein Omikron mit einem zusätzlichen vertikalen Strich auf der rechten Seite; Sigma ein Omikron mit einem zusätzlichen Kopfstrich; Epsilon dasselbe mit einem zusätzlichen Oberstrich; Omega ein doppeltes Omikron usw.), sodass die Buchstaben typischerweise kreisförmig sind und Winkel eher vermieden werden. So ist das kleine Eta beispielsweise wellenförmig. Das Rho wird wie in der Perlschrift von unten mit dem folgenden Buchstaben verbunden und bildet ein ein weiteres Halb-Omikron an der Verbindungsstelle zwischen der Unterseite des Unterlängenstrichs und dem Verbindungsstrich. Die Schrift ist wenig kurisv, wenn auch kursive Elemente nicht gänzlich vermieden werden, solange sie abgerundet sind. Ober- und Unterlängen fallen kurz aus, sodass hier wie in der Bouletée-Schrift eine Tendenz zu einem bilinearen Schema besteht. Die Achse der Schrift ist vertikal oder leicht nacht rechts geneigt. Charakteristisch ist zudem das klare Bemühen um ein harmonisches Gesamtbild mittels harmonischer Proportionen und Abständen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-33a7cd6d-c463-3453-9a4a-00200df22a3e",
+              "notation": "SCRP-X831",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X831",
+              "labels": [
+                {
+                  "text": "Liturgical Majuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Liturgische Majuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Variante der griechischischen Majuskelschriften. Der Name leitet sich von der häufigen Verwendung in Evangelienbüchern ab. Eindeutige charakteristische Mermkale lassen sich nur schwer feststellen. Keine der Handschriften, die diese Majuskel enthalten, sind eindeutig zu datieren, weshalb Aussagen über ihre Entwicklung schwer zu treffen sind. Handschriften, welche in liturgischer Majuskel geschrieben sind, datieren zwischen dem 9. Jh. und 11. Jh.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5ab38dab-efc3-3b27-bcec-c6d809655b55",
+              "notation": "SCRP-X881",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X881",
+              "labels": [
+                {
+                  "text": "Tironian notes",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Tironische Noten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": ["NORM-f5ad96d4-7dde-3e20-be67-f2726a252436"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-733f5435-c07e-38e8-bd95-626fb4b00d8e",
+              "notation": "SCRP-X769",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X769",
+              "labels": [
+                {
+                  "text": "Cyrillic Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kyrillische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Asbuka",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Kyrilliza",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": ["NORM-db280956-53a0-3a8b-a79b-48e951d6b9c4"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-76587de5-dfe9-3385-845f-dd98a511b042",
+              "notation": "SCRP-X882",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X882",
+              "labels": [
+                {
+                  "text": "Biblical Majuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bibelmajuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die erste kanonische Majuskelschrift innerhalb der griechischen Schriften ist die Bibelmajuskel. Der Name des Stils entstand durch die Verwendung der Schrift in Bibelmanuskripten und anderen sakralen Texten. Zum ersten Mal taucht die Schrift auf in Papryi des 2. Jh. und wurde bis in die Zeit der Minuskelschrift verwendet. Sie zeichnet sich neben einer vertikalen Achse durch regelmäßig geschriebene Buchstaben (sowohl in Breite als auch Höhe) aus, durch ein kreisförmiges Epsilon, Theta, Omikron und Sigma, darüber hinaus durch eine auffällige Trennung der einzelnen Striche, die im rechten Winkel aufeinandertreffen.( Das Alpha ist eher dreieckig, es fehlen Schleifen und Serifen an den Enden der Hasten, ein genaues und regelmäßiges System von Strichen, wobei die vertikalen Striche dick, die horizontalen dünn und die schrägen Striche in der Regel mittel sind.)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2286ab03-f32d-3ee7-b2a6-e6ef5aa37f46",
+              "notation": "SCRP-X892",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X892",
+              "labels": [
+                {
+                  "text": "Capitalis",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Capitalis",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Capitalisschriften",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Römische Kapitalisschriften",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "lateinische Capitalisschriften",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Capitalis-Schriften sind lateinische Schriften im Zweiliniensystem, d. h. aus Großbuchstaben bestehende Majuskelschriften. Als Auszeichnungsschrift werden einige von ihnen für Überschriften, Kolophone und andere Hervorhebungen bis in das Mittelalter verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-7ccb2c61-d161-39de-b59e-5599e9bd49d2",
+                "NORM-3bff9855-ba47-3143-ad80-0e9dc528c488"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4c66edec-9bca-330d-bec3-e804461877bd",
+              "notation": "SCRP-X383",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X383",
+              "labels": [
+                {
+                  "text": "Salentine Scripts",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Salentinische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Schrift aus der „Terra d’Otranto“",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Ebenso wie die italogriechischen Schriften des 10. bis 12. Jh. stammt auch die Salentinische Schrift aus der byzantinischen Peripherie. Namensgebend ist der südöstliche Teil Italiens \\\"Salento\\\". Die beiden Hauptstile der Salentinischen Schrift sind die otrantinische Barockminuskel und die rechteckige otrantinische Schrift.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-a883baa9-ff82-31d3-83ce-36935a84c077",
+                "NORM-bbe25547-e59f-3b18-b86c-17c44623c174"
+              ],
+              "broader": null,
+              "hasKeyFeature": ["NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6b1516f7-7c1b-3808-a919-52e52c12a59a",
+              "notation": "SCRP-X477",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X477",
+              "labels": [
+                {
+                  "text": "Half-uncial",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Halbunziale",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Halbunziale ist eine Minuskelschrift, d. h. eine Schrift, die sich mit ihren Ober- und Unterlängen in einem Vierlienienschema bewegt. Auch wenn der Begriff 'Halbunziale' naheglegt, die Schrift sei aus der Unziale hervorgegangen, dürfte sie wohl eher durch kalligraphische Verdichtung aus der jüngeren römischen Kursive entstanden sein. Als Buchschrift war die Halbunziale etwa vom 4. bis zum 8. Jh. in Gebrauch. Anschließend lebte sie als Auszeichnungsschrift bis mindestens ins 12. Jh. fort. Innerhalb der Halbuniziale wird zwischen einer älteren und einer jüngeren Form unterschieden. Die Halbunziale ist als Buchschrift in wichtigen kulturellen Zentren bezeugt, beispielsweise in Italien, Spanien, Frankreich und England.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-d7cf0119-bc59-332d-a43a-3ec275e4122f",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6325c732-12de-3d37-ba56-fef8ced49556",
+              "notation": "SCRP-X140",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X140",
+              "labels": [
+                {
+                  "text": "Scholar-Scribes",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Gelehrtenschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Schrift des Demetrius Triclinius",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Schrift des Maximus Planudes",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Im Zuge der Deinstitutionalisierung der Buchproduktion während der Palaiologischen Renaissance tritt die bereits im 13. Jh. aufkommende Gelehrtenschrift noch deutlicher hervor. Es verbreiten sich wissenschaftliche Zirkel in den verschiedene Gruppen von Schreibern, die zusammenarbeiten und wissenschaftliche Projekte teilen, was jedoch nicht in einem klösterlichen oder formell didaktischem Kontext stattfindet. Die bedeutendsten Gelehrten-Schreiber dieser Zeit sind Maximus Planudes (ca. 1255 – ca. 1305) und Demetrius Triclinius (ca. 1280 – ca. 1340). Der starke Polymorphismus palaeologischer Schriften dieser Zeit erschwert die Charakterisierung und Identifizierung jener. Für Triclinius ist die Verwendung von runden Asper in früheren Teilen und die von eckigen Asper in Handschriften typisch. Weitere Merkmale sind die allgemeine Sauberkeit, der allgemein kleine und einheitliche Schriftgrad, ein Majuskel-Alpha, bestehend aus einem schrägen Strich mit einer senkrecht dazu stehenden Schleife, das oft über der Zeile platziert wird, wenn der Buchstabe am Ende des Wortes steht (und sich mit einem unauffälligen Minuskel-Alpha abwechselt), und ein vergrößertes lunates Sigma am Ende (das sich ebenfalls mit einem unauffälligen Minuskel-Sigma abwechselt).",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-74fb135e-4657-3379-8646-bcdf909b296e",
+              "notation": "SCRP-X796",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X796",
+              "labels": [
+                {
+                  "text": "Humanistic Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Humanistische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die humanistische Schrift kam um 1400 in Florenz auf. Die Schrift nimmt Formen der karolingischen Minuskel des 11. und 12. Jh. wieder auf und entwickelt sie weiter: Die Buchstaben sind nicht mehr gebrochen, sondern wieder rund geschrieben; das aus zwei einzelnen Bögen zusammengesetzte Minuskel-g wird wieder eingeführt, wie auch die et-Kürzung (Ampersand). In Deutschland verbreitet sich die humanistische Schrift ab dem Ende des 15. Jh. in Humanistenkreisen. Durch ein Studium an den italienischen Universitäten können jedoch auch deutsche Schreiber bereits in der Mitte und in der 2. Hälfte des 15. Jh. deutliche humanistisch geprägte Schriften schreiben.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-552150c9-15d6-3dfb-91a0-b0eada695b5a",
+                "NORM-8e5bd415-aaa5-385f-8b66-a35b8242b47a"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-10f455be-acf9-3493-97d3-c024e5ae16d5",
+              "notation": "SCRP-X294",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X294",
+              "labels": [
+                {
+                  "text": "Alexandrian Majuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Alexandrinische Majuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die zweite kanonische griechische Majuskelschrift neben der Bibelmajuskel und der Spitzbogenmajuskel ist die alexandrinische Majuskel. Sie wurde in der früheren Forschung als koptisch bezeichnet, was heute allerdings vermieden wird, da sich die koptische Schrift erst aus dieser Majuskel heraus entwickelte. Beide Bezeichnungen verweiesen auf die auf die Überlieferungslage gestützte verumtliche Herkunft aus Ägypten, insbesondere aus Alexandria. Der früheste Gebrauch der Schrift lässt sich durch Papyri des 2. Jh. n. Chr. belegen; als Buchschrift wurde die alexandrinische Minuskel bis in das 7. Jh. verwendet, danach nur noch als Auszeichnungsschrift. Die alexandrinische Majuskel zeichnet sich durch folgende Hauptmerkmale aus: eine vertikale Achse (sie ist also aufrecht), Unterschied zwischen schmalen (d. h. in der Bibelmajuskel runden) Buchstaben, Tendenz Winkel durch Kurven oder Schleifen zu ersetzen, Tendenz, absteifende Striche entlang der der Grundlinie so zu verlängern, dass sie den folgenden Buchstaben berühren (Pseudoligaturen), besondere Form des Alpha, das in einem einzigen, komplexen Strich geschrieben ist.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f8cc16e2-95ee-37e0-a04b-dddb92f7fabe",
+              "notation": "SCRP-X942",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X942",
+              "labels": [
+                {
+                  "text": "Visigothic Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Visigothica",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die westgotische Schrift (Visigothica) entstand wohl zwischen dem 6. und 8. Jh. im Westgotenreich auf der Iberischen Halbinsel und in den westgotischen Gebieten Frankreichs (Septimanien). Auch nachdem die islamische Expansion (ab 711) die Vorherrschaft der Westgoten beendet hatte, blieb die Schrift noch lange in Gebrauch. Sie wurde sowohl von den muslimisch beherrschten (?) Christen, den Mozarabern, als auch von Anghörigen der christlichen Königreiche verwendet. Die Verdrängung der Visigothica durch die karolinigsche Minuskel geschah je nach Region zu sehr unterschiedlichen Zeiten. Während sie in Septimanien bereits im 9. Jh. verschwindet, endet ihre Verwendung in den meisten Gebieten auf der Iberischen Halbinsel erst im späten 11. und frühen 12. Jh.; die jüngsten Belege der Visigotica stammen aus dem 13. Jh. Merkmal der westgotischen Schrift ist im Allgemeinen ihre Steilheit, die teilweise in eine Linksneigung mündet. Die Oberlängen sind weit ausgezogen. Das g ist aus der Unziale übernommen und hat einen lang ausgezogenen unteren Bogen; das a ähnelt einem cc-a bzw. oc-a.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6efb292c-5fe8-3302-89f4-11fd1bff0da2",
+              "notation": "SCRP-X225",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X225",
+              "labels": [
+                {
+                  "text": "Karolingische Minuskel",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Carolingian Minuscule",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Karlingische Minuskel",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Carolina",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Karolingische Schrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Caroline Minuscule",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die karolingische Minuskel war eine sehr langlebige Schriftart, die über 400 Jahre, von ca. 800 bis 1200, in Gebrauch war. Auch wenn der Grundcharakter der Schrift in den Jahrhunderten konstant blieb, gab es sowohl im Duktus als auch innerhalb der Buchstabenformen einige Veränderungen. Die karolinginische Minuskel ist eine kalligraphisch, geformte Buchschrift mit deutlich gerundeten Buchstaben. Wörter sind voneinander abgesetzt; Haar- und Druckstriche unterscheiden sich kaum, da die Strichbreite in der Regel gleichmäßig ist; Kürzungen werden vermieden. Die Etablierung der karolingischen Minuskel als überregionale Schriftart hängt aufs Engste mit Karl dem Großen (747–814) zusammen, der die Schrift als neue, klare und einheitliche Schrift förderte. Dabei entstand die karolingische Miunuskel jedoch nicht aus dem Nichts, sondern konnte direkt auf Formen zurückgreifen, die in Corbie und/oder Tours bereits im 8. Jh. geschrieben wurden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-d1558cf7-d643-37bc-b211-a7480caf92e1",
+                "NORM-78c14069-f3b9-3efc-9a33-8c1cf1283aa6",
+                "NORM-04538058-9742-30c0-8e0b-3447935cfdc8"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-607cbde8-6356-3502-bc56-6cc970e2a985",
+              "notation": "SCRP-X997",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X997",
+              "labels": [
+                {
+                  "text": "Glagolitic Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Glagolitische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Glagolica",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Glagoliza",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [
+                "NORM-9555e99c-cda3-34ad-b1c1-aabd69b57370",
+                "NORM-2682e071-3e7b-376d-928b-2739f8c93b51"
+              ],
+              "broader": null,
+              "hasKeyFeature": ["NORM-db280956-53a0-3a8b-a79b-48e951d6b9c4"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1b833b9b-323d-3d22-accf-7e197d20da64",
+              "notation": "SCRP-X599",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X599",
+              "labels": [
+                {
+                  "text": "Roman Cursive",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Römische Kursive",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Roman Cursive Script",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die römische Kursive ist ein Sammelbegriff für die kursiven Schriften, die im antiken Rom etwa vom 1. bis 3. Jh. ausgebildet und bis in das 10. Jh. hinein verwendet wurden. Wegen ihrer bewegten, nach Verbindungen strebenden Form oder auch aufgrund ihres \\\"laufenden\\\" Charakters wurden sie als \\\"Kursive\\\" bezeichnet. Die römischen Kursivschriften als Schriften für Gebrauchstexte wurden in alltäglichen geschäftlichen oder amtlichen Kontexten verwendet. Geschrieben wurden sie mit Griffel auf Wachstafeln oder mit Tinte auf Papyrus und Pergament. Differenziert wird die römische Kursive traditionell in eine ältere römische Kursive (eine Majuskelkursive) und in eine jüngere römische Kursive (eine Minuskelkursive).",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d47ec2e8-cbc5-3861-8ca9-5bbb1b677753",
+              "notation": "SCRP-X863",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X863",
+              "labels": [
+                {
+                  "text": "Sephardic Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sephardische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": ["NORM-638ffd41-c121-3664-a6e3-0c23e10392d3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-74141f98-83ed-3626-b672-a1fa30929853",
+              "notation": "SCRP-X969",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X969",
+              "labels": [
+                {
+                  "text": "Uncial",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Unziale",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Uncial Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Roman Uncial Script",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Unziale ist eine Majuskelschrift, d. h. eine Schrift aus Großbuchstaben in einem Zweiliniensystem. Zwar entspricht sie diesem Linienschema streng genommen nicht durchgehend, allerdings weisen nur sehr wenige Buchstaben Ober- oder Unterlängen auf (z. B. D, H, L, P und Q). Auch sind ihre Unterlängen dabei in der Regel sehr kurz ausgeführt, sodass das Erscheinungsbild wie das einer Schrift im Zweiliniensystem wirkt. Grundlage der Unziale ist die ältere römische Kursive, aus der sie durch kalligraphische Verdichtung und Umformung hervorgegangen ist. Im Unterschied zu den vorher gebräuchlichen Capitalis-Schriften weist die Unziale runde Buchstabenformen auf. Markante und neue Buchstaben sind: D, E, H, M, P und Q. Die Unziale entstand wohl bereits im 2. Jh., besonders beliebt war die Schrift jedoch zur Zeit der frühchristlichen Literatur, daher bildet das 4. bis 8. Jh. den Schwerpunkt ihrer Überlieferung. Zunächst wurde die Unziale in Rom und Italien verwendet, von da aus verbreitete sie sich auch in den angelsächsischen und irischen Skriptorien. Durch die Verbreitung ergaben sich regionale Sonderformen der Unziale. Als Auszeichnungsschrift wurde die Unziale über das 8. Jh. und die genannten Regionen hinaus verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2c113c74-ed05-3bbd-b66a-f609a5a7c2f7",
+              "notation": "SCRP-X937",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X937",
+              "labels": [
+                {
+                  "text": "Kurrente",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Kurrent Script",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Currente",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Kurrentschrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Kurrent",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Deutsche Schreibschrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Kurrent",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Kurrentschrift entwickelte sich aus der Kanzleibastarda. Sie kam etwa ab dem frühen 16. Jh. auf. Sie ist flüssig, flach und innerhalb des Mittelbands auffallend breitgezogen. Markantes Merkmal sind die Schleifen an den Oberlängen. Die f- und s-Schäfte sind deutlich verlängert und die Buchstabenformen wie g, p oder rundes s werden in einem Federzug geschrieben. Kennbuchstabe ist das Minuskel-e, das wie geknüpft wirkt. Diese Kurrentschrift ist die Grundlage der späteren Schriften des 17. bis 19. Jh. für deutsche Texte. Ihre letzte Entwicklungsstufe wurde noch bis in die Mitte des 20. Jh. in deutschen Schulen als Grundschrift gelehrt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": ["NORM-eb212fcc-e06c-31bb-82cd-516039ee68a1"],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-28dfa3ec-1b18-3671-b40e-d2f98b67e4ba",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-08453ef2-5455-3801-bee5-7fe477a6fa43",
+              "notation": "SCRP-X219",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X219",
+              "labels": [
+                {
+                  "text": "Beneventan Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Beneventana",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Beneventana ist eine Buchschrift, die vor allem in Süditalien verwendet wurde. Neben den dortigen Schreibzentren im namensgebenden Herzogtum Benevent gab es auch einzelne Schreibzentren an der dalmatichen Adriaküste. Ihren Ursprung hatte die Beneventana in der Mitte des 8. Jh., häufige Verwendung fand sie bis ins 13. Jh. Einzelne Beispiele für die Beneventana finden sich sogar noch bis in das 16. Jh. Ihre graphische Grundlage bildeten die süditalienischen Halbkursiven (italienische Minuskelkursiven). Während nach dem Fall der Langobarden 774 sich die Schriftentwicklung in Norditalien verlangsamte, konnte sie im Süden, nicht zuletzt weil die Langobarden hier einen Rückzugsort fanden, fortgesetzt werden. Die Beneventana wird in die Stile Monte Cassino und Bari unterteilt; die Einteilung spiegelt eine zeitliche Abfolge wieder. Zunächst wurde der Monte Cassino-Stil ausgebildet, auf ihn folgte der Bari-Stil. Die Schrift erscheint insgesamt rund und fließend. Markante Buchstabenformen sind: über das Mittelband verlängerte und verdickte Schäfte, das cc-a und das oc-a werden geschlossen, einfaches Minuskel c steht neben einem zweizeiligen gekerbten c, das e ragt über die Mittelzone hinaus und hat die Form von etwa zwei gleich großen Bögen, I-longa wechselt mit normal hohem i, der Deckbalken des t beginnt links mit einem auf der Grundlinie liegenden Bogen, an dessen Ende der Schaft angesetzt wird, Minuskel-r ist immer kurz am Wortende. Besondere Ligaturen sind die Verbindung von t und i. Besondere Kürzungszeichen sind ein übergesetzter Punkt (über dem normalen Kürzungsstrich) sowie für m am Wortende ein über die Zeile gesetztes Kürzel, das einer 3 ähnelt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d1414cfd-8f82-3579-b4d5-7ebaecb13842",
+              "notation": "SCRP-X617",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X617",
+              "labels": [
+                {
+                  "text": "Metochites Style",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Metochistes-Stil",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Metochistesstil",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Metochistesstil",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Anders als bei den persönlichen Schriftstilen der Gelehrtenschrift während des 14. Jahrhunderts handelt es sich beim Metochistes-Stilum einen formalen Stil. Dieser konnte einem Schreiber der kaiserlichen Kanzlei namens Michael Clostomalles zugeordnet werden und stellt damit ein Beispiel eines offiziellen Schreibers dar. Charakteristisch ist für diese gut lesbare Schrift ein kleiner Schriftgrad, regelmäßigen Buchstabenabständen, Tendenz zum Bilinearismus und eine äußerst moderate Verwendung von Ligaturen und Abbreviationen. Obwohl diese Schrift vor allem in Prosa Anwendung fand, kann der Stil auch weiter gefasst als Kategorie von kleineren, regelmäßigen Schriften aus dem 14. Jahrhundert verstanden werden, die keine extravaganten Schnörkel aufweisen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": ["NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f4e2e03e-f761-317e-b808-27e6d090ca07",
+              "notation": "SCRP-X259",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X259",
+              "labels": [
+                {
+                  "text": "Ashkenazic Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Aschkenasische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Aschkenasisch",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": ["NORM-638ffd41-c121-3664-a6e3-0c23e10392d3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-8383ee7b-3f2e-33aa-9cad-8992c43e415a",
+              "notation": "SCRP-X269",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X269",
+              "labels": [
+                {
+                  "text": "Gotische Schrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Gothic Script",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Gothic Scripts",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Unter der Bezeichnung gotische Schrift werden die Schriften vom Ende der 2. Hälfte des 12. Jh. bis etwa zum frühen 16. Jh. zusammengefasst. Im Zuge der Gotisierung sind ihre Hauptmerkmale die Engerstellung der Schäfte und Betonung der Vertikalen, die Brechung der Schäfte auf der Grundlinie und die engere Zusammenbindung der Buchstaben (v. a. durch Bogenberührungen und Bogenverbindungen). Verwendung findet die gotische Schrift in Westeuropa.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-90547742-707a-35c3-99ef-d1530167e0c6",
+                "NORM-6af4cc6a-0d18-3b51-aa30-675853a19905",
+                "NORM-e448fdf1-ba6d-3fec-ac90-1c3e00123769",
+                "NORM-df1973b7-3bcf-3642-93ba-fec2ca467009",
+                "NORM-5300aec7-75be-3215-a9b7-e9a50801227d"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4df73ccc-af29-31e8-bf4e-c3e92804dc1c",
+              "notation": "SCRP-X448",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X448",
+              "labels": [
+                {
+                  "text": "„Bouletée“ Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Minuskel „bouletée“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Bouletée Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kirchenlehrerstil",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Bouletée",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Bouletée-Minuskel wurde vorwiegend in Luxus-Handschriften des 10. Jh. verwendet, die in der Regel biblische oder patristische Texte überlieferten. Namensgebend für den Stil sind die knopflochförmigen und knotigen Verdickungen (\\\"boules\\\") der Oberlängen und vieler Kleinbuchstaben. Buchstabenkörper neigen dazu kreisförmig oder ähnlich einem Quadrat zu sein. Die Unter- und Oberlängen sind auf ein Minimum reduziert, sodass diese Schrift zu einem bilinearen System tendiert. Auffallend sind erstens das Delta mit aufrechter Kurve am Ende, anstatt einer links geneigten und zweitens das zweiteilige Majuskel-Kappa sowie drittens ein häufig vorkommendes Majuskel-Nu. Die Achse der Schrift ist vertikal bis leicht nach links geneigt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f044d9ec-ff58-3e59-8222-f389583c3c84",
+              "notation": "SCRP-X484",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X484",
+              "labels": [
+                {
+                  "text": "Cypriot Scripts",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Zypriotische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Wendung Zypriotische Schrift ist eine Bezeichnung für Schriftstile, die sich auf der Inseln Zypern entwickelten. Sekundär wurden diese Stile jedoch ebenfalls in den Küstengebieten der Insel und insbesondere in Palästina verwendet. Ein besonderes Merkmal ist die intensive schwarze Tintenfarbe, die in den Manuskripten mit dieser Schrift verwendet wird.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-af1295ac-8845-370a-8274-d1f121952a93",
+                "NORM-f7235694-4ee8-35db-88a4-310554c4f608",
+                "NORM-3e1e62ae-c0d6-353e-9436-21c0ec273e89"
+              ],
+              "broader": null,
+              "hasKeyFeature": ["NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-e3117827-34a8-380c-8c1e-ce9686d80613",
+              "notation": "SCRP-X196",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X196",
+              "labels": [
+                {
+                  "text": "Ogivale Majuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Spitzbogenmajuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Ogivalmajuskel",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Maiuscola ogivale",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die dritte und letzte kanonische Majuskelschrift neben Bibelmajuskel und alexandrinischer Majuskel ist die Spitzbogenmajuskel. Folgende Merkmale zeichnen sie aus: starke Strichkontraste (vertikale Striche sind tendenziell dick, die anderen eher dünn), ovale Form bei Epsilon, Theta, Omikron und Sigma. Die Schrift tritt in zwei Variationen auf, einerseits mit aufrechter (upright ogival majuscule), andererseits geneigter Achse (slanted ogival majuscule). Beide Variationen wurden zeitgleich verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-b8b327ae-59c2-3b3a-ae0a-2419fb03e89f",
+                "NORM-f76678f1-cdc9-373c-9c42-e9b5d33dc2f6"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-852ab7b7-fd0b-3336-b4b4-285c96a7003b",
+              "notation": "SCRP-X168",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X168",
+              "labels": [
+                {
+                  "text": "„Ephraim Type“",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "„Ephraim-Typ“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Cursive bookhands",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Tipo Efrem (mano corsiveggiante con asse inclinate)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Der „Ephraim-Typ“ wurde nach einer Handschrift (vermutlich) aus dem Jahre 947 n. Chr. und dessen Schreiber benannt. Er weist viele kursive Elemente (\\\"corsiveggianti\\\" nach Follieri) auf und vermittelt dennoch einen insgesamt wohlproportionierten und harmonischen Eindruck. Ein typisches kursives Element ist die Verbindung des Rho mit dem folgenden Buchstaben von unten.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-faaf77a7-f999-33f7-b4c3-145120d131e1",
+              "notation": "SCRP-X811",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X811",
+              "labels": [
+                {
+                  "text": "„Philosophical Collection“ Type",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "„Collezione-filosofica“-Typ",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Diese Schrift ist charakteristisch für die achtzehn Handschriften der \\\"Collezione-filosofica\\\". Neun dieser Handschriften wurden 1893 durch T. W. Allen entdeckt. Auch wenn alle Handschriften von unterschiedlichen Schreibern stammen, weisen sie durchgehend und einheitlich runde Buchstabenformen und tropfenförmige Endungen auf. Der Schriftgrad ist klein und teils gedrungen. Die Achse der Schrift ist senkrecht.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c5ad44f2-c0ac-37c7-9cbc-695e2d994c40",
+              "notation": "SCRP-X580",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X580",
+              "labels": [
+                {
+                  "text": "old angular minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "eckige Frühminuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "„tipo Eustazio“",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "minuscola antica oblunga",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "minuscola antica angolosa",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Schrift der eckigen Frühminuskel enstand aus der Übersteigerung der Eckbildung im Schriftbild des 9. und frühen 10. Jh. Rechte Winkel häufen sich dabei entlang der Grundlinie. Im Kontrast zu rund bleibenden Buchstaben (epsilon, omikron, sigma) vermehren sich, häufig sehr eng beiananderstehende, parallel verlaufende Vertikalstriche (mu, nu, pi). Die Achse der Schrift ist senkrecht oder leicht nach links geneigt. Der Strichstärkenkontrast ist wenig ausgeprägt und spielt keine wesentliche Rolle.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ce1aafcc-120d-3261-bb3e-ead279940e06",
+              "notation": "SCRP-X693",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X693",
+              "labels": [
+                {
+                  "text": "old sloped minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "geneigte Frühminuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "minuscola antica inclinata",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Schrift des späten 9. und frühen 10. Jahrhunderts mit deutlich nach rechts geneigter Achse. Charakterisitsch sind außerdem die leicht länglichen Buchstabenformen mit sparsamen Verzierungen an den Strichenden und dem Fehlen eines Stirchstärkenkontrasts.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-16a58110-4bf8-36d3-9211-2c9876055ee3",
+              "notation": "SCRP-X561",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X561",
+              "labels": [
+                {
+                  "text": "„Anastasius Type“",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Minuskel „tipo Anastasio“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Anastasios-Typ",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Schrift mit starkem Kontrast zwischen den großen und runden Buchstabenkörpern einerseits und den engen Abständen zwischen vertikalen Strichen andererseits. Merkmal der Schrift sind ebenfalls eckige Formen, wenn auch nicht ganz so deutlich ausgeprägt wie bei der eckigen Frühminuskel (old angular minuscle). Die Achse der Schrift ist senkrecht, der Schriftgrad auffallend groß. Der Strichstärkenkontrast ist deutlich erkennbar: kräftige Vertikalstriche und feine Horizontalstriche.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-dad63614-5630-3bc9-ab8f-a359bb4f8997",
+              "notation": "SCRP-X978",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X978",
+              "labels": [
+                {
+                  "text": "„Baanes Type“",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "„Baanes-Typ“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Cursive bookhands",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Tipo Baanes (mano corsiveggiante con asse verticale",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Der Baanes-Typ ist nach dem Schreiber Baanes benannt, welcher im Jahre 913/914 n. Chr. eine Handschrift (Paris, BNF, Gr. 451) für Arethas von Cäsarea anfertigte. Für die Schrift charakteristisch sind eine senkrechte Achse der Schrift bei kursiver Schrift (\\\"corsiveggianti\\\" nach Follieri). Die stärkere Kursivität führt zu Polymorphismus, das heißt zur Verwendung unterschiedlicher Buchstabenformen je nach Kontext.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ea43c3ef-6b06-368f-a8d4-cabfdaeee0f3",
+              "notation": "SCRP-X845",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X845",
+              "labels": [
+                {
+                  "text": "old round minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "runde Frühminuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "minuscola antica rotonda",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Ausgangspunkt für die Entwicklung der frühen Rundminuskel ist das 9. Jh. (vgl. die Uspensky-Evangelien, 835 n. Chr.). Trotz des Namens Rundminuskel sind die Buchstabenkörper dieser Schrift nie ganz kreisförmig, sondern weisen eine eher vage dreieckige Form auf. Das Seitenverhältnis der Schrift ist eher breit als hoch (quadratisch bis flach rechteckig) und der Schriftgrad einheitlich klein. Charakteristisch ist ebenfalls der starke, jedoch ungleichmäßige Kontrast der Strichstärken. Zumeist verlaufen kräftigere Striche vertikal, treten jedoch auch horizontal oder diagonal auf. Die Achse der Schrift ist senkrecht. Viele Buchstaben weisen an ihren Enden Zierstriche sowie Haken an den Abstrichen auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c237bb61-0d39-3a33-b644-4161daa627fd",
+              "notation": "SCRP-X367",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X367",
+              "labels": [
+                {
+                  "text": "old square minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "(mehr oder weniger) viereckige Frühminuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "old squarish minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "minuscola antica (più o meno) quadrate",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Schrift mit vage dreieckigen Buchstabenkörpern. Das Seitenverhältnis ist eher ausgeglichen bis quadratisch bei größerem Schriftgrad. Die Buchstabenkörper nehmen dabei im Verhältnis zu den Strichen mehr Raum ein. Der Strichstärkenkontrast ist wenig ausgeprägt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-569f8863-7092-3880-a316-336864b2347f",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-e8702ffb-d6c2-36be-84bb-189018868d0b",
+              "notation": "SCRP-X872",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X872",
+              "labels": [
+                {
+                  "text": "Insular Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Insulare Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-403bac9b-5f10-332d-af4e-07b9d8f234fa",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-7fade14d-da4e-30be-bc3e-b11442eb4396",
+              "notation": "SCRP-X400",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X400",
+              "labels": [
+                {
+                  "text": "Rossano Style",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rossano-Stil",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Rossano Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rossanostil",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "„Stile di Rossano“",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Der Rossano-Stil entspricht eher einem Handschriftenstil als einem Schriftstil. Einzelbuchstaben, Ligaturen und Pseudoligaturen ähneln anderen zeitgenössischen Schriften, wie beispielsweise der Perlschrift. Charakteristisch sind die blasse Tinte und die Verwendung bestimmter Seitenlinienmuster, die manchmal mit Bleistift verstärkt sind. Die Lagen setzen sich aus acht Blättern, mit Lagennummerierung auf der ersten Recto-Seite und letzten Verso-Seite, zusammen. Ebenfalls auffallend sind die \\\"umgekehrten Silhouetten\\\"-Verzierungen (dessin en réserve) in Karminrot. Die Schrift selbst ist klein, flüssig und weicht von der Linienführung ab. Zu den charakteristischen Buchstabenformen, wenn auch weder exklusiv für diese Schrift, noch systematisch angewendet, zählen das Majuskel-Delta mit einer geschwungenen Oberkante, das Psi mit einem geschwungenen Grundstrich, das Zeta in Form einer 2 oder 3, das nach links offene Rho und das schräge Majuskel-Nu. Als tatsächlich charakteristisch für diese Schrift kann die Platzierung des Akzents gelten. Der Schreiber setzt den Akut auf einem anlauten Vokal.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-70253812-c682-3607-b9c0-9136502138fc",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-be436ae1-2e74-3ae9-93bc-c3b917de24f1",
+              "notation": "SCRP-X628",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X628",
+              "labels": [
+                {
+                  "text": "Minuscule of the School of St. Nilus the Younger",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Minuskel „Scuola Niliana“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der italo-griechischen Schrift der Minuskel Scuola Niliana fehlt es an hervorstechenden Merkmalen, die eine spezifische Charakterisierung erlauben. Die Schreiber der Schrift versuchten, jede Übertreibung in der Ausführung zu vermeiden, auch um einen möglichst harmonischen Gesamteindruck auf der Seite zu erreichen. Auffallend ist die Flachheit der Schrift, die vor allem durch den Abstand der Buchstaben und der Breite der Striche, welche von einer runden und ziemlich großen Feder zu stammen scheinen, erzeugt wird. Auch andere italo-griechische Schriften weisen ein flaches Erscheinungsbild auf, doch wird dies hier mit einem einheitlichen und kleinen Schriftgrad kombiniert. Zudem liegen die Schriftzeilen eng beieinander und die Schäfte kurz, sodass die Schrift \\\"dicht\\\" wirkt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-70253812-c682-3607-b9c0-9136502138fc",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-042a2e21-18d6-36d1-9a23-7827909b21f4",
+              "notation": "SCRP-X730",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X730",
+              "labels": [
+                {
+                  "text": "Skylitzes Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "„Skylitzes-Typ“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "„Tipo Scilitze“",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Der Skylitzes-Typ ist eine italo-griechische Schrift mit ausgeprägten Merkmalen wie einem Majuskel Delta mit einer gerundeten oberen Schlaufe, der optionalen Vergrößerung bestimmter Buchstaben (z. B. Majuskel-Epsilon, Theta, Majuskel-Kappa, Omikron, mondförmiges Sigma und Omega), Zeta mit einem langen Anstrich, der bis zur Grundlinie reicht, Phi mit ungewöhnlich langem Schaft, Alpha-Sigma Ligatur mit nach links offenem Sigma und einer Abbreviation für -ων in der Form eines über der Linie geschriebenen Omegas.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-70253812-c682-3607-b9c0-9136502138fc",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-08c2cebe-1c52-38d7-b2f7-015226f485a3",
+              "notation": "SCRP-X702",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X702",
+              "labels": [
+                {
+                  "text": "Ace of Spades Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Minuskel „as de pique“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "„Minuscola ad asso di picche“",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Pik-As-Stil",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Pik-As-Minuskel gehört zur Gruppe der italo-griechischen Schriften und lässt sich in die Zeit zwischen der Mitte des 9. und Mitte des 10. Jahrhunderts setzen. Sie erhielt ihren Namen auf Grund der charakteristischen, wenn auch nicht exklusiven Epsilon-Roh-Ligatur, deren Form einem Pik-Ass ähnelt. Charakteristisch ist die Mischung aus kursiven, geschwungenen und eckigen Formen. Außerdem sind die Schäfte typischerweise doppelt gezeichnet (auf- und abwärts, schleifenartig). Das Rho ist nach links offen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-70253812-c682-3607-b9c0-9136502138fc",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4438095f-3533-35f4-abbc-0ceb55574ced",
+              "notation": "SCRP-X839",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X839",
+              "labels": [
+                {
+                  "text": "Reggio Style",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Reggio-Stil",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Reggio Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Reggiostil",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "„Stile di Reggio“",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Der Reggio-Stil, als italo-griechische Schrift, begegnet entgegen seines Namen sowohl in Reggio auf der Festlandseite und als auch in Messina auf der sizilianischen Seite. Ihm charakteristisch ist der Kontrast zwischen breiten und schmalen Buchstaben. Dies kann als eine Verschärfung einer Tendenz angesehen werden, die bereits in der Schrift der Schule des Heiligen Nilus vorhanden war, mit der die Reggio-Schrift tatsächlich ein insgesamt abgeflachtes Aussehen teilt. Der Kontrast fällt besonders bei den breiteren Minuskeln Beta und Mu im Vergleich zum schmaleren Nu und den schmalereren Majuskeln Epsilon und Eta auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-70253812-c682-3607-b9c0-9136502138fc",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-9b430dd3-2b45-3b4c-bf0d-bb130b57cdc5",
+              "notation": "SCRP-X263",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X263",
+              "labels": [
+                {
+                  "text": "Rhaetian Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rätische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Churrätische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die rätische (oder auch churrätische) Minuskel ist ein vorkarolingischer Regionalstil. Die Bezeichnung leitet sich von dem Gebiet ab, in der sie vor allem verwendet wurde, und zwar das Bistum Chur bzw. Churrätien. Ob hier auch ihr Ursprung liegt, lässt sich nicht sicher sagen. Wegen der geographischen Nähe zu Italien wurde die paläographische Verwandtschaft der rätischen Minuskel mit Urkunden- und Buchschriften aus Norditalien in der älteren Forschung betont und diese Schriftart als langobardisch bezeichnet. Mittlerweile hat sich die Eigenständigkeit der rätischen Minuskel und auch der entsprechende Begriff durchgesetzt. Der Regionalstil wurde in der 1. Hälfte des 8. Jh. bis zum 1. Drittel des 9. Jh. im Großraum Chur verwendet. Er zeichnet sich durch eine Vereinfachung der bisherigen Buchstabenformen aus. Charakteristisch ist ein geschlossenes t mit gespaltenem Deckbalken.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-b58d48a1-f4a4-38bf-820c-cbb2ec05bbe9",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-7901bf7a-abe0-3605-aa75-51937ea6f7fc",
+              "notation": "SCRP-X101",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X101",
+              "labels": [
+                {
+                  "text": "Alemannic Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Alemannische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Wie die rätische Minuskel ist auch die alemannische Minuskel ein vorkarolingischer Regionalstil. Sie zeichnet sich insbesondere durch drei Merkmale aus: cc-a, nt-Ligatur mit auf dem Kopf stehendem T sowie einem 3-förmigen g. Zeitlich dürfte die alemannische Minuskel etwas vor der rätischen Minuskel anzusetzen sein. Trotz der nur relativ kurzen Zeit von ca. einem Jahrhundert (744–846), in der die alemannische Minuskel in Gebrauch war, wird sie in eine ältere und eine jüngere Phase unterteilt. Wie der Name nahelegt, ist die alemannische Minuskel in Schriftzeugnissen aus dem alemannischen Raum, d. h. aus dem Kulturbereich des Bodenseeraums, insbesondere aus St. Gallen und der Reichenau, erhalten.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-b58d48a1-f4a4-38bf-820c-cbb2ec05bbe9",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-7ccb2c61-d161-39de-b59e-5599e9bd49d2",
+              "notation": "SCRP-X943",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X943",
+              "labels": [
+                {
+                  "text": "Capitalis quadrata",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Capitalis Quadrata",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Capitalis Quadrata",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Capitalis quadrata",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Square Capital",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Capitalis quadrata ist die schreib- oder handschriftliche Variante der Capitalis monumentalis. Wie sie ist die Capitalis quadrata eine Majuskelschrift und in der Formgebung der Buchstaben an Quadraten ausgerichtet. Bis heute sind nur wenige Handschriften bezeugt, in denen ausschließlich die Capitalis quadrata zum Einsatz kommt, ein Beispiel ist der 'Codex Vergilius Augusteus', eine Handschrift aus der Wende vom 3. zum 4. Jahrhundert mit Werken des römischen Dichters Vergil. Bis in das Mittelalter hinein wird die Capitalis quadrata als Auszeichnungsschrift verwendet, dabei ist sie aber weit weniger häufig als die Capitalis rustica.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-2286ab03-f32d-3ee7-b2a6-e6ef5aa37f46",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-3bff9855-ba47-3143-ad80-0e9dc528c488",
+              "notation": "SCRP-X885",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X885",
+              "labels": [
+                {
+                  "text": "Capitalis rustica",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Rustic Capitalis",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "kanonisierte Capitalis",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Capitalis Rustica",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Rustic Capital",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Als lateinische Capitalis-Schrift ist die Capitalis rustica eine Majuskelschrift, d. h. eine Schrift aus Majuskeln in einem Zweiliniensysten. Anders als bei der Capitalis quadrata passen sich die Buchstaben der Capitalis rustica jedoch nicht dem Quadrat an, sondern sind insgesamt schmaler und nach oben gelängt. Ihre Formgebung ist kurvig-bogig. Als Schrift für vollständige Codices sowie Papyri findet die Capitalis rustica vor allem vom 4. bis 5. Jh. Anwendung. Als Auszeichnungsschrift war sie mindestens bis in das 12. Jh. hinein in Gebrauch.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-2286ab03-f32d-3ee7-b2a6-e6ef5aa37f46",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a883baa9-ff82-31d3-83ce-36935a84c077",
+              "notation": "SCRP-X935",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X935",
+              "labels": [
+                {
+                  "text": "Baroque Salentine Style",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "otrantinische Barockminuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "„stile barocco salentino\\\"",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die otrantinische Barockminuskel ist eine jüngere Form der Salentinischen Schrift, die sich im 13. und 14. Jh. entwickelte. Salentnische Schreiber nutzten eine äußerst kursiven Schrift mit zahlreichen Verzierungen und Abbreviationen. Weitere charakteristische Merkmale sind ein Alpha, dessen Schleife deutlich unter die Grundlinie herabreicht, Ligaturen, die Schleifen verschiedener Buchstaben direkt verbinden, und eine Abbreviation für die Endung -ον, die häufig mit einem gleichzeitig gesetzten Gravis-Akzent in horizontaler Stellung kombiniert wird, sodass beide zusammen wie ein Gleichheitszeichen aussehen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-4c66edec-9bca-330d-bec3-e804461877bd",
+              "hasKeyFeature": ["NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-bbe25547-e59f-3b18-b86c-17c44623c174",
+              "notation": "SCRP-X826",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X826",
+              "labels": [
+                {
+                  "text": "Rectangular Salentine Style",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "rechteckige otrantinische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "„stile rettangolare salentino“",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die rechteckige otrantinische Schrift ist eine ältere Form der Salentinischen Schrift. Alle Buchstaben dieser Schrift tendieren im Allgemeinen zu geometrischen Formen und passen insbesondere in niedrige Rechtecke. Die Achse ist aufrecht, die Buchstabenformen sind einfach und die Striche sind im Allgemeinen dick, mit wenig oder keinem Strichkontrast.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-4c66edec-9bca-330d-bec3-e804461877bd",
+              "hasKeyFeature": ["NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-552150c9-15d6-3dfb-91a0-b0eada695b5a",
+              "notation": "SCRP-X922",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X922",
+              "labels": [
+                {
+                  "text": "Humanistic Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Humanistische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Humanisctic Book Hand",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-74fb135e-4657-3379-8646-bcdf909b296e",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-8e5bd415-aaa5-385f-8b66-a35b8242b47a",
+              "notation": "SCRP-X608",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X608",
+              "labels": [
+                {
+                  "text": "Humanistic Cursive",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Humanistische Kursive",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": ["NORM-02a4df8a-35fa-3297-abc1-b78f42eae085"],
+              "broader": "NORM-74fb135e-4657-3379-8646-bcdf909b296e",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d1558cf7-d643-37bc-b211-a7480caf92e1",
+              "notation": "SCRP-X825",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X825",
+              "labels": [
+                {
+                  "text": "Early Carolingian",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Frühkarolingische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Frühkarolingische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Innerhalb der langen Verwendungszeit der karolingischen Minuskel von über 400 Jahren lassen sich trotz des weitgehend einheitlichen Erscheinungsbild der Schriftart einige markante Unterschiede ausmachen, die es erlauben, zumindest eine frühkarolingische und die spätkarolinigische Minuskel voneinander zu scheiden. Die frühkarolingische Minuskel war ungefähr Ende des 8. und in der 1. Hälfte des 9. Jh. in Gebrauch. In dieser Zeit sind die einzelnen Wörter oft noch nicht deutlich voneinander abgetrennt (scripta continua); die Länge der Oberlängen beträgt oft mehr als die doppelte Mittelzone; außerdem sind die Oberlängen oben häufig keulenartig verdickt. Enthalten sind teilweise Ligaturen noch aus den früheren Kursiven. Ebenfalls aus den Vorformen der karolingischen Minuskel hat sich eine Zeit lang das cc-a erhalten; der untere Bogen des Minuskel-g ist groß und offen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-6efb292c-5fe8-3302-89f4-11fd1bff0da2",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-78c14069-f3b9-3efc-9a33-8c1cf1283aa6",
+              "notation": "SCRP-X645",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X645",
+              "labels": [
+                {
+                  "text": "Spätkarolingische Minuskel",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Late Carolingian",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Spätkarolingische Schrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Späte karolingische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Innerhalb der langen Verwendungszeit der karolingischen Minuskel von über 400 Jahren lassen sich trotz des weitgehend einheitlichen Erscheinungsbild der Schriftart einige markante Unterschiede ausmachen, die es erlauben, zumindest eine frühkarolingische und die spätkarolinigische Minuskel voneinander zu scheiden. Die spätkarolingische Minuskel umfasst dabei etwa das 11. und 12. Jh. und unterscheidet sich von den Frühformen (Ende 8. Jh. und 1. Hälfte 9. Jh.) und der Hauptphase (2. Hälfte 9. Jh. und 10. Jh.). In der spätkarolingischen Minuskel sind die Oberlängen nicht mehr keulenförmig verdickt, die Schrift ordnet sich gleichmäßig im Mittelband an, wobei die Vertikale stärker betont ist als in der Frühform; das Minuskel-a richtet sich immer weiter auf, der Balken des Minuskel-e beginnt sich diagonal nach oben zu bewegen. Als spätkarolingische Minuskel wird die Phase der karolingischen Minuskel bezeichnet, bevor die Schrift durch erste Gotisierungstendenzen beeinflusst wird. Da die Gotisierung in den verschiedenen Regionen zu unterschiedlichen Zeitpunkten einsetzte, variiert auch die Zeitspanne, in der die spätkarolingische Minuskel verwendet wurde.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": ["NORM-14010585-e340-36c9-9492-27ab3951e047"],
+              "broader": "NORM-6efb292c-5fe8-3302-89f4-11fd1bff0da2",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-04538058-9742-30c0-8e0b-3447935cfdc8",
+              "notation": "SCRP-X549",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X549",
+              "labels": [
+                {
+                  "text": "Diplomatic Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Diplomatische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die diplomatische Minuskel ist eine Ausprägungsform der karolingischen Minuskel. Sie wurde etwa ab der zweiten Hälfte des 9. Jahrhunderts in Königsurkunden verwendet. Kennzeichnend ist die kalligraphische Ausführung der Schrift in Verbindung mit Verschnörkelungen der Schaftenden und Schaftanfänge. Weitere Merkmale sind die Gitterschrift in der ersten Zeile und in der Recognitionszeile, offenes Minuskel-a, langes r sowie einige Ligaturen. In der weiteren Schriftentwicklung werden in Westauropa auch Urkundenschriften, die nicht mehr genuin auf die karolingische Minuskel als eigentliche Grundschriftart zurückgreifen, mit dem Begriff diplomatische Minuskel bezeichnet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-6efb292c-5fe8-3302-89f4-11fd1bff0da2",
+              "hasKeyFeature": [
+                "NORM-16528e70-5377-380a-b965-886a5d766f18",
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-9555e99c-cda3-34ad-b1c1-aabd69b57370",
+              "notation": "SCRP-X576",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X576",
+              "labels": [
+                {
+                  "text": "Rounded Glagolitic Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Runde Glagoliza",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Runde Glagolica",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-607cbde8-6356-3502-bc56-6cc970e2a985",
+              "hasKeyFeature": ["NORM-db280956-53a0-3a8b-a79b-48e951d6b9c4"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2682e071-3e7b-376d-928b-2739f8c93b51",
+              "notation": "SCRP-X758",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X758",
+              "labels": [
+                {
+                  "text": "Younger Angular Glagolitic Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Jüngere Eckige Glagoliza",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Jüngere Eckige Glagolica",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-607cbde8-6356-3502-bc56-6cc970e2a985",
+              "hasKeyFeature": ["NORM-db280956-53a0-3a8b-a79b-48e951d6b9c4"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-eb212fcc-e06c-31bb-82cd-516039ee68a1",
+              "notation": "SCRP-X856",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X856",
+              "labels": [
+                {
+                  "text": "Sütterlin Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sütterlin",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Sütterlinschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-2c113c74-ed05-3bbd-b66a-f609a5a7c2f7",
+              "hasKeyFeature": [
+                "NORM-28dfa3ec-1b18-3671-b40e-d2f98b67e4ba",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-90547742-707a-35c3-99ef-d1530167e0c6",
+              "notation": "SCRP-X648",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X648",
+              "labels": [
+                {
+                  "text": "Gotische Minuskel",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Gothic Minuscule",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Gotische Buchschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit der gotischen Minuskel bezeichnet man die Ausprägungsform der gotischen Schrift, die sich als Buchschrift im Vierlinienschema bewegt, also Ober- und Unterlängen aufweist. In dieser Verwendungsweise ist der Begriff gotische Minuskel ein Oberbegriff zu den spezifizierenden Unterbegriffe wie Textualis oder Textura. Teilweise wird auf den Terminus gotische Minuskel auch zugrückgegriffen, um Schriften zu charakterisieren, die im 2. oder 3. Viertel des 13. Jh. geschrieben wurden, und noch nicht einen solch ausgeprägten Brechungsgrad aufweisen, um sie sicher als Textualis klassifizieren zu können.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-6ee5bfaa-8699-3dcb-8877-ebe31714f045",
+                "NORM-cad97ed2-15ed-3874-83f5-bc1cdcb0c637"
+              ],
+              "broader": "NORM-8383ee7b-3f2e-33aa-9cad-8992c43e415a",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6af4cc6a-0d18-3b51-aa30-675853a19905",
+              "notation": "SCRP-X698",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X698",
+              "labels": [
+                {
+                  "text": "Semi-Cursive",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Halbkursive",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Gotische Halbkursive",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Als Halbkursive werden gotische Minunskeln bezeichnet, die bereits erste kursive Elemente aufweisen, dabei jedoch noch nicht als Kursive zu bezeichnen sind. Solche ersten kursiven Elemente können beispielsweise (leicht) unter die Grundlinie geführtes Minuskel-s oder Minuskel-f sein, erste Luftlinien in der Verbindung von zwei Buchstaben oder auch gespaltenes Minuskel-r. Im deutschsprachigen Raum kommen Halbkursiven etwa ab dem beginnenden 14. Jh. vor.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-8383ee7b-3f2e-33aa-9cad-8992c43e415a",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-d9168c73-100e-3ec3-af2e-44f3a413ce29"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-e448fdf1-ba6d-3fec-ac90-1c3e00123769",
+              "notation": "SCRP-X341",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X341",
+              "labels": [
+                {
+                  "text": "Gothic Cursive",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Gotische Kursive",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als gotische Kursive werden kursiv geschriebene gotische Schriften bezeichnet. Eine Kursivierung ergibt sich aus der Notwendigkeit zügiger zu schreiben. Die Buchstaben erscheinen nun – zumindest teilweise – verbunden; Minuskel-s und Minuskel-f sind regelmäßig unter die Grundlinie gezogen; Luftlinien oder Schleifen zeigen an, dass die Feder beim Übergang von einem zum anderen Buchstaben nicht mehr abgesetzt wurde und werden sollte. Erste kursive Elemente dringen Ende des 13. Jh. (Frühformen der Kursivierung aus der Urkundenschrift) und zu Beginn des 14. Jh. in Schriften (s. Halbkursiven) aus dem deutschen Raum ein. Etwa ab dem 2. Viertel des 14. Jh. sind die kursiven Elemente in den Schriften soweit vorangeschritten, dass von Kursiven gesprochen wird. Bei der gotischen Kursive wird grob in eine ältere (im deutschen Raum ca. 2. Viertel bis 2. Drittel des 14. Jh.) und in eine jüngere gotische Kursive unterteilt (im deutschen Raum ca. 3. Viertel bis 3. Drittel des 14. Jh.).",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-6b4e3445-f051-3ee7-bb4c-bfc39e345dff",
+                "NORM-c4855b46-e42d-31f0-a181-93c10d49c330"
+              ],
+              "broader": "NORM-8383ee7b-3f2e-33aa-9cad-8992c43e415a",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-df1973b7-3bcf-3642-93ba-fec2ca467009",
+              "notation": "SCRP-X627",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X627",
+              "labels": [
+                {
+                  "text": "Hybrida",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Hybrida",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-8383ee7b-3f2e-33aa-9cad-8992c43e415a",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-d9168c73-100e-3ec3-af2e-44f3a413ce29"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5300aec7-75be-3215-a9b7-e9a50801227d",
+              "notation": "SCRP-X255",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X255",
+              "labels": [
+                {
+                  "text": "Bastarda",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Bastarda",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Unter einer Bastarda versteht man eine Zwischenform von Textualis und gotischer Kursive. Sie weist dabei Elemente aus beiden Schriftarten auf: einerseits gebrochene Buchstabenformen und Buchstabenvereinzelung aus der Textualis, andererseits kursiv geschriebene Buchstaben und Buchstabenverbindungen aus der Kursive. Welche Elemente in welchem Umfang aus welcher Schriftart übernommen werden, ist dabei nicht vorgegeben. Erste Formen einer Bastarda finden sich in Böhmen bereits im 4. Viertel des 14. Jh. Die Bastarda entwickelte sich im 15. Jh. schnell zu einer allgemein gebrauchten mitteleuropäischen Schriftart. Regional haben sich Sonderformen ausgeprägt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-a4ef002e-f531-3b14-8ecb-79d1033424dc",
+                "NORM-7ccd2c64-951f-3e7d-b58e-65420e529fd8",
+                "NORM-c63874c6-5401-3be8-9fe3-e9e058c547a4"
+              ],
+              "broader": "NORM-8383ee7b-3f2e-33aa-9cad-8992c43e415a",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-d9168c73-100e-3ec3-af2e-44f3a413ce29"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-af1295ac-8845-370a-8274-d1f121952a93",
+              "notation": "SCRP-X786",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X786",
+              "labels": [
+                {
+                  "text": "\\\"chypriote bouclée\\\" script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "„Chypriote bouclée“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Anders als die Chypriote carrée-Schrift ist die Chypriote bouclée-Schrift eine Kursivschrift und zeichnet sich besonders durch folgende Merkmale aus: das Majuskel-Beta (die untere Schleife schwingt nach oben und verbindet sich über der Grundlinie mit dem vertikalen Strich), der vertikale Gravis-Akzent in Form eines Gleichheitszeichens (wie im stile barocco salentino) und ein Majuskel-Pi mit parallelen nach rechts unten geneigten Schäften.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-f044d9ec-ff58-3e59-8222-f389583c3c84",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f7235694-4ee8-35db-88a4-310554c4f608",
+              "notation": "SCRP-X232",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X232",
+              "labels": [
+                {
+                  "text": "\\\"chypriote carrée\\\" script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "„Chypriote carrée“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "In dieser Schrift Chypriote carrée verfassten zypriotische Schreiber im 13. und 14. Jh. vor allem liturgische und biblische Manuskripte. Die Schrift zeichnet sich durch eine aufrechte Achse und rechteckige Buchstabenformen aus, die dem Rectangular Salentine Style ähneln. Bei dieser handelt es sich aber um eine viel raffiniertere Schrift mit sorgfältig ausgeführten Serifen mit gelegentlich vergrößerten und verzierten Buchstaben, darunter beispielsweise das Beta, das an den Beta-Gamma Stil erinnert.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-f044d9ec-ff58-3e59-8222-f389583c3c84",
+              "hasKeyFeature": ["NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3"],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-3e1e62ae-c0d6-353e-9436-21c0ec273e89",
+              "notation": "SCRP-X715",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X715",
+              "labels": [
+                {
+                  "text": "\\\"Style 'epsilon' a pseudo-ligatures basses\\\"",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "„Style ‚epsilon‘ à pseudo-ligatures basses“",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Style ,epsilon’",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "„Epsilon-Stil“",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Auffälligstes Merkmal des Epsilon-Stil ist die Pseudo-Ligatur zwischen Epsilon und einem nachfolgenden Buchstaben. Dabei führt der mittlere horizontale Strich des Epsilon bis oder fast bis zur Grundlinie und verbindet sich dort mit dem nächsten Buchstaben. Die Schrift wirkt eher abgeflacht, hat eine aufrechte Achse mit Ausnahme des Gamma, das in der Tendenz nach links gedreht ist.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-f044d9ec-ff58-3e59-8222-f389583c3c84",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b8b327ae-59c2-3b3a-ae0a-2419fb03e89f",
+              "notation": "SCRP-X672",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X672",
+              "labels": [
+                {
+                  "text": "Slanted Ogival Majuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Geneigte Spitzbogenmajuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Rechtsgeneigte Spitzbogenminuskel",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Maiuscola ogivale inclinata",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Variation der Spitzbogenmajuskel mit geneigter Achse.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e3117827-34a8-380c-8c1e-ce9686d80613",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f76678f1-cdc9-373c-9c42-e9b5d33dc2f6",
+              "notation": "SCRP-X489",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X489",
+              "labels": [
+                {
+                  "text": "Upright Ogival Majuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Senkrechte Spitzbogenmajuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Maiuscola ogivale diritta",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Variation der Spitzbogenmajuskel mit aufrechter Achse.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e3117827-34a8-380c-8c1e-ce9686d80613",
+              "hasKeyFeature": [
+                "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+                "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-02a4df8a-35fa-3297-abc1-b78f42eae085",
+              "notation": "SCRP-X631",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X631",
+              "labels": [
+                {
+                  "text": "Cancelleresca",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Cancelleresca",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Humanistische (Minuskel-)Kursive der päpstlichen Kanzlei des 16. Jh.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-8e5bd415-aaa5-385f-8b66-a35b8242b47a",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-14010585-e340-36c9-9492-27ab3951e047",
+              "notation": "SCRP-X859",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X859",
+              "labels": [
+                {
+                  "text": "Slanting Oval",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schrägovaler Stil",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Karolingische Minuskel des schrägovalen Stils",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Der sogenannte schrägovale Stil ist ein Schreibstil der karolingischen Minuskel. Er ist benannt nach seiner charakteristischen leichten rechtsschrägen Neigung. Der Stil kam in der 1. Hälfte des 11. Jahrhunderts insbesondere in Bayern und Österreich auf; seine volle Ausprägung erlangte er im 12. Jahrhundert. Markanter Buchstabe dieses Stils ist das Minuskel-o, das nicht mehr als ein runder Kreis, sondern eher als ein schrägstehendes Oval erscheint.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-78c14069-f3b9-3efc-9a33-8c1cf1283aa6",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6ee5bfaa-8699-3dcb-8877-ebe31714f045",
+              "notation": "SCRP-X248",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X248",
+              "labels": [
+                {
+                  "text": "Textualis",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Textualis",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Textualis Libraria",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Littera Gothica Textualis Libraria",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Unter der Textualis wird die vollständig gotisierte Buchschrift vom 13. bis 15. Jh. bezeichnet. Die vom Westen her sich ausbreitende Gotisierung der Schrift setzte sich im Rheingebiet schon vor Mitte des 13. Jh., bis um 1275 fast überall im deutschen Sprachraum durch. Letzte Ausläufer der Textualis begegnen vereinzelt – vor allem in liturgischen Texten – noch im 16. Jh., in Italien (südliche Textualis) noch im 17. Jh. Je nach Ort gibt es unterschiedliche Ausprägungen der Textualis. Ganz grob wird zwischen einer nördlichen und einer südlichen Textualis unterschieden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-3ef3987f-7b6f-35d3-8723-1465fb145105",
+                "NORM-a95ce055-a959-3bb6-9a0d-55702b9192d3"
+              ],
+              "broader": "NORM-90547742-707a-35c3-99ef-d1530167e0c6",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-cad97ed2-15ed-3874-83f5-bc1cdcb0c637",
+              "notation": "SCRP-X610",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X610",
+              "labels": [
+                {
+                  "text": "Praegothica",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Praegothica",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Praegothic Script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Littera Praegothica",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Trotz variierender Ausprägungsform blieb die karolingische Schrift ca. 400 Jahre weitgehend stabil. Entscheidende Veränderung erfuhr sie durch die Gotisierung (Engerstellung der Schäfte und Betonung der Vertikalen, Brechung, engere Zusammenbindung der Buchstaben). Diese vollzog sich über einen längeren Zeitraum hinerg und mit regionalen Unterschieden. Die Schrift in dieser Transformationszeit kann am besten mit dem Begriff Praegothica bezeichnet werden. Sie tritt je nach Region vom Ende des 11. Jh. bis zum frühen 13. Jh auf. In England und Nordfrankreich sowie auf dem heutigen Gebiet Belgiens drangen als erstes Gotisierungserscheinungen in die karolingische Schrift ein. In Deutschland ist der finale Übergang zwischen beiden Schriften wohl im letzten Viertel des 12. Jh., evtl. am Anfang des 13. Jh. erfolgt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-1b80beb3-734e-3cac-853c-5b1237387d98",
+                "NORM-9779428a-fad2-3c2c-923c-79757ee6e56d"
+              ],
+              "broader": "NORM-90547742-707a-35c3-99ef-d1530167e0c6",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6b4e3445-f051-3ee7-bb4c-bfc39e345dff",
+              "notation": "SCRP-X483",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X483",
+              "labels": [
+                {
+                  "text": "New Gothic Cursive",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Jüngere gotische Kursive",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die jüngere gotische Kursive ist die jüngere Form der gotischen Kursive. Sie ist im deutschsprachigen Raum etwa vom 3. Viertel bis zum 3. Drittel des 14. Jh. zu erwarten. Sie zeichnet sich durch einstöckigs Minuskel-a, durch unter die Grundlinie gezogenes Minuskel-s und Minuskel-f, durch Schleifen an den Langschäften von beispielsweise Minuskel-h oder Minuskel-b aus.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e448fdf1-ba6d-3fec-ac90-1c3e00123769",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c4855b46-e42d-31f0-a181-93c10d49c330",
+              "notation": "SCRP-X637",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X637",
+              "labels": [
+                {
+                  "text": "Older Gothic Cursive",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Ältere gotische Kursive",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die ältere gotische Kursive ist die ältere Form der gotischen Kursive. Sie ist im deutschsprachigen Raum etwa vom 2. Viertel bis 2. Drittel des 14. Jh. zu erwarten. Sie zeichnet sich durch doppelstöckiges Minuskel-a, durch unter die Grundlinie gezogenes Minuskel-s und Minuskel-f, durch Schleifen an den Langschäften von beispielsweise Minuskel-h oder Minuskel-b aus; Minuskel-r kann gespalten sein; das Minuskel-s am Ende eines Wortes kann vergrößert sein.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": ["NORM-8e44143f-cc0b-3ccf-8a0d-9f4e04c7107f"],
+              "broader": "NORM-e448fdf1-ba6d-3fec-ac90-1c3e00123769",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a4ef002e-f531-3b14-8ecb-79d1033424dc",
+              "notation": "SCRP-X423",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X423",
+              "labels": [
+                {
+                  "text": "Chancery Bastarda",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kanzleibastarda",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "In den Kanzleien des Heiligen Römischen Reichs und der Landesherrschaften wurde im 15. Jh. eine stilisierte Bastarda, die Kanzleibastarda, entwickelt und verwendet. Sie ist überindividuell und gleichmäßig: Sie hat in der Regel eine leichte Rechtsneigung im Schriftduktus, Schleifen an den Oberlängen sowie große, beinahe ausladende Anschwünge an vielen Majuskeln und Schlussbögen. Besonders markant sind s und f, die aufgrund ihrer Länge meist in die nächsten Zeilen hineinreichen, am oberen Schaft anschwellen können und nach unten hin nadelspitz auslaufen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-5300aec7-75be-3215-a9b7-e9a50801227d",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-d9168c73-100e-3ec3-af2e-44f3a413ce29"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-7ccd2c64-951f-3e7d-b58e-65420e529fd8",
+              "notation": "SCRP-X553",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X553",
+              "labels": [
+                {
+                  "text": "French Bastarda",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bastarda, französische",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "lettre bâtarde",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-5300aec7-75be-3215-a9b7-e9a50801227d",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-d9168c73-100e-3ec3-af2e-44f3a413ce29"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c63874c6-5401-3be8-9fe3-e9e058c547a4",
+              "notation": "SCRP-X565",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X565",
+              "labels": [
+                {
+                  "text": "Bastarda without loops",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Bastarda, schleifenlos",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die schleifenlose Bastarda erscheint kurz vor 1420 und wird ab dann häufiger. Sie gewann in den Niederlanden an Bedeutung und verbreitete sich von dort vor allem in den deutschen Nordwesten. Dort ist ihr Gebrauch häufiger als in anderen Regionen des deutschsprachigen Raums, was jedoch nicht ausschließt, dass die schleifenlose Bastarda beispielsweise auch in Handschriften aus Süddeutschland vorkommt. Konsequent durchgesetzt hat sie sich dort jedoch nicht.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-5300aec7-75be-3215-a9b7-e9a50801227d",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-d9168c73-100e-3ec3-af2e-44f3a413ce29"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-3ef3987f-7b6f-35d3-8723-1465fb145105",
+              "notation": "SCRP-X357",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X357",
+              "labels": [
+                {
+                  "text": "Southern Textualis",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Südliche Textualis",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die südliche Textualis ist eine Ausprägungsform der Textualis, die vor allem in den Regionen südlich der Alpen oder auch im mediterranen Raum, also in Italien, Südfrankreich und Spanien verwendet wurde. Kennzeichnen ist die im Vergleich zur nördlichen Textualis weniger stark ausgeprägte Brechung der Buchstaben. Häufig wirken die Buchstaben runder und kompakter im Mittelband. Verwendet wird die südliche Textualis ungefähr ab der 2. Hälfte des 13. Jh. In Texten beispielsweise für den Gottesdienst wird die Textualis in einer erstarrten und zuweilen manierierten Form bis in das 16. Jh. als Schriftart verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-fa77d03e-5e6d-3d33-bacb-b7fc00971fe9",
+                "NORM-30311178-4bca-3ee4-b2d9-91e1981ff5ad",
+                "NORM-b7bc29b9-b4a7-36c8-ba98-c07090e74d75"
+              ],
+              "broader": "NORM-6ee5bfaa-8699-3dcb-8877-ebe31714f045",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a95ce055-a959-3bb6-9a0d-55702b9192d3",
+              "notation": "SCRP-X824",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X824",
+              "labels": [
+                {
+                  "text": "Northern Textualis",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Nördliche Textualis",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die nördliche Textualis ist eine Ausprägungsform der Textualis, die vor allem in den nordalpinen Regionen vorkommt, darunter England, Nordfrankreich, die Niederlande, Deutschland, Osteuropa oder Skandinavien. Kennzeichnend für die nördliche Textualis sind die Engerstellung der Schäfte, das Zusammenrücken der Buchstaben (unter Verwendung von Bogenberührungen und Bogenverbindungen) sowie (doppelte) Brechungen der Schäfte. Verwendet wird die Textualis ungefähr ab der 2. Hälfte des 13. Jh. In Texten beispielsweise für den Gottesdienst wird die Textualis in einer erstarrten und zuweilen manierierten Form bis in das 16. Jh. als Schriftart verwendet. Die nördliche Textualis wird je nach Ausführung unterschieden in die Textura (Textualis Formata) und die Textualis Libraria.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-09b9ac8e-4d03-3116-9caa-531415c5f1cf",
+                "NORM-a5b0ff27-b147-339b-bf23-2a3227c71560"
+              ],
+              "broader": "NORM-6ee5bfaa-8699-3dcb-8877-ebe31714f045",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1b80beb3-734e-3cac-853c-5b1237387d98",
+              "notation": "SCRP-X950",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X950",
+              "labels": [
+                {
+                  "text": "Early Gothic Minuscule",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Frühgotische Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Mit der frühgotischen Minuskel wird die gotische Minuskel in ihrer frühen Ausprägungsform verstanden. In der Regel sind hier bereits viele und wichtige Gotisierungsmerkmale vorhanden, sodass nicht mehr von einer Praegothica gesprochen werden kann. Allerdings ist bezüglich des Brechungsgrads allemal eine einfache Brechung zu erwarten; es finden sich ebenfalls noch keine Bogenverbindungen, auch nicht zwischen d und e. Je nach Region ist das Vordringen und die Entwicklung der frühgotischen Minuskel unterschiedlich ausgeprägt. Insgesamt wurde sie in der 2. Hälfte des 12. Jh. bis zur 1. Hälfte des 13. Jh. verwendet; in Deutschland am ehesten in der 1. Hälfte des 13. Jh.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-cad97ed2-15ed-3874-83f5-bc1cdcb0c637",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-9779428a-fad2-3c2c-923c-79757ee6e56d",
+              "notation": "SCRP-X128",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X128",
+              "labels": [
+                {
+                  "text": "Carolina-gotica",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Karolingisch-gotische Übergangsschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Carolingian-Gothic mixed-script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Carolina-Gotica",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Es gibt Schriften in der Zeit zwischen dem Ende des 11. Jh. bis zum Ende des 12. Jh., die nicht mehr als karolingisch, aber auch noch nicht als gotisch bezeichnet werden können. Sie weisen erste gotische Merkmale auf, teilweise jedoch nur in Ansätzen. Terminologisch fallen sie mit der Bezeichnung Praegothica zusammen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-cad97ed2-15ed-3874-83f5-bc1cdcb0c637",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-8e44143f-cc0b-3ccf-8a0d-9f4e04c7107f",
+              "notation": "SCRP-X334",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X334",
+              "labels": [
+                {
+                  "text": "Anglicana",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Anglicana",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Anglicana ist ein regionaler Ausprägungsstil der älteren gotischen Kursive (als nationale Sonderform). Sie ist insbesondere in England im 14. Jh. in Gebrauch.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-c4855b46-e42d-31f0-a181-93c10d49c330",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-fa77d03e-5e6d-3d33-bacb-b7fc00971fe9",
+              "notation": "SCRP-X744",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X744",
+              "labels": [
+                {
+                  "text": "Semitextualis",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Semitextualis",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Semigotica",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-3ef3987f-7b6f-35d3-8723-1465fb145105",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-d9168c73-100e-3ec3-af2e-44f3a413ce29"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-30311178-4bca-3ee4-b2d9-91e1981ff5ad",
+              "notation": "SCRP-X788",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X788",
+              "labels": [
+                {
+                  "text": "Littera Bononiensis",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Littera Bononiensis",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Wie die Littera Parisiensis ist auch die Littera Boniensis eine im universitären Kontext der Universität von Bologna entstandene und verwendete Schriftart. Sie ist eine Ausprägungsform der südlichen Textualis. Daher sind ihre Buchstabenformen runder als die der Littera Parisiensis.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-3ef3987f-7b6f-35d3-8723-1465fb145105",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b7bc29b9-b4a7-36c8-ba98-c07090e74d75",
+              "notation": "SCRP-X980",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X980",
+              "labels": [
+                {
+                  "text": "Rotunda",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rotunda",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Littera Rotunda",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Rotunda gilt als spezielle Form der südlichen Textualis. Sie ist kalligraphisch ausgeformt. Ihre Buchstabenformen weisen – gemäß ihrer Klassifizierung als Textualis – Brechungen auf, sind aber nicht so massiv wie in der nördlichen Textualis. Vielmehr erscheinen ihre Buchstaben rund. Sie sind außerdem kompakt und erscheinen innerhalb des Mittelbandes eher breit auseinandergezogen. Häufig ist Minuskel-a einstöckig; in den qualitativ hochstehenden Codices aus Oberitalien, insbesondere Bologna, findet sich jedoch auch doppelstöckiges Minuskel-a. Minuskel-g verhält sich weitgehend wie in der nördlichen Textualis und an der Länge des unteren Bogens lassen sich Hinweise für eine Datierung der Schrift ablesen. Verwendet wird die Rotunda Textualis ungefähr ab der 2. Hälfte des 13. Jh. In Texten beispielsweise für den Gottesdienst wird die Textualis in einer erstarrten und zuweilen manierierten Form bis in das 16. Jh. als Schriftart verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-3ef3987f-7b6f-35d3-8723-1465fb145105",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-09b9ac8e-4d03-3116-9caa-531415c5f1cf",
+              "notation": "SCRP-X867",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X867",
+              "labels": [
+                {
+                  "text": "Littera Parisiensis",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Littera Parisiensis",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Littera textualis currens",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Littera textualis currens",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Littera Parisiensis ist eine Ausprägungsform der nördlichen Textualis. Wie der Begriff bereits andeutet, ist sie vornehmlich in Paris und an der Pariser Universität des 13. und 14. Jh. zu finden. Der erhöhte Bedarf an Schriftlichkeit an der Universität bedingt eine Vereinfachung der stark brechungsreichen Textualis-Schrift. Die Vereinfachung spiegelt sich einerseits in den Buchstabenformen wieder, andererseits in einer gewissen Unregelmäßigkeit, vor allem im Gegensatz zur wohlgeformten Ausgangsform der Textualis. Der Schriftduktus der Littera Parisiensis kann aufrecht und leicht nach rechts geneigt sein.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-a95ce055-a959-3bb6-9a0d-55702b9192d3",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a5b0ff27-b147-339b-bf23-2a3227c71560",
+              "notation": "SCRP-X284",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-X284",
+              "labels": [
+                {
+                  "text": "Textura",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Textura",
+                  "isoCode": "en"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Textualis Formata",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Littera Psalterialis",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Missalschrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Textualis formata",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Textura ist eine Ausprägungsform der nördlichen Textualis auf höchstem kalligraphischen Niveau. Kennzeichen sind kurze Ober- und Unterlängen und damit verbunden ein kompaktes Schriftbild innerhalb des Mittelbandes; eine klare Unterscheidung von Druck- und Haarstrichen sowie eine regelmäßige Abfolge von diesen; regelmäßige Umbrechungen der Schäfte entweder auf der Grundlinie oder auf der Kopflinie. Verwendet wird die Textura etwa dem Ende des 13. Jh. In Texten beispielsweise für den Gottesdienst wird sie in einer erstarrten und zuweilen manierierten Form bis in das 16. Jh. als Schriftart verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-a95ce055-a959-3bb6-9a0d-55702b9192d3",
+              "hasKeyFeature": [
+                "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+                "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+                "NORM-5f65aa55-5aae-3c96-916c-a7872706066f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-4e5f49de-001e-38d1-aec8-6b2a3081c2c0",
+          "notation": "SCRP-E",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-E",
+          "labels": [
+            {
+              "text": "field of use / function (script)",
+              "isoCode": "en"
+            },
+            {
+              "text": "Anwendungsbereich / Funktion (Schrift)",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-16528e70-5377-380a-b965-886a5d766f18",
+              "notation": "SCRP-E778",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-E778",
+              "labels": [
+                {
+                  "text": "diplomatic script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Urkundenschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "documentary script",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-be4fe60e-4233-38f1-be6f-00d27f528406",
+              "notation": "SCRP-E405",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-E405",
+              "labels": [
+                {
+                  "text": "administrative script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Geschäftsschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d0bf2815-54cf-3b0f-9118-85884a4beeea",
+              "notation": "SCRP-E859",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-E859",
+              "labels": [
+                {
+                  "text": "book script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Buchschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-12cde6ea-b6e5-35b9-a695-e434b8b68110",
+              "notation": "SCRP-E815",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-E815",
+              "labels": [
+                {
+                  "text": "other field of use",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiger Anwendungsbereich",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b0f59dc1-93ee-3876-8a26-4c2545577e5e",
+              "notation": "SCRP-E133",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-E133",
+              "labels": [
+                {
+                  "text": "display script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Auszeichnungsschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-72f859e3-ca11-3213-9c82-6e8cf1379060",
+          "notation": "SCRP-A",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-A",
+          "labels": [
+            {
+              "text": "script / alphabet",
+              "isoCode": "en"
+            },
+            {
+              "text": "Schriftalphabet",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-638ffd41-c121-3664-a6e3-0c23e10392d3",
+              "notation": "SCRP-A475",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-A475",
+              "labels": [
+                {
+                  "text": "Hebrew script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Hebräische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b220d36a-baba-371a-8b59-7f6829e9bde7",
+              "notation": "SCRP-A755",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-A755",
+              "labels": [
+                {
+                  "text": "Latin script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Lateinische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Latin alphabet",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-db280956-53a0-3a8b-a79b-48e951d6b9c4",
+              "notation": "SCRP-A384",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-A384",
+              "labels": [
+                {
+                  "text": "Slavic script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Slawische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Slavonic script",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-69a1980d-bfbb-3dcd-b5eb-6637f13616c3",
+              "notation": "SCRP-A219",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-A219",
+              "labels": [
+                {
+                  "text": "Greek script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Griechische Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f75ec95c-25fc-320f-8846-5d266b633514",
+              "notation": "SCRP-A372",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-A372",
+              "labels": [
+                {
+                  "text": "cryptograph",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Geheimschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "secret writing",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f5ad96d4-7dde-3e20-be67-f2726a252436",
+              "notation": "SCRP-A576",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-A576",
+              "labels": [
+                {
+                  "text": "other script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Schriftalphabet",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-28dfa3ec-1b18-3671-b40e-d2f98b67e4ba",
+              "notation": "SCRP-A338",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-A338",
+              "labels": [
+                {
+                  "text": "German script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Deutsche Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-82c68a7d-e1f0-3698-a71a-ccc480afcfa0",
+          "notation": "SCRP-D",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-D",
+          "labels": [
+            {
+              "text": "execution (script)",
+              "isoCode": "en"
+            },
+            {
+              "text": "Ausführung (Schrift)",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-025e7b12-b321-371d-b917-e031eb6b6b76",
+              "notation": "SCRP-D266",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-D266",
+              "labels": [
+                {
+                  "text": "mimetic execution",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mimetische Ausführung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "nachahmende Ausführung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-8c04f308-680f-35e2-99f3-0e58e5c136b0",
+              "notation": "SCRP-D823",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-D823",
+              "labels": [
+                {
+                  "text": "calligraphic execution",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "hoher Sorgfaltsgrad",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "careful execution",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "kalligraphische Ausführung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-de26363d-ceeb-363d-bc2c-0e9f3fbc4f15",
+              "notation": "SCRP-D338",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-D338",
+              "labels": [
+                {
+                  "text": "archaizing execution",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "archaisierende Ausführung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-56168dda-c4c5-360f-ba81-e99966ed5801",
+              "notation": "SCRP-D676",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-D676",
+              "labels": [
+                {
+                  "text": "rudimentary execution",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "geringer Sorgfaltsgrad",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "careless execution",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "flüchtige Ausführung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-0c7b5913-56df-3a60-ad59-2706c94bb76a",
+          "notation": "SCRP-B",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-B",
+          "labels": [
+            {
+              "text": "script system",
+              "isoCode": "en"
+            },
+            {
+              "text": "Schriftsystem",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-4c71bcf9-3930-32f4-a889-ecfdd2d1324d",
+              "notation": "SCRP-B155",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-B155",
+              "labels": [
+                {
+                  "text": "minuscule script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Minuskelschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Minuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-bb7b39f5-d14f-3a51-b509-4d072e005bba",
+              "notation": "SCRP-B884",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-B884",
+              "labels": [
+                {
+                  "text": "majuscule script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Majuskelschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Versalienschrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Majuskel",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d7cf0119-bc59-332d-a43a-3ec275e4122f",
+              "notation": "SCRP-B387",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-B387",
+              "labels": [
+                {
+                  "text": "intermediate between minuscule and majuscule script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Zwischenform zwischen Minuskel- und Majuskelschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-39563f8a-c584-3443-870e-9c3f34b1a8b0",
+          "notation": "SCRP-C",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-C",
+          "labels": [
+            {
+              "text": "writing technique",
+              "isoCode": "en"
+            },
+            {
+              "text": "Schreibtechnik",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-b55a4e82-8997-3c4b-be28-1d4c79182840",
+              "notation": "SCRP-C439",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-C439",
+              "labels": [
+                {
+                  "text": "cursive",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "kursive Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "cursive script",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d9168c73-100e-3ec3-af2e-44f3a413ce29",
+              "notation": "SCRP-C245",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-C245",
+              "labels": [
+                {
+                  "text": "semi-cursive",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Zwischenform zwischen geformter und kursiver Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "semi-cursive script",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5f65aa55-5aae-3c96-916c-a7872706066f",
+              "notation": "SCRP-C792",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/SCRP-C792",
+              "labels": [
+                {
+                  "text": "constructed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "konstruierte Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "book-hand",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "formed script",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "kalligraphische Schrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "gebaute Schrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "littera formata",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "formierte Schrift",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "geformte Schrift",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

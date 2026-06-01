@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beispieltext Kyrillisch</title>
+      </titleStmt>
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <msDesc>
+        <msIdentifier>
+          <repository>.</repository>
+          <altIdentifier type="corpus">
+            <idno>Example</idno>
+          </altIdentifier>
+        </msIdentifier>
+        <head>
+          <title></title>
+          <note type="headline"></note>
+          <index indexName="norm_title">
+            <term type="title"></term>
+          </index>
+          <index indexName="norm_material">
+            <term type="material"></term>
+            <term type="material_type"></term>
+          </index>
+          <index indexName="norm_measure">
+            <term type="measure">.</term>
+            <term type="measure_noOfLeaves"></term>
+          </index>
+          <index indexName="norm_dimensions">
+            <term type="dimensions">.</term>
+            <term type="height"></term>
+            <term type="width"></term>
+            <term type="depth"></term>
+            <term type="dimensions_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_format">
+            <term type="format"></term>
+            <term type="format_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_origPlace">
+            <term type="origPlace"></term>
+            <term type="origPlace_norm"></term>
+          </index>
+          <index indexName="norm_origDate">
+            <term type="origDate"></term>
+            <term type="origDate_notBefore"></term>
+            <term type="origDate_notAfter"></term>
+            <term type="origDate_type"></term>
+          </index>
+          <index indexName="norm_textLang">
+            <term type="textLang"></term>
+            <term type="textLang-ID"></term>
+          </index>
+          <index indexName="norm_form">
+            <term type="form"></term>
+          </index>
+          <index indexName="norm_status">
+            <term type="status"></term>
+          </index>
+          <index indexName="norm_decoration">
+            <term type="decoration"></term>
+          </index>
+          <index indexName="norm_musicNotation">
+            <term type="musicNotation"></term>
+          </index>
+        </head>
+        <msContents>
+          <textLang mainLang=""></textLang>
+          <msItem>
+            <note type="text">
+              Fonds 183, Nr. 850<lb/>
+              Conrad Bussow: Verwirreter Zustand des Russischen Reichs (dt.)<lb/>
+              Papier · II + 310 + II Bll. · 28,0 x 21,5 · Dresden · 1851
+            </note>
+            <note type="text">
+              Foliierung I (vSp), II–VI (vordere Vorsatzbll.), Paginierung 1–619, VII–VIII (hintere
+              Vorsatzbll.), IX (hSp) · 21 Zeilen · Kurrentschrift einer Hand (Dr. Gustav Klemm,
+              Bibliothekar an der Königlichen Bibliothek Dresden) · Kupferstiche: IVv Brustbild des
+              Zaren Fjodor I. (1584–1598), nach: Н. Забелин [N. Zabelin], Важный хронограф особаго
+              состава [Ein wichtiges Cronograph mit besonderer Zusammensetzung], Архив
+              историко-юридических сведений, относящихся до России 1876, книжка 1, отделение VI
+              [Archiv der historisch-juristischen, Russland betreffenden Angaben, Jg. 1876, Heft 1,
+              Abt. VI], S. 31–43, bes. S. 41, Schriftband Theodorus Iohannis Basilidis Filius
+              Moscoviae et Magnus Dux, Kürzel: D.C., Devise Mitior hic rexit, truce Moschica rura
+              parente. Disponente sua fato, de stirpe supremus, Kürzel MHA; VIr Brustbild des Zaren
+              Michail Fedorovič Romanov (1613–1645), Schriftband Sic pro ratione voluntas stat mea
+              perpetuo, sic status forma requirit, 1636, in den Ecken des Rahmens vier Medaillons
+              mit den Inschriften Superstitionis Conservatione, Peregrinationis Interdictione,
+              Eruditionis Electione, Maiestatis Perfectione, unter dem Bild die Devise Der grose
+              Herr, Kaiser und Grose Fürst, Michael Foedrowitz, Aller Reüsen Selbst Erhalter,
+              Kaiser zu Wolodimeria, Moscaw und Novogrod, zu Casan und Astracan et cetera und vieler
+              anderer Landen ein Herr und Herscher, und die Unterschrift Lucas Schnitzer Sculps.
+              Noric. [Lucas Schnitzer, Kupferstecher in Nürnberg, 1630–1671 belegt]; nach S. 164
+              eingeklebt Brustbild des Zaren Pseudo-Dmitrij I. (1605–1606), Legende:
+              Pseudo-Demetrius Moscoviae Czar mit der Angabe № XV (kleinformatig, nicht paginiert);
+              Holzschnitt: Vr Brustbild des Zaren Vasilij Šujskij (1606–1610), Schriftband in
+              Kirchenslawisch Василий Иванович Царь и Великий Князь всея Русии. Darunter
+              Bildnachweis: Alexander Gwagnin, Kronika Sarmacyey Europskiey [...], Krakau 1611,
+              S. 78 (Beschreibung des Moskowitischen Reichs).
+            </note>
+            <note type="text">
+              Roter Lederband nach 1851 (vermutlich Panins Bibliothekseinband), auf Rücken und
+              beiden Deckeln Rahmen aus Streicheisenlinien, auf Stehkanten Rankenornament
+              (Goldprägung), auf dem Rücken der Titel C[onrad] Busso, Verwirrter Zustand des
+              Rußischen Reichs 1584–1613 (Goldprägung).
+            </note>
+            <note type="text">
+              Die Hs. spiegelt die zweite Überarbeitung der Chronik durch Bussow von 1613. Die
+              Abschrift wurde nach einem gesiegelten Vermerk pag. 619 am 9. Mai 1851 durch den
+              Bibliothekar Dr. Gustav Klemm an der Königlichen Bibliothek zu Dresden vollendet.
+              Vorlage war Dresden, Sächsische LB – SUB: Mscr. Dresd. G 67 (am 13. Februar 1945 durch
+              englische Bomben vernichtet). Ein französischer Vermerk verweist auf die Verbesserung
+              des unvollständigen Druckes von 1851 als Motivation für die Abschrift: La Chronique,
+              si longtemps manuscrit, de Conrad Bussow a été imprimé pour la première fois par la
+              Société archéographique de St. Petersbourg en 1851, dans le premier volume des „Rerum
+              Rossicarum Scriptores Exteri, à Collegio Archaeographico certi“, Tomus I: Conradi
+              Bussovii et Petri Petrei Chronica Moscovitica continens. Petropoli typis Eduardi
+              Pratri, 1851“ 4o. Ce texte imprimé de Bussow n’est cependant pas exempt d’omissions.
+              Le présent exemplaire est une copie vidimée du manuscrit de la Bibliothèque de
+              Dresden. Auftraggeber war Graf Viktor Nikitič Panin (1800–1874) (p. 1 Besitzereintrag
+              Графа В. Панина und möglicherweise seine Signatur 42.3.17; in seinem Besitz war auch
+              183/849). Die Hs. ging 1884 an das Rumjancev-Museum über (IIv: 1884 г. Из
+              библ[иотеки]. гр[афа]. В.Н. Панина вход[ящий] №__ ).
+            </note>
+            <note type="text">
+              1–618 CONRAD BUSSOW: VERWIRRETER ZUSTAND DES RUSSISCHEN REICHS. Unter Regierung derer
+              Graaven Fedor Ivanowiz, Boris Gudenow und sonderlich derer Demetriorum, auch Basilii
+              Susky und des herauf erwehlten Königlichen Polnischen Prinzen Wadislai. Anno 1584 biss
+              1613 von Jahren zu Jahren in einem gar genauen Tage-Buche ... – ... Jesu Christi
+              Willen. Amen. Amen. Amen. Edd.: Relatio. Das ist Summarische Erzehlung vom
+              eigentlichen Ursprung dieses itzigen blutigen Kriegs-Wesens in Moscowiter-Land oder
+              Reussland, hg. von Ernst Kunick, Sankt Petersburg 1851 (Wolfenbüttel, HAB:
+              Extravagantes 86: Redaktion durch Bussows Schwiegersohn Martin Beer, um 1612, vgl.
+              auch Wolfenbüttel, HAB: 32.5 Aug. 2o, 604r–765v); Конрад Буссов / Konrad Bussow,
+              Московская Хроника / Die Moskauer Chronik, 1584–1613, hg., komm. und übers. von Ivan
+              Ivanovič Smirnov, Moskau, Leningrad 1961 (gemäß einer Abschrift der G 67, welche für
+              Friedrich von Adelung um 1840 gefertigt wurde: Fassung von 1613); Zeit der Wirren.
+              Moskowitische Chronik der Jahre 1584 bis 1613, aus dem Frühneuhochdeutschen übertragen
+              von Marie-Elisabeth Fritze, hg. und komm. von Jutta Harney und Gottfried Sturm, Berlin
+              [u.a.] 1991 (nach der Ausgabe von 1961); The Disturbed State of the Russian Realm, hg.
+              und übers. von G[eorge] Edward Orchard, Montreal [u.a.] 1994 (Wolfenbüttel, HAB:
+              Extravagantes 125.15: Fassung von 1617, wohl unter Berücksichtigung der Abschrift
+              Wolfenbüttel, HAB: Extravagantes 41).
+            </note>
+          </msItem>
+          <msItem>
+            <note type="text">
+              Fonds 183, Nr. 1000<lb/>
+              Weihnachtshymnen und -lieder (frz.)<lb/>
+              Papier · II + 112 Bll. · 16,0 x 13,0 · Frankreich · 1573/1575
+            </note>
+            <note type="text">
+              Bl. 1 großenteils ausgerissen (fast vollständiger Textverlust), danach kleine
+              Textverluste an den oberen Ecken, zwischen 18/19 mehrere Bll. (Textverlust), zwischen
+              86/87 ein Bl. ausgeschnitten (ohne Textverlust), Bll. fleckig und Tinte der Initialen
+              oft auf der Rückseite durchgekommen, Bll. 1–22 restauriert · Foliierung I–III (vSp,
+              vorderer Vorsatz, weiteres Schutzblatt), 1–112, IV (hSp), ab 9r Schreiberfoliierung
+              XI bis CXIIII · französische Geschäftsschrift einer Hand · Buchschmuck von
+              Schreiberhand: Cadellen mit Besatzmotiven (männliche Köpfe und Pflanzen);
+              Federzeichnungen: Vögel und Tiere, darunter ein Lamm Gottes.
+            </note>
+            <note type="text">
+              Die Hs. entstand gemäß den Angaben 1r und 3r (auf dem übriggebliebenen Rest von 1r ein
+              Wappen: Herz, nach links gerichtet, begleitet von zwei fünfzackigen Sternen, darüber
+              die Initialen PL, darunter eine fünfblättrige Blüte und die Jahresangabe 1575; 3r
+              Fragment desselben Wappens mit der Jahresangabe 1573) zu Beginn des letzten Drittels
+              des 16. Jhs.. Text- und Sprachbefund verweisen ins nordöstliche Frankreich. Gemäß dem
+              Exlibris des Grafen Sergej Dmitrievič Šeremetev (1844–1918) trug die Hs. in seiner
+              Bibliothek auf dem Landgut Michajlovskoje bei Moskau die Signatur N. 407 шк. V (die
+              Bleistifteinträge 400f, 137/22 und c.2s lassen sich nicht zuordnen). Im Katalog seiner
+              Bibliothek, verfasst von Chrisanf Loparёv (Хрисанф Мефодиевич Лопарев, Библиотека
+              графа С. Д. Шереметева, Bd. 1/2, Sankt Petersburg 1890–1892) wird die Hs. nicht
+              erwähnt, zumal das vorliegende Exlibris erst ab 1902 belegt ist (vgl. Богомолов,
+              Книжный знак, 2004, S. 915, Nr. 17433). Die Hs. gehörte vielleicht auch zur Bibliothek
+              der Fürstenfamilie Vjazemskij auf dem Landgut Ostaf'jevo bei Moskau, welche über seine
+              Ehefrau Ekaterina Pavlovna, geborene Vjazemskaja, Ende des 19. Jhs. Šeremetevs
+              Eigentum wurde. 1918 wurde die Bibliothek verstaatlicht und 1919 laut Erlass des
+              Sowjets der Volkskommissare dem Rumjancev-Museum zugewiesen. De facto kam sie gemäß
+              der Inventarliste (zusammengestellt 1920, Archiv der RSB, Akte Nr. 177,
+              Aktenverzeichnis 17) und dem Erwerbungsverzeichnis der Handschriftenabteilung (Bd.
+              III, für das Jahr 1922) aber erst 1922 in der Handschriftenabteilung der RSB an. Gemäß
+              einem Papierschild auf dem VD (Signatur 1000, Standortsignatur П 80 пр. 2) wurden die
+              Bücher Šeremetevs eine Zeit lang offenkundig in einem gesonderten Raum des Museums
+              aufbewahrt. Zur Bibliothek Šeremetevs vgl. Надежда Анатольевна Шeвыркина [Nedežda
+              Ševyrkina], Библиотека С. Д. Шереметева и Российская государственная библиотека
+              (cтраницы истории) [Die Bibliothek S. D. Šeremetevs und die Russische Staatsbibliothek
+              (Historische Übersicht)], in: Румянцевские чтения. Тезисы докладов и сообщений
+              научно-практической конференции (17–18 апреля 1997) [Lesungen zu Ehren Nikolaj
+              Rumjancevs], Moskau 1997, S. 89–91.
+            </note>
+            <note type="text">
+              Житомирская, Западное Средневековье в рукописях, 1957, S. 305; Mokretsova /
+              Shchegoleva, Catalogue, 2010, S. 194 f., 347 (Cat. 127); Zolotova, Miniatures, 2012,
+              S. 199, 411 (Cat. 97).
+            </note>
+            <note type="text">
+              1r–110v Weihnachtshymnen und -lieder. Erster Text lateinisch-französisch, weitere 56
+              Texte französisch. Puer nobis nascitur ... – ... En Betlehem de Judee, (1r) Wappen und
+              Jahresangabe (s. o.), (2r–3r) Puer nobis nascitur ... – ... virgo Maria. O Noel, Noel,
+              Noel. Oultre Noel, Noel. 10 Strophen mit französischem Refrain, ohne 5. Strophe der
+              Edition. Mone, Hymnen, 1853–1855, Bd. 1, Nr. 48, (3r) Wappen und Jahresangabe (s. o.),
+              (111r) Notiz vor 1918. Всего 110 листов. 111r–112v leer.
+            </note>
+          </msItem>
+          <msItem>
+            <note type="text">
+              Fonds 256, Nr. 746<lb/>
+              Gaius Sallustius Crispus: Coniuratio Catilinae · Bellum Iugurthinum<lb/>
+              Pergament · II + 80 Bll. · 22,5 x 16,0 · Florenz? · 15. Jh.<lb/>
+            </note>
+            <note type="text">
+              Verwendung älteren Pergaments für die Spiegel ∙ Foliierung I (vSp), II (vorderer
+              Vorsatz, Pergament), 1–80, III (hinterer Vorsatz, Pergament), IV (hSp) ∙ 26 Zeilen ∙
+              humanistische Rotunda einer Hand; Reklamanten auf letzten Bll. der Lagen,
+              Notazeichen als Zeigehände ∙ große (1r) und kleine (29v und 31r) Weißranken-Initialen
+              (Buchstabenkörper in Gold, Grund rosa, grün und blau).
+            </note>
+            <note type="text">
+              Zeitgenössischer brauner Lederband, berieben, Rücken z. T. zerstört, VD vom Block
+              gelöst, fast alle Lagen lose; Deckel: Palmettenfries als Rahmen, dreifache
+              Streicheisenlinien, im Mittelfeld zwei symmetrisch angeordnete größere und zwei
+              kleinere achtzackige Sterne (als zwei übereinander gelegte Quadrate), gefüllt mit
+              Gitter-Taugeflecht; Buchrücken: Quadratnetz aus zweifachen Streicheisenlinien,
+              sämtliche Verzierungen Blinddruck; Spuren von zwei Schließen; vergoldeter Schnitt.
+            </note>
+            <note type="text">
+              Gemäß kunsthistorischem Befund entstand die Hs. im 15. Jh., möglicherweise in Florenz
+              (vgl. auch den russischsprachigen Eintrag auf dem vSp: „in der Zeit des Matthias
+              Corvinus“, d.h. 1443 bis 1490). HSp mit einem Eintrag aus verschiedenartigen
+              Schriftzeichen (Sprache bisher nicht bestimmt), datiert 1357. 80v trägt einen
+              Besitzerstempel mit einem Wappen, gestützt von einer Göttin und dem Gott Hermes, mit
+              dem Motto Labor omnia vincit. Den gleichen Stempel weist das Fragment eines
+              Stundenbuchs aus dem 15. Jh. mit einem deutschsprachigen Eintrag von 1816 aus der
+              Russischen Nationalbibliothek Sankt Petersburg auf (Lat. O. v. I,105), welches dem
+              Mineralogen, Antiquar und Mitglied der Russischen Akademie der Wissenschaften, Karl
+              (Antonovič) Etter (1774–1831), zugewiesen wird. Vgl. Людмила Ильинична Киселева
+              [Ljudmila Kiselёva], Западноевропейские „Книги часов“ в библиотеках Санкт-Петербурга
+              (описание рукописей XIV–XVI веков) [Westeuropäische Stundenbücher in den Bibliotheken
+              Sankt Petersburgs (Beschreibung der Handschriften des 14.–16. Jhs.)], Sankt Petersburg
+              2008, S. 123 f., Nr. 38. Eine Bekanntschaft Rumjancevs mit Etter ist wegen ähnlicher
+              Interessen und desselben gesellschaftlichen Umfeldes wahrscheinlich, sodass der Graf
+              die Sallust-Hs. von Etter käuflich oder als Geschenk erhalten haben könnte. In der
+              Bibliothek Rumjancevs wurde sie dann unter der Signatur Отд. [Abt.] II, № 51
+              aufbewahrt (Signaturschild auf dem Rücken). Weitere Einträge: IIIr Vermerk des
+              Bibliothekars Karl Theodor (Ivanovič) Kästner über die Blattzahl (80), die Altsignatur
+              der RSB 178 Иностран. [Ausländische] auf dem vSp und auf dem Rücken). Die Signatur
+              ОХ.9.5. auf dem vSp konnte nicht identifiziert werden.
+            </note>
+            <note type="text">
+              Отчет 1861–1863, S. 29; Кестнер, Материалы, 1882, S. 36; Федор Александрович
+              Петровский [Fёdor Petrovskij], Рукопись Саллюстия из собрания гр. Н. П. Румянцева
+              [Die Sallust-Handschrift aus der Sammlung des Grafen N. P. Rumjancev], in: Сборник
+              Публичной Библиотеки СССР им. В. И. Ленина [Sammelband der Öffentlichen V. I.
+              Lenin-Bibliothek der UdSSR], 2 (1929), S. 96–106; Житомирская, Западное Средневековье
+              в рукописях, 1957, S. 287; Указатель, 1983, S. 26; Mokretsova / Shchegoleva,
+              Catalogue, 2010, S. 107, 279 (Cat. 45); Zolotova, Miniatures, 2012, S. 77, 364
+              (Cat. 28).
+            </note>
+            <note type="text">
+              1r–29r GAIUS SALLUSTIUS CRISPUS: CONIURATIO CATILINAE. Mit wenigen
+              Schreiberkorrekturen. Omne[i]s homines, qui se se student praestare ceteris animalibus
+              ... – ... meror luctus atque gaudium agitabuntur. Crispi Sallustii de Catelina liber
+              explicit. Ed.: Gaius Sallustus Crispus, Catilina, Iugurtha, Fragmenta ampliora, ed.
+              Alfons Kurfeß (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana), 3. Auflage,
+              Leipzig 1957 (ND 1972), S. XXXII (ohne diese Hs.), 2–52.
+            </note>
+            <note type="text">
+              29r–80v GAIUS SALLUSTIUS CRISPUS: BELLUM IUGURTHINUM. Mit wenigen
+              Schreiberkorrekturen. Incipit bellum, quod populus Romanus cum Iugurta Numidarum rege
+              gessit. Falso queritur de natura sua genus humanum ... – ... Et ea tempestate spes
+              atque opes civitatis in illo sitę sunt. Finis belli Iugurtini. Ed.: Gaius Sallustus
+              Crispus, Catilina, Iugurtha, Fragmenta ampliora, ed. Alfons Kurfeß (Bibliotheca
+              scriptorum Graecorum et Romanorum Teubneriana), 3. Auflage, Leipzig 1957 (ND 1972),
+              S. XXXII (ohne diese Hs.), 53–147.
+            </note>
+          </msItem>
+          <msItem>
+            <note type="text">
+              Fonds 722, Nr. 16<lb/>
+              Carlo Borromeo: Schriften zur Bekämpfung der Pest in Mailand (frz.)<lb/>
+              Papier · 98 Bll. · 31,5 x 20,0 · Marseille? · um 1720
+            </note>
+            <note type="text">
+              Foliierung I (vSp), 1–98, II (hSp), 2r–87r Schreiberpaginierung (1–171) · ca. 44
+              Zeilen · französische Geschäftsschrift einer Hand · Rosetten zwischen den
+              Textabschnitten und Blattgirlanden an Textabschlüssen (Federzeichnungen).
+            </note>
+            <note type="text">
+              Zeitgenössischer brauner Lederband, stark berieben; Supralibros auf beiden
+              Deckeln (Wappen, Goldprägung; vgl. Geschichte); auf dem Rücken rotes Lederschild mit
+              dem Titel Memori[al] de s[aint] Charle[s] und florales Ornament (beides Goldprägung)
+              sowie Rest eines Signaturschildes (Signatur entfernt); roter Schnitt.
+            </note>
+            <note type="text">
+              Die französische Übersetzung der Pestschriften von Carlo Borromeo geht gemäß
+              Supralibros auf beiden Deckeln (Wappen) auf einen Auftrag von Henri François–Xavier de
+              Belsunce-Castelmoron (1670–1755, seit 1709/10 Bischof von Marseille) zurück. 1747 ging
+              die Hs. gemäß Exlibris auf dem vSp an das nach ihm benannte Jesuitenkolleg Belsunce
+              (heute Stadtteil von Marseille) über. Auf die Kollegbibliothek geht vermutlich auch
+              die Signatur No 2267 zurück; die teilweise radierte Signatur 10 auf dem vSp konnte
+              nicht zugeordnet werden. Zur Kolleggründung vgl. Théophile Bérengier, Vie de
+              Monseigneur Henry de Belsunce, évêque de Marseille, 1670–1755, Bd. 1–2, Lyon,
+              Paris 1886, hier Bd. 1, S. 395–400, Bd. 2, S. 118 f. Spätestens nach der Französischen
+              Revolution wechselte die Hs. erneut den Besitzer (Einträge des 19. und 20. Jhs.:
+              Carolus 225020 und collationné complet. M., deutschsprachig auf dem vSp und die
+              Namensform Carolus Boromaeus 2r). Der Stempel (Императорский институт
+              Экспериментальной Медицины Лаборатория по заготовлению Противобубонночумных
+              Препаратов) auf dem vSp, auf 1r und 2r sowie die Akzessionsnummer (Инв. N 976)
+              erweisen als weiteren Vorbesitzer die Bibliothek des Russischen Kaiserlichen Instituts
+              für Experimentalmedizin (Labor für Präparate gegen die Beulenpest; heute
+              Forschungsinstitut für Experimentalmedizin der Nordwestabteilung der Russischen
+              Medizinischen Akademie). Dieses in St. Petersburg angesiedelte Forschungsinstitut ging
+              auf eine Initiative von Alexander von Oldenburg, einem Urenkel des russischen Zaren
+              Paul I., von 1890 zurück. Die mütterlicherseits deutsche Herkunft des Großfürsten ist
+              vielleicht ein Indiz für die Wanderung der Hs. von Deutschland nach Russland. 500
+              Bände aus seinem Besitz – unter ihnen vielleicht auch die vorliegende Hs. – bildeten
+              jedenfalls den Grundstock für die 1891 gegründete Institutsbibliothek (möglicherweise
+              zeugt hiervon der Eintrag G. May 778. M Tei 3.I.90 auf dem hSp; die jüngeren Vermerke
+              1500 r., 28 und Пр.88 auf 1r ließen sich bisher nicht identifizieren). Die Hs.
+              gelangte danach in Privatbesitz und wurde schließlich 1976 an die RSB verkauft und
+              dort unter der Eingangsnummer 21 registriert (Eintrag auf dem vSp).
+            </note>
+            <note type="text">
+              ЗОР 40 (1979), S. 132.<lb/>
+              2r–95r [CARLO BORROMEO:] MEMORIAL DE SAINT CHARLES. In Französisch. Charles, Cardinal
+              du titre de Sainte-Praxede, Archevesque de La Saint Eglise de Milan. A Son Cher
+              Peuple. Salut en Nostre Seigneur. Les Saintes Escritures et les examples des saintes
+              ... – ... de revoir en l'autre vie de votre Divine Liberalité la Gloire du Ciel que
+              vous Nous avez promisse. Amen. Amen, (1r–4r) Vorwort, (4r–26v) Teil I. Kapitel 1–4,
+              (26v–87r) Teil II. Kapitel 1–7. 87v leer. (88r–95r) Inhaltsverzeichnis. 95v–98v leer.
+              Ungedruckt. Hand nicht von Belsunce. Vgl. Œuvres choisies de M. de Belsunce, évêque de
+              Marseille, recueillies par André-Gustave Jauffret, Bd. 1, Metz 1822, vor S. 1
+              (Faksimile der Hand von Belsunce). Ed. der Vorlage: Acta ecclesiæ Mediolanensis,
+              Bd. 2, Passau 1754, S. 191–219, 905–914 (Erstausgabe spätestens 1582).
+            </note>
+          </msItem>
+        </msContents>
+      </msDesc>
+    </body>
+  </text>
+</TEI>

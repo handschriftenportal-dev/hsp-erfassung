@@ -1,0 +1,3029 @@
+{
+  "data": {
+    "findSubjectArea": {
+      "id": "NORM-03c37111-e264-3ee4-a3ad-a395dd6474aa",
+      "notation": "FORM",
+      "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM",
+      "labels": [
+        {
+          "text": "Transmission form",
+          "isoCode": "en"
+        },
+        {
+          "text": "Überlieferungsform",
+          "isoCode": "de"
+        }
+      ],
+      "thesauri": [
+        {
+          "id": "NORM-2bb127d0-108a-30a9-8c96-d9984f35a011",
+          "notation": "FORM-B",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-B",
+          "labels": [
+            {
+              "text": "Storage form",
+              "isoCode": "en"
+            },
+            {
+              "text": "Aufbewahrungsform",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-bd1f496f-8236-3beb-a54f-079fe3a14f81",
+              "notation": "FORM-B400",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-B400",
+              "labels": [
+                {
+                  "text": "single/loose material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Material einzeln/vereinzelt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Einzelne lose Blätter, die in keinem historischen Bindungs- oder Sammlungskontext stehen",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-74709cd6-b0cb-3975-8026-855ebea0b652",
+              "notation": "FORM-B905",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-B905",
+              "labels": [
+                {
+                  "text": "joined material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Material zusammengefügt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Material, das in einem historischen Bindungs- oder Sammlungskontext steht",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-c93ac08a-42e4-3f13-bea2-ed07dfea9892",
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c93ac08a-42e4-3f13-bea2-ed07dfea9892",
+              "notation": "FORM-B456",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-B456",
+              "labels": [
+                {
+                  "text": "joined material without binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Materialsammlung ohne Heftung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Material, das in einem historischen Sammlungskontext (z.B. in einem Schuber oder einer Mappe) steht",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-74709cd6-b0cb-3975-8026-855ebea0b652",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+              "notation": "FORM-B170",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-B170",
+              "labels": [
+                {
+                  "text": "bound material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "geheftetes Material",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Material, das durch Heftung/Bindung zusammengefügt ist",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-74709cd6-b0cb-3975-8026-855ebea0b652",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-27d21740-5c3d-30e5-8ce7-ffc9df8fdcf9",
+          "notation": "FORM-F",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F",
+          "labels": [
+            {
+              "text": "Fragmentation and reuse context",
+              "isoCode": "en"
+            },
+            {
+              "text": "Fragmentierungsart und sekundärer Verwendungskontext",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-e4bd68d6-cde1-336e-ab60-4a7c1097c05b",
+              "notation": "FORM-F215",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F215",
+              "labels": [
+                {
+                  "text": "accidental fragmentation",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "zufällige Fragmentierung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "fragmentation ex calamitate",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fragmentierung ex calamitate",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Fragmentierung entstand zufällig, z.B. durch Zerstörungen im Kontext von Kriegen, durch schlechte Lagerungsbedingungen u.ä.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-aeb6dd33-dbb2-3e0f-b416-a65f74ee7007",
+              "notation": "FORM-F796",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F796",
+              "labels": [
+                {
+                  "text": "intended fragmentation",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "aktiv herbeigeführte Fragmentierung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Fragmentierung wurde bewusst und aktiv herbeigeführt, z.B. um das Material in anderen Kontexten wiederzuverwerten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-594cc2b5-f71a-323b-863c-1fb577f4328d",
+              "notation": "FORM-F417",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F417",
+              "labels": [
+                {
+                  "text": "reuse inside a book",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung innerhalb eines Buches",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "reuse in a host volume",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung in einem Trägerband",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wird innerhalb eines Buches als Werkstoff wiederverwendet, z.B. als Einbandmakulatur, als Lesezeichen o.ä.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-7065641f-6a3c-37a0-9abe-226019e3f0ab",
+                "NORM-455459ac-f1f8-30df-92ab-430031b4d26c",
+                "NORM-4bcd1116-9b05-3814-b2ff-7f72ac5ffed3",
+                "NORM-7bff46b7-4bd0-3514-bd29-a5910b40d985",
+                "NORM-ebd441b6-8e2d-3c08-8859-452b88fe261d"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2faf5a7e-714f-3385-aa83-d7019ce3bd64",
+              "notation": "FORM-F282",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F282",
+              "labels": [
+                {
+                  "text": "reuse outside a book",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung außerhalb eines Buches",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wird außerhalb eines Buches als Werkstoff wiederverwendet, z.B. als Verstärkungs- oder Überklebungsmaterial bei Textilien, Möbeln u.ä.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-e42c5ace-9d01-38e0-b587-074e0a757c1d",
+              "notation": "FORM-F454",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F454",
+              "labels": [
+                {
+                  "text": "reuse in original single parts",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung in (ursprünglichen) Einzelteilen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wird in seinen ursprünglichen Einzelteilen in einem sekundären Kontext wiederverwendet, z.B. ausgeschnittener Buchschmuck als gerahmte Bilder",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-fa846c77-118b-35a3-bbed-d129979b784b",
+                "NORM-213b0bde-ed67-3df2-8acb-2752a1dd78e9",
+                "NORM-ecc36ab0-61e5-3a66-b149-2a03a41006a3",
+                "NORM-4e4096ee-414f-392d-bb53-b3379d1e9ad3"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-e2505226-2f24-3fbb-bb4a-15a79c7d8535",
+              "notation": "FORM-F942",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F942",
+              "labels": [
+                {
+                  "text": "reuse as material (recycling)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Werkstoff (Recycling)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wird als Werkstoff in einem sekundären Kontext wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-af954aee-d546-316e-9263-08f4d3e87946",
+              "notation": "FORM-F980",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F980",
+              "labels": [
+                {
+                  "text": "unknown fragmentation cause",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fragmentierungsart nicht sicher zu entscheiden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Es ist unklar, ob die Fragmentierung zufällig geschehen oder aktiv herbeigeführt wurde",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-7065641f-6a3c-37a0-9abe-226019e3f0ab",
+              "notation": "FORM-F104",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F104",
+              "labels": [
+                {
+                  "text": "reuse as binding material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Bindungsmaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "binding maculature",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einbandmakulatur",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Bindungsmaterial (Einbandmakulatur) wiederverwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-bfbdff0f-a274-33d2-9d55-9a6eeb840da4",
+                "NORM-cce3c5fb-57f6-3c33-9451-55402394e075",
+                "NORM-8003b391-b78b-3427-8c7f-670295199b59",
+                "NORM-5393895c-a30e-396d-9b91-f78152bd2bc8",
+                "NORM-bea98244-ea4d-314e-b9a8-f36102aa2437",
+                "NORM-5a90cc5a-2d5b-39e9-b82e-8c391f68e1b3"
+              ],
+              "broader": "NORM-594cc2b5-f71a-323b-863c-1fb577f4328d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-455459ac-f1f8-30df-92ab-430031b4d26c",
+              "notation": "FORM-F354",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F354",
+              "labels": [
+                {
+                  "text": "detached from the host volume",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "aus dem sekundären Verwendungskontext ausgelöst",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das in einem Buch als Werkstoff wiederverwendete fragmentierte Material wurde aus dem sekundären Verwendungskontext, d.h. dem Trägerband, ausgelöst",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-4d7e6841-53fe-3f50-bfeb-15fd42c83c0a",
+                "NORM-4e523d82-df5a-3bd1-b13c-8b8efe3a2832"
+              ],
+              "broader": "NORM-594cc2b5-f71a-323b-863c-1fb577f4328d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4bcd1116-9b05-3814-b2ff-7f72ac5ffed3",
+              "notation": "FORM-F631",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F631",
+              "labels": [
+                {
+                  "text": "in situ",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "in situ",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "still in the host volume",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "noch im sekundären Verwendungskontext",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "im Trägerband",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Das in einem Buch als Werkstoff wiederverwendete fragmentierte Material befindet sich noch im sekundären Verwendungskontext, d.h. im Trägerband",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-594cc2b5-f71a-323b-863c-1fb577f4328d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-7bff46b7-4bd0-3514-bd29-a5910b40d985",
+              "notation": "FORM-F695",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F695",
+              "labels": [
+                {
+                  "text": "reuse as support material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Beschreibstoff",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "palimpsest",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Palimpsest",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Beschreibstoff wiederverwendet. Wenn das fragmentierte Material bereits Schrift enthielt, die für die Wiederbeschriftung getilgt wurde, spricht man von Palimpsest.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-594cc2b5-f71a-323b-863c-1fb577f4328d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ebd441b6-8e2d-3c08-8859-452b88fe261d",
+              "notation": "FORM-F996",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F996",
+              "labels": [
+                {
+                  "text": "reuse as reception testimony",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Nutzungszeugnis",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Nutzungszeugnis wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-5de093e2-85bb-331a-bb66-89926fa78c49",
+                "NORM-b9c53f9f-3c3b-3d19-b21f-fe7e859daaf6",
+                "NORM-25b9f604-768c-3ef4-8bce-1aa5477bb22d"
+              ],
+              "broader": "NORM-594cc2b5-f71a-323b-863c-1fb577f4328d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-fa846c77-118b-35a3-bbed-d129979b784b",
+              "notation": "FORM-F888",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F888",
+              "labels": [
+                {
+                  "text": "cut-out book decoration",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "ausgeschnittener Buchschmuck",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "cutting",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Cutting",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Ein oder mehrere ausgeschnittene Buchschmuck-Elemente werden als Einzelteile in einem sekundären Kontext wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e42c5ace-9d01-38e0-b587-074e0a757c1d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-213b0bde-ed67-3df2-8acb-2752a1dd78e9",
+              "notation": "FORM-F164",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F164",
+              "labels": [
+                {
+                  "text": "other fragmented single parts",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige fragmentierte Einzelteile",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Andere fragmentierte Einzelteile werden in einem sekundären Kontext wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e42c5ace-9d01-38e0-b587-074e0a757c1d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ecc36ab0-61e5-3a66-b149-2a03a41006a3",
+              "notation": "FORM-F739",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F739",
+              "labels": [
+                {
+                  "text": "detached leaf",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "ausgelöstes Einzelblatt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein oder mehrere ausgelöste Einzelblätter werden als Einzelteile in einem sekundären Kontext wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e42c5ace-9d01-38e0-b587-074e0a757c1d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4e4096ee-414f-392d-bb53-b3379d1e9ad3",
+              "notation": "FORM-F852",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F852",
+              "labels": [
+                {
+                  "text": "detached bifolium",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "ausgelöstes Doppelblatt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein oder mehrere ausgelöste Doppelblätter werden als Einzelteile in einem sekundären Kontext wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e42c5ace-9d01-38e0-b587-074e0a757c1d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-bfbdff0f-a274-33d2-9d55-9a6eeb840da4",
+              "notation": "FORM-F183",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F183",
+              "labels": [
+                {
+                  "text": "reuse as endleaves",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Vorsatz",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Vorsatzmaterial wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-f7dd4a37-3909-385e-a252-963c3c2f6b93",
+                "NORM-d3543424-d1c6-3093-8c53-8da3ce2eb294"
+              ],
+              "broader": "NORM-7065641f-6a3c-37a0-9abe-226019e3f0ab",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-cce3c5fb-57f6-3c33-9451-55402394e075",
+              "notation": "FORM-F224",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F224",
+              "labels": [
+                {
+                  "text": "reuse as other binding material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als sonstiges Bindungsmaterial",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde in einer anderen Funktion als Bindungsmaterial wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-7065641f-6a3c-37a0-9abe-226019e3f0ab",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-8003b391-b78b-3427-8c7f-670295199b59",
+              "notation": "FORM-F690",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F690",
+              "labels": [
+                {
+                  "text": "reuse as board material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Deckelkern",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "reuse as wrapper",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Deckelkern-Material (z.B. als Klebepappe) oder als Umschlagmaterial eines flexiblen Einbands ohne Bezug wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-7065641f-6a3c-37a0-9abe-226019e3f0ab",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5393895c-a30e-396d-9b91-f78152bd2bc8",
+              "notation": "FORM-F189",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F189",
+              "labels": [
+                {
+                  "text": "reuse as spine lining",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Rückenhinterklebung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Hinterklebung zum Schutz des Buchrückens wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-7065641f-6a3c-37a0-9abe-226019e3f0ab",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-bea98244-ea4d-314e-b9a8-f36102aa2437",
+              "notation": "FORM-F682",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F682",
+              "labels": [
+                {
+                  "text": "reuse as cover",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Einbandbezug",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "sekundäre Verwendung als Umschlag",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Bezugsmaterial für einen Einband wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-7065641f-6a3c-37a0-9abe-226019e3f0ab",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5a90cc5a-2d5b-39e9-b82e-8c391f68e1b3",
+              "notation": "FORM-F556",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F556",
+              "labels": [
+                {
+                  "text": "reuse as guard",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Falzstreifen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Falzstreifen wiederverwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-80fa8134-5943-3c58-88f0-1600d698c297",
+                "NORM-f93ac095-ac2d-3951-bc03-d16179af2648",
+                "NORM-33e1fc90-87f2-32c0-837f-509d2e2ccdb5"
+              ],
+              "broader": "NORM-7065641f-6a3c-37a0-9abe-226019e3f0ab",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4d7e6841-53fe-3f50-bfeb-15fd42c83c0a",
+              "notation": "FORM-F431",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F431",
+              "labels": [
+                {
+                  "text": "former host volume known",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "ehemaliger Trägerband bekannt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der ehemalige Trägerband des ausgelösten Fragmentmaterials ist bekannt",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-455459ac-f1f8-30df-92ab-430031b4d26c",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4e523d82-df5a-3bd1-b13c-8b8efe3a2832",
+              "notation": "FORM-F394",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F394",
+              "labels": [
+                {
+                  "text": "former host volume unknown",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "ehemaliger Trägerband nicht bekannt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der ehemalige Trägerband des ausgelösten Fragmentmaterials ist unbekannt",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-455459ac-f1f8-30df-92ab-430031b4d26c",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5de093e2-85bb-331a-bb66-89926fa78c49",
+              "notation": "FORM-F163",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F163",
+              "labels": [
+                {
+                  "text": "reuse as leaf marker",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Blattweiser",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Blattweiser wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ebd441b6-8e2d-3c08-8859-452b88fe261d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b9c53f9f-3c3b-3d19-b21f-fe7e859daaf6",
+              "notation": "FORM-F744",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F744",
+              "labels": [
+                {
+                  "text": "reuse as bookmark",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Lesezeichen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Lesezeichen wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ebd441b6-8e2d-3c08-8859-452b88fe261d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-25b9f604-768c-3ef4-8bce-1aa5477bb22d",
+              "notation": "FORM-F188",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F188",
+              "labels": [
+                {
+                  "text": "reuse as chainhole pasting",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Kettenlochüberklebung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde zur Überklebung eines Kettenlochs verwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ebd441b6-8e2d-3c08-8859-452b88fe261d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f7dd4a37-3909-385e-a252-963c3c2f6b93",
+              "notation": "FORM-F343",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F343",
+              "labels": [
+                {
+                  "text": "reuse as flyleaf",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als fliegendes Blatt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Matieral wurde als fliegendes Blatt wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-bfbdff0f-a274-33d2-9d55-9a6eeb840da4",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d3543424-d1c6-3093-8c53-8da3ce2eb294",
+              "notation": "FORM-F268",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F268",
+              "labels": [
+                {
+                  "text": "reuse as pastedown",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Spiegel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Spiegelbeklebung wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-bfbdff0f-a274-33d2-9d55-9a6eeb840da4",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-80fa8134-5943-3c58-88f0-1600d698c297",
+              "notation": "FORM-F429",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F429",
+              "labels": [
+                {
+                  "text": "reuse as text guard",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Flügelfalz",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Flügelfalz wiederverwendet. Flügelfälze befinden sich vorn und hinten zwischen den Buchdeckeln und dem Buchblock, gehen jedoch keine Verbindung zum Buchdeckel ein, sondern sind um die erste und/oder letzte Lage herumgelegt und mitgeheftet. Ihre Funktion besteht somit vor allem in einer Fixierung der äußeren Lagen im Lagenverbund und in der Stabilisierung des Buchblocks. In einer besonderen Form können Flügelfälze auch über den Rücken des Buchblocks laufen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-5a90cc5a-2d5b-39e9-b82e-8c391f68e1b3",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f93ac095-ac2d-3951-bc03-d16179af2648",
+              "notation": "FORM-F463",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F463",
+              "labels": [
+                {
+                  "text": "reuse as endleaf guard",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Ansetzfalz",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "sekundäre Verwendung als Ansatzfalz",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Ansetzfalz wiederverwendet. Ansetzfälze sind Streifen mit einer durchschnittlichen Breite von 5 bis 10 Zentimeter, die eine Verbindung zwischen den Buchdeckeln und dem Buchblock in einem Holzdeckeleinband bilden, wobei eine Hälfte auf den Innendeckel aufgeklebt ist, während die andere Hälfte freisteht. Wie auch die Spiegel dienen Ansetzfälze der Fixierung der Bünde. Wegen der großen Kraft, die auf die Ansetzfälze wirkt, wurde ausschließlich auf ehemalige Pergamenthandschriften zurückgegriffen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-5a90cc5a-2d5b-39e9-b82e-8c391f68e1b3",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-33e1fc90-87f2-32c0-837f-509d2e2ccdb5",
+              "notation": "FORM-F399",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-F399",
+              "labels": [
+                {
+                  "text": "reuse as sewing guard",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sekundäre Verwendung als Falzverstärkung in den Lagenmitten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das fragmentierte Material wurde als Falzstreifen zur Verstärkung der Lagenmitten wiederverwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-5a90cc5a-2d5b-39e9-b82e-8c391f68e1b3",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-0f25bc12-5e98-3969-be17-6fbae02f037c",
+          "notation": "FORM-C",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-C",
+          "labels": [
+            {
+              "text": "Number of parts",
+              "isoCode": "en"
+            },
+            {
+              "text": "Ein-/Mehrteiligkeit",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-66d55950-1724-3948-a713-d9ff95a9a3cb",
+              "notation": "FORM-C187",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-C187",
+              "labels": [
+                {
+                  "text": "material consisting of one part",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "einteiliges Material",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Material, das nur aus einem Teil besteht bzw. aus einem einzigen Entstehungszusammenhang stammt",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-9693f53a-8a5b-3a2a-a43b-cb94995d3441",
+              "notation": "FORM-C102",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-C102",
+              "labels": [
+                {
+                  "text": "material consisting of several parts",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mehrteiliges Material",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Material, das Teile aus unterschiedlichen Entstehungszusammenhängen vereint (z.B. ein Codex mit mehreren Faszikeln).",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-25a7e96e-cf69-3419-897a-9476f202bf00",
+              "notation": "FORM-C688",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-C688",
+              "labels": [
+                {
+                  "text": "material consisting of several volumes",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mehrbändiges Material",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Material, das aus mehreren Bänden besteht",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-1a1937da-1d6a-323a-ae12-0578cc8edced",
+          "notation": "FORM-X",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X",
+          "labels": [
+            {
+              "text": "Fachbegriffe Überlieferungsform",
+              "isoCode": "de"
+            },
+            {
+              "text": "specialist terms Transmission Form",
+              "isoCode": "en"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-8edc413b-0b70-3366-b78c-fdc091ab3ab2",
+              "notation": "FORM-X709",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X709",
+              "labels": [
+                {
+                  "text": "fragment",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Fragment",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine fragmentarisch erhaltene Handschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-0ebf4218-5e5f-3c34-8121-877113c3eeb5",
+                "NORM-1eb41f42-223e-3793-a803-074141f47fdb"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376",
+                "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-8638bd06-6ca8-3b67-a236-5b85a0fc3143",
+              "notation": "FORM-X445",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X445",
+              "labels": [
+                {
+                  "text": "print with manuscript parts",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Druck mit handschriftlichen Anteilen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "print with handwritten components",
+                  "isoCode": "en"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Ein Druck mit handschriftlichen Anteilen (z.B. handschriftliche Notizen, umfangreichere handschriftliche Nachträge)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-e5cb8ab1-d859-3f87-aa5c-b74c0646ae2b",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-385d6995-a735-3a4c-a8b0-221b21cccf01",
+              "notation": "FORM-X869",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X869",
+              "labels": [
+                {
+                  "text": "collection of manuscript material without binding",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sammlung handschriftlichen Materials",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Handschriftliches Material, das in einem historischen Sammlungskontext (z.B. in einem Schuber oder einer Mappe) steht",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-c93ac08a-42e4-3f13-bea2-ed07dfea9892",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5144cb76-a2e0-3f67-a12f-1eeed50aba77",
+              "notation": "FORM-X963",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X963",
+              "labels": [
+                {
+                  "text": "composite manuscript",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Zusammengesetzte Handschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "manuscript consisting of several parts",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mehrteilige Handschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Eine Handschrift, die aus mehreren Teilen (Faszikeln) zusammengesetzt ist. Die Teile/Faszikel können aus unterschiedlichen Entstehungszusammenhängen stammen",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-9693f53a-8a5b-3a2a-a43b-cb94995d3441",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-65fcc77c-dd07-3ea9-8718-124170f01dfb",
+              "notation": "FORM-X677",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X677",
+              "labels": [
+                {
+                  "text": "charter",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Urkunde",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein handschriftliches Verwaltungsdokument",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-bd1f496f-8236-3beb-a54f-079fe3a14f81",
+                "NORM-66d55950-1724-3948-a713-d9ff95a9a3cb",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376",
+                "NORM-3e11cecd-211e-360a-a590-27e23d3a05be"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ba1cd1cf-ffb6-38aa-a0ac-c0a35f5e5bcc",
+              "notation": "FORM-X462",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X462",
+              "labels": [
+                {
+                  "text": "print as host volume",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Druck als Trägerband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein Druck als Trägerband für handschriftliches Material (z.B. mit handschriftlichem Material als Einbandmakulatur)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-98f525a5-519b-3922-9477-b03a4a6daa4a",
+                "NORM-2ec7b946-ff64-32ed-b745-0c896c90561d",
+                "NORM-718405ed-2d31-3952-b877-c2dd1f631f17",
+                "NORM-1855adbe-7620-3f21-b867-7fd575b51b61"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-e5cb8ab1-d859-3f87-aa5c-b74c0646ae2b",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-dfbfa04a-5676-39a4-bc37-a29d39d75d1a",
+              "notation": "FORM-X738",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X738",
+              "labels": [
+                {
+                  "text": "other transmission form",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Überlieferungsform",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1c873b93-30c4-39d6-8ac2-97e5d6a1599a",
+              "notation": "FORM-X321",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X321",
+              "labels": [
+                {
+                  "text": "sammelband",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sammelband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "volume containing handwritten and printed parts",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Handschrift mit Druckadligat",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Ein Sammelband aus zusammengebundenen handschriftlichen und gedruckten Anteilen",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-9693f53a-8a5b-3a2a-a43b-cb94995d3441",
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-e5cb8ab1-d859-3f87-aa5c-b74c0646ae2b",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-0542970e-45d5-3e72-a89d-38dbde7d04a1",
+              "notation": "FORM-X822",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X822",
+              "labels": [
+                {
+                  "text": "scroll",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rotulus",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "rotulus",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rodel",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Rolle",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Eine Handschrift in Form einer Rolle",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-66d55950-1724-3948-a713-d9ff95a9a3cb",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-89d523f7-2e81-30bc-801e-5414441b0bc5",
+              "notation": "FORM-X451",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X451",
+              "labels": [
+                {
+                  "text": "single-sheet manuscript",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einblatthandschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Handschrift, die nur aus einem Blatt besteht und ursprünglich als solche angelegt ist",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-bd1f496f-8236-3beb-a54f-079fe3a14f81",
+                "NORM-66d55950-1724-3948-a713-d9ff95a9a3cb",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b891ff91-1ff4-38ed-90e4-025c7a3f1ece",
+              "notation": "FORM-X453",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X453",
+              "labels": [
+                {
+                  "text": "codex discissus",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Codex discissus",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine rekonstruierte Handschrift/ursprüngliche Bindeeinheit, die im Lauf der Zeit zerteilt wurde",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": ["NORM-a67ce672-18b5-3165-b60d-2552cc371d14"],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-93efb825-a5bd-3ed6-9008-48893b848d5f",
+              "notation": "FORM-X160",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X160",
+              "labels": [
+                {
+                  "text": "codex",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Codex",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "einteilige Handschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Eine codexförmige, d.h. mit Bindung versehene Handschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-49455f63-f959-3a94-98ee-1921aed20a25",
+                "NORM-209496d6-c53a-3336-88e5-a4f11df93091",
+                "NORM-269b3fdb-d9e4-3ff1-90b8-369fad2a8b83"
+              ],
+              "broader": null,
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-66d55950-1724-3948-a713-d9ff95a9a3cb",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-0ebf4218-5e5f-3c34-8121-877113c3eeb5",
+              "notation": "FORM-X287",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X287",
+              "labels": [
+                {
+                  "text": "in situ fragment",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "in situ-Fragment",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein Fragment, das sich noch in einem Trägerband befindet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-8edc413b-0b70-3366-b78c-fdc091ab3ab2",
+              "hasKeyFeature": [
+                "NORM-4bcd1116-9b05-3814-b2ff-7f72ac5ffed3",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376",
+                "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1eb41f42-223e-3793-a803-074141f47fdb",
+              "notation": "FORM-X545",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X545",
+              "labels": [
+                {
+                  "text": "detached fragment",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "ausgelöstes Fragment",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein Fragment, das aus seinem Trägerband ausgelöst wurde",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-8edc413b-0b70-3366-b78c-fdc091ab3ab2",
+              "hasKeyFeature": [
+                "NORM-455459ac-f1f8-30df-92ab-430031b4d26c",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376",
+                "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-98f525a5-519b-3922-9477-b03a4a6daa4a",
+              "notation": "FORM-X236",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X236",
+              "labels": [
+                {
+                  "text": "print after 1520 as host volume",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Druck nach 1520 als Trägerband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein Druck (Entstehungszeit ab 1520) als Trägerband für handschriftliches Material (z.B. mit handschriftlichem Material als Einbandmakulatur)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ba1cd1cf-ffb6-38aa-a0ac-c0a35f5e5bcc",
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-e5cb8ab1-d859-3f87-aa5c-b74c0646ae2b",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2ec7b946-ff64-32ed-b745-0c896c90561d",
+              "notation": "FORM-X568",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X568",
+              "labels": [
+                {
+                  "text": "block book as host volume",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Blockbuch als Trägerband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein Blockbuch als Trägerband für handschriftliches Material (z.B. mit handschriftlichem Material als Einbandmakulatur)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ba1cd1cf-ffb6-38aa-a0ac-c0a35f5e5bcc",
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-e5cb8ab1-d859-3f87-aa5c-b74c0646ae2b",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-718405ed-2d31-3952-b877-c2dd1f631f17",
+              "notation": "FORM-X358",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X358",
+              "labels": [
+                {
+                  "text": "early print as host volume",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Frühdruck als Trägerband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ein Frühdruck (Entstehungszeit 1500-1519) als Trägerband für handschriftliches Material (z.B. mit handschriftlichem Material als Einbandmakulatur)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ba1cd1cf-ffb6-38aa-a0ac-c0a35f5e5bcc",
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-e5cb8ab1-d859-3f87-aa5c-b74c0646ae2b",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1855adbe-7620-3f21-b867-7fd575b51b61",
+              "notation": "FORM-X377",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X377",
+              "labels": [
+                {
+                  "text": "incunabula as host volume",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Inkunabel als Trägerband",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Inkunabel (Entstehungszeit bis 1499) als Trägerband für handschriftliches Material (z.B. mit handschriftlichem Material als Einbandmakulatur)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ba1cd1cf-ffb6-38aa-a0ac-c0a35f5e5bcc",
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-e5cb8ab1-d859-3f87-aa5c-b74c0646ae2b",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a67ce672-18b5-3165-b60d-2552cc371d14",
+              "notation": "FORM-X543",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X543",
+              "labels": [
+                {
+                  "text": "part of a codex discissus",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Teilhandschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Teil eines Codex discissus",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Handschrift, die als Teil einer rekonstruierten Handschrift/ursprünglichen Bindeeinheit (Codex discissus) identifiziert werden kann",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-b891ff91-1ff4-38ed-90e4-025c7a3f1ece",
+              "hasKeyFeature": [
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376",
+                "NORM-90e91c23-577f-380d-bb5f-bd7eafde706f"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-49455f63-f959-3a94-98ee-1921aed20a25",
+              "notation": "FORM-X320",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X320",
+              "labels": [
+                {
+                  "text": "one-text manuscript",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Eintexthandschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Handschrift, die nur einen Text enthält",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-93efb825-a5bd-3ed6-9008-48893b848d5f",
+              "hasKeyFeature": [
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-66d55950-1724-3948-a713-d9ff95a9a3cb",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-209496d6-c53a-3336-88e5-a4f11df93091",
+              "notation": "FORM-X832",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X832",
+              "labels": [
+                {
+                  "text": "manuscript with text collection",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sammelhandschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Handschrift, die mehrere Texte enthält, aber aus einem Entstehungszusammenhang stammt",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-93efb825-a5bd-3ed6-9008-48893b848d5f",
+              "hasKeyFeature": [
+                "NORM-66d55950-1724-3948-a713-d9ff95a9a3cb",
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-269b3fdb-d9e4-3ff1-90b8-369fad2a8b83",
+              "notation": "FORM-X446",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-X446",
+              "labels": [
+                {
+                  "text": "manuscript consisting of several volumes",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mehrbändige Handschrift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Eine Handschrift, die mehrere Bände umfasst",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-93efb825-a5bd-3ed6-9008-48893b848d5f",
+              "hasKeyFeature": [
+                "NORM-25a7e96e-cf69-3419-897a-9476f202bf00",
+                "NORM-f07b4aca-bf67-3120-9454-bd7e4bcf4904",
+                "NORM-fcdc9965-677e-3c69-9a70-0c266893e376"
+              ],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-98c5f06c-f88d-3cbd-ae57-75e7d51029e8",
+          "notation": "FORM-A",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-A",
+          "labels": [
+            {
+              "text": "Lettering type",
+              "isoCode": "en"
+            },
+            {
+              "text": "Beschriftungsart",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-e5cb8ab1-d859-3f87-aa5c-b74c0646ae2b",
+              "notation": "FORM-A263",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-A263",
+              "labels": [
+                {
+                  "text": "printed material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "gedrucktes Material",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Material, das mittels Drucktechniken beschriftet ist",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-fcdc9965-677e-3c69-9a70-0c266893e376",
+              "notation": "FORM-A890",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-A890",
+              "labels": [
+                {
+                  "text": "handwritten material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "handschriftliches Material",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Material, das handschriftlich beschriftet ist",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-cd3409b9-1fe4-3ea4-9e7a-9f6349abc14d",
+          "notation": "FORM-E",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E",
+          "labels": [
+            {
+              "text": "Preservation state",
+              "isoCode": "en"
+            },
+            {
+              "text": "Erhaltungszustand",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-615e97ce-dc2e-311e-a6fa-556a704db9c0",
+              "notation": "FORM-E389",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E389",
+              "labels": [
+                {
+                  "text": "indirectly preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "nur indirekt erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das Material ist nur indirekt, z.B. durch Reproduktionen oder Spuren auf anderen Materialien, erhalten, die physische Handschrift selbst ist jedoch nicht erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-a39bb6f3-6707-396f-b45c-80c80bb98eea",
+                "NORM-67ebfba4-92fd-34d2-8253-9312cbd7478d"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-90e91c23-577f-380d-bb5f-bd7eafde706f",
+              "notation": "FORM-E518",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E518",
+              "labels": [
+                {
+                  "text": "not completely preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "nicht vollständig erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das Material ist nicht vollständig erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e",
+                "NORM-ca688960-82cf-3ad0-bb35-d1ff6d03350c"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ac87f76d-e91b-33a5-8a78-b007967816ae",
+              "notation": "FORM-E938",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E938",
+              "labels": [
+                {
+                  "text": "completely preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "vollständig erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das Material ist vollständig erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": ["NORM-6ac9fbe3-99c1-3e24-be03-82ba19d93f31"],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a39bb6f3-6707-396f-b45c-80c80bb98eea",
+              "notation": "FORM-E505",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E505",
+              "labels": [
+                {
+                  "text": "preserved in reproductions",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "in Reproduktionen erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das Material ist nur in Reproduktionen (z.B. Photographien, Mikrofilmen u.ä.) erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-615e97ce-dc2e-311e-a6fa-556a704db9c0",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-67ebfba4-92fd-34d2-8253-9312cbd7478d",
+              "notation": "FORM-E248",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E248",
+              "labels": [
+                {
+                  "text": "preserved in traces",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "in Spuren erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das Material ist nur in physischen Spuren auf anderen Materialien erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": ["NORM-7073017b-2b8d-3d54-8918-5872004670cf"],
+              "broader": "NORM-615e97ce-dc2e-311e-a6fa-556a704db9c0",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e",
+              "notation": "FORM-E350",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E350",
+              "labels": [
+                {
+                  "text": "fragmentary preservation (separated from the original binding context)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "fragmentarisch erhalten (aus dem ursprünglichen Bindekontext gelöst)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das Material befindet sich nicht mehr in seinem ursprünglichen Bindekontext und ist nur fragmentarisch erhalten, z.B. als Einzelblätter oder Einbandmakulatur",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-d5a1accc-6f10-3a3e-9961-bb1a55298ffe",
+                "NORM-cde71269-29df-3eb4-b40c-c433218bcbc2",
+                "NORM-2cc5aa64-911a-3f25-9a5c-7f11b4386553",
+                "NORM-c822b379-f3f4-3c1a-9cb7-bfd1e3868dc9",
+                "NORM-3286f43f-4d9f-3193-9a13-5a5e298ecb39"
+              ],
+              "broader": "NORM-90e91c23-577f-380d-bb5f-bd7eafde706f",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ca688960-82cf-3ad0-bb35-d1ff6d03350c",
+              "notation": "FORM-E760",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E760",
+              "labels": [
+                {
+                  "text": "partially preserved (parts of the book block preserved)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "teilweise erhalten (Buchblock in Teilen erhalten)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Buchblock ist in Teilen erhalten, es fehlen aber größere Partien (z.B. ganze Lagen)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-90e91c23-577f-380d-bb5f-bd7eafde706f",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6ac9fbe3-99c1-3e24-be03-82ba19d93f31",
+              "notation": "FORM-E361",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E361",
+              "labels": [
+                {
+                  "text": "book block with single lost leaves",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Buchblock mit einzelnem Blattverlust",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Buchblock ist fast vollständig erhalten, es fehlen nur einzelne Blätter",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ac87f76d-e91b-33a5-8a78-b007967816ae",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-7073017b-2b8d-3d54-8918-5872004670cf",
+              "notation": "FORM-E156",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E156",
+              "labels": [
+                {
+                  "text": "offset",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Abklatsch",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Schrift oder andere Bestandteile des Materials sind als Abklatsch auf einem Trägermaterial erhalten, der eigentliche Schriftträger ist jedoch nicht erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-67ebfba4-92fd-34d2-8253-9312cbd7478d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d5a1accc-6f10-3a3e-9961-bb1a55298ffe",
+              "notation": "FORM-E159",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E159",
+              "labels": [
+                {
+                  "text": "fragmentary parts not trimmed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "fragmentarische Bestandteile nicht beschnitten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-cde71269-29df-3eb4-b40c-c433218bcbc2",
+              "notation": "FORM-E235",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E235",
+              "labels": [
+                {
+                  "text": "bifolium preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Doppelblatt erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-50ef4963-68cf-31af-8924-5590db266057",
+                "NORM-d037417c-124f-358c-83e4-885b1cc1e5d1",
+                "NORM-ace87a01-166e-3d3b-b314-ae97ea5f6d13"
+              ],
+              "broader": "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2cc5aa64-911a-3f25-9a5c-7f11b4386553",
+              "notation": "FORM-E460",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E460",
+              "labels": [
+                {
+                  "text": "single leaf preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einzelblatt erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-f80c41a0-b683-304d-b14c-d9e7adc2456b",
+                "NORM-005b3040-e680-30ac-afcb-69251989d78d",
+                "NORM-66b0b6e8-72c9-3303-9dd5-6e12b8756fe3",
+                "NORM-9022ee40-f17b-3bc6-bf46-ddabb0052b12"
+              ],
+              "broader": "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c822b379-f3f4-3c1a-9cb7-bfd1e3868dc9",
+              "notation": "FORM-E947",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E947",
+              "labels": [
+                {
+                  "text": "fragmentary parts trimmed",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "fragmentarische Bestandteile beschnitten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-a7172eed-475a-324a-ab29-80d7319f1f3b",
+                "NORM-b439ee7e-6f77-3f55-bcc1-8898c1f7fbd0"
+              ],
+              "broader": "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-3286f43f-4d9f-3193-9a13-5a5e298ecb39",
+              "notation": "FORM-E772",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E772",
+              "labels": [
+                {
+                  "text": "other parts preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstige Bestandteile erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-5dcac9ee-2a31-3245-bddf-6e1f4c22478e",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-50ef4963-68cf-31af-8924-5590db266057",
+              "notation": "FORM-E266",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E266",
+              "labels": [
+                {
+                  "text": "upper half of a bifolium preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "obere Hälfte eines Doppelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-cde71269-29df-3eb4-b40c-c433218bcbc2",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d037417c-124f-358c-83e4-885b1cc1e5d1",
+              "notation": "FORM-E318",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E318",
+              "labels": [
+                {
+                  "text": "lower half of a bifolium preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "untere Hälfte eines Doppelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-cde71269-29df-3eb4-b40c-c433218bcbc2",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ace87a01-166e-3d3b-b314-ae97ea5f6d13",
+              "notation": "FORM-E992",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E992",
+              "labels": [
+                {
+                  "text": "strip of a bifolium preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Streifen eines Doppelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-d8be542d-20bd-323d-8240-97e7806d4645",
+                "NORM-056d2dac-d848-333f-b6a3-8ef645247ea0"
+              ],
+              "broader": "NORM-cde71269-29df-3eb4-b40c-c433218bcbc2",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f80c41a0-b683-304d-b14c-d9e7adc2456b",
+              "notation": "FORM-E840",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E840",
+              "labels": [
+                {
+                  "text": "half of a vertically split single leaf preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Hälfte eines längsgeteilten Einzelblattes erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-2cc5aa64-911a-3f25-9a5c-7f11b4386553",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-005b3040-e680-30ac-afcb-69251989d78d",
+              "notation": "FORM-E612",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E612",
+              "labels": [
+                {
+                  "text": "lower half of a single leaf preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "untere Hälfte eines Einzelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-2cc5aa64-911a-3f25-9a5c-7f11b4386553",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-66b0b6e8-72c9-3303-9dd5-6e12b8756fe3",
+              "notation": "FORM-E822",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E822",
+              "labels": [
+                {
+                  "text": "strip of a single leaf preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Streifen eines Einzelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [
+                "NORM-891c18c3-f92f-3363-8a70-9913c0e2ccbc",
+                "NORM-4b57546c-c642-3a00-86fc-27820344657a"
+              ],
+              "broader": "NORM-2cc5aa64-911a-3f25-9a5c-7f11b4386553",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-9022ee40-f17b-3bc6-bf46-ddabb0052b12",
+              "notation": "FORM-E333",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E333",
+              "labels": [
+                {
+                  "text": "upper half of a single leaf preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "obere Hälfte eines Einzelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-2cc5aa64-911a-3f25-9a5c-7f11b4386553",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a7172eed-475a-324a-ab29-80d7319f1f3b",
+              "notation": "FORM-E161",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E161",
+              "labels": [
+                {
+                  "text": "written area fragmented",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schriftraum fragmentiert",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-c822b379-f3f4-3c1a-9cb7-bfd1e3868dc9",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b439ee7e-6f77-3f55-bcc1-8898c1f7fbd0",
+              "notation": "FORM-E547",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E547",
+              "labels": [
+                {
+                  "text": "written area preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schriftraum erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-c822b379-f3f4-3c1a-9cb7-bfd1e3868dc9",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d8be542d-20bd-323d-8240-97e7806d4645",
+              "notation": "FORM-E429",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E429",
+              "labels": [
+                {
+                  "text": "horizontal strip of a bifolium preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Querstreifen eines Doppelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ace87a01-166e-3d3b-b314-ae97ea5f6d13",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-056d2dac-d848-333f-b6a3-8ef645247ea0",
+              "notation": "FORM-E137",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E137",
+              "labels": [
+                {
+                  "text": "vertical strip of a bifolium preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Längsstreifen eines Doppelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Längsstreifen, bei dem ersichtlich ist, dass er von einem Doppelblatt stammt (d.h., der Falz und Teile des Schriftraums auf beiden Blatthälften sind sichtbar)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ace87a01-166e-3d3b-b314-ae97ea5f6d13",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-891c18c3-f92f-3363-8a70-9913c0e2ccbc",
+              "notation": "FORM-E666",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E666",
+              "labels": [
+                {
+                  "text": "horizontal strip of a single leaf preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Querstreifen eines Einzelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-66b0b6e8-72c9-3303-9dd5-6e12b8756fe3",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4b57546c-c642-3a00-86fc-27820344657a",
+              "notation": "FORM-E324",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-E324",
+              "labels": [
+                {
+                  "text": "vertical strip of a single leaf preserved",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Längsstreifen eines Einzelblatts erhalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-66b0b6e8-72c9-3303-9dd5-6e12b8756fe3",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-ae327211-65a1-32e3-bb8b-e7b63e18071c",
+          "notation": "FORM-D",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-D",
+          "labels": [
+            {
+              "text": "Transmission context",
+              "isoCode": "en"
+            },
+            {
+              "text": "Gebrauchskontext",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-3e11cecd-211e-360a-a590-27e23d3a05be",
+              "notation": "FORM-D888",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-D888",
+              "labels": [
+                {
+                  "text": "administrative documents",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Verwaltungsschriftgut",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Schriftgut für Verwaltungszwecke (z.B. Urkunden, Rechnungsbücher etc.)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-3efb4a02-145e-3830-8c14-c1ae4cf21e16",
+              "notation": "FORM-D359",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-D359",
+              "labels": [
+                {
+                  "text": "correspondence",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Privatkorrespondenz",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Originalkorrespondenz",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Originalbriefe (im Gegensatz zu Briefabschriften/Briefsammlungen)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-05c4a096-de99-3978-bad1-8c030f4a56f7",
+              "notation": "FORM-D412",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/FORM-D412",
+              "labels": [
+                {
+                  "text": "(literary) text transmission",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "(Literarische) Textüberlieferung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Textüberlieferung, die nicht Verwaltungszwecken dient und daher im weitesten Sinne literarisch ist (dies umfasst sowohl wissenschaftliche und religiöse als auch im engeren Sinne literarische Überlieferung)",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

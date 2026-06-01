@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Junicode';
+  src: url('../fonts/junicode/Junicode-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotDef';
+  src: url('../fonts/adobe-notdef/AND-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HSPExt';
+  src: url('../fonts/hsp-ext/HSPExt.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Filler';
+  src: local('Liberation Sans');
+  unicode-range: U+0400-040F;
+}

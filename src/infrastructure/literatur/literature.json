@@ -1,0 +1,524 @@
+{
+  "literature": [
+    {
+      "title": "AA SS",
+      "description": "Acta sanctorum quotquot toto orbe coluntur, vel a catholicis scriptoribus celebrantur ... ed. Johannes Bollandus, Godefridus Henscheinius etc., Bd 1-67, Antwerpen u.a. 1643-1940.",
+      "uri": "https://d-nb.info/gnd/7594989-1"
+    },
+    {
+      "title": "ADB",
+      "description": "Allgemeine Deutsche Biographie, Bd. 1-56, Leipzig 1875-1912.",
+      "uri": "https://d-nb.info/gnd/7545891-3"
+    },
+    {
+      "title": "AfdA",
+      "description": "Anzeiger für deutsches Altertum und deutsche Literatur",
+      "uri": "https://d-nb.info/01265003X"
+    },
+    {
+      "title": "AH",
+      "description": "Analecta hymnica medii aevi, hrsg. von Guido Maria Dreves, Clemens Blume und Henry Marriott Bannister, Bd. 1-55, Leipzig 1886-1922 (Nachdruck Frankfurt), Register Bd. 1,1.2 und 2, Bern / München 1978.",
+      "uri": "https://d-nb.info/450069656"
+    },
+    {
+      "title": "Besch, Sprachlandschaften",
+      "description": "Werner Besch, Sprachlandschaften und Sprachausgleich im 15. Jahrhundert. Studien zur Erforschung der spätmittelhochdeutschen Schreibdialekte und zur Entstehung der neuhochdeutschen Schriftsprache (Bibliotheca Germanica 11), München 1967.",
+      "uri": "https://d-nb.info/456088679"
+    },
+    {
+      "title": "BHL",
+      "description": "Bibliotheca Hagiographica Latina antiquae et mediae aetatis, Bd. 1-2 (Subsidia hagiographica 6-7), Brüssel 1898-1901; Novum Supplementum, hrsg. von Heinrich Fros (Subsidia hagiographica 70), Brüssel 1986.",
+      "uri": "https://d-nb.info/450448835"
+    },
+    {
+      "title": "Bischoff, Paläographie",
+      "description": "Bernhard Bischoff, Paläographie des römischen Altertums und des abendländischen Mittelalters. Mit einer Auswahlbibliographie 1986-2008 von Walter Koch, 4., durchgesehene und erweiterte Auflage, Berlin 2009 (Grundlagen der Germanistik 24).",
+      "uri": "https://d-nb.info/995471134"
+    },
+    {
+      "title": "BISLAM",
+      "description": "Bibliotheca scriptorum Latinorum medii recentiorisque aevi: repertory of medieval and Renaissance Latin authors. 1: Gli autori in \"Medioevo latino\", hrsg. von Roberto Gamberini, Florenz 2003; 2,1-2,2: Censimento onomastico e letterario degli autori latini del Medioevo: identificazione, classificazione per genere letterario e bibliografia fondamentale, hrsg. von Roberto Gamberini, Florenz 2010.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=583073301"
+    },
+    {
+      "title": "Bloomfield",
+      "description": "Morton Wilfred Bloomfield, Bertrand-Georges Guyot, Donald R. Howard, Thyra B. Kabealo, Incipits of Latin Works on the Virtues and Vices 1100-1500 A.D., Including a Section of Incipits of Works on the Pater noster (The Medieval Academy of America Publication 88), Cambridge/Mass. 1979.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=039703614"
+    },
+    {
+      "title": "Bloomfield, Supplement",
+      "description": "Richard Newhauser/István Bejczy, A Supplement to Morton W. Bloomfield et al. Incipits of Latin Works on the Virtues and Vices (Instrumenta Patristica et Mediaevalia 50), Turnhout 2008.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=563008474"
+    },
+    {
+      "title": "Briquet",
+      "description": "Charles-Moise Briquet, Les Filigranes. Dictionnaire historique des marques du papier dès leur apparition vers 1282 jusqu’en 1600, Bd. 1-4, Paris etc. 1907 (erweiterter Nachdruck: The New Briquet, Jubilee Edition […], Supplementary Material, Bd. 1-4, Amsterdam 1968).",
+      "uri": "https://d-nb.info/550283919"
+    },
+    {
+      "title": "CALMA",
+      "description": "Compendium auctorum Latinorum medii aevi (500-1500), hrsg. von Michael Lapidge u.a., Bd. 1 ff., Florenz 2000 ff.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=1155367200"
+    },
+    {
+      "title": "Cantus-DB",
+      "description": "Cantus Database, hrsg. von Debra Lacoste, Terence Bailey u. Ruth Steiner, bearbeitet von Jan Koláček u. McGill University Distributed Digital Music Archives & Libraries Lab - DDMAL3, 1987 ff.",
+      "uri": "https://cantusdatabase.org/"
+    },
+    {
+      "title": "CAO",
+      "description": "Corpus Antiphonalium Officii, hrsg. von René-Jean Hesbert, Bd. 1-6 (Rerum ecclesiasticarum documenta. Series maior, Fontes 7-12), Rom 1963-1979.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=037046209"
+    },
+    {
+      "title": "Caplan",
+      "description": "Harry Caplan, Mediaeval \"Artes praedicandi\", Bd. 1-2, Ithaka 1934-1936 (Studies in classical philology 24/25).",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=415733006"
+    },
+    {
+      "title": "CCA",
+      "description": "Corpus Christianorum. Series Apocryphorum, Turnhout 1983 f.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=168751054"
+    },
+    {
+      "title": "CCCM",
+      "description": "Corpus Christianorum. Continuatio Mediaevalis, Turnhout 1966 ff.",
+      "uri": "https://d-nb.info/014541637"
+    },
+    {
+      "title": "CCL",
+      "description": "Corpus Christianorum. Series Latina, Turnhout 1953 ff.",
+      "uri": "https://d-nb.info/014559307"
+    },
+    {
+      "title": "Chevalier",
+      "description": "Repertorium hymnologicum: catalogue des chants, hymnes, proses, séquences, tropes en usage dans l'église latine depuis les origines jusqu'à nos jours, hrsg. von Ulysse Chevalier, Bd. 1-6, Louvain / Brüssel 1892-1921.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=235228567"
+    },
+    {
+      "title": "ClaCla",
+      "description": "Clavis Clavium, Leuven / Turnhout 2020 ff.",
+      "uri": "https://clavis.brepols.net/clacla/OA/Browse/Authors.aspx"
+    },
+    {
+      "title": "CMM",
+      "description": "Corpus mensurabilis musicae, hrsg. von American Institute of Musicology, Rom 1948 ff.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=130066214"
+    },
+    {
+      "title": "Colophons",
+      "description": "Colophons de manuscrits occidentaux des origines au XVIe siècle, ed. Bénédictins du Bouveret (Spicilegii Friburgensis Subsidia 2-7), Bd. 1-6, Fribourg 1965-1982.",
+      "uri": "https://d-nb.info/1132619025"
+    },
+    {
+      "title": "Corpus Orationum",
+      "description": "Bertrand Coppieters `t Wallant / Edmond E. Moeller / Ioannes Maria Clément, Corpus orationum, Bd. 1-14, Turnhout 1993-2004 (CCSL 160 A-M).",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=1101708263"
+    },
+    {
+      "title": "CPL",
+      "description": "Eligius Dekkers, Clavis patrum Latinorum, 3., vermehrte und verbesserte Auflage, Steenbrugge 1995.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=191634344"
+    },
+    {
+      "title": "CPPM",
+      "description": "Clavis Patristica Pseudoepigraphorum Medii Aevi, cura et studio Iohannis Machielsen, Bd. 1A-2B, Turnhout 1990-1994",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=032117612"
+    },
+    {
+      "title": "CSEL",
+      "description": "Corpus Scriptorum Ecclesiasticorum Latinorum, Berlin 1866 ff.",
+      "uri": "https://d-nb.info/011072792"
+    },
+    {
+      "title": "Deutsche Biographie-online",
+      "description": "Deutsche Biographie online, hrsg. von der Historischen Kommission bei der Bayerischen Akademie der Wissenschaften, München 2014 ff.",
+      "uri": "https://www.deutsche-biographie.de/"
+    },
+    {
+      "title": "Deutsches Literatur-Lexikon",
+      "description": "Deutsches Literatur-Lexikon. Das Mittelalter. Autoren und Werke nach Themenkreisen und Gattungen, hrsg. von Wolfgang Achnitz, Bd. 1-8, Berlin u.a. 2011-2016.",
+      "uri": "https://d-nb.info/1009703420"
+    },
+    {
+      "title": "Distelbrink, Bonaventura",
+      "description": "Balduinus Distelbrink, Bonaventurae scripta authenticadubia vel spuria critice recensita, Rom 1975 (Subsidia scientifica franciscalia 5).",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=1092958347"
+    },
+    {
+      "title": "Dolezalek",
+      "description": "Gero Dolezalek, Verzeichnis der Handschriften zum Römischen Recht bis 1600. Materialsammlung, System und Programm für elektronische Datenverarbeitung, Bd. 1-4, Frankfurt a. M. 1972 (Max-Planck-Institut für Europäische Rechtsgeschichte).",
+      "uri": "https://d-nb.info/540187399"
+    },
+    {
+      "title": "EBDB",
+      "description": "Einbanddatenbank, Berlin 2004 ff.",
+      "uri": "https://www.hist-einband.de/"
+    },
+    {
+      "title": "EDIT16",
+      "description": "Censimento nazionale delle edizioni italiane del XVI secolo.",
+      "uri": "https://edit16.iccu.sbn.it/"
+    },
+    {
+      "title": "Franz, Benediktionen",
+      "description": "Adolph Franz, Die kirchlichen Benediktionen im Mittelalter, Bd. 1-2, Freiburg i. Br. 1909 (unveränderter Nachdruck Graz 1960).",
+      "uri": "https://d-nb.info/56048318X"
+    },
+    {
+      "title": "Franz, Messe",
+      "description": "Adolph Franz, Die Messe im deutschen Mittelalter. Beiträge zur Geschichte der Liturgie und des religiösen Volkslebens, Freiburg i. Br. 1902 (unveränderter Nachdruck Darmstadt 1963).",
+      "uri": "https://d-nb.info/451345991"
+    },
+    {
+      "title": "Friedberg, Decretalium",
+      "description": "Decretalium collectiones: Decretales Gregorii papae IX., Liber sextus decretalium Bonifacii papae VIII., Clementis papae V. constitutiones, Extravagantes tum viginti Ioannis papae XXII. tum Communes, hrsg. von Emil Friedberg, Leipzig 1881 (Corpus iuris canonici 2).",
+      "uri": "https://d-nb.info/365467111"
+    },
+    {
+      "title": "Friedberg, Decretum Gratiani",
+      "description": "Decretum Magistri Gratiani, hrsg. von Emil Friedberg, Leipzig 1879 (Corpus iuris canonici 1).",
+      "uri": "https://d-nb.info/365467103"
+    },
+    {
+      "title": "Glorieux, Gerson",
+      "description": "Jean Charlier de Gerson. Œuvres complètes, ed. Palémon Glorieux, Bd. 1-10, Paris 1960-1973.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=033516987"
+    },
+    {
+      "title": "Grotefend",
+      "description": "Hermann Grotefend, Zeitrechnung des deutschen Mittelalters und der Neuzeit, Hannover 1891-1898.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=839482418"
+    },
+    {
+      "title": "Grotefend-digital",
+      "description": "Grotefend - digital, hrsg. vonElisabeth Raunig / Georg Vogeler, Graz 2021.",
+      "uri": "https://gams.uni-graz.at/context:grotefend"
+    },
+    {
+      "title": "GW",
+      "description": "Gesamtkatalog der Wiegendrucke, Bd. 1-8,1, hrsg. von der Kommission für den Gesamtkatalog der Wiegendrucke, Leipzig 1925-1940; Bd. 8 ff., hrsg. von der [Deutschen] Staatsbibliothek zu Berlin [Preussischer Kulturbesitz], Stuttgart / Berlin / New York 1972 ff.",
+      "uri": "https://d-nb.info/550702415"
+    },
+    {
+      "title": "GW-online",
+      "description": "Gesamtkatalog der Wiegendrucke (Online-Version)",
+      "uri": "https://www.gesamtkatalogderwiegendrucke.de/"
+    },
+    {
+      "title": "Hain",
+      "description": "Ludwig Hain, Repertorium bibliographicum, … Bd. 1-2, Stuttgart / Paris 1826-1838.",
+      "uri": "https://d-nb.info/560539703"
+    },
+    {
+      "title": "Hauréau, Initia operum",
+      "description": "Barthélemy Hauréau, Initia operum scriptorum Latinorum medii potissimum aevi ex codicibus manuscriptis et libris impressis alphabetice digessit, Bd. 1-8, Turnhout 1973-1974.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=04070789X"
+    },
+    {
+      "title": "HSA-BBAW",
+      "description": "Handschriftenarchiv der Berlin-Brandenburgischen Akademie der Wissenschaften",
+      "uri": "https://handschriftenarchiv.bbaw.de/"
+    },
+    {
+      "title": "HSC",
+      "description": "Handschriftencensus. Eine Bestandsaufnahme der handschriftlichen Überlieferung deutschsprachiger Texte des Mittelalters",
+      "uri": "https://handschriftencensus.de/"
+    },
+    {
+      "title": "HSS",
+      "description": "Wolfgang Kleiber / Konrad Kunze / Heinrich Löffler, Historischer Südwestdeutscher Sprachatlas. Aufgrund von Urbaren des 13. bis 15. Jahrhunderts, Bd. I Text: Einleitung, Kommentare und Dokumentationen, Band II Karten: Einführung, Haupttonvokalismus, Nebentonvokalismus, Konsonantismus, Bern / München 1979.",
+      "uri": "https://d-nb.info/550461647"
+    },
+    {
+      "title": "In principio",
+      "description": "In principio. Incipit index of latin texts / incipitaire des textes latins / Index lateinischer Textanfänge, Turnhout 1993ff.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=371063558"
+    },
+    {
+      "title": "Kaeppeli",
+      "description": "Thomas Kaeppeli / Emilio Panella, Scriptores ordinis Praedicatorum medii aevi, Bd. 1-4, Rom 1970-1993.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=027677710"
+    },
+    {
+      "title": "KdiH",
+      "description": "Katalog der deutschsprachigen illustrierten Handschriften des Mittelalters, begonnen von Hella Frühmorgen-Voss, fortgeführt von Norbert Ott zusammen mit Ulrike Bodemann und Gisela Fischer-Heetfeld, München 1991 ff.",
+      "uri": "https://d-nb.info/1345433239"
+    },
+    {
+      "title": "KdiH digital",
+      "description": "Deutschsprachige illustrierte Handschriften des Mittelalters, hrsg. vonder Bayerischen Akademie der Wissenschaften, München 2019 ff.",
+      "uri": "https://kdih.badw.de/datenbank/start"
+    },
+    {
+      "title": "Krämer, Scriptores",
+      "description": "Sigrid Krämer, Scriptores codicum medii aevi. Datenbank von Schreibern und Besitzern mittelalterlicher Handschriften, Dr. Erwin Rauner Verlag, Augsburg 2003-2012.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=527785814"
+    },
+    {
+      "title": "Kristeller, Iter",
+      "description": "Iter Italicum. Accedunt alia itinera. A finding list of uncatalogued or incompletely catalogued humanistic manuscripts of the Renaissance in Italian and other libraries, hrsg. von Paul Oskar Kristeller, Bd. 1-7, London 1983-1997.",
+      "uri": "https://d-nb.info/552050075"
+    },
+    {
+      "title": "Kyriss",
+      "description": "Ernst Kyriss, Verzierte gotische Einbände im alten deutschen Sprachgebiet. Textbd. u. 3 Tafelbde, Stuttgart 1951-1958.",
+      "uri": "https://d-nb.info/452665868"
+    },
+    {
+      "title": "Légendiers latins",
+      "description": "Légendiers latins. Kooperationsprojekt des Institut de Recherche et d'Histoire des Textes (IRHT) und der la Société des Bollandistes et l’Université de Namur.",
+      "uri": "https://legendiers-latins.irht.cnrs.fr/"
+    },
+    {
+      "title": "LexMA",
+      "description": "Lexikon des Mittelalters, Bd. 1-9, München / Zürich 1980-1998; Registerbd. 10 Stuttgart / Weimar 1999.",
+      "uri": "https://d-nb.info/550564438"
+    },
+    {
+      "title": "LexMA-online",
+      "description": "Lexikon des Mittelalters-Online; International Encyclopaedia for the Middle Ages-Online. A Supplement to LexMA-Online, Turnhout 2004 ff.",
+      "uri": "https://www.brepols.net/series/lexma-o"
+    },
+    {
+      "title": "³LThK",
+      "description": "Lexikon für Theologie und Kirche, hrsg. von Walter Kasper u. a., Bd. 1-11, 3., völlig neu bearbeitete Auflage, Freiburg i. Br. 1993-2001.",
+      "uri": "https://d-nb.info/551202432"
+    },
+    {
+      "title": "Mansi",
+      "description": "Sacrorum conciliorum nova et amplissima collectio, ed. Joannes Dominicus Mansi, Bd. 1-53, Florenz u.a. 1759-1827, Nachdruck und Fortsetzung, hrsg. von Louis Petit, Paris 1901-1927.",
+      "uri": "https://d-nb.info/560705964"
+    },
+    {
+      "title": "MBK",
+      "description": "Mittelalterliche Bibliothekskataloge Deutschlands und der Schweiz, hrsg. von der Bayerischen Akademie der Wissenschaften in München, München 1918 ff.",
+      "uri": "https://d-nb.info/560362692"
+    },
+    {
+      "title": "MBKÖ",
+      "description": "Mittelalterliche Bibliothekskataloge Österreichs, hrsg. von der Österreichischen Akademie der Wissenschaften, Wien u.a. 1915 ff.",
+      "uri": "https://d-nb.info/457609788"
+    },
+    {
+      "title": "MGH",
+      "description": "Monumenta Germaniae Historica inde ab anno Christi quingentesimo usque ad annum millesimum et quingentesimum, Stuttgart / Hannover / Berlin u.a. 1826 ff.",
+      "uri": "https://d-nb.info/500304335"
+    },
+    {
+      "title": "MGH SS",
+      "description": "Monumenta Germaniae Historica. Scriptores in folio, Bd. 1-32, 1826-1934.",
+      "uri": "https://d-nb.info/gnd/4170508-7"
+    },
+    {
+      "title": "Mirabile",
+      "description": "Mirabile. Archivio digitale della cultura latina medievale, hrsg. von SISMEL, Tavarnuzze 2010ff.",
+      "uri": "https://www.mirabileweb.it/mediolatino"
+    },
+    {
+      "title": "Mone",
+      "description": "Franz Joseph Mone, Lateinische Hymnen des Mittelalters, Bd. 1-3, Freiburg i. Br. 1853-1855.",
+      "uri": "https://d-nb.info/453446558"
+    },
+    {
+      "title": "Moser",
+      "description": "Virgil Moser, Frühneuhochdeutsche Grammatik, Heidelberg 1929/1951.",
+      "uri": "https://d-nb.info/560113064"
+    },
+    {
+      "title": "NDB",
+      "description": "Neue deutsche Biographie, hrsg. Von der Historischen Kommission bei der Bayerischen Akademie der Wissenschaften, Berlin 1953 ff.",
+      "uri": "https://d-nb.info/550767363"
+    },
+    {
+      "title": "PBB",
+      "description": "Beiträge zur Geschichte der deutschen Sprache und Literatur, Halle / Tübingen 1874 ff.",
+      "uri": "https://d-nb.info/010006532"
+    },
+    {
+      "title": "PG",
+      "description": "Patrologiae cursus completus … Series Graeca, ed. Jacques Paul Migne, Bd. 1-161, Paris 1857-1866.",
+      "uri": "https://d-nb.info/457769645"
+    },
+    {
+      "title": "Piccard",
+      "description": "Gerhard Piccard, Die Wasserzeichenkartei Piccard im Hauptstaatsarchiv in Stuttgart. Findbuch, Bd. 1 ff., Stuttgart 1961 ff.",
+      "uri": "https://d-nb.info/012759147"
+    },
+    {
+      "title": "Piccard-online",
+      "description": "Piccard Wasserzeichenkartei (J 340) des Hauptstaatsarchivs Stuttgart",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=566798972"
+    },
+    {
+      "title": "Pinakes",
+      "description": "Pinakes. Textes et manuscrits grecs, hrsg. von IRHT, Paris 2008 ff.",
+      "uri": "https://pinakes.irht.cnrs.fr/"
+    },
+    {
+      "title": "PL",
+      "description": "Patrologiae cursus completus. Series Latina, ed. Jacques Paul Migne, Bd. 1-221, Paris 1841-1864 (2. Auflage Paris 1866-1890).",
+      "uri": "https://d-nb.info/gnd/4792718-5"
+    },
+    {
+      "title": "RAG",
+      "description": "Repertorium Academicum Germanicum",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=53946824X"
+    },
+    {
+      "title": "Rep. Font.",
+      "description": "Repertorium fontium historiae medii aevi. Primum ab Augusto Potthast digestum, nunc cura collegii historicorum e pluribus nationibus emendatum et auctum, Bd. 1-11,4, Rom 1962-2007.",
+      "uri": "https://d-nb.info/453995454"
+    },
+    {
+      "title": "Rep. Germ.",
+      "description": "Repertorium Germanicum. Regesten aus den päpstlichen Archiven zur Geschichte des deutschen Reichs und seiner Territorien im XIV. und XV. Jahrhundert, hrsg. vom K. Preußische Historische Institut in Rom, Bd. 1 ff., Berlin 1897 ff.",
+      "uri": "https://d-nb.info/550539018"
+    },
+    {
+      "title": "Rep. Gesch.",
+      "description": "Repertorium „Geschichtsquellen des deutschen Mittelalters“",
+      "uri": "https://d-nb.info/1021672734"
+    },
+    {
+      "title": "Rep. Init.",
+      "description": "Repertorium initiorum manuscriptorum Latinorum medii aevi, Bd. 1-4, Louvain-la-Neuve 2007-2010 (Textes et études du Moyen Âge 42,1-3).",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=545873150"
+    },
+    {
+      "title": "²RETM",
+      "description": "Repertorium edierter Texte des Mittelalters aus dem Bereich der Philosophie und angrenzender Gebiete, hrsg. von Rolf Schönberger u.a., Bd. 1-4, 2., völlig überarbeitete und erweiterte Auflage Berlin 2011.",
+      "uri": "https://d-nb.info/1018555749"
+    },
+    {
+      "title": "RGK",
+      "description": "Repertorium der griechischen Kopisten: 800-1600, Wien 1981-1997.",
+      "uri": "https://d-nb.info/550665781"
+    },
+    {
+      "title": "RISM",
+      "description": "Répertoire international des sources musicales; International inventory of musical sources; Internationales Quellenlexikon der Musik; RISM-Online, Frankfurt, M. u.a. 2002 ff.",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=348734034"
+    },
+    {
+      "title": "Schaller/Könsgen",
+      "description": "Initia carminum Latinorum saeculo undecimo antiquiorum. Hauptbd., bearbeitet von Dieter Schaller und Ewald Könsgen; Supplementbd., fortgeführt von Thomas Klein, Göttingen 1977, 2005.",
+      "uri": "https://d-nb.info/976014092"
+    },
+    {
+      "title": "Schneider, Gotische Schriften I",
+      "description": "Karin Schneider, Gotische Schriften in deutscher Sprache, I. Vom späten 12. Jahrhundert bis um 1300, Text- und Tafelband, Wiesbaden 1987.",
+      "uri": "https://d-nb.info/870106082"
+    },
+    {
+      "title": "Schneider, Gotische Schriften II",
+      "description": "Karin Schneider, Gotische Schriften in deutscher Sprache, II. Die oberdeutschen Schriften von 1300 bis 1350, Text- und Tafelband, Wiesbaden 2009.",
+      "uri": "https://d-nb.info/99697167X"
+    },
+    {
+      "title": "Schneyer",
+      "description": "Johannes Baptist Schneyer, Repertorium der lateinischen Sermones des Mittelalters für die Zeit von 1150-1350, Bd. 1-11, Münster 1969-1990.",
+      "uri": "https://d-nb.info/550461868"
+    },
+    {
+      "title": "Schneyer, RepSpätMA",
+      "description": "Repertorium der lateinischen Sermones des Mittelalters für die Zeit von 1350-1500. Nach Vorarbeiten von Johannes Baptist Schneyer hrsg. von Ludwig Hödl und Wendelin Knoch. Unter Mitarbeit von Ralf Hetzler u.a., Münster 1998.",
+      "uri": "https://d-nb.info/962747173"
+    },
+    {
+      "title": "Schneyer, Wegweiser",
+      "description": "Johannes Baptist Schneyer, Wegweiser zu lateinischen Predigtreihen des Mittelalters, München 1965.",
+      "uri": "https://d-nb.info/740087908"
+    },
+    {
+      "title": "Schulte, GQ",
+      "description": "Johann Friedrich Schulte, Die Geschichte der Quellen und Literatur des canonischen Rechts von Gratian bis auf die Gegenwart, Bd. 1-3, Stuttgart 1875-1880.",
+      "uri": "https://d-nb.info/560908407"
+    },
+    {
+      "title": "Stegmüller RB",
+      "description": "Friedrich Stegmüller, Repertorium biblicum medii aevi, Bd. 1-11, Madrid 1950-1980.",
+      "uri": "https://d-nb.info/560941579"
+    },
+    {
+      "title": "Thorndike/Kibre",
+      "description": "A catalogue of incipits of mediaeval scientific writings in Latin. By Lynn Thorndike and Pearl Kibre. Rev. and augm, ed. Cambridge, Mass. 1963 (The Mediaeval Academy of America. Publication 29).",
+      "uri": "https://gvk.k10plus.de/DB=2.1/PPNSET?PPN=107035872X"
+    },
+    {
+      "title": "TPMA",
+      "description": "Thesaurus proverbiorum medii aevi, hrsg. vom Kuratorium Singer der Schweizerischen Akademie der Geistes- und Sozialwissenschaften, begründet von Samuel Singer, wissenschaftliche Leitung Ricarda Liver u.a, Bd. 1-13, Berlin u.a. 1996-2002.",
+      "uri": "https://d-nb.info/942219155"
+    },
+    {
+      "title": "VD 16",
+      "description": "Verzeichnis der im deutschen Sprachbereich erschienenen Drucke des 16. Jahrhunderts (Online), München 2006 ff.",
+      "uri": "https://www.vd16.de"
+    },
+    {
+      "title": "VD 17",
+      "description": "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (Online), Berlin u.a. 2007 ff.",
+      "uri": "https://www.vd17.de"
+    },
+    {
+      "title": "²VL",
+      "description": "Die deutsche Literatur des Mittelalters. Verfasserlexikon. 2., völlig neu bearbeitete Auflage, hrsg. von Kurt Ruh u.a., Bd. 1-14, Berlin u.a. 1978-2008.",
+      "uri": "https://d-nb.info/550781188"
+    },
+    {
+      "title": "Walther, Initia",
+      "description": "Hans Walther, Initia carminum ac versuum medii aevi posterioris latinorum (Carmina medii aevi posterioris latina 1), Göttingen 1959",
+      "uri": "https://d-nb.info/455365946"
+    },
+    {
+      "title": "Walther, Proverbia",
+      "description": "Hans Walther, Proverbia sententiaeque latinitatis medii aevi, Bd. 1-6 (Carmina medii aevi posterioris Latina 2,1-6), Göttingen 1963-1969. – Proverbia sententiaeque latinitatis medii aevi ac recentioris aevi. Nova series. Aus dem Nachlass von Hans Walther hrsg. von Paul Gerhard Schmidt (Carmina medii aevi posterioris Latina 2,7-9), Göttingen 1982-1986.",
+      "uri": "https://d-nb.info/550787569"
+    },
+    {
+      "title": "Warnecke",
+      "description": "Friedrich Warnecke, Die deutschen Bücherzeichen (Ex-Libris) von ihrem Ursprunge bis zur Gegenwart, Berlin 1890.",
+      "uri": "https://d-nb.info/1024703037"
+    },
+    {
+      "title": "WZIS",
+      "description": "Wasserzeichen-Informationssystem, Stuttgart 2012 ff.",
+      "uri": "https://www.wasserzeichen-online.de/"
+    },
+    {
+      "title": "WZMA",
+      "description": "Wasserzeichen des Mittelalters, Wien 1999 ff.",
+      "uri": "https://wzma.at/"
+    },
+    {
+      "title": "ZfdA",
+      "description": "Zeitschrift für deutsches Altertum und deutsche Literatur",
+      "uri": "https://d-nb.info/010080279"
+    },
+    {
+      "title": "ZfdPh",
+      "description": "Zeitschrift für deutsche Philologie",
+      "uri": "https://d-nb.info/011134216"
+    },
+    {
+      "title": "ZRG GA",
+      "description": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Germanistische Abteilung, Wien/Köln/Weimar 1880 ff.",
+      "uri": "https://d-nb.info/011134968"
+    },
+    {
+      "title": "ZRG KA",
+      "description": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Kanonistische Abteilung, Wien/Köln/Weimar 1911 ff.",
+      "uri": "https://d-nb.info/011134984"
+    },
+    {
+      "title": "ZRG RA",
+      "description": "Zeitschrift der Savigny-Stiftung für Rechtsgeschichte. Romanistische Abteilung, Wien/Köln/Weimar 1880 ff.",
+      "uri": "https://d-nb.info/011134976"
+    },
+    {
+      "title": "Zumkeller",
+      "description": "Adolar Zumkeller, Manuskripte von Werken der Autoren des Augustiner-Eremitenordens in mitteleuropäischen Bibliotheken (Cassiciacum 20), Würzburg 1966.",
+      "uri": "https://d-nb.info/457503637"
+    }
+  ]
+}

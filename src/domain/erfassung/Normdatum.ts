@@ -1,0 +1,13 @@
+export type Normdatum =
+  | 'person'
+  | 'koerperschaft'
+  | 'ort'
+  | 'initium'
+  | 'buchkunde'
+  | 'buchschmuck'
+  | 'schriftart'
+  | 'musiknotation'
+  | 'einband'
+  | 'schreibsprache'
+  | 'textgattung'
+  | 'ueberlieferungsform'

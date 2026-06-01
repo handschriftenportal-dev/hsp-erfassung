@@ -1,0 +1,2350 @@
+{
+  "data": {
+    "findSubjectArea": {
+      "id": "NORM-d01e4886-8122-34ec-9ee2-e4ec7d40a2d8",
+      "notation": "CODC",
+      "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC",
+      "labels": [
+        {
+          "text": "Codicology",
+          "isoCode": "en"
+        },
+        {
+          "text": "Buchkunde",
+          "isoCode": "de"
+        }
+      ],
+      "thesauri": [
+        {
+          "id": "NORM-9524d924-644f-3eb4-929c-189838395b42",
+          "notation": "CODC-B",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B",
+          "labels": [
+            {
+              "text": "Format (size)",
+              "isoCode": "en"
+            },
+            {
+              "text": "Format (Größe/Seitenverhältnis)",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-1aa147bb-3fad-3603-bab8-d754366c33a6",
+              "notation": "CODC-B978",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B978",
+              "labels": [
+                {
+                  "text": "oblong format",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Querformat",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Querformate werden Handschriften bezeichnet, deren Breite die Höhe überragt (Richtwert: Breite mehr als 1 cm größer als Höhe). Querformate sind im Mittelalter vor allem bei Urkunden und Einblatthandschriften verbreitet, als Buchhandschriften treten sie vermehrt in der Frühen Neuzeit auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-44661283-359d-3efa-bd85-f1ac28eef209",
+              "notation": "CODC-B199",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B199",
+              "labels": [
+                {
+                  "text": "quarto (size)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Quart (Größe)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "4° (Größe)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit Quart (Größe) werden Handschriften bezeichnet, die entweder über ihre Abmessungen (Richtwert: Höhe 19-31 cm) oder über formatbezogene Signaturenreihen als Quart-Handschriften definiert sind.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-3a7f56d3-8e73-3893-8ed5-11e19ac9710b",
+              "notation": "CODC-B200",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B200",
+              "labels": [
+                {
+                  "text": "smaller than octavo",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kleiner als Oktav",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Mit „Kleiner als Oktav“ werden Handschriften bezeichnet, die entweder über ihre Abmessungen (Richtwert: Höhe kleiner als 15 cm) oder über formatbezogene Signaturenreihen als kleiner als Oktav-Handschriften definiert sind.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1d418d34-4806-3149-ace4-2bed58bdfec8",
+              "notation": "CODC-B742",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B742",
+              "labels": [
+                {
+                  "text": "square format",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Quadratformat",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Quadratformate werden Handschriften bezeichnet, bei denen Höhe und Breite übereinstimmen (Richtwert: +/- 1 cm). Diese können durch Zuschneiden oder Verwendung von Resten entstanden sein.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-75b68a55-7be1-35bc-9eaa-a66800f7902b",
+              "notation": "CODC-B653",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B653",
+              "labels": [
+                {
+                  "text": "octavo (size)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Oktav (Größe)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "8° (Größe)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit Oktav (Größe) werden Handschriften bezeichnet, die entweder über ihre Abmessungen (Richtwert: Höhe 13-21 cm) oder über formatbezogene Signaturenreihen als Oktav-Handschriften definiert sind.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-14b14026-fe97-3743-9a4a-acf58cc3edc5",
+              "notation": "CODC-B865",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B865",
+              "labels": [
+                {
+                  "text": "tall format",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schmalformat",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Schmalformate werden Handschriften bezeichnet, deren Breite im Vergleich zur Höhe geringer ist als bei den üblichen Buchformaten (Richtwert: Breite kleiner als Höhe/1,8). Diese Formate können durch Zuschneiden, Faltung oder Verwendung von Resten entstanden sein und wurden im Mittelalter oft für Rechnungsbücher oder Verzeichnisse verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1aef1e53-277d-3398-ada7-1c1b28a7e0c6",
+              "notation": "CODC-B727",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B727",
+              "labels": [
+                {
+                  "text": "folio (size)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Folio (Größe)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "2° (Größe)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit Folio (Größe) werden Handschriften bezeichnet, die entweder über ihre Abmessungen (Richtwert: Höhe 28-51 cm) oder formatbezogene Signaturenreihen als Folio-Handschriften definiert sind.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-496f92b2-2bdd-3756-b49c-ab886e93dfba",
+              "notation": "CODC-B460",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B460",
+              "labels": [
+                {
+                  "text": "larger than folio",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Großfolio",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Imperial",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Größer als Folio",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit Großfolio werden Handschriften bezeichnet, die entweder über ihre Abmessungen (Richtwert: Höhe größer als 50 cm) oder über formatbezogene Signaturenreihen als Großfolio-Handschriften definiert sind.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-761dcbb4-1961-36d9-ad14-2cb32e2e519c",
+              "notation": "CODC-B234",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-B234",
+              "labels": [
+                {
+                  "text": "other format (size)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Format (Größe/Seitenverhältnis)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Sonstige Formate, die außerhalb der gängigen Buchformate liegen, z.B. Codices rotundi.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-afdb09b0-d1d7-357f-b4d2-22833717724d",
+          "notation": "CODC-C",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C",
+          "labels": [
+            {
+              "text": "Faltformat",
+              "isoCode": "de"
+            },
+            {
+              "text": "Folding format",
+              "isoCode": "en"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-b0c45ccb-ab1b-32e0-8388-302267813d3d",
+              "notation": "CODC-C429",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C429",
+              "labels": [
+                {
+                  "text": "sexto-decimo (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sedezfaltung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "16° (Faltformat)",
+                  "isoCode": "de"
+                },
+                {
+                  "text": "Sexdecim",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit Sedezfaltung werden Formate bezeichnet, bei denen durch viermaliges Falten eines Pergament- oder Papierbogens acht Doppelblätter entstehen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-e9ed44d8-cfe2-3e82-8f29-bf59282cbe90",
+              "notation": "CODC-C189",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C189",
+              "labels": [
+                {
+                  "text": "other folding format",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiges Faltformat",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-dfb84dd8-b269-3a64-8a15-b8b6c08fd663",
+              "notation": "CODC-C588",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C588",
+              "labels": [
+                {
+                  "text": "quarto (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Quartfaltung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "4° (Faltformat)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit Quartfaltung werden Formate bezeichnet, bei denen durch zweimaliges Falten eines Pergament- oder Papierbogens zwei Doppelblätter entstehen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2cdb0bb9-220a-3f5e-bae4-ec72d25e216c",
+              "notation": "CODC-C495",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C495",
+              "labels": [
+                {
+                  "text": "tall quarto (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schmalquartfaltung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Schmalquart werden Formate bezeichnet, bei denen durch einmalige Quer- und einmalige Längsfaltung eines Pergament- oder Papierbogens zwei Doppelblätter entstehen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-7f921806-e1a1-3f25-a9b1-165d4d31b343",
+              "notation": "CODC-C394",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C394",
+              "labels": [
+                {
+                  "text": "tall octavo (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schmaloktavfaltung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Schmaloktav werden Formate bezeichnet, bei denen durch zweimalige Quer- und einmalige Längsfaltung eines Pergament- oder Papierbogens vier Doppelblätter entstehen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-9e39444b-f4a5-3109-acd9-2ba3c01da85a",
+              "notation": "CODC-C267",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C267",
+              "labels": [
+                {
+                  "text": "octavo (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Oktavfaltung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "8° (Faltformat)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit Oktavfaltung werden Formate bezeichnet, bei denen durch dreimaliges Falten eines Pergament- oder Papierbogens vier Doppelblätter entstehen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1d955e43-5e44-39c2-abee-2e9f994060b9",
+              "notation": "CODC-C465",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C465",
+              "labels": [
+                {
+                  "text": "duodecimo (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Duodezfaltung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "12° (Faltformat)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Als Duodez werden Formate bezeichnet, bei denen jedes Blatt ein Zwölftel eines Bogens ist. Dies kann z.B. durch viermaliges Falten erreicht werden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4fa69696-0f92-3468-b080-b0000854186f",
+              "notation": "CODC-C978",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C978",
+              "labels": [
+                {
+                  "text": "smaller foldings than sexto-decimo",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kleinere Faltungen als Sedez",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Kleinere Formate, die durch mehr als vier Faltungen entstehen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b4b992e3-5485-359f-860f-3bc670b0234c",
+              "notation": "CODC-C335",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C335",
+              "labels": [
+                {
+                  "text": "tall folio (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schmalfoliofaltung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Schmalfolio werden Formate bezeichnet, bei denen durch einmalige Längsfaltung eines Pergament- oder Papierbogens ein Doppelblatt entsteht.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-257a7fb5-488f-30b8-990a-084b68f7493a",
+              "notation": "CODC-C636",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C636",
+              "labels": [
+                {
+                  "text": "folio (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Foliofaltung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "2° (Faltformat)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Mit Foliofaltung werden Formate bezeichnet, bei denen durch einmaliges Falten eines Pergament- oder Papierbogens ein Doppelblatt entsteht.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-91a4ddca-51cd-3a41-98f5-19c3d5362ed7",
+              "notation": "CODC-C935",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-C935",
+              "labels": [
+                {
+                  "text": "plano (folding format)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Ungefaltete Einzelblätter",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "1° (Faltformat)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Verwendung ungefalteter Einzelblätter, um beispielsweise durch Zusammenheften ganzer Pergament- oder Papierbögen zu Doppelblättern Großformate zu erzielen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-bb22a567-8255-3a43-91ac-c71d68a2f59b",
+          "notation": "CODC-A",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A",
+          "labels": [
+            {
+              "text": "Support material",
+              "isoCode": "en"
+            },
+            {
+              "text": "Beschreibstoff",
+              "isoCode": "de"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-9150b6ae-291d-331a-992f-1df68095932a",
+              "notation": "CODC-A366",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A366",
+              "labels": [
+                {
+                  "text": "paper (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papier (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Papier wurde seit dem 13. Jahrhundert in Italien, Frankreich und Spanien hergestellt und verbreitete sich ab dem 14. Jahrhundert zunehmend. Im 15. Jahrhundert war Papier der vorherrschende Beschreibstoff.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-c1c884d8-955d-3020-a77f-5d2be6df1f7b",
+                "NORM-9b73cf2a-8505-3a41-bf9f-7db7eab93fe9",
+                "NORM-a0de4403-be48-3766-8fff-b94933a285fe"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-f04f6978-99cf-3605-9af9-c09b76547b93",
+              "notation": "CODC-A480",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A480",
+              "labels": [
+                {
+                  "text": "other kinds of support material",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Sonstiger Beschreibstoff",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-cb40acd0-d326-3c9d-96f8-39fa0fdc79d7",
+              "notation": "CODC-A194",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A194",
+              "labels": [
+                {
+                  "text": "papyrus (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papyrus (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Papyrus war in der griechisch-römischen Antike der vorherrschende Beschreibstoff, bis im 4. Jahrhundert Pergament als konkurrierender Beschreibstoff an Bedeutung gewann.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6ed837be-3832-37a2-9168-cc492a221d1b",
+              "notation": "CODC-A635",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A635",
+              "labels": [
+                {
+                  "text": "wax tablet (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Wachs(-tafel) (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Wachs (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Auch im Mittelalter wurden die seit der Antike gebräuchlichen Wachstafeln für Notizen, Briefe und ähnliche, nicht für die dauerhafte Aufbewahrung bestimmte Texte verwendet",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a892fa2c-a5a4-3a7b-97b8-963c6ce0dcfe",
+              "notation": "CODC-A601",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A601",
+              "labels": [
+                {
+                  "text": "bark (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Rinde (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-9588a773-13d7-337e-a3e3-1c4462e7ad55",
+              "notation": "CODC-A645",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A645",
+              "labels": [
+                {
+                  "text": "wood (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Holz (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-0645572a-5f58-3143-a29f-7b0622bb4efe",
+              "notation": "CODC-A325",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A325",
+              "labels": [
+                {
+                  "text": "textile (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Textilien (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-e7b1c101-919e-3fdb-983b-762c305fdcc1",
+              "notation": "CODC-A800",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A800",
+              "labels": [
+                {
+                  "text": "parchment (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Pergament (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Pergament war seit dem 2. vorchristlichen Jahrhundert bekannt und wurde seit dem frühen Mittelalter und bis zum Ende des 13. Jahrhunderts zum vorherrschenden Beschreibstoff. Ab dem 14. Jahrhundert wurde Pergament nach und nach durch Papier als Beschreibstoff verdrängt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-d8c2f12a-ba75-335c-95d2-acf8bc097647",
+                "NORM-66c13260-3c3f-39ca-8fcc-3d0d652da932",
+                "NORM-0f3a0c8e-b574-34ce-8d2b-dcae203aae1a",
+                "NORM-5fe53b21-ae46-34d0-b1a8-e35571fdc8e2",
+                "NORM-ef5b9838-217c-34a2-aa19-fca7b02431db",
+                "NORM-c78f6c61-c2af-3090-af01-6c4c8bda3a2b"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c1c884d8-955d-3020-a77f-5d2be6df1f7b",
+              "notation": "CODC-A725",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A725",
+              "labels": [
+                {
+                  "text": "paper of Arabic manufacture (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papier aus Fertigung des arabischen Kulturraums (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Bei Papier aus Fertigung des arabischen Kulturraums wird unterschieden zwischen westlichem („arabe occidental“) und östlichem („arabe oriental“) Typ.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-95a86c7e-d885-3f8a-8354-10112ab515a6",
+                "NORM-e6843434-3a76-3a3b-a9d1-5af22349f065"
+              ],
+              "broader": "NORM-9150b6ae-291d-331a-992f-1df68095932a",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-9b73cf2a-8505-3a41-bf9f-7db7eab93fe9",
+              "notation": "CODC-A491",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A491",
+              "labels": [
+                {
+                  "text": "paper of European manufacture (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papier aus Fertigung des lateinisch-europäischen Kulturraums (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Papier wurde seit dem 13. Jahrhundert in Italien, Frankreich und Spanien hergestellt und verbreitete sich ab dem 14. Jahrhundert zunehmend. Im 15. Jahrhundert war Papier der vorherrschende Beschreibstoff in Europa.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-9150b6ae-291d-331a-992f-1df68095932a",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a0de4403-be48-3766-8fff-b94933a285fe",
+              "notation": "CODC-A783",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A783",
+              "labels": [
+                {
+                  "text": "paper of industrial manufacture (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "industriell gefertigtes Papier (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ab dem 19. Jahrhundert kam neben dem handwerklich hergestellten auch Papier aus industrieller Fertigung auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-9150b6ae-291d-331a-992f-1df68095932a",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d8c2f12a-ba75-335c-95d2-acf8bc097647",
+              "notation": "CODC-A959",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A959",
+              "labels": [
+                {
+                  "text": "sheepskin parchment (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schafspergament (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Schafspergament weist im Gegensatz zu Kalbspergament meist eine deutlich sichtbare Porenstruktur auf und ist im Gegensatz zu Ziegenpergament eher gelblich gefärbt. Aus einer Schafshaut kann ein Pergamentbogen von ca. 60-80 x 40-60 cm gewonnen werden. Tendenziell wurde im Süden Europas eher Schafs- und Ziegenpergament, im Norden eher Kalbspergament verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e7b1c101-919e-3fdb-983b-762c305fdcc1",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-66c13260-3c3f-39ca-8fcc-3d0d652da932",
+              "notation": "CODC-A653",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A653",
+              "labels": [
+                {
+                  "text": "other kinds of parchment (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Pergament von anderen Tieren (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Pergament, das von anderen Tieren als Kalb, Schaf oder Ziege stammt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e7b1c101-919e-3fdb-983b-762c305fdcc1",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-0f3a0c8e-b574-34ce-8d2b-dcae203aae1a",
+              "notation": "CODC-A794",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A794",
+              "labels": [
+                {
+                  "text": "goatskin parchment (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Ziegenpergament (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Ziegenpergament weist im Gegensatz zu Kalbspergament meist eine deutlich sichtbare Porenstruktur auf und ist im Gegensatz zu Schafspergament eher grau-bräunlich gefärbt. Tendenziell wurde im Süden Europas eher Schafs- und Ziegenpergament, im Norden eher Kalbspergament verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e7b1c101-919e-3fdb-983b-762c305fdcc1",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5fe53b21-ae46-34d0-b1a8-e35571fdc8e2",
+              "notation": "CODC-A839",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A839",
+              "labels": [
+                {
+                  "text": "parchment without differences between flesh and hair side (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Pergament ohne deutliche Unterschiede zwischen Haar- und Fleischseiten (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Im frühen Mittelalter wurde Pergament ohne Unterschiede zwischen Haar- und Fleischseiten meist in nördlichen Regionen hergestellt. Seit dem 13. Jahrhundert wurde allgemein ein feineres Pergament bevorzugt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e7b1c101-919e-3fdb-983b-762c305fdcc1",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ef5b9838-217c-34a2-aa19-fca7b02431db",
+              "notation": "CODC-A117",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A117",
+              "labels": [
+                {
+                  "text": "parchment with salient differences between flesh and hair side (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Pergament mit deutlichen Unterschieden zwischen Haar- und Fleischseiten (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Pergament, das im frühen Mittelalter in Italien, Spanien und Südfrankreich hergestellt wurde, war auf der Fleischseite sorgfältiger bearbeitet als auf der ungleichmäßigeren und meist dunkleren Haarseite.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e7b1c101-919e-3fdb-983b-762c305fdcc1",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-c78f6c61-c2af-3090-af01-6c4c8bda3a2b",
+              "notation": "CODC-A915",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A915",
+              "labels": [
+                {
+                  "text": "calfskin parchment (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kalbspergament (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Kalbspergament weist im Gegensatz zu Schafs- und Ziegenpergament meist eine weniger deutlich sichtbare Porenstruktur auf. Auch die Unterscheidung von Haar- und Fleischseite ist oft schwierig. Aus einer Kalbshaut kann ein Pergamentbogen von ca. 100 x 80 cm gewonnen werden. Tendenziell wurde im Süden Europas eher Schafs- und Ziegenpergament, im Norden eher Kalbspergament verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-e7b1c101-919e-3fdb-983b-762c305fdcc1",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-95a86c7e-d885-3f8a-8354-10112ab515a6",
+              "notation": "CODC-A773",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A773",
+              "labels": [
+                {
+                  "text": "paper „arabe occidental“ (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papier „arabe occidental“ (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das Papier „arabe occidental“ wurde in den Westgebieten des osmanischen Reichs, im Maghreb und in Spanien hergestellt und ähnelt dem italienischen Papier. Manchmal weist es ein Zickzack-Zeichen auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-c1c884d8-955d-3020-a77f-5d2be6df1f7b",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-e6843434-3a76-3a3b-a9d1-5af22349f065",
+              "notation": "CODC-A797",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-A797",
+              "labels": [
+                {
+                  "text": "paper „arabe oriental“ (support)",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Papier „arabe oriental“ (Beschreibstoff)",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Das Papier „arabe oriental“ wurde in den Ostgebieten des osmanischen Reichs, in Irak, Ägypten, Syrien und Palästina, hergestellt. Es hat eine regelmäßige Struktur und ist glatt, die Kettlinien sind meist nur schwer erkennbar. Es weist nie ein Zickzack-Zeichen auf.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-c1c884d8-955d-3020-a77f-5d2be6df1f7b",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        },
+        {
+          "id": "NORM-2ccb03a6-aa78-3405-b9d8-4b68393de295",
+          "notation": "CODC-D",
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D",
+          "labels": [
+            {
+              "text": "Layout",
+              "isoCode": "de"
+            },
+            {
+              "text": "Layout",
+              "isoCode": "en"
+            }
+          ],
+          "concepts": [
+            {
+              "id": "NORM-72cca02d-cc02-3fce-b405-383272cc8c71",
+              "notation": "CODC-D736",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D736",
+              "labels": [
+                {
+                  "text": "three columns",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Dreispaltig",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Schriftraum ist dreispaltig beschriftet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6a23a1f5-0cab-3dbc-ba19-a2499413b167",
+              "notation": "CODC-D704",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D704",
+              "labels": [
+                {
+                  "text": "one column",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Einspaltig",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Schriftraum ist einspaltig beschriftet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6f148b5c-098d-378d-8240-1c0f0ade1c7d",
+              "notation": "CODC-D614",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D614",
+              "labels": [
+                {
+                  "text": "frame ruling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schriftraumbegrenzung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Seite ist in Schriftraum und Seitenränder durch eine Begrenzung aufgeteilt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-a0b5c751-c212-3ed9-9b65-0426b45b066e",
+                "NORM-0acf7e61-b38f-3635-97d7-380475fc4c0c",
+                "NORM-91f6168d-d0fc-39dd-b0a4-f67adaee4425"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2f0f2a42-2718-3753-a9db-a0bd47b775b7",
+              "notation": "CODC-D680",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D680",
+              "labels": [
+                {
+                  "text": "four columns",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Vierspaltig",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Schriftraum ist vierspaltig beschriftet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-25c0154c-d665-3c7c-b171-c97969ecf244",
+              "notation": "CODC-D149",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D149",
+              "labels": [
+                {
+                  "text": "text ruling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Linierung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Reglierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Zeilen sind vorgezeichnet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-5c16f896-d757-37bb-bc2f-f351e8d11db0",
+                "NORM-6bad6e98-65c4-3c3e-9c88-ff254c872519",
+                "NORM-dc2fb257-5d46-309c-abc2-4b3ce4feaafe"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-2fe6c91f-8955-3c1c-8818-3a4c8dc77e73",
+              "notation": "CODC-D742",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D742",
+              "labels": [
+                {
+                  "text": "column title",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kolumnentitel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Spaltentitel",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Als Kolumnentitel werden Überschriften über den einzelnen Spalten einer Handschrift bezeichnet. Sie dienen der Orientierung und leichteren Zitierbarkeit.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4d5ad8e2-4e0a-397b-b4da-cefe61562ee0",
+              "notation": "CODC-D252",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D252",
+              "labels": [
+                {
+                  "text": "two columns",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Zweispaltig",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Schriftraum ist zweispaltig beschriftet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a529a352-3880-365d-8ad1-eead91f8f018",
+              "notation": "CODC-D400",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D400",
+              "labels": [
+                {
+                  "text": "column signatures",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Spaltenzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Kolumnenzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Alte Spaltenzählung bzw. Kolumnenzählung mit Buchstaben oder Ziffern ist relativ selten.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d4efd376-9524-3ecf-9f17-beec1d278922",
+              "notation": "CODC-D458",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D458",
+              "labels": [
+                {
+                  "text": "more than four columns",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mehr als vier Spalten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Der Schriftraum enthält mehr als vier Spalten.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-aef8abe5-f952-31aa-b221-826707eea8fb",
+              "notation": "CODC-D653",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D653",
+              "labels": [
+                {
+                  "text": "pagination",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Seitenzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Paginierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Bei einer Seitenzählung wird jede Seite (Recto- und Versoseite) durchnummeriert.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-1d572f31-5850-3a79-88db-546a1785971f",
+                "NORM-83b25221-f1ee-3907-bb87-8de08944efec",
+                "NORM-83d1e5c7-4c20-327d-8a31-a5c37ec1fb2d"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-dcfd71ea-cd97-31ac-889d-38758c992e1e",
+              "notation": "CODC-D483",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D483",
+              "labels": [
+                {
+                  "text": "gloss",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Glossen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Kommentare",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Handschrift enthält neben dem Haupttext einen Kommentar bzw. eine Glosse zum Text. Die Glosse kann verschiedene Formen haben. In manchen Fällen wird der Schriftraum bereits für eine Aufteilung in Haupttext und Glosse eingerichtet, z.B. durch eigene Spalten für Text und Glosse. Die Glossen können aber auch in den Haupttext integriert (Interlinearglossen) oder außerhalb des Schriftraums eingetragen sein (Marginalglossen). Zudem können Text und Glosse durch verschiedene Schriften, Schriftgrade oder Farben voneinander abgesetzt sein.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-b06bd42f-6d22-3dc9-9d66-4dd2f86f9761",
+                "NORM-cc53c631-b862-3188-a499-f2b9e2dee769",
+                "NORM-82923ef0-b81a-3b58-83f6-3bfa78d90de8"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-18423231-44a2-3f81-ba0b-769c32bcd529",
+              "notation": "CODC-D358",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D358",
+              "labels": [
+                {
+                  "text": "foliation",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Blattzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Foliierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Bei einer Blattzählung werden jeweils die Vorderseiten (Rectoseiten) der Blätter durchnummeriert.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-a4da9170-e544-343a-8a76-c375055ffe3d",
+                "NORM-09b76874-9616-38d0-bf9e-c050bd8251d7",
+                "NORM-005ce754-4767-33cd-b74e-d7c3a4f85bb9"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d49272a7-c846-3d08-a4cc-c392d8d76067",
+              "notation": "CODC-D177",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D177",
+              "labels": [
+                {
+                  "text": "quire counting and/or catchwords",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Kustoden",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Nach dem Schreiben wurden die Lagen gekennzeichnet, damit sie beim Binden in der richtigen Reihenfolge angeordnet werden konnten. Es gibt verschiedene Arten der Kennzeichnung.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [
+                "NORM-5e8c4fcf-ab1d-37e2-a302-690d190b6a03",
+                "NORM-ab6b7801-4c2c-32ee-8817-160bfea381d5",
+                "NORM-d711d91e-64ea-3f21-8ba4-32227907ec01"
+              ],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-abeeb3cd-ad8d-3352-b85a-8a8cceeb5e82",
+              "notation": "CODC-D541",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D541",
+              "labels": [
+                {
+                  "text": "running title",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Seitentitel",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "Seitenüberschriften",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Als Seitentitel oder Seitenüberschriften werden Buch- und Kapitelangaben am oberen Rand des jeweiligen Blattes bezeichnet. Dieses frühmittelalterliche Verfahren wurde im 12. Jahrhundert wieder aufgenommen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": true,
+              "narrower": [],
+              "broader": null,
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a0b5c751-c212-3ed9-9b65-0426b45b066e",
+              "notation": "CODC-D127",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D127",
+              "labels": [
+                {
+                  "text": "frame ruling with pencil",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schriftraum mit Stift begrenzt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Zur Begrenzung des Schriftraums wurde ein Stift verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-6f148b5c-098d-378d-8240-1c0f0ade1c7d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-0acf7e61-b38f-3635-97d7-380475fc4c0c",
+              "notation": "CODC-D677",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D677",
+              "labels": [
+                {
+                  "text": "frame ruling with ink",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schriftraum mit Tinte begrenzt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Zur Begrenzung des Schriftraums wurde Tinte verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-6f148b5c-098d-378d-8240-1c0f0ade1c7d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-91f6168d-d0fc-39dd-b0a4-f67adaee4425",
+              "notation": "CODC-D299",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D299",
+              "labels": [
+                {
+                  "text": "blind frame ruling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Schriftraum blind begrenzt",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Zur Begrenzung des Schriftraums wurde ein blinder Griffel verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-6f148b5c-098d-378d-8240-1c0f0ade1c7d",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5c16f896-d757-37bb-bc2f-f351e8d11db0",
+              "notation": "CODC-D318",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D318",
+              "labels": [
+                {
+                  "text": "blind text ruling",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Blindlinierung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Zeilen wurden mit einem blinden Griffel vorgezeichnet. Die Blindlinierung ist bereits in Pergamenthandschriften des 5. und 6. Jahrhunderts nachweisbar.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-25c0154c-d665-3c7c-b171-c97969ecf244",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-6bad6e98-65c4-3c3e-9c88-ff254c872519",
+              "notation": "CODC-D187",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D187",
+              "labels": [
+                {
+                  "text": "text ruling with pencil",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Linierung mit Stift",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Zeilen wurden mit Stift vorgezeichnet. Linierung mit Stift findet sich ab dem 12. Jahrhundert.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-25c0154c-d665-3c7c-b171-c97969ecf244",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-dc2fb257-5d46-309c-abc2-4b3ce4feaafe",
+              "notation": "CODC-D210",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D210",
+              "labels": [
+                {
+                  "text": "text ruling with ink",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Linierung mit Tinte",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die Zeilen wurden mit Tinte vorgezeichnet. Die Tintenlinierung findet sich ab dem 13. Jahrhundert.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-25c0154c-d665-3c7c-b171-c97969ecf244",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-1d572f31-5850-3a79-88db-546a1785971f",
+              "notation": "CODC-D223",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D223",
+              "labels": [
+                {
+                  "text": "modern pagination",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "moderne Seitenzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "moderne Paginierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Eine moderne Seitenzählung (ab dem 19. Jahrhundert).",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-aef8abe5-f952-31aa-b221-826707eea8fb",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-83b25221-f1ee-3907-bb87-8de08944efec",
+              "notation": "CODC-D425",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D425",
+              "labels": [
+                {
+                  "text": "medieval pagination",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mittelalterliche Seitenzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "mittelalterliche Paginierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Seitenzählung taucht im ausgehenden 12. Jahrhundert auf und ist ab 1300 zunehmend verbreitet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-aef8abe5-f952-31aa-b221-826707eea8fb",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-83d1e5c7-4c20-327d-8a31-a5c37ec1fb2d",
+              "notation": "CODC-D912",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D912",
+              "labels": [
+                {
+                  "text": "early modern pagination",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "neuzeitliche Seitenzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "neuzeitliche Paginierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Eine in der frühen Neuzeit (16.-18. Jahrhundert) vorgenommene Seitenzählung.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-aef8abe5-f952-31aa-b221-826707eea8fb",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b06bd42f-6d22-3dc9-9d66-4dd2f86f9761",
+              "notation": "CODC-D791",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D791",
+              "labels": [
+                {
+                  "text": "other kinds of gloss",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "sonstige Glossierungsformen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "sonstige Kommentarformen",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-dcfd71ea-cd97-31ac-889d-38758c992e1e",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-cc53c631-b862-3188-a499-f2b9e2dee769",
+              "notation": "CODC-D782",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D782",
+              "labels": [
+                {
+                  "text": "marginal gloss",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Marginalglossen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Marginalglossen werden Glossen bzw. Kommentare bezeichnet, die sich außerhalb des Schriftraums auf den Rändern der Seite befinden.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-dcfd71ea-cd97-31ac-889d-38758c992e1e",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-82923ef0-b81a-3b58-83f6-3bfa78d90de8",
+              "notation": "CODC-D765",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D765",
+              "labels": [
+                {
+                  "text": "interlinear gloss",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Interlinearglossen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Interlinearglossen werden Glossen bzw. Kommentare bezeichnet, die zwischen die Zeilen des Haupttextes eingetragen wurden. Oft wurde diese Form der Glossierung für Übersetzungen ganzer Texte oder einzelner Wörter verwendet, sog. Interlinearversionen.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-dcfd71ea-cd97-31ac-889d-38758c992e1e",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-a4da9170-e544-343a-8a76-c375055ffe3d",
+              "notation": "CODC-D772",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D772",
+              "labels": [
+                {
+                  "text": "modern foliation",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "moderne Blattzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "moderne Foliierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Eine moderne Blattzählung (ab dem 19. Jahrhundert).",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-18423231-44a2-3f81-ba0b-769c32bcd529",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-09b76874-9616-38d0-bf9e-c050bd8251d7",
+              "notation": "CODC-D793",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D793",
+              "labels": [
+                {
+                  "text": "medieval foliation",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "mittelalterliche Blattzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "mittelalterliche Foliierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Die Blattzählung taucht im ausgehenden 13. Jahrhundert auf und ist ab 1300 zunehmend verbreitet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-18423231-44a2-3f81-ba0b-769c32bcd529",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-005ce754-4767-33cd-b74e-d7c3a4f85bb9",
+              "notation": "CODC-D276",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D276",
+              "labels": [
+                {
+                  "text": "early modern foliation",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "neuzeitliche Blattzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [
+                {
+                  "text": "neuzeitliche Foliierung",
+                  "isoCode": "de"
+                }
+              ],
+              "definition": [
+                {
+                  "text": "Eine in der frühen Neuzeit (16.-18. Jahrhundert) vorgenommene Blattzählung.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-18423231-44a2-3f81-ba0b-769c32bcd529",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-5e8c4fcf-ab1d-37e2-a302-690d190b6a03",
+              "notation": "CODC-D608",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D608",
+              "labels": [
+                {
+                  "text": "catchwords",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Reklamanten",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Als Reklamanten bzw. Wortreklamanten bezeichnet man die in der Regel auf der Versoseite des letzten Blattes einer Lage vermerkten Anfangsworte der nächsten Lage. Dies sollte die richtige Reihenfolge der Lagen beim Binden unterstützen. Reklamanten treten erstmals im 11. Jahrhundert auf und werden ab dem 12. Jahrhundert zunehmend häufiger.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-d49272a7-c846-3d08-a4cc-c392d8d76067",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-ab6b7801-4c2c-32ee-8817-160bfea381d5",
+              "notation": "CODC-D611",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D611",
+              "labels": [
+                {
+                  "text": "quire leaves counting",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Lagenblattzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Unter Lagenblattzählung wird eine Lagenbezeichnung verstanden, bei der nicht oder nicht nur die Lagen selbst, sondern auch deren einzelne Blätter gezählt werden. Meist werden nur die Blätter der ersten Lagenhälfte durchgezählt.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [
+                "NORM-4791ffe9-525c-378c-b255-15d1b6cea4a2",
+                "NORM-b54aa6cf-b682-3ffe-adc4-16fbec16fddc"
+              ],
+              "broader": "NORM-d49272a7-c846-3d08-a4cc-c392d8d76067",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-d711d91e-64ea-3f21-8ba4-32227907ec01",
+              "notation": "CODC-D571",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D571",
+              "labels": [
+                {
+                  "text": "quire counting",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Lagenzählung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Die älteste Form der Lagenbezeichnung ist die Lagenzählung. Sie wurde auf der ersten oder letzten Lagenseite, meist am unteren Rand, angebracht. Zum Zählen der Lagen wurden römische, später auch arabische Ziffern oder ausgeschriebene Zählungen verwendet. Seltener kommt auch eine Zählung mit Buchstaben vor.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-d49272a7-c846-3d08-a4cc-c392d8d76067",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-4791ffe9-525c-378c-b255-15d1b6cea4a2",
+              "notation": "CODC-D511",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D511",
+              "labels": [
+                {
+                  "text": "quire foliation",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Lagenfoliierung",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Mit Lagenfoliierung wird eine Form der Lagenblattzählung bezeichnet, bei der nur die Lagenblätter, nicht aber die Lagen selbst gezählt werden. Für die Zählung wurden entweder Buchstaben oder Ziffern verwendet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ab6b7801-4c2c-32ee-8817-160bfea381d5",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            },
+            {
+              "id": "NORM-b54aa6cf-b682-3ffe-adc4-16fbec16fddc",
+              "notation": "CODC-D387",
+              "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/vocabulary/CODC-D387",
+              "labels": [
+                {
+                  "text": "quire signatures",
+                  "isoCode": "en"
+                },
+                {
+                  "text": "Lagensignaturen",
+                  "isoCode": "de"
+                }
+              ],
+              "altLabels": [],
+              "definition": [
+                {
+                  "text": "Mit Lagensignatur wird eine Form der Lagenblattzählung bezeichnet, bei der sowohl die Lage als auch die Lagenblätter gezählt werden, meist mit Buchstaben für die Lage und Ziffern für die Lagenblätter. Diese Form der Lagenbezeichnung ist auch im Bereich der frühen Drucke sehr verbreitet.",
+                  "isoCode": "de"
+                }
+              ],
+              "topConcept": false,
+              "narrower": [],
+              "broader": "NORM-ab6b7801-4c2c-32ee-8817-160bfea381d5",
+              "hasKeyFeature": [],
+              "hasAdditionalFeature": [],
+              "hasOneKeyFeatureFrom": [],
+              "hasSomeKeyFeaturesFrom": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
