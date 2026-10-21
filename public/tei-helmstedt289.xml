@@ -1,0 +1,695 @@
+<?xml version="1.0" standalone="yes"?><TEI version="3.0.1" xml:id="HAB_mss_289-helmst_tei-msDesc_Lesser" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><teiHeader><fileDesc><titleStmt><title>Beschreibung von Cod. Guelf. 289 Helmst. (Die mittelalterlichen Helmstedter Handschriften der Herzog August Bibliothek. Teil II: Cod. Guelf. 277 bis 370 Helmst. Mit einem Anhang: Die mittelalterlichen Handschriften und Fragmente der Ehemaligen Universitätsbibliothek Helmstedt, beschrieben von Bertram Lesser. Wiesbaden 2022.)</title><respStmt><resp>Beschrieben von </resp><persName role="author" ref="http://d-nb.info/gnd/131369466" key="NORM-6c524f9d-5d70-3745-8a78-3c841250ba71">Bertram Lesser</persName></respStmt></titleStmt><publicationStmt><publisher>
+                  <name type="org">Handschriftenportal</name>
+               </publisher><date when="2008" type="primary"/><date when="2024-05-15" type="secondary">2024-05-15 02:01:48</date><availability status="restricted"><licence target="http://creativecommons.org/licenses/by-sa/3.0/de/">
+                     <p>Dieses Dokument steht unter einer Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz (CC BY-SA).</p>
+                     <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">Copyright Information</ref>
+                     </p>
+                  </licence></availability><pubPlace><ptr xml:id="HSP-589218ad-75cd-3573-a5ce-fbb77ec5b218" subtype="hsp" type="purl" target="https://resolver.staatsbibliothek-berlin.de/HSP00061ABB00000000"/></pubPlace></publicationStmt><sourceDesc><bibl>Die mittelalterlichen Helmstedter Handschriften der Herzog August Bibliothek. Teil II: Cod. Guelf. 277 bis 370 Helmst. Mit einem Anhang: Die mittelalterlichen Handschriften und Fragmente der Ehemaligen Universitätsbibliothek Helmstedt, beschrieben von Bertram Lesser (im Erscheinen).</bibl></sourceDesc></fileDesc><encodingDesc><projectDesc><p>Beschreibung erstellt im Rahmen des Projektes <name type="project">Katalogisierung der mittelalterlichen Helmstedter Handschriften <name subtype="part" type="project">Teil II</name>
+                  </name>.</p></projectDesc></encodingDesc><revisionDesc><change who="schassan" when="2019-08-20">Manuscripta Mediaevalia Objektnummer hinzugefügt.</change><change who="schassan" when="2015-09-04">Normdaten ergänzt bzw. korrigiert.</change><change who="lesser" when="2023-01-15">Überarbeitung abgeschlossen; gleicher Stand wie im gedruckten Katalog.</change></revisionDesc></teiHeader><text><body><msDesc status="extern" xml:id="HSP-3c68de69-1465-3b39-b41a-b13329c36fc4" xml:lang="de" subtype="medieval" type="hsp:description"><msIdentifier><settlement ref="http://d-nb.info/gnd/4066832-0" key="NORM-956e3022-336a-344d-b0fb-ce9bc76dc2b9">Wolfenbüttel</settlement><repository rend="HAB" ref="https://d-nb.info/gnd/8989-8" key="NORM-af67d002-a9a6-3017-b8f1-1b2861b7d14b">Herzog August Bibliothek</repository><collection>Helmstedter Handschriften</collection><idno sortKey="wf_hab_helmst-0289">Cod. Guelf. 289 Helmst.</idno><altIdentifier type="mxml-ID"><idno>mss_289-helmst_tei-msDesc_Lesser</idno></altIdentifier><altIdentifier type="hsp-ID"><collection>Handschriftenportal Kulturobjektdokument-ID</collection><idno>HSP-bb4c451f-6372-3090-9f4d-e7c5acf31196</idno></altIdentifier></msIdentifier><head>
+                  <index indexName="norm_title"><term type="title">Jacobus de Voragine</term></index>
+                  <note type="headline">Papier — I, 250 Bl. — 3121 — Clus, Benediktinerkloster — 15. Jh., 1. Viertel</note>
+                  <title>Jacobus de Voragine</title>
+                  <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                  <index indexName="norm_measure"><term type="measure">I, 250 Bl.</term><term type="measure_noOfLeaves">250</term></index>
+                  <index indexName="norm_dimensions"><term type="dimensions">31 × 21 cm</term><term type="height">31</term><term type="width">21</term><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                  <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                  <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                  <index indexName="norm_origDate"><term type="origDate">15. Jh., 1. Viertel</term><term type="origDate_notBefore">1401</term><term type="origDate_notAfter">1425</term><term type="origDate_type">datable</term></index>
+                  <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term><term type="textLang-ID">de</term></index>
+                  <index indexName="norm_form"><term type="form">codex</term></index>
+                  <index indexName="norm_status"><term type="status"/></index>
+                  <index indexName="norm_decoration"><term type="decoration"/></index>
+                  <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+               </head><physDesc><p> Wasserzeichen: <ref type="watermark">Ochsenkopf mit Augen, darüber einkonturige Stange, darüber Stern</ref>: <ref type="abbr">WZIS</ref>
+                     <ref cRef="DE5925-PO-67415" type="wzis">DE5925-PO-67415</ref> (<date>1410</date>, weitere Typen nicht nachweisbar). <ref type="watermark">Ochsenkopf mit Augen, darüber einkonturige Stange, darüber Blume</ref>: <ref type="abbr">WZIS</ref>
+                     <ref cRef="DE1335-PO-065295" type="wzis">DE1335-PO-65295</ref>, <ref cRef="DE1335-PO-65297" type="wzis">DE1335-PO-65297</ref> (beide <date>1416</date>). <ref type="watermark">Glocke, zwischen zwei Bindedrähten, ohne Beizeichen, Klöppel mit der Kontur des Randes verschmolzen</ref>: <ref type="abbr">WZIS</ref>
+                     <ref cRef="DE2730-PO-40899" type="wzis">DE2730-PO-40899</ref> (<date>1412</date>, weitere Typen nicht nachweisbar). <ref type="watermark">Glocke, zwischen zwei Bindedrähten, mit Glockenstuhl</ref> (nicht nachweisbar). <ref type="watermark">Lilie, darüber Blume</ref> (nicht nachweisbar).  Bleistiftfoliierung modern: <quote>1</quote>–<quote>250</quote>, leeres Vorsatzbl. ungez., <locus from="104">Bl. 104</locus> übersprungen. Bl. <locus from="1r" to="82r">1–82</locus>: zeitgenöss. Foliierung (rubriziert) in römischen und arabischen Zahlen. VI+1 (12)! 19 VI (241)! VI–3 (250). Reklamanten, z. T. durch Beschnitt verloren. 14,5 × 22,5 cm,
+					zweispaltig (Spalten regelmäßig 6,5 cm breit), 42–46 Zeilen.  <term type="script">Jüngere gotische Kursive</term> von mindestens drei schwer unterscheidbaren Händen.  Für den liturgischen Gebrauch wurden <locus from="205r" to="207r">205ra–207rb</locus> in marg. Leseanweisungen für die Oktav des Martinsfestes entsprechend dem Bursfelder Ordinarius angebracht. </p><decoDesc><decoNote type="form">
+                        <locus from="1r" to="83r">1ra–83rb</locus> rubriziert, <locus from="86v">86vb</locus>, <locus from="136v">136vb</locus>, <locus from="173v">173va</locus> braune Lombarden. <lb/>
+                        <lb/>
+                        <locus from="1r">1ra</locus> Fleuronnéenitiale <quote>V</quote> als littera duplex im Zackenschnitt von Rot und Braun geteilt, mit rotem vegetabilem Fleuronnée im Binnenfeld und konturbegleitenden Fibrillen und Fadenranken. </decoNote></decoDesc></physDesc><msPart type="binding"><msIdentifier><idno>Einband 1</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline"/>
+                     <title/>
+                     <index indexName="norm_material"><term type="material"/><term type="material_type"/></index>
+                     <index indexName="norm_measure"><term type="measure"/><term type="measure_noOfLeaves"/></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace"/><term type="origPlace_norm"/></index>
+                     <index indexName="norm_origDate"><term type="origDate"/><term type="origDate_notBefore"/><term type="origDate_notAfter"/><term type="origDate_type"/></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID"/></index>
+                     <index indexName="norm_form"><term type="form">binding</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><physDesc><p>Spätgotischer Holzdeckelband mit Schweinslederbezug. Streicheisenlinien. Einzelstempel <ref type="stamp">Lilie, Mittelblatt rhombisch, unterer Abschluss lilienförmig</ref>: <ref type="abbr">EBDB</ref>
+                        <ref cRef="s006012" type="ebdb">s006012</ref>. Aus der Cluser Werkstatt "Johannes von Brakel" (<ref type="abbr">EBDB</ref>
+                        <ref cRef="w000352" type="ebdb">w000352</ref>). Drei Doppelbünde. Auf dem <locus from="HD">HD</locus> Gegenbleche von zwei verlorenen Langriemenschließen. Inhaltsangabe auf den <locus from="VD">VD</locus> geschrieben (<term type="script">Textualis</term>): <quote xml:lang="la">Passionale sanctorum</quote>. </p></physDesc></msPart><msPart type="binding"><msIdentifier><idno>Einband 2</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline"/>
+                     <title/>
+                     <index indexName="norm_material"><term type="material"/><term type="material_type"/></index>
+                     <index indexName="norm_measure"><term type="measure"/><term type="measure_noOfLeaves"/></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace"/><term type="origPlace_norm"/></index>
+                     <index indexName="norm_origDate"><term type="origDate"/><term type="origDate_notBefore"/><term type="origDate_notAfter"/><term type="origDate_type"/></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID"/></index>
+                     <index indexName="norm_form"><term type="form">binding</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><physDesc><p>Einband <date>1976</date> durch neue Holzdeckel mit dem ursprünglichen Schweinslederbezug (Fehlstellen und Rücken ergänzt) und zwei neuen Langriemenschließen ersetzt, originale Deckel in der Einbandreste-Sammlung.</p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_1" rend="condensed"><msIdentifier><idno>VS und HS</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Pergament — 2 Bl.  — 2915,5–20 — Clus, Benediktinerkloster (?) — 13. Jh., 1. Hälfte</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Pergament</term><term type="material_type">parchment</term></index>
+                     <index indexName="norm_measure"><term type="measure">2 Bl. </term><term type="measure_noOfLeaves">2</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions">29 × 15,5–20 cm</term><term type="height">29</term><term type="width">20</term><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">13. Jh., 1. Hälfte</term><term type="origDate_notBefore">1201</term><term type="origDate_notAfter">1250</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation">yes</term></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locusGrp><locus from="VS">VS</locus><locus from="HS">HS</locus></locusGrp>
+                           <title>Antiphonale  (Proprium de tempore)</title>
+                           <locus from="VS">VSr–v</locus>: Antiphonen (<ref type="abbr">CAO</ref>
+                           <ref target="http://cantusindex.org/id/002492">2492</ref>, <ref target="http://cantusindex.org/id/002515">2515</ref>, <ref target="http://cantusindex.org/id/002492">2492</ref>, <ref target="http://cantusindex.org/id/002508">2508</ref>, <ref target="http://cantusindex.org/id/005505">5505</ref>, <ref target="http://cantusindex.org/id/002525">2525</ref>, <ref target="http://cantusindex.org/id/004970">4970</ref>, <ref target="http://cantusindex.org/id/001762">1762</ref>, <ref target="http://cantusindex.org/id/003607">3607</ref> und <ref target="http://cantusindex.org/id/001189">1189</ref>) und Responsorien mit Versikeln (<ref type="abbr">CAO</ref>
+                           <ref target="http://cantusindex.org/id/006728">6728</ref> und <ref target="http://cantusindex.org/id/006728a">6728a</ref>, <ref target="http://cantusindex.org/id/007547">7547</ref> und <ref target="http://cantusindex.org/id/007547a">7547a</ref>, <ref target="http://cantusindex.org/id/007343">7343</ref>, <ref target="http://cantusindex.org/id/006578">6578</ref> und <ref target="http://cantusindex.org/id/006524">6524</ref>) zu dominica II–III adventus. <locus from="HSr" to="HSv">HSr–v</locus>: Antiphonen (<ref type="abbr">CAO</ref>
+                           <ref target="http://cantusindex.org/id/002549">2549</ref>, <ref target="http://cantusindex.org/id/003082">3082</ref> und <ref target="http://cantusindex.org/id/001757">1757</ref>) sowie Responsorien mit Versikeln (<ref type="abbr">CAO</ref>
+                           <ref target="http://cantusindex.org/id/007224">7224</ref>, <ref target="http://cantusindex.org/id/007227">7227</ref>, <ref target="http://cantusindex.org/id/007034">7034</ref>, <ref target="http://cantusindex.org/id/007031">7031</ref> und <ref target="http://cantusindex.org/id/006585">6585</ref>) zu dominica III–IV adventus.  Makulatur aus diesem Antiphonale wurde auch in den in Clus gebundenen Hss. <ref cRef="303-helmst" type="mss">Cod. Guelf. 303 Helmst.</ref>, <ref cRef="422-helmst" type="mss">422 Helmst.</ref> und <ref cRef="464-helmst" type="mss">464 Helmst.</ref> verwendet. </note><note type="register">
+                           <index indexName="nasa"><term>Liturgische Texte</term><index><term>Fragmente</term></index></index>
+                           <index indexName="nasa"><term>Antiphonale</term><index><term>unbestimmt</term><index><term>Proprium de tempore (Fragm.)</term></index></index></index>
+                        </note></msItem></msContents><physDesc><p> Der <locus from="VS">VS</locus> besteht aus einem Blatt mit zugehörigem Streifen, die zusammen 29 × 20 cm messen, der <locus from="HS">HS</locus> ist aus dem Mittelteil eines Bifoliums und zwei zugehörigen Streifen zusammengesetzt, die zusammen 29,5 × 15,5 cm messen. 28 × 15 cm, einspaltig, 18 tintenliniierte Textzeilen.  Frühe Textualis von einer Hand.  Über jeder Textzeile ein Notensystem mit einer Mischform aus französischer und deutscher Neumennotation auf 4 Linien, a-Linie gelb, d-Linie rot, selten c- und f- oder g-Schlüssel.</p><decoDesc><decoNote type="form">Rubriziert, rote Lombarden.</decoNote></decoDesc></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_2-4" rend="condensed"><msIdentifier><idno>Fragm. Nr. 1–3</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 3 Abschnitte — Clus, Benediktinerkloster — 1466</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">3 Abschnitte</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">1466</term><term type="origDate_notBefore">1466</term><term type="origDate_notAfter">1466</term><term type="origDate_type">dated</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <persName role="author" ref="#conradus_grundemann">Conradus Grundemann</persName>
+                           <title>Diploma  (<date>19.12.1466</date>)</title>
+                           <quote type="rubric">Beate Marie virginis prope et extra muros Einbeck</quote>
+                           <quote type="incipit">[Con]radus Grundemann decanus ecclesie [sanct]e Crucis Hildensemensis iudex et conservator […] Wedegonis etc. prioris et conventus monasterii in Clusa</quote>
+                           <quote type="explicit">datis anno domini MCCCCLXVI feria sexta post dominicam Gaudete in di[…] in fidem premissorum impresso. Transferentes in nos  quemlibet plenarie  Text bricht ab.</quote> Zum Aussteller vgl. <ref type="abbr">Rep. Germ.</ref> 9, 809.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Conradus Grundemann decanus ecclesiae sanctae Crucis Hildensemensis iudex et conservator […] Wedegonis etc. prioris et conventus monasterii in Clusa</term></index>
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>lat.</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Die Fragmente messen zusammen 16–18 × 9 cm; der Schriftraum ist von identischer Größe.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_5-6" rend="condensed"><msIdentifier><idno>Fragm. Nr. 4–5</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 2 Abschnitte — Clus, Benediktinerkloster — 1466</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">2 Abschnitte</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">1466</term><term type="origDate_notBefore">1466</term><term type="origDate_notAfter">1466</term><term type="origDate_type">dated</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <persName role="author" ref="https://d-nb.info/gnd/124665349">David episcopus Traiectensis</persName>
+                           <title>Diploma  (<date>24.2.1466</date>)</title>
+                           <quote type="incipit">David dei et apostolice sedis gracia archiepiscopus Traiectensis dyocesis universis et singulis abbatibus prepositis decanis</quote>
+                           <quote type="explicit">regulari observancia et vita dudum collapse ad eam  Text bricht ab.
+                     </quote>
+                           <locus from="1v">1v</locus> Dorsalvermerk (beschnitten): <quote xml:lang="la">[…] MCCCCLXVI ipso die Mathie apostoli</quote>. </note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">David dei et apostolicae sedis gratia archiepiscopus Traiectensis diocesis universis et singulis abbatibus praepositis decanis</term></index>
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>lat.</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Die Fragmente messen zusammen 21 × 3 cm; der Schriftraum ist von identischer Größe.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_7" rend="condensed"><msIdentifier><idno>Fragm. Nr. 6</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 1 Abschnitt — Clus, Benediktinerkloster — 15. Jh.</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">1 Abschnitt</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh.</term><term type="origDate_notBefore">1401</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Diploma</title>
+                           <quote type="incipit"> Text setzt ein suspicantur aliqui quod idem voluit dudum amovisse a monasterio nostro mediam partem scilicet dimi[dium]</quote>
+                           <quote type="explicit">personaliter visitabimus vos pro maiori expedicione in quadragesima  Text bricht ab.</quote> Aufgrund des Beschnitts sind Aussteller, Empfänger, Ausstellungsort und -datum nicht mehr erkennbar. </note><note type="register">
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>lat.</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Das Fragment misst 14,5 × 3,5 cm; der Schriftraum ist von identischer Größe.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_8-9" rend="condensed"><msIdentifier><idno>Fragm. Nr. 7–8</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 2 Abschnitte — Clus, Benediktinerkloster — 15. Jh.</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">2 Abschnitte</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh.</term><term type="origDate_notBefore">1401</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Forma epistularis</title>
+                           <quote type="incipit">Cum Ihesu cicius descendendo ne filius reguli moriatur. Semper salus honorande domine. Nuper omnia in caritate vobiscum tractata spero</quote>
+                           <quote type="explicit">sed necesse est ut grex fragilis cum magna diligencia custodiatur et spiritualibus ac temporalibus subsidiis consoletur</quote> Aufgrund des Beschnitts sind Absender, Empfänger und Datum nicht mehr erkennbar; der Text diente vermutlich als Musterbrief. </note><note type="register">
+                           <index indexName="nasa"><term>Briefe</term><index><term>Forma epistularis (Fragm.)</term></index></index>
+                           <index indexName="nasa"><term>Juristische Texte</term><index><term>Fragmente</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Die Fragmente messen zusammen 21 × 4–6 cm; der Schriftraum ist von identischer Größe.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_10" rend="condensed"><msIdentifier><idno>Fragm. Nr. 9</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 1 Abschnitt — Clus, Benediktinerkloster — 1469</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">1 Abschnitt</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">1469</term><term type="origDate_notBefore">1469</term><term type="origDate_notAfter">1469</term><term type="origDate_type">dated</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Instrumentum notarii publici  (<date>22.2.1469</date>)</title>
+                           <quote type="incipit"> Text setzt ein notarius publicus protestor et cetera hanc cedulam manu mea scriptam et signo signatam</quote>
+                           <quote type="explicit">acta sunt hec anno domini MCCCCLXIX kathedra Petri</quote> Aufgrund des Beschnitts sind Aussteller, Empfänger und Ausstellungsort nicht mehr erkennbar. <locus from="1v">1v</locus> Dorsalvermerk: <quote xml:lang="la">Zebeyen rescriptum</quote>. Darunter Beginn eines Cisioianus: <quote xml:lang="la">Cisio Ianus Epy sibi ve[ndicat] Text bricht ab</quote>.</note><note type="register">
+                           <index indexName="nasa"><term>Juristische Texte</term><index><term>Documenta</term><index><term>Instrumentum notarii publici</term><index><term>(Fragm.)</term></index></index></index></index>
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>lat.</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Das Fragment misst 20 × 5,5 cm; der Schriftraum ist von identischer Größe.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_11-13" rend="condensed"><msIdentifier><idno>Fragm. Nr. 10–12</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 3 Abschnitte — Clus, Benediktinerkloster — 15. Jh.</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">3 Abschnitte</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh.</term><term type="origDate_notBefore">1401</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Syllabarium ad instructionem scribendi</title>
+                           <quote type="incipit"> Text setzt ein o o p ll i 28 14 13 2 56 15 […] h mi h mi […] Martius Aprilis Maius Iunius</quote>
+                           <quote type="explicit">g h i k l m  Text bricht ab.</quote> Die Buchstaben- und Silbenfolgen sind in alphabetischer Folge von oben nach unten in Kästchen eingetragen; die Anfänge der Reihen sind durch rote A-Majuskeln gekennzeichnet. Vgl. zu derartigen Texten <persName role="author">B. Bischoff</persName>, Elementarunterricht und Probationes Pennae in der ersten Hälfte des Mittelalters, in: <persName role="author">Ders.</persName>, Mittelalterliche Studien. Ausgewählte Aufsätze zur Schriftkunde und Literaturgeschichte, Bd. 1, Stuttgart 1966, 74–87.</note><note type="register">
+                           <index indexName="nasa"><term>Grammatische Texte</term><index><term>Fragmente</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Die Fragmente messen zusammen 21 × 10,5 cm; der Schriftraum ist identisch.  Bastarda von einer Hand. </p><decoDesc><decoNote type="form">Rubriziert.</decoNote></decoDesc></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_14" rend="condensed"><msIdentifier><idno>Fragm. Nr. 13</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 1 Abschnitt — Clus, Benediktinerkloster — 15. Jh.</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">1 Abschnitt</term><term type="measure_noOfLeaves"/></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh.</term><term type="origDate_notBefore">1401</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Forma epistularis</title>
+                           <quote type="incipit"> Text setzt ein crucifixoribus penam lacrimantibus sanguinem […] in suorum remissionem peccatorum dedit. Ecce pater si non hos non illos</quote>
+                           <quote type="explicit">ut nos quanto magis servemus […] ex inde  Text bricht ab.</quote> Aufgrund des Beschnitts sind Absender, Empfänger und Datum nicht mehr erkennbar; der Text diente vermutlich als Musterbrief. </note><note type="register">
+                           <index indexName="nasa"><term>Briefe</term><index><term>Forma epistularis (Fragm.)</term></index></index>
+                           <index indexName="nasa"><term>Juristische Texte</term><index><term>Fragmente</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Das Fragment misst 14,5 × 5 cm; der Schriftraum ist von identischer Größe.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_15-20" rend="condensed"><msIdentifier><idno>Fragm. Nr. 14–19</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 6 Abschnitte — Clus, Benediktinerkloster — 15. Jh., 2. Hälfte</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">6 Abschnitte</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh., 2. Hälfte</term><term type="origDate_notBefore">1451</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r" to="1v">1r–v</locus>
+                           <persName role="author" ref="#johannes_eylcke">Johannes Eylcke</persName>
+                           <title>Diploma</title> Zum Aussteller, dem Abt des Hildesheimer Benediktinerklosters St. Michael (amtierte <date>1451–1464</date>), vgl. <ref type="abbr">Germania Benedictina</ref> 6, 241; der im Dorsalvermerk erwähnte Adolf von Nassau-Wiesbaden-Idstein (1423–1475), der spätere Mainzer Erzbischof, war ab 1453 Generalkommissar für den thüringisch-eichsfeldischen Teil des Mainzer Hochstifts. Die sechs Fragmente lassen sich nicht zu einem fortlaufenden Text zusammenfügen, da einzelne Teile dazwischen fehlen.</note><msItem rend="break"><note type="text">
+                              <locus from="1r">1r</locus>
+                              <title type="sub">Textus</title>
+                              <quote type="incipit">Iohannes dei et apostolice sedis gracia abbas <orgName ref="http://d-nb.info/gnd/16206740-9">sancti Michaelis Hildensemensis</orgName>[…] ordinis sancti Benedicti presidens</quote>
+                              <quote type="explicit">adesse de ceteris</quote> Darunter kopfständig Rest eines Vermerks: <quote xml:lang="la">Informacio pro […] contra  Text bricht ab</quote>.</note></msItem><msItem rend="break"><note type="text">
+                              <locus from="1v">1v</locus>
+                              <title type="sub">Dorsalvermerk</title>
+                              <quote xml:lang="la"> Text setzt ein si quis hostis honorabilis domini <persName ref="https://d-nb.info/gnd/120251973">Adolfi de Nassaw</persName> provisoris curie Erfordensis si quis hostis fidem […] requisiti.</quote>
+                           </note></msItem><note type="register">
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>lat.</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Die Fragmente messen zusammen 20,5 × 13 cm; der Schriftraum ist von identischer Größe.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_21-22" rend="condensed"><msIdentifier><idno>Fragm. Nr. 20–21</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 2 Abschnitte — Clus, Benediktinerkloster — 15. Jh.</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">2 Abschnitte</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh.</term><term type="origDate_notBefore">1401</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Diploma</title> Der eigentliche Text ist verloren, erhalten ist nur folgender Teil des Dorsalvermerks:<quote xml:lang="la"> Text setzt ein viro domino  sancti Georgii [in Clusa] suo in Christo  Text bricht ab.
+                        </quote>
+                        </note><note type="register">
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>lat.</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Die Fragmente messen zusammen 19 × 3 cm.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_23" rend="condensed"><msIdentifier><idno>Fragm. Nr. 22</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 1 Abschnitt — Clus, Benediktinerkloster — 15. Jh.</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">1 Abschnitt</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh.</term><term type="origDate_notBefore">1401</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Diploma</title> Der eigentliche Text ist verloren, erhalten ist nur folgender Teil des Dorsalvermerks:<quote xml:lang="la"> Text setzt ein<persName role="other" ref="#henricus_rigenstide">Henricus Rigenstide</persName> presbyter inutilis.</quote>
+                        </note><note type="register">
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>lat.</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Das Fragment misst 15 × 8 cm.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_24" rend="condensed"><msIdentifier><idno>Fragm. Nr. 23</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 1 Abschnitt — Clus, Benediktinerkloster — 1470</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">1 Abschnitt</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">1470</term><term type="origDate_notBefore">1470</term><term type="origDate_notAfter">1470</term><term type="origDate_type">dated</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">de</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><msItem n="1"><textLang mainLang="gml">Schreibsprache: Mittelniederdeutsch (ostfälisch).</textLang><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Urkunde  (<date>22.2.1470</date>)</title>
+                           <quote type="incipit"> Text setzt ein wullen in dussem breve so dat wy uns</quote>
+                           <quote type="explicit">wy unser Ebdye Ingesegel  ghe henghet laten an dussen breff ghe geven ut godsbort M CCCC LXX catedra Petri</quote> Aufgrund des Beschnitts sind Absender, Empfänger und Datum nicht mehr erkennbar. </note><note type="register">
+                           <index indexName="nasa"><term>Deutsche Texte</term><index><term>Fragmente</term></index></index>
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>dt.</term></index></index>
+                           <index indexName="nasa"><term>Schreibsprachen</term><index><term>Text</term><index><term>Mittelniederdeutsch</term><index><term>Ostfälisch</term></index></index></index></index>
+                        </note></msItem></msContents><physDesc><p> Das Fragment misst 20 × 5,5 cm.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_25-27" rend="condensed"><msIdentifier><idno>Fragm. Nr. 24–27</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 3 Abschnitte — Clus, Benediktinerkloster — 15. Jh., 2. Hälfte</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">3 Abschnitte</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh., 2. Hälfte</term><term type="origDate_notBefore">1451</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">de</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><msItem n="1"><textLang mainLang="gml">Schreibsprache: Mittelniederdeutsch (ostfälisch). </textLang><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Urkunde  (<date>29.9.1469</date>)</title>
+                           <quote type="incipit"> Text setzt ein to orer sele salicheit  vorgnantes ghelde myt der hovet  unsers stichts</quote>
+                           <quote type="explicit">an dussen breff dat ghe schen is na godes bord dus[ent] na in den neghen unde sessighesten jare in sunte Michael daghe des hilghen ertzengels</quote> Aufgrund des Beschnitts sind Absender, Empfänger und Datum nicht mehr erkennbar.  Ungedruckt. </note><note type="register">
+                           <index indexName="nasa"><term>Deutsche Texte</term><index><term>Fragmente</term></index></index>
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>dt.</term></index></index>
+                           <index indexName="nasa"><term>Schreibsprachen</term><index><term>Text</term><index><term>Mittelniederdeutsch</term><index><term>Ostfälisch</term></index></index></index></index>
+                        </note></msItem><msItem n="2"><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Urkunde  (<date>24.6.14?</date>)</title>
+                           <quote type="incipit">Wy <persName ref="#wedego_reese">Wedego</persName> abt <persName ref="#theodor_von_dassel">Theodorus prior</persName> und de gantze samenunge des gheystlichen fryen stichtes to Clus  ordinis bekennen in dussem breve</quote>
+                           <quote type="explicit">hebben wy dussen breff beseghelt myt uns Ebdye ingheseghel  in die Iohannis baptiste</quote> Zu den Ausstellern, Abt Wedego Reese von Clus (<date>1460–1505</date>) und Prior Theodor von Dassel (<date>1465–1485</date>) vgl. <ref type="abbr">Goetting 2</ref>, 273f., 282. Ungedruckt. </note><note type="register">
+                           <index indexName="initien"><term xml:lang="gml">Wy Wedego abt Theodorus prior und de gantze samenunge des gheystlichen fryen stichtes to Clus  ordinis bekennen in dussem breve</term></index>
+                           <index indexName="nasa"><term>Deutsche Texte</term><index><term>Fragmente</term></index></index>
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>dt.</term></index></index>
+                           <index indexName="nasa"><term>Schreibsprachen</term><index><term>Text</term><index><term>Mittelniederdeutsch</term><index><term>Ostfälisch</term></index></index></index></index>
+                        </note></msItem></msContents><physDesc><p> Die Fragmente messen zusammen 19 × 10 cm.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_28-29" rend="condensed"><msIdentifier><idno>Fragm. Nr. 28–29</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 2 Abschnitte — Clus, Benediktinerkloster — 15. Jh.</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">2 Abschnitte</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh.</term><term type="origDate_notBefore">1401</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">de</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><msItem n="1"><note type="text">
+                           <locus from="1r" to="1v">1r–v</locus>
+                           <title>Urkunde</title>
+                        </note><msItem rend="break"><textLang mainLang="gml">Schreibsprache: Mittelniederdeutsch (ostfälisch). </textLang><note type="text">
+                              <locus from="1r">1r</locus>
+                              <title type="sub">Text</title>
+                              <quote type="incipit"> Text setzt ein bed in gode werdeye unde  live domina Iuwen breff an uns gescreven hebben</quote>
+                              <quote type="explicit">se quemen de sulve wille daß dat nogh uet bescheden den [ge]horsam. De samenunge des Stichts van  Text bricht ab.</quote> Aufgrund des Beschnitts sind Aussteller, Ausstellungsort und -datum nicht mehr erkennbar.</note><note type="register">
+                              <index indexName="nasa"><term>Schreibsprachen</term><index><term>Text</term><index><term>Mittelniederdeutsch</term><index><term>Ostfälisch</term></index></index></index></index>
+                           </note></msItem><msItem rend="break"><note type="text">
+                              <locus from="1v">1v</locus>
+                              <title type="sub">Dorsalvermerk</title>
+                              <quote xml:lang="gml">Der werdegen unde <persName ref="#gertrud_spade">Gesen Spaden</persName> vns  Text bricht ab.
+                     </quote> Zu Gese (Gertrud) Spade, möglicherweise Kanonisse im <orgName ref="http://d-nb.info/gnd/6064449-7">Reichsstift Gandersheim</orgName>, s. <ref type="abbr">Goetting 1</ref>, 213. </note><note type="register">
+                              <index indexName="nasa"><term>Schreibsprachen</term><index><term>Text</term><index><term>Mittelniederdeutsch</term><index><term>Ostfälisch</term></index></index></index></index>
+                           </note></msItem><note type="register">
+                           <index indexName="nasa"><term>Deutsche Texte</term><index><term>Fragmente</term></index></index>
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>dt.</term></index></index>
+                        </note></msItem></msContents><physDesc><p> Die Fragmente messen zusammen 18 × 6 cm.  Jüngere gotische Kursive von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_30" rend="condensed"><msIdentifier><idno>Fragm. Nr. 30</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 1 Abschnitt — Clus, Benediktinerkloster — 1469</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">1 Abschnitt</term><term type="measure_noOfLeaves">1</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">1469</term><term type="origDate_notBefore">1469</term><term type="origDate_notAfter">1469</term><term type="origDate_type">dated</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">de</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><msItem n="1"><textLang mainLang="gml">Schreibsprache: Mittelniederdeutsch (ostfälisch).</textLang><note type="text">
+                           <locus from="1r">1r</locus>
+                           <title>Kaufbrief  (<date>1.2.1469</date>)</title>
+                           <quote type="incipit"> Text setzt ein unde deme  dor na up uns</quote>
+                           <quote type="explicit">der ghe screven is na gods bord 1469 in die purificacionis […] hebbe dussen kop behord  Text bricht ab.</quote> Aufgrund des Beschnitts sind Aussteller, Empfänger, Ausstellungsort und -datum nicht mehr erkennbar. </note><note type="register">
+                           <index indexName="nasa"><term>Deutsche Texte</term><index><term>Fragmente</term></index></index>
+                           <index indexName="nasa"><term>Urkunden (Fragmente)</term><index><term>lat.</term></index></index>
+                           <index indexName="nasa"><term>Schreibsprachen</term><index><term>Text</term><index><term>Mittelniederdeutsch</term><index><term>Ostfälisch</term></index></index></index></index>
+                        </note></msItem></msContents><physDesc><p> Das Fragment misst 10,5 × 5 cm.  Bastarda von einer Hand. </p></physDesc></msPart><msPart type="fragment" xml:id="_289-helmst_31-33" rend="condensed"><msIdentifier><idno>Fragm. Nr. 31–33</idno></msIdentifier><head>
+                     <index indexName="norm_title"><term type="title"/></index>
+                     <note type="headline">Papier — 3 Abschnitte — Clus, Benediktinerkloster — 15. Jh., 2. Hälfte</note>
+                     <title/>
+                     <index indexName="norm_material"><term type="material">Papier</term><term type="material_type">paper</term></index>
+                     <index indexName="norm_measure"><term type="measure">3 Abschnitte</term><term type="measure_noOfLeaves">3</term></index>
+                     <index indexName="norm_dimensions"><term type="dimensions"/><term type="height"/><term type="width"/><term type="depth"/><term type="dimensions_typeOfInformation">factual</term></index>
+                     <index indexName="norm_format"><term type="format"/><term type="format_typeOfInformation"/></index>
+                     <index indexName="norm_origPlace"><term type="origPlace">Clus</term><term type="origPlace_norm">Clus</term></index>
+                     <index indexName="norm_origDate"><term type="origDate">15. Jh., 2. Hälfte</term><term type="origDate_notBefore">1451</term><term type="origDate_notAfter">1500</term><term type="origDate_type">datable</term></index>
+                     <index indexName="norm_textLang"><term type="textLang"/><term type="textLang-ID">la</term></index>
+                     <index indexName="norm_form"><term type="form">fragment</term></index>
+                     <index indexName="norm_status"><term type="status"/></index>
+                     <index indexName="norm_decoration"><term type="decoration"/></index>
+                     <index indexName="norm_musicNotation"><term type="musicNotation"/></index>
+                  </head><msContents><textLang mainLang="la"/><msItem n="1"><note type="text"> Bis auf einige unleserliche Wortfragmente leer. – Die insgesamt 33 bei der Restaurierung des Einbands abgelösten und in einem Schuber aufbewahrten Fragmente dienten als Spiegel- und Rückenhinterklebungen und wurden aus mehreren Kopien von Privaturkunden der Benediktinerabtei Clus hergestellt. Die möglicherweise im klösterlichen Schulbetrieb zweitverwendeten Texte sind sämtlich ungedruckt und unikal überliefert. </note></msItem></msContents><physDesc><p> Die nicht zusammengehörigen Fragmente messen jeweils max. 3 × 2 cm. </p></physDesc></msPart><history><p> Nach Ausweis der Wasserzeichen wurde der Codex im ersten Viertel des 15. Jh. im Benediktinerkloster Clus geschrieben und gegen Ende des 15. Jh. in der Werkstatt  des Johannes von Brakel neu eingebunden; Besitzvermerk <locus from="Ir">Ir</locus>: <quote xml:lang="la">Liber sancti Georgii in Clusa prope Gandersem</quote>. Für die Entstehung im Kloster sprechen auch inhaltliche Charakteristika wie die Umstellung der Ambrosiuslegende, dessen Fest im Benediktinerorden am 7.12. begangen wurde, und die Auswahl typisch benediktinischer Heiliger bzw. solcher der Diözese Hildesheim (Godehard, Oswald, Wigpert, Servatius als Patron von Goslar, Magnus, Paulinus von Nola, Pantaleon).
+                     Am <date>3.2.1624</date> wurde die Hs. mit den übrigen Cluser Buchbeständen in die Universitätsbibliothek Helmstedt überführt. <date>1644</date> in deren Handschriftenkatalog (<ref cRef="27-2-aug-2f" type="mss">Cod. Guelf. 27.2 Aug. 2°</ref>, <ref target="http://diglib.hab.de/mss/27-2-aug-2f/start.htm?image=00029">10r</ref>) als <quote xml:lang="la">Passionale sanctorum per Circulum anni</quote> unter den <quote xml:lang="la">Theologici [MSS<hi rend="sup">ti</hi>] in folio</quote> nachgewiesen, auf dem abgelösten <locus from="VS">VS</locus> die zugehörige Helmstedter Signatur <quote>T. 231.</quote> Im Katalog von 1797 (<ref cRef="ba-iii-52" type="mss">BA III, 52</ref>) unter Nr. <quote>229</quote> verzeichnet.</p></history><additional><listBibl><bibl>
+                        <ref type="abbr">Heinemann</ref> Nr. 322. <ref type="abbr">Krämer</ref>, 287. <ref type="abbr">Fleith</ref>, 321f. (LA 1010). <ref type="abbr">Lesser Bücherverbreitung</ref>, 340. <ref type="abbr">Lesser Johannes von Brakel</ref>, 87, 120. <ref type="abbr">Lesser Clus</ref>, 179, 217.</bibl></listBibl></additional><msContents><textLang mainLang="la"/><msItem n="1"><note type="text">
+                        <locus from="1r" to="250v">1ra–250vb</locus>
+                        <persName role="author" ref="https://d-nb.info/gnd/118556401">Jacobus de Voragine</persName>
+                        <title>Legenda aurea  multis capitulis sive mutata sive breviata et interpolata legendis aliunde adscitis</title>
+                        <quote type="rubric">Incipit passionale sanctorum per circulum anni</quote>
+                        <quote type="incipit">Universum tempus presentis vite in quatuor distinguitur scilicet in tempore [!] deviacionis</quote>
+                        <quote type="explicit">virgo longeve etatis nomine Appollonia castitatis sobrietatis atque  Text bricht ab.</quote> Der gesamte Text ist der in <ref type="abbr">Maggioni LA</ref>, XVI, als VE* gekennzeichneten Fassung zuzuordnen, deren zahlreiche Eingriffe hier nicht eigens dokumentiert werden. Textbestand: <ref type="abbr">Maggioni LA</ref> 1–3, 55, 4–54, 56–76, 98, 77–86, 88–97, 99–121, 125, 126, 123, 127–131, 133–139, 141–163, 165–178. Die Texte Nr. 87 (<quote xml:lang="la">De sancto Syro</quote>), 122 (<quote xml:lang="la">De sanctis Felice et Adaucto</quote>), 124 (<quote xml:lang="la">De sanctis Saviniano et Savina</quote>), 132 (<quote xml:lang="la">De sancto Iohanne Chrysostomo</quote>), 140 (<quote xml:lang="la">De sancto Forseo episcopo</quote>) fehlen. Abweichend folgt nach Nr. 3 (<quote xml:lang="la">De sancto Nicolao</quote>) Nr. 55: <quote xml:lang="la">De sancto Ambrosio</quote> (<locus from="8v" to="11v">8vb–11va</locus>, ordenstypisch zum <date>7.12.</date>); auf Nr. 76 (<quote xml:lang="la">De sancto Barnaba apostolo</quote>) folgt Nr. 98: <quote xml:lang="la">De sancto Nazario</quote> (<locus from="100r" to="100v">100ra–va</locus>, hier zum <date>12.6.</date>). Die Stellung von 125 (<quote xml:lang="la">De sancto Lupo</quote>), 126 (<quote xml:lang="la">De sancto Mamertino</quote>) und 123 (<quote xml:lang="la">De sancto Aegidio</quote>) entspricht dem Text in <ref type="abbr">Graesse LA</ref>.  Mit jeweils abweichenden Zusatztexten und Modifikationen auch in <ref cRef="275-helmst" type="mss">Cod. Guelf. 275 Helmst.</ref>, 1ra–171rb; <ref cRef="297-helmst" type="mss">297 Helmst.</ref>,143ra–196ra; <ref cRef="324-helmst" type="mss">324 Helmst.</ref>, 68ra–193vb; <ref cRef="388-helmst" type="mss">388 Helmst.</ref>, 2ra–294vb; <ref cRef="893-helmst" type="mss">893 Helmst.</ref>, 1r–154r; <ref cRef="33-8-aug-2f" type="mss">33.8 Aug. 2°</ref>, 6ra–275rb; <ref cRef="38-5-aug-2f" type="mss">38.5 Aug. 2°</ref>, 1ra– 339vb; <ref cRef="75-8-aug-2f" type="mss">75.8 Aug. 2°</ref>, 1ra–370rb; <ref cRef="8-3-aug-4f" type="mss">8.3 Aug. 4°</ref>, 1ra–311va. Fragment: <ref cRef="404-8-4-novi-5s" type="mss">Cod. Guelf. 404.8.4 Novi (5)</ref>, kürzere Auszüge und Einzellegenden in zahlreichen weiteren Hss. Druck: <ref type="abbr">Maggioni LA</ref>, 3–599, 611–885, 887–890, 895–938, 949–981, 986–1284. Literatur: <ref type="abbr">Kaeppeli</ref> 2154;<ref type="abbr">Fleith</ref> 322 Nr. 1011 (diese Hs.);<ref type="abbr">CALMA</ref> 7, 144–154 Nr. 3.  – Gegenüber <ref type="abbr">Maggioni LA</ref> abweichende Legenden: (<locus from="31r">31ra</locus>) De sancto Felice  (<ref type="abbr">Maggioni LA</ref> 19), abweichender Schluss: <quote xml:lang="la">[…] confitentes ad propria redierunt</quote>. (<locus from="45r">45rb</locus>) De sancto Ignatio  (<ref type="abbr">Maggioni LA</ref> 36), abweichender Schluss: <quote xml:lang="la">[…] unde ex hoc plurimi crediderunt</quote>. (<locus from="73v">73vb</locus>) De sancto Petro Martyre  (<ref type="abbr">Maggioni LA</ref> 61), gekürzt: <quote xml:lang="la">[…] omnes dietas explevisset penitus est sanata</quote>. (<locus from="75r" to="75r">75ra–b</locus>) De sancto Jacobo apostolo  (<ref type="abbr">Maggioni LA</ref> 63), gestrichen, Vermerk auf Kopfsteg: <quote xml:lang="la">Non legitur quia apocaphum [!] est totum quod sequitur</quote>. (<locus from="100r">100ra</locus>) De sanctis Nazario et Celso  (<ref type="abbr">Maggioni LA</ref> 98), gekürzter Namensteil: <quote xml:lang="la">Celsus quasi excelsus […] ad caput ipsorum posuit</quote> fehlt. (<locus from="101v">101va–b</locus>) De sancto Quirico et Julita  (<ref type="abbr">Maggioni LA</ref> 78), abweichender Anfang: <quote xml:lang="la">Quiricus fuit filius Iulite </quote> (<locus from="114r">114ra</locus>) De sancto Paulo apostolo  (<ref type="abbr">Maggioni LA</ref> 85), abweichender Schluss: <quote xml:lang="la">[…] et multo amplius labores quam alii requiem post labores ac merorem magis eligens quam alii voluptatem. Hec Crisostomus</quote>. (<locus from="146v">146vb</locus>) De assumptione BMV  (<ref type="abbr">Maggioni LA</ref> 115), abweichender Schluss: <quote xml:lang="la">[…] dyabolus quasi lapide percussus territus stetit nec ultra ad eam accessit</quote>. (<locus from="151v">151va</locus>) De sancto Bartholomeo  (<ref type="abbr">Maggioni LA</ref> 119), abweichender Schluss: <quote xml:lang="la">[…] habuit et cetera divina carismata</quote>. (<locus from="155v">155va</locus>) De sancto Augustino  (<ref type="abbr">Maggioni LA</ref> 120), abweichender Schluss: <quote xml:lang="la">[…] et hiis dictis confusus evanuit</quote>. (<locus from="158r">158rb</locus>) De sancto Lupo  (<ref type="abbr">Maggioni LA</ref> 125), abweichender Schluss: <quote xml:lang="la">[…] claris virtutibus in pace quievit</quote>. (<locus from="169v">169vb</locus>) De sancto Matthaeo  (<ref type="abbr">Maggioni LA</ref> 136), abweichender Schluss:  <quote xml:lang="la">[…]sed Symon et Iudas ibidem eos vicerunt</quote>. (<locus from="171r">171ra</locus>) De sancta Iustina  (<ref type="abbr">Maggioni LA</ref> 138), abweichender Beginn (Namensteil fehlt): <quote xml:lang="la" type="sermon">Iustina virgo de civitate Antiochie filia sacerdotis ydolorum cottidie ad fenestram sedens Prelium dyaconum ewangelium legentem audiebat </quote> (<locus from="172r">172rb</locus>) De sanctis Cosma et Damiano  (<ref type="abbr">Maggioni LA</ref> 139), abweichender Beginn (Namensteil fehlt): <quote xml:lang="la">Cosmas et Damianus germani fratres in civitate Egea ex religiosa matre nomine Theodora nati sunt </quote> (<locus from="223r">223ra</locus>) De sancto Saturnino  (<ref type="abbr">Maggioni LA</ref> 169), abweichender Schluss: <quote xml:lang="la">[…] Saturninus cum gladio capite truncatur</quote>. (<locus from="239r">239ra</locus>) De dedicatione ecclesiae  (<ref type="abbr">Maggioni LA</ref> 178), stark gekürzt: <quote xml:lang="la">[…] scilicet passio Christi predicata et habet fieri quantum ad auditum</quote>. – Gegenüber <ref type="abbr">Maggioni LA</ref> zusätzliche Legenden: </note><msItem rend="break"><note type="text">
+                           <locus from="79r" to="80r">79rb–80ra</locus>
+                           <title>Relatio de depositione sancti Godehardi</title>
+                           <quote type="rubric">Vita sancti Godehardi episcopi et confessoris</quote>
+                           <quote type="incipit">Beatus Godehardus in Altahensi monasterio literis imbutus est</quote>
+                           <quote type="explicit">e terra a Bernhardo episcopo levatur et multis miraculis illustratur anno domini M<hi rend="sup">o</hi> C<hi rend="sup">o</hi> XXXII<hi rend="sup">o</hi>
+                           </quote> Parallelüberlieferung (z. T. abweichend) in <ref cRef="324-helmst" type="mss">Cod. Guelf. 324 Helmst.</ref>, 127vb–128rb; <ref cRef="75-8-aug-2f" type="mss">75.8 Aug. 2°</ref>, 126va–127vb; <ref type="unk">Basel, UB, B IX 19</ref>, 104va (<ref type="abbr">Basel 2</ref>, 307). Ungedruckt, Analogien zu <ref type="abbr">BHL</ref> 3582. </note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Beatus Godehardus in Altahensi monasterio litteris imbutus est</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Godehardus ep. Hild. cf.</term><index><term>Translatio</term></index></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="85r" to="86r">85rb–86rb</locus>
+                           <title>Epitome passionis X milium militum</title>
+                           <quote type="rubric">Decem mille martirum</quote>
+                           <quote type="incipit">Adrianus et Antonius Romani imperatores audito quod Gadareni et Eufratenses rebellare ipsis cepissent irati quasi hostes magnum collegerunt exercitum</quote>
+                           <quote type="explicit">et Alexander passus est cum eis Hermolaus archiepicopus qui eosdem sanctos martires baptizaverat</quote> Auch in <ref cRef="324-helmst" type="mss">Cod. Guelf. 324 Helmst.</ref>, 137rb–vb. Ungedruckt. Literatur: <ref type="abbr">BHL Novum Suppl.</ref> 22b;<ref type="abbr">BHL Inédits</ref>, 164.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Hadrianus et Antonius Romani imperatores audito quod Gadareni et Euphratenses rebellare ipsis coepissent irati quasi hostes magnum collegerunt exercitum</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>Heiligengruppe</term><index><term>Decem milium militum m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="86v" to="92r">86vb–92ra</locus>
+                           <title>Vita sancti Servatii</title>
+                           <quote type="rubric">De sancto Servacio episcopo et confessore</quote>
+                           <quote type="incipit">
+                              <ref cRef="Radbert._Assumpt._34" type="medieval">Quoniam quidem iter nostre salutis ut Ieronimus ait in laudibus est salvatoris</ref>
+                           </quote>
+                           <quote type="explicit">et eadem hora obdormivit in domino tunc omnes qui aderant glorificaverunt dominum</quote> Ungedruckt. Beginn des Haupttextes ähnlich <ref type="abbr">BHL Novum Suppl.</ref> 7639d, jedoch mit zahlreichen Änderungen und Zusätzen. </note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Quoniam quidem iter nostrae salutis ut Hieronymus ait in laudibus est salvatoris</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Servatius ep. Tungr. cf.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="92r" to="92v">92ra–va</locus>
+                           <title>Vita sancti Gangolphi</title>
+                           <quote type="incipit">Gangolfus alto parentum germine Burgundie oriundus et disciplinis christiani dochmatis adprime eruditus</quote>
+                           <quote type="explicit">quia viri dei miracula equiparare non est reverita</quote> Prolog und Schluss fehlen. Druck: <ref type="abbr">AA SS</ref> Mai 2, 645B–648A. Literatur: <ref type="abbr">BHL</ref> 3328.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Gangolphus alto parentum germine Burgundiae oriundus et disciplinis christiani dogmatis apprime eruditus</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Gangulfus m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="93r">93ra</locus>
+                           <title>Epitome vitae Bedae Venerabilis</title>
+                           <quote type="incipit">Beda venerabilis prespiter [!] et monachus claruit in Anglia circa annum domini septingentesimum et vicesimum qui licet in sanctorum cathalogo computetur</quote>
+                           <quote type="explicit">cum ingenti merore omnium in pace quievit</quote> Auch in <ref cRef="324-helmst" type="mss">324 Helmst.</ref>, 314va; <ref cRef="360-helmst" type="mss">360 Helmst.</ref>, 16v; <ref cRef="388-helmst" type="mss">388 Helmst.</ref>, 283vb–284rb. Druck: <ref type="abbr">Maggioni LA</ref>, 1267f. (Auszug aus cap. 177, vgl. unten, <locus from="235r" to="235r">235ra–b</locus>). Dazu <ref type="abbr">BHL Inédits</ref>, 171.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Beda venerabilis presbyter et monachus claruit in Anglia circa annum domini septingentesimum et vicesimum qui licet in sanctorum catalogo computetur</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Beda Venerabilis pb. cf.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="93r" to="93v">93ra–va</locus>
+                           <persName role="author" ref="https://d-nb.info/gnd/118729748">Lupus Ferrariensis</persName>
+                           <title>Vita sancti Maximini episcopi Treverensis  (partim)</title>
+                           <quote type="incipit">Maximinus urbis Equitanie [!] Pictavorum indigena clarissimis est ortus natalibus</quote>
+                           <quote type="explicit">cum inenarrabili tortura viscera carnis et crudelitatis effudit</quote> Auszug aus <ref type="abbr">BHL</ref> 5824.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Maximinus urbis Aquitaniae Pictavorum indigena clarissimis est ortus natalibus</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Maximinus ep. Trev. cf.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="94r" to="94v">94ra–vb</locus>
+                           <title>Vita sancti Erasmi  (partim)</title>
+                           <quote type="incipit">Facta est persecucio christianorum a Dyocletiano imperatore ut si quis inventus fuisset non sacrificare diis multis suppliciis interiret</quote>
+                           <quote type="explicit">in nomine tuo cui est honor et gloria in secula seculorum</quote> Druck: <ref type="abbr">Graesse LA</ref>, 890–894, gekürzt, modifizierter Schluss.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Facta est persecutio christianorum a Diocletiano imperatore ut si quis inventus fuisset non sacrificare diis multis suppliciis interiret</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Erasmus ep. m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="94v" to="98v">94vb–98va</locus>
+                           <title>Passio sancti Bonifatii et sociorum eius</title>
+                           <quote type="rubric">Passio sancti Bonifacii et sociorum martirum</quote>
+                           <quote type="incipit">Deus lux vera erroris et infidelitatis tenebris effugandis beatum Bonifacium christiane fidei et doctrine tamquam lucis baiulum harum terrarum gentibus destinavit</quote>
+                           <quote type="explicit">nonas Junii indictione IIII anno peregrinacionis sue XL<hi rend="sup">o</hi> incarnacionis domini septingentesimo quinquagesimo quinto</quote>
+                           <quote type="finalRubric">Explicit passio beatorum Bonifacii et sociorum eius martirum</quote> Parallelüberlieferung in <ref type="unk">Nürnberg, StB, Cent. III, 69</ref>, 106vb–109vb (<ref type="abbr">Nürnberg StB 2,1</ref>, 218). Ungedruckt.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Deus lux vera erroris et infidelitatis tenebris effugandis beatum Bonifatium christianae fidei et doctrinae tamquam lucis baiulum harum terrarum gentibus destinavit</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>Heiligengruppe</term><index><term>Bonifatius ep. et soc. m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="101r" to="101v">101ra–va</locus>
+                           <title>Passio sancti Aurei</title>
+                           <quote type="incipit">Ea persecucione que per Athilam Hunnorum regem celesti iudicio christianis illata describitur</quote>
+                           <quote type="explicit">gaudia gaudiis meritis sanctorum sequentibus signis</quote> Parallelüberlieferung u. a. in <ref type="unk">Frankfurt/M., StUB, Ms. Barth. 3</ref>, 96vb–98ra (<ref type="abbr">Frankfurt 2</ref>, 10); <ref type="unk">Frankfurt/M., StUB, Ms. Praed. 43</ref>, 91rb–92vb (<ref type="abbr">Frankfurt 1</ref>, 100).  Ungedruckt, vgl. dazu <ref type="abbr">BHL Inédits</ref>, 169.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Ea persecutione quae per Attilam Hunnorum regem caelesti iudicio christianis illata describitur</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Aureius m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="102v" to="103r">102vb–103ra</locus>
+                           <title>Epitome passionis sancti Albani episcopi Moguntinensis</title>
+                           <quote type="rubric">Albani</quote>
+                           <quote type="incipit">Tempore Honorici [!] regis impiissimi Persarum in Carthagine orta altercacione magna inter christianos et arrianos convenerunt sexcenti septuaginta episcopi</quote>
+                           <quote type="explicit">et innumerabilia cooperante domino per illius intercessione fiunt mirabilia prestante domino nostro Ihesu Christo</quote> Ähnlicher Text in <ref type="abbr">GW</ref>
+                           <ref target="http://gesamtkatalogderwiegendrucke.de/docs/M11199.htm">M11199</ref>, 355va–b. Dazu <ref type="abbr">BHL Inédits</ref>, 166 (Schluss weicht ab).</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Tempore Honorii regis impiissimi Persarum in Carthagine orta altercatione magna inter christianos et arianos convenerunt sexcenti septuaginta episcopi</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Albanus m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="103r">103ra–b</locus>
+                           <title>De sancto Paulino episcopo Nolanensi</title>
+                           <quote type="incipit">Paulinus Nolanus episcopus cum Wandalorum exercitus totam Campaniam devastans populum captivum abduxisset</quote>
+                           <quote type="explicit">nimio terrore concussit sicque sancta illa anima carne soluta est</quote> Bearbeiteter Auszug aus Greg. M. dial. 3,1,1–9. Druck: <ref type="abbr">Gregorius Dialogi</ref> 2, 256–264. Literatur: <ref type="abbr">BHL</ref> 6560.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Paulinus Nolanus episcopus cum Vandalorum exercitus totam Campaniam devastans populum captivum abduxisset</term></index>
+                           <index indexName="nasa"><term type="author" ref="https://d-nb.info/gnd/118541838">Gregorius I papa</term><index><term type="title">Dialogi (Ausz.)</term></index></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Paulinus ep. Nol. cf.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="124v" to="125r">124va–125rb</locus>
+                           <title>Passio sancti Pantaleonis</title>
+                           <quote type="rubric">Passio sancti Pantaleonis martiris</quote>
+                           <quote type="incipit">Erat in urbe Nycomedia senator Eustorius nomine habens filium Panthaleonem eruditum studiis liberalibus</quote>
+                           <quote type="explicit">et exinde corpus eius combussi</quote> Druck (leicht abweichend): <ref type="abbr">GW</ref>
+                           <ref target="http://gesamtkatalogderwiegendrucke.de/docs/M11199.htm">M11199</ref>, 355va–b.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Erat in urbe Nicomedia senator Eustorius nomine habens filium Pantaleonem eruditum studiis liberalibus</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Pantaleon m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="132v" to="132v">132va–b</locus>
+                           <title>Epitome vitae sancti Oswaldi</title>
+                           <quote type="incipit">Oswaldus mox ut regnum accepit desiderans totam cui prefuit gentem fide christiana imbui</quote>
+                           <quote type="explicit">contigit terram ad abiciendos demones effectum salutis habere</quote> Epitome von Beda Venerabilis: Historia ecclesiastica gentis Anglorum 3,3–9, eine längere Fassung in <ref cRef="324-helmst" type="mss">Cod. Guelf. 324 Helmst.</ref>, 153vb–155va; <ref cRef="413-helmst" type="mss">413 Helmst.</ref>, 11va–13ra. Druck: <ref type="abbr">Histoire ecclésiastique</ref> 2, 206–246. Literatur: <ref type="abbr">BHL</ref> 6361.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Oswaldus mox ut regnum accepit desiderans totam cui praefuit gentem fide christiana imbui</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Oswaldus rex m.</term></index></index></index>
+                           <index indexName="nasa"><term type="author" ref="https://d-nb.info/gnd/118508237">Beda Venerabilis</term><index><term type="title">Historia ecclesiastica gentis Anglorum (Ausz.)</term></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="135v" to="136r">135vb–136rb</locus>
+                           <title>Conversio sanctae Afrae</title>
+                           <quote type="incipit">Apud provinciam Reciam in civitate Augusta Narcissus episcopus superveniens tempore quo persecucio sub Dyocleciano fervebat nescius et profugus venit in domum meretricis Affre</quote>
+                           <quote type="explicit">et omnes unanimiter ad dominum migraverunt</quote> Ungedruckt. Mehrfach überlieferte Epitome von <ref type="abbr">BHL</ref> 10, dazu <ref type="abbr">BHL Inédits</ref>, 165.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Apud provinciam Raetiam in civitate Augusta Narcissus episcopus superveniens tempore quo persecutio sub Diclocletiano fervebat nescius et profugus venit in domum meretricis Afrae</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Afra v. m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="140v" to="141r">140vb–141rb</locus>
+                           <persName role="author" ref="https://d-nb.info/gnd/118729748">Lupus Ferrariensis</persName>
+                           <title>Vita sancti Wigberti  (partim)</title>
+                           <quote type="incipit">Wigpertus ab Anglisaxonibus claram trahens originem natalium secularem nobilitatem merito virtutum longe transcendit</quote>
+                           <quote type="explicit">gracia exuberante magna et admiranda signa claruere</quote> Die vollständige Vita vgl. in <ref cRef="322-helmst" type="mss">Cod. Guelf. 322 Helmst.</ref>, 143r–145v. Ungedruckt. Vgl. dazu mit abweichendem Schluss: <ref type="abbr">BHL Novum Suppl.</ref> 8879b.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Wigpertus ab Anglosaxonibus claram trahens originem natalium saecularem nobilitatem merito virtutum longe transcendit</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Wigbertus prep. cf.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="157v">157vb</locus>
+                           <title>Passio sanctarum Serapiae et Sabinae  (partim)</title>
+                           <quote type="incipit">Sabina illustrissima femina colligens reliquias sancte virginis et martiris Serapie celebratis venerabilibus exequiis reposuit in monumento suo</quote>
+                           <quote type="explicit">data sentencia eam decollari misit. De hac Sabina cum martyrologia teneant quod virgo fuit et in hac legenda dicatur quod uxor Valentini extiterit videat lector cui sentencie stare voluerit</quote> Bearbeitung von § 3 der Passio <ref type="abbr">BHL</ref> 7407. Druck: <ref type="abbr">AA SS</ref> Aug. 6, 500A–504A, hier 503E–504A.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Sabina illustrissima femina colligens reliquias sanctae virginis et martyris Serapiae</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>Heiligengruppe</term><index><term>Serapia et Sabina v. m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="159v" to="160r">159va–160ra</locus>
+                           <persName role="author" ref="https://d-nb.info/gnd/118588850">Notker Balbulus</persName>
+                           <title>De sancta Verena  (partim)</title>
+                           <quote type="incipit">Verena virgo Thebea genere deo devota in Ytaliam venire desiderans sancti Mauricii legionem comitata Mediolanum intravit</quote>
+                           <quote type="explicit">ubi multa per eam fiunt miracula prestante domino qui vivit et regnat per omnia secula seculorum Amen</quote> Parallelüberlieferung u. a. in <ref type="unk">Mainz, StB, Hs. I 44</ref>, 244ra–va (<ref type="abbr">Mainz 1</ref>, 91); <ref type="unk">Mainz, StB, Hs. I 189</ref>, 135v–136v (<ref type="abbr">Mainz 2</ref>, 171), vgl. auch bei <persName role="author">G. Philippart</persName>, Les légendes latines de sainte Verena. Pour une histoire de leur diffusion, in: Analecta Bollandiana 103 (1985), 253–302, hier 279–284. Druck der vollständigen Fassung: <ref type="abbr">PL</ref> 131, 1145D–1146C. </note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Verena virgo Thebea genere deo devota in Italiam venire desiderans sancti Mauritii legionem comitata Mediolanum intravit</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Verena v. m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="160r" to="160v">160ra–va</locus>
+                           <title>Vita sancti Magni</title>
+                           <quote type="incipit">Beatus itaque Magnus qui et Magnoaldus sancti Galli quondam dyaconus morans in cenobio suo</quote>
+                           <quote type="explicit">circa horam nonam domino animam reddidit de huius vite liberatus ergastulo</quote>
+                           <ref type="abbr">BHL</ref> 5164.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Beatus itaque Magnus qui et Magnoaldus sancti Galli quondam diaconus morans in coenobio suo</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Magnus m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="168r">168ra</locus>
+                           <title>Passio sancti Nicomedis</title>
+                           <quote type="incipit">Nicomedes presbyter Romane ecclesie corpus sancte Felicule quam Flaccus comes pro Christo peremerat sepelivit</quote>
+                           <quote type="explicit">corpus eius collectum via Numentana iuxta muros sepelitur</quote> Ungedruckt, der Text weist zahlreiche Übereinstimmungen mit den Martyrologien von Notker Balbulus und Ado Viennensis auf, die entsprechenden Passagen in <ref type="abbr">AA SS</ref> Sept. 5, 5A–F.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Nicomedes presbyter Romanae ecclesiae corpus sanctae Feliculae quam Flaccus comes pro Christo peremerat sepelivit</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Nicomedes m.</term></index></index></index>
+                           <index indexName="nasa"><term type="author" ref="https://d-nb.info/gnd/118588850">Notker Balbulus</term><index><term type="title">Martyrologium (Ausz.)</term></index></index>
+                           <index indexName="nasa"><term type="author" ref="https://d-nb.info/gnd/119536390">Ado Viennensis</term><index><term type="title">Martyrologium (Ausz.)</term></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="173r" to="173v">173ra–va</locus>
+                           <title>Vita sancti Wenceslai</title>
+                           <quote type="incipit">Wenczeslaus religiosi Bohemorum ducis Fratizlai [!] filius puer amande sanctitatis sacris literis eruditus</quote>
+                           <quote type="explicit">regni celestis pallacia ingreditur</quote> Ungedruckt, ähnlich <ref type="abbr">BHL</ref> 8841.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Wenceslaus religiosi Bohemorum ducis Fratizlai [!] filius puer amandae sanctitatis sacris litteris eruditus</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Wenceslaus rex m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="210v" to="215v">210va–215vb</locus>
+                           <title>Vita sanctae Elisabeth  (Epitome I ex vita Theodorici de Apolda deprompta)</title>
+                           <quote type="rubric">De sancta Elyzabeth. Item de ortu et vita sancte Elyzabeth</quote>
+                           <quote type="incipit">Andreas Ungarorum rex christianissimus de illustri regina Gerdrude nata nobilissimi ducis Meranie generavit filiam</quote>
+                           <quote type="explicit">cui est honor et gloria per infinita seculorum secula. Amen</quote>
+                           <quote type="finalRubric">Finitur de sancta Elyzabeth</quote> Stark abbreviierende Bearbeitung der Elisabethvita Dietrichs von Apolda, Buch 1,1–5; 1,8–2,2; 2,9–12; 6,10 (teilweise); 8,1–6; 8,17 (teilweise); 8,7–9; 8,17 (teilweise); 8,13–16 (teilweise); 8,18 (teilweise); vergl. mit: <ref type="abbr">Dietrich von Apolda</ref>, 24–30, 32–35, 42–47, 95, 109–114, 127f., 114–119, 128f., 122–126, 129f. Vgl. dazu <ref type="abbr">BHL</ref> 2496. Ersetzt cap. 164 des Originaltextes.
+                     </note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Andreas Ungarorum rex christianissimus de illustri regina Gerdrude nata nobilissimi ducis Meraniae generavit filiam</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Elisabeth vid.</term></index></index></index>
+                           <index indexName="nasa"><term type="author" ref="https://d-nb.info/gnd/119004666">Theodoricus de Apolda</term><index><term>Vita sanctae Elisabeth (Bearb.)</term></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="239r" to="241r">239ra–241rb</locus>
+                           <title>Vita sanctae Annae</title>
+                           <quote type="rubric">De sancta Anna</quote>
+                           <quote type="incipit">In hystoriis duodecim tribuum legitur ut Iacobus apostolus Jerosolamitanus asserit beatam et gloriosam Annam ex preclara stirpe Aaron ortam</quote>
+                           <quote type="explicit">domini iugiter ac devote perseverans</quote> Parallelüberlieferung (jeweils mit abweichendem Schluss) <ref type="unk">Basel, UB, B VII 11</ref>, 156ra–157va (<ref type="abbr">Basel 1</ref>, 709 Nr. 94); <ref type="unk">Erlangen, UB, Ms. 423</ref>, 25r–45r (<ref type="abbr">Erlangen 1</ref>, 506). Ungedruckt.  Literatur: <ref type="abbr">BHL</ref> 485.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">In historiis duodecim tribuum legitur ut Iacobus apostolus Hierosolymitanus asserit beatam et gloriosam Annam ex praeclara stirpe Aaron ortam</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Anna mater Mariae</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="241r" to="241v">241rb–va</locus>
+                           <title>Miracula sanctae Barbarae  (partim)</title>
+                           <quote type="rubric">De miraculis beate Barbare</quote>
+                           <quote type="incipit">Postea plura miracula ibidem fiebant que tamen non beate Barbare sed ydolis ascribebantur</quote>
+                           <quote type="explicit">causa spolii Saxoniam devenire ipsamque debellare. Tandem perveniunt ad castrum  Text bricht ab.</quote> Ungedruckt. Der unikal überlieferte Text ergänzt den Translationsbericht der heiligen Barbara (<ref type="abbr">BHL</ref> 926; Druck: <ref type="abbr">GW</ref>
+                           <ref target="http://gesamtkatalogderwiegendrucke.de/docs/GW03327.htm">3327</ref>) mit einer ätiologischen sächsischen Lokaltradition, wonach der askanische Herzog Albrecht I. von Sachsen († <date>1261</date>) auf dem 5. Kreuzzug die Barbarareliquien an sich nahm und zunächst in seine Burg Gommern und schließlich in die Barbarakapelle der Hausgrablege im Wittenberger Franziskanerkloster brachte. Vgl. dazu <persName role="author">Paulus Langius Cygnaeus</persName>, Chronicon Citizense, in: Rerum Germanicarum scriptores aliquot insignes, hrsg. von <persName role="editor">J. Pistorius</persName> und <persName role="editor">B. G. Struve</persName>, Bd. 1, Regensburg 1726, 1116–1291, hier 1173;
+zu Gommern als Teil der Burggrafschaft Magdeburg vgl. <persName role="author">L. F. Beck</persName>, Herrschaft und Territorium der Herzöge von Sachsen-Wittenberg (1212–1422), Potsdam 2000 (Bibliothek der brandenburgischen und preußischen Geschichte 6), 173–176.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Postea plura miracula ibidem fiebant quae tamen non beatae Barbarae sed idolis adscribebantur</term></index>
+                           <index><term type="person" ref="https://d-nb.info/gnd/118644351">Albrecht I &lt;Sachsen, Herzog&gt;</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Barbara v. m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="241v" to="247v">241vb–247vb</locus>
+                           <title>Vita sanctae Elisabeth  (Epitome II ex vita Theodorici de Apolda deprompta)</title>
+                           <quote type="rubric">Incipit vita sancte Elyzabeth vidue [!]</quote>
+                           <quote type="incipit">Eo tempore quo Philippus Suevorum dux frater Hinrici imperatoris et Otto Hinrici quondam Bavarie et Saxonie ducis filius a principibus contenciose electi</quote>
+                           <quote type="explicit">quod audiens famula dei gaudebat cum gaudentibus</quote>
+                           <quote type="finalRubric">'Postremo cum post mortem' residuum quere supra de sancta Elizabet in tali signo</quote> Die Bearbeitung umfasst Buch 1,1–3; 1,5; 1,8; 2,3–4; 2,7–11; 3,3–6; 4,1; 4,2a–9; 5,7–9; 6,2–4; 6,7; 6,9–10; 7,2; vergl. mit: <ref type="abbr">Dietrich von Apolda</ref>, 24–29, 32–34, 36f., 40–45, 54–58, 61–74, 82–84, 88–91, 92, 94f., 98f. Vgl. dazu <ref type="abbr">BHL</ref> 2496. Ersetzt cap. 164 des Originaltextes.
+                     </note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Eo tempore quo Philippus Suevorum dux frater Henrici imperatoris et Otto Henrici quondam Bavariae et Saxoniae ducis filius a principibus contentiose electi</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Elisabeth vid.</term></index></index></index>
+                           <index indexName="nasa"><term type="author" ref="https://d-nb.info/gnd/119004666">Theodoricus de Apolda</term><index><term>Vita sanctae Elisabeth (Bearb.)</term></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="247v" to="250v">247vb–250vb</locus>
+                           <title>Vita sanctae Dorotheae</title>
+                           <quote type="rubric">De sancta Dorothea</quote>
+                           <quote type="incipit">Temporibus Sapricii prefecti gloriosa virgo et martir Dorothea ex patre Dorotheo et matre Theodora ex nobile senatorum sangwine est orta</quote>
+                           <quote type="explicit">prestare dignetur per merita gloriose virginis Dorothee pater et filius et spiritus sanctus</quote> Vgl. dazu mit abweichendem Schluss: <ref type="abbr">BHL Novum Suppl.</ref> 2325d;<ref type="abbr">Calaresu Dorothealegende</ref>, 362 (Hs. genannt).</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Temporibus Sapritii praefecti gloriosa virgo et martyr Dorothea ex patre Dorotheo et matre Theodora ex nobile senatorum sanguine est orta</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Dorothea v. m.</term></index></index></index>
+                        </note></msItem><msItem rend="break"><note type="text">
+                           <locus from="250v">250vb</locus>
+                           <title>Vita sanctae Apolloniae  (partim)</title>
+                           <quote type="rubric">De sancta Appollonia</quote>
+                           <quote type="incipit">Dum apud Allexandriam tempore Decii imperatoris immanis persecucio contra dei servos sumpsisset exordium</quote>
+                           <quote type="explicit">virgo longeve etatis nomine Appollonia castitatis sobrietatis atque  Text bricht ab.</quote> Druck: <ref type="abbr">Graesse LA</ref> 66, 293. Literatur: <ref type="abbr">BHL</ref> 638.</note><note type="register">
+                           <index indexName="initien"><term xml:lang="la">Dum apud Alexandriam tempore Decii imperatoris immanis persecutio contra dei servos sumpsisset exordium</term></index>
+                           <index indexName="nasa"><term>Hagiographica</term><index><term>einzelne(r) Heilige(r)</term><index><term>Apollonia v. m.</term></index></index></index>
+                        </note></msItem><note type="register">
+                        <index indexName="initien"><term xml:lang="la">Universum tempus praesentis vitae in quattuor distinguitur scilicet in tempus deviationis</term></index>
+                     </note></msItem></msContents><msPart type="other"><msIdentifier><idno>Sonstiges</idno></msIdentifier><p>
+                     <index indexName="nasa"><term>Buch- und Schriftwesen</term><index><term>Foliierung (original)</term></index></index>
+                     <index indexName="nasa"><term>Buch- und Schriftwesen</term><index><term>Reklamanten</term></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>jüngere gotische Kursive</term></index></index></index>
+                     <index indexName="nasa"><term>Buchschmuck</term><index><term>Lombarden</term></index></index>
+                     <index indexName="nasa"><term>Buchschmuck</term><index><term>Initialen</term><index><term>Fleuronnée-Initiale</term><index><term>littera duplex</term></index></index></index></index>
+                     <index indexName="nasa"><term>Liber ordinarius Bursfeldensis (zit.)</term></index>
+                     <index indexName="nasa"><term>Buch- und Schriftwesen</term><index><term>Marginalien</term></index></index>
+                     <index indexName="nasa"><term>Einband</term><index><term>Schließen</term><index><term>Langriemenschließen</term></index></index></index>
+                     <index indexName="nasa"><term>Einband</term><index><term>Titelaufschrift</term></index></index>
+                     <index indexName="nasa"><term>Einbände, bemerkenswerte</term><index><term>gotische Stempeleinbände (Werkstatt nach EBDB)</term><index><term>Clus</term><index><term ref="https://d-nb.info/gnd/1034666266">Johannes von Brakel</term></index></index></index></index>
+                     <index indexName="nasa"><term>Buch- und Schriftwesen</term><index><term>Besitzvermerk (zeitgenössisch)</term></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Textualis</term></index></index></index>
+                     <index indexName="nasa"><term>Notation</term><index><term>Neumen, liniiert</term></index></index>
+                     <index indexName="nasa"><term>Buchschmuck</term><index><term>Lombarden</term></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>jüngere gotische Kursive</term></index></index></index>
+                     <index indexName="nasa"><term>Schriftarten</term><index><term>Gotische Schriften</term><index><term>Bastarda</term></index></index></index>
+                  </p></msPart></msDesc></body></text></TEI>

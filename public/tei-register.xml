@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beschreibung von Bonn, Universitäts- und Landesbibliothek Bonn, S 1014 (GEIß-WUNDERLICH, Jürgen: Katalog der mittelalterlichen Handschriften der Universitäts- und Landesbibliothek Bonn. - Berlin, Boston: De Gruyter, 2015)</title>
+        <respStmt>
+          <resp>Beschrieben von</resp>
+          <persName role="author">Jürgen Geiß-Wunderlich</persName>
+          <note>2015</note>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Elektronische Ausgabe nach TEI P5</edition>
+        <respStmt>
+          <resp>Diese Datei wurde unter Anwendung des MXML-to-TEI-P5-Stylesheets, welches an der Herzog August Bibliothek Wolfenbüttel im Rahmen des Projektes "Handschriftenportal" gepflegt wird aus einem am 26.08.2022 11:26:23:601 erstellten HIDA-DOC1-XML-Dokument erstellt.</resp>
+          <name type="org">Handschriftenportal</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>
+          <name type="org">Handschriftenportal</name>
+        </publisher>
+        <date type="primary" when="2015">2015</date>
+        <availability status="restricted">
+          <licence target="http://rightsstatements.org/vocab/InC/1.0/">
+            <p>http://rightsstatements.org/vocab/InC/1.0/</p>
+          </licence>
+        </availability>
+        <idno type="hsk">880</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>GEIß-WUNDERLICH, Jürgen: Katalog der mittelalterlichen Handschriften der Universitäts- und Landesbibliothek Bonn. - Berlin, Boston: De Gruyter, 2015</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2007-03-26">26.03.2007</date>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date when="2021-12-10">10.12.2021</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <msDesc xml:id="MXML-31275333"
+              xml:lang="de"
+              type="hsp:description"
+              subtype="medieval"
+              status="extern">
+        <msIdentifier>
+          <settlement>Bonn</settlement>
+          <repository key="soz_30002387"
+                      ref="http://d-nb.info/gnd/5084459-3 https://sigel.staatsbibliothek-berlin.de/suche/?isil=DE-5">Universitäts- und Landesbibliothek Bonn</repository>
+          <idno>S 1014</idno>
+        </msIdentifier>
+        <head>
+          <index indexName="norm_title">
+            <term type="title">Informationes atque exhortationes domini · Ps.-Bernardus Claraevallensis</term>
+          </index>
+          <title>Informationes atque exhortationes domini · Ps.-Bernardus Claraevallensis</title>
+          <note type="headline">Papier · II + 138 (Druck) + 34 + II Blatt · 15 × 10 · Mainz (?) · um 1520</note>
+          <index indexName="norm_material">
+            <term type="material">Papier</term>
+            <term type="material_type">paper</term>
+          </index>
+          <index indexName="norm_measure">
+            <term type="measure">II + 138 (Dr.) + 34 (Hs.) Bl. + II</term>
+            <term type="measure_noOfLeaves">172</term>
+          </index>
+          <index indexName="norm_dimensions">
+            <term type="dimensions">15 × 10</term>
+            <term type="height">15</term>
+            <term type="width">10</term>
+            <term type="depth"/>
+            <term type="dimensions_typeOfInformation">factual</term>
+          </index>
+          <index indexName="norm_format">
+            <term type="format"/>
+            <term type="format_typeOfInformation"/>
+          </index>
+          <index indexName="norm_origPlace">
+            <term type="origPlace">Mainz (?)</term>
+            <term type="origPlace_norm" ref="http://d-nb.info/gnd/4037124-4">Mainz</term>
+          </index>
+          <index indexName="norm_origDate">
+            <term type="origDate">um 1520</term>
+            <term type="origDate_notBefore">1510</term>
+            <term type="origDate_notAfter">1530</term>
+            <term type="origDate_type">datable</term>
+          </index>
+          <index indexName="norm_textLang">
+            <term type="textLang">lateinisch</term>
+            <term type="textLang-ID">la</term>
+          </index>
+          <index indexName="norm_form">
+            <term type="form">sammelband</term>
+          </index>
+          <index indexName="norm_status">
+            <term type="status"/>
+          </index>
+          <index indexName="norm_decoration">
+            <term type="decoration"/>
+          </index>
+          <index indexName="norm_musicNotation">
+            <term type="musicNotation"/>
+          </index>
+        </head>
+        <physDesc>
+          <p>[VE]. - <ref target="#5704[0]">Hybrida</ref>, eine Hand · Rubrizierung · Initialen nicht ausgeführt · Teil I, 1<hi rend="sup">r</hi>: <hi rend="italic">Oretur pro Cartusiensibus</hi> <hi rend="italic">prope Moguntinum T.</hi>, um 1525.</p>
+        </physDesc>
+        <history>
+          <p>Zusammengesetzter Codex aus zwei Teilen: Der hs Teil II nach Wzz (Picc FT III 1930: Köln 1521; FT III 1932: Kleve 1517 u.a.) und Besitzvermerk (Teil I, 1<hi rend="sup">r</hi>) um 1520 wohl in der <ref target="#bezsoz[1].4600">Kartause Mainz</ref> entstanden, mit dem gedruckten Teil I (Köln, 1509) zusammengebunden und zeitgleich in die Klosterbibliothek gekommen. Nach Auflösung der Klosters (1781) wahrscheinlich über die <ref target="#bezsoz[2].4600">Kartause Koblenz</ref> (aufgehoben 1802) in die <ref target="#bezsoz[3].4600">Gymnasialbibliothek Koblenz</ref> und von dort 1821 (Acc.-Nr. 1821.487 (Nr. 784)) in die Universitätsbibliothek Bonn gekommen (Index mss. Bonn 1846, S. 68).</p>
+        </history>
+        <additional>
+          <listBibl>
+            <bibl><ref target="#bezlit[0].8330">Handschriftenzensus Rheinland</ref>, Nr. 237. - Becker, S. [608].</bibl>
+          </listBibl>
+        </additional>
+        <msPart xml:id="MXML-31276098" type="binding">
+          <msIdentifier>
+            <idno>Einband</idno>
+          </msIdentifier>
+          <head>
+            <index indexName="norm_title">
+              <term type="title"/>
+            </index>
+            <title/>
+            <note type="headline">Leder : Holz · Mainz? · um 1520</note>
+            <index indexName="norm_material">
+              <term type="material"/>
+              <term type="material_type"/>
+            </index>
+            <index indexName="norm_measure">
+              <term type="measure"/>
+              <term type="measure_noOfLeaves"/>
+            </index>
+            <index indexName="norm_dimensions">
+              <term type="dimensions"/>
+              <term type="height"/>
+              <term type="width"/>
+              <term type="depth"/>
+              <term type="dimensions_typeOfInformation"/>
+            </index>
+            <index indexName="norm_format">
+              <term type="format"/>
+              <term type="format_typeOfInformation"/>
+            </index>
+            <index indexName="norm_origPlace">
+              <term type="origPlace"/>
+              <term type="origPlace_norm"/>
+            </index>
+            <index indexName="norm_origDate">
+              <term type="origDate"/>
+              <term type="origDate_notBefore"/>
+              <term type="origDate_notAfter"/>
+              <term type="origDate_type"/>
+            </index>
+            <index indexName="norm_textLang">
+              <term type="textLang"/>
+              <term type="textLang-ID"/>
+            </index>
+            <index indexName="norm_form">
+              <term type="form">binding</term>
+            </index>
+            <index indexName="norm_status">
+              <term type="status"/>
+            </index>
+            <index indexName="norm_decoration">
+              <term type="decoration"/>
+            </index>
+            <index indexName="norm_musicNotation">
+              <term type="musicNotation"/>
+            </index>
+          </head>
+          <physDesc>
+            <p><ref target="#5260[0]">Ledereinband auf Holz</ref>, <ref target="#5130[0]">Mainz</ref> (?), <ref target="#5060[0].5064">um 1520</ref> (Streicheisenlinien, einfache Rautung); BR ersetzt</p>
+          </physDesc>
+          <msPart xml:id="MXML-31276099" type="fragment">
+            <msIdentifier>
+              <idno>Fragment 1</idno>
+            </msIdentifier>
+            <head>
+              <index indexName="norm_title">
+                <term type="title"/>
+              </index>
+              <title/>
+              <note type="headline">Pergament · Rhein-Maas · 14. Jh., 1. Hälfte</note>
+              <index indexName="norm_material">
+                <term type="material"/>
+                <term type="material_type"/>
+              </index>
+              <index indexName="norm_measure">
+                <term type="measure"/>
+                <term type="measure_noOfLeaves"/>
+              </index>
+              <index indexName="norm_dimensions">
+                <term type="dimensions"/>
+                <term type="height"/>
+                <term type="width"/>
+                <term type="depth"/>
+                <term type="dimensions_typeOfInformation"/>
+              </index>
+              <index indexName="norm_format">
+                <term type="format"/>
+                <term type="format_typeOfInformation"/>
+              </index>
+              <index indexName="norm_origPlace">
+                <term type="origPlace"/>
+                <term type="origPlace_norm"/>
+              </index>
+              <index indexName="norm_origDate">
+                <term type="origDate"/>
+                <term type="origDate_notBefore"/>
+                <term type="origDate_notAfter"/>
+                <term type="origDate_type"/>
+              </index>
+              <index indexName="norm_textLang">
+                <term type="textLang"/>
+                <term type="textLang-ID"/>
+              </index>
+              <index indexName="norm_form">
+                <term type="form"/>
+              </index>
+              <index indexName="norm_status">
+                <term type="status"/>
+              </index>
+              <index indexName="norm_decoration">
+                <term type="decoration"/>
+              </index>
+              <index indexName="norm_musicNotation">
+                <term type="musicNotation"/>
+              </index>
+            </head>
+            <msContents>
+              <msItem n="MXML-31276099">
+                <note type="text"><ref target="#5260[0]">Pergament</ref> · 2 Blatt · <ref target="#5130[0]">Rhein-Maas-Gebiet</ref> · <ref target="#5060[0].5064">1. H. 14. Jh.</ref></note>
+              </msItem>
+            </msContents>
+          </msPart>
+        </msPart>
+        <msPart xml:id="MXML-31276101" type="booklet">
+          <msIdentifier>
+            <idno>Faszikel I</idno>
+          </msIdentifier>
+          <head>
+            <index indexName="norm_title">
+              <term type="title"/>
+            </index>
+            <title/>
+            <note type="headline">1509.06.23</note>
+            <index indexName="norm_material">
+              <term type="material"/>
+              <term type="material_type"/>
+            </index>
+            <index indexName="norm_measure">
+              <term type="measure"/>
+              <term type="measure_noOfLeaves"/>
+            </index>
+            <index indexName="norm_dimensions">
+              <term type="dimensions"/>
+              <term type="height"/>
+              <term type="width"/>
+              <term type="depth"/>
+              <term type="dimensions_typeOfInformation"/>
+            </index>
+            <index indexName="norm_format">
+              <term type="format"/>
+              <term type="format_typeOfInformation"/>
+            </index>
+            <index indexName="norm_origPlace">
+              <term type="origPlace"/>
+              <term type="origPlace_norm"/>
+            </index>
+            <index indexName="norm_origDate">
+              <term type="origDate"/>
+              <term type="origDate_notBefore"/>
+              <term type="origDate_notAfter"/>
+              <term type="origDate_type"/>
+            </index>
+            <index indexName="norm_textLang">
+              <term type="textLang"/>
+              <term type="textLang-ID"/>
+            </index>
+            <index indexName="norm_form">
+              <term type="form"/>
+            </index>
+            <index indexName="norm_status">
+              <term type="status"/>
+            </index>
+            <index indexName="norm_decoration">
+              <term type="decoration"/>
+            </index>
+            <index indexName="norm_musicNotation">
+              <term type="musicNotation"/>
+            </index>
+          </head>
+          <msContents>
+            <msItem n="MXML-31276102">
+              <note type="text">1<hi rend="sup">r</hi>-138<hi rend="sup">v</hi> Druck: <hi rend="small-caps">Henricus Herp: Directorium contemplativorum; Tractatus de effusione cordis</hi>. Köln: Johann Landen, 23. Juni 1509: VD 16 H 1246 [8° Gb 1236]. Rubrizierung. Am Rand vereinzelt Glossen, eine Hand (Schreiber von Teil II), Anf. 16. Jh.</note>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <p>I</p>
+          </physDesc>
+          <msPart type="other">
+            <msIdentifier>
+              <idno>Sonstiges</idno>
+            </msIdentifier>
+            <p>
+              <index n="MXML-31276101_bezsoz[0]" indexName="Herstellung">
+                <term type="4564">
+                  <settlement>Köln</settlement>
+                </term>
+                <term type="4600">
+                  <orgName>Druckwerkstatt Johann Landen</orgName>
+                </term>
+              </index>
+            </p>
+          </msPart>
+        </msPart>
+        <msPart xml:id="MXML-31276103" type="booklet">
+          <msIdentifier>
+            <idno>Faszikel II</idno>
+          </msIdentifier>
+          <head>
+            <index indexName="norm_title">
+              <term type="title"/>
+            </index>
+            <title/>
+            <note type="headline"/>
+            <index indexName="norm_material">
+              <term type="material"/>
+              <term type="material_type"/>
+            </index>
+            <index indexName="norm_measure">
+              <term type="measure"/>
+              <term type="measure_noOfLeaves"/>
+            </index>
+            <index indexName="norm_dimensions">
+              <term type="dimensions"/>
+              <term type="height"/>
+              <term type="width"/>
+              <term type="depth"/>
+              <term type="dimensions_typeOfInformation"/>
+            </index>
+            <index indexName="norm_format">
+              <term type="format"/>
+              <term type="format_typeOfInformation"/>
+            </index>
+            <index indexName="norm_origPlace">
+              <term type="origPlace"/>
+              <term type="origPlace_norm"/>
+            </index>
+            <index indexName="norm_origDate">
+              <term type="origDate"/>
+              <term type="origDate_notBefore"/>
+              <term type="origDate_notAfter"/>
+              <term type="origDate_type"/>
+            </index>
+            <index indexName="norm_textLang">
+              <term type="textLang"/>
+              <term type="textLang-ID"/>
+            </index>
+            <index indexName="norm_form">
+              <term type="form"/>
+            </index>
+            <index indexName="norm_status">
+              <term type="status"/>
+            </index>
+            <index indexName="norm_decoration">
+              <term type="decoration"/>
+            </index>
+            <index indexName="norm_musicNotation">
+              <term type="musicNotation"/>
+            </index>
+          </head>
+          <msContents>
+            <msItem n="MXML-31276104">
+              <note type="text">1<hi rend="sup">r</hi>-20<hi rend="sup">r</hi> <ref target="#bezwrk[0].6930"><hi rend="small-caps">Informationes atque exhortationes domini</hi></ref>. <ref target="#5650[0].5666l"><hi rend="italic">Fili mi, verba mea saluberrima in corde tuo quasi in libro scribe</hi></ref><hi rend="italic">… - … quibus singulis diebus et noctibus se lavet, ut conditori suo familior fiat.</hi></note>
+              <note type="register">
+                <p>
+                  <index n="MXML-31276104_bezwrk[0]" indexName="Abschrift">
+                    <term type="6930gi">Informationes atque exhortationes domini</term>
+                  </index>
+                  <index n="MXML-31276104_5650[0]" indexName="Initium">
+                    <term type="5666l" xml:lang="la">Fili mi, verba mea saluberrima in corde tuo quasi in libro scribe</term>
+                    <term type="5694">1r</term>
+                  </index>
+                </p>
+              </note>
+            </msItem>
+            <msItem n="MXML-31276105">
+              <note type="text">20<hi rend="sup">r</hi>-25<hi rend="sup">v</hi> <hi rend="small-caps">[</hi><ref target="#bezper[0].4100"><hi rend="small-caps">Pseudo-]Bernardus [Claraevallensis</hi></ref><hi rend="small-caps">(</hi><ref target="#bezper[1].4100"><hi rend="small-caps">Bernardus Silvestris</hi>?</ref><hi rend="small-caps">)]: </hi><ref target="#bezwrk[0].6930"><hi rend="small-caps">Speculum de honestate vitae</hi></ref>. Gekürzte Fassung (ohne 'Brevia et utilissima monita'). Ed.: <ref target="#bezlit[0].8330">PL</ref>, Bd. 184, Sp. 1167-1170. Zum Verfasser vgl. <ref target="#bezlit[1].8330">Glorieux, Migne</ref>, S. 73.</note>
+              <note type="register">
+                <p>
+                  <index n="MXML-31276105_bezper[0]" indexName="Autorschaft">
+                    <term type="4100">
+                      <persName key="z001_100937802">Bernardus &lt;Claraevallensis&gt;</persName>
+                    </term>
+                    <term type="4470">Pseudo</term>
+                  </index>
+                  <index n="MXML-31276105_bezper[1]" indexName="Autorschaft">
+                    <term type="4100">
+                      <persName key="z001_100938620">Bernardus &lt;Silvestris&gt;</persName>
+                    </term>
+                    <term type="4470">fraglich</term>
+                  </index>
+                  <index n="MXML-31276105_bezwrk[0]" indexName="Abschrift">
+                    <term type="6930gi">Speculum de honestate vitae</term>
+                  </index>
+                </p>
+              </note>
+            </msItem>
+            <msItem n="MXML-31276106">
+              <note type="text">26<hi rend="sup">r</hi>-31<hi rend="sup">r</hi> <ref target="#bezper[0].4100"><hi rend="small-caps">[Pseudo-]Bernardus Claraevallensis</hi></ref>: <ref target="#bezwrk[0].6930"><hi rend="small-caps">Informatio [sive Documenta pie vivendi</hi></ref><hi rend="small-caps">]</hi>. Ed.: <ref target="#bezlit[0].8330">PL</ref>, Bd. 184, Sp. 1173f. (Abweichungen). Zum Verfasser vgl. <ref target="#bezlit[1].8330">Glorieux, Migne</ref>, S. 73. 31<hi rend="sup">v</hi>-34<hi rend="sup">v</hi> leer.</note>
+              <note type="register">
+                <p>
+                  <index n="MXML-31276106_bezper[0]" indexName="Autorschaft">
+                    <term type="4100">
+                      <persName key="z001_100937802">Bernardus &lt;Claraevallensis&gt;</persName>
+                    </term>
+                    <term type="4470">Pseudo</term>
+                  </index>
+                  <index n="MXML-31276106_bezwrk[0]" indexName="Abschrift">
+                    <term type="6930gi">Informatio sive Documenta pie vivendi</term>
+                  </index>
+                </p>
+              </note>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <p>II</p>
+          </physDesc>
+        </msPart>
+        <msPart type="other">
+          <msIdentifier>
+            <idno>Sonstiges</idno>
+          </msIdentifier>
+          <p>
+            <index n="MXML-31275333_bezsoz[1]" indexName="Vorbesitz">
+              <term type="4564">
+                <settlement>Mainz</settlement>
+              </term>
+              <term type="4600">
+                <orgName key="MXML-31275158">Kartause Mainz</orgName>
+              </term>
+            </index>
+            <index n="MXML-31275333_bezsoz[2]" indexName="Vorbesitz">
+              <term type="4564">
+                <settlement>Koblenz</settlement>
+              </term>
+              <term type="4600">
+                <orgName key="MXML-31275104">Kartäuserkloster Koblenz</orgName>
+              </term>
+              <term type="4970">wahrscheinlich</term>
+              <term type="4996">
+                <date>1781-1802</date>
+              </term>
+            </index>
+            <index n="MXML-31275333_bezsoz[3]" indexName="Vorbesitz">
+              <term type="4564">
+                <settlement>Koblenz</settlement>
+              </term>
+              <term type="4600">
+                <orgName key="MXML-31275075">Gymnasialbibliothek Koblenz</orgName>
+              </term>
+              <term type="4996">
+                <date>1802-1821</date>
+              </term>
+            </index>
+          </p>
+        </msPart>
+      </msDesc>
+    </body>
+  </text>
+</TEI>

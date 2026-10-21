@@ -1,0 +1,1472 @@
+{
+  "data": {
+    "findInitia": {
+      "items": [
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-f7b9cd86-5584-32e4-b193-a903b0061fa3",
+          "id": "NORM-f7b9cd86-5584-32e4-b193-a903b0061fa3",
+          "alternativeText": [],
+          "text": "A patre donatus nobis puer est homo natus dudum praenatus fuit Emanuelque vocatus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-43358bd4-d928-3f07-928a-74b13a1c0c12",
+          "id": "NORM-43358bd4-d928-3f07-928a-74b13a1c0c12",
+          "alternativeText": [],
+          "text": "Aaron ponitur in exemplum quod nullus homo",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-9ccbcc49-4ddf-3922-a5de-d48c69c3d611",
+          "id": "NORM-9ccbcc49-4ddf-3922-a5de-d48c69c3d611",
+          "alternativeText": [
+            "Aaron ponitur in exemplum terroris contra usurpatores ... Item in exemplum quod nullus homo potest esse sine peccato"
+          ],
+          "text": "Aaron ponitur in exemplum terroris contra usurpatores … Item in exemplum quod nullus homo potest esse sine peccato",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-7374b2ed-bc96-3e2e-9d14-35cc19f2d7a4",
+          "id": "NORM-7374b2ed-bc96-3e2e-9d14-35cc19f2d7a4",
+          "alternativeText": [],
+          "text": "Abominabilis redditur homo sex modis",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-6759cba8-81a4-3a43-a5c0-d8d776153db4",
+          "id": "NORM-6759cba8-81a4-3a43-a5c0-d8d776153db4",
+          "alternativeText": [],
+          "text": "Abominatio: Est sciendum quod homo redditur abominabilis ex multis",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-f6dcf62d-dd8c-3a2d-87df-4646ea8ae4f2",
+          "id": "NORM-f6dcf62d-dd8c-3a2d-87df-4646ea8ae4f2",
+          "alternativeText": [
+            "*Abstinentia. Si de consilio medici temporalis homo abstinet de vino"
+          ],
+          "text": "Abstinentia. Si de consilio medici temporalis homo abstinet de vino",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-6e13642e-e18c-398e-b9a1-913ba7e3d0e0",
+          "id": "NORM-6e13642e-e18c-398e-b9a1-913ba7e3d0e0",
+          "alternativeText": [],
+          "text": "Accedere debet homo cum fide ad sacramentum",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-47af654b-5295-3b5b-9249-8fefc2dbf951",
+          "id": "NORM-47af654b-5295-3b5b-9249-8fefc2dbf951",
+          "alternativeText": [],
+          "text": "Accessit Romam peraegre pergens homo quidam",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-1f967481-c6ca-3258-871b-1f69c1298974",
+          "id": "NORM-1f967481-c6ca-3258-871b-1f69c1298974",
+          "alternativeText": ["*Ach homo perpende fragilis"],
+          "text": "Ach homo perpende fragilis",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-e713833d-906b-32ce-b080-5e779a6cc057",
+          "id": "NORM-e713833d-906b-32ce-b080-5e779a6cc057",
+          "alternativeText": [],
+          "text": "Ach homo qui transis mortalis aeger inanis",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-e43048bc-021b-3c69-8aff-8290767f05e9",
+          "id": "NORM-e43048bc-021b-3c69-8aff-8290767f05e9",
+          "alternativeText": [],
+          "text": "Ach homo si scires quid esses",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-445ad530-817b-39a7-bb1c-a5276a9aad8e",
+          "id": "NORM-445ad530-817b-39a7-bb1c-a5276a9aad8e",
+          "alternativeText": [],
+          "text": "Ad chorizantium tremorem et pudorem ut omnis homo fidelis, laicus sive clericus, sibi caveat",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-ee1eb9ef-2a95-3e02-8f01-525bbc4738a6",
+          "id": "NORM-ee1eb9ef-2a95-3e02-8f01-525bbc4738a6",
+          "alternativeText": [],
+          "text": "Ad cognoscendum quantum o homo per viam abnegationis",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-18fe2a26-7a31-317e-8387-7cdcfdebc305",
+          "id": "NORM-18fe2a26-7a31-317e-8387-7cdcfdebc305",
+          "alternativeText": [],
+          "text": "Ad hoc in paradiso homo positus fuerat",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-7968638e-1d24-3b0b-b913-53e54ccbdf29",
+          "id": "NORM-7968638e-1d24-3b0b-b913-53e54ccbdf29",
+          "alternativeText": [],
+          "text": "Ad hoc in paradiso homo positus fuerat ut si se ad conditoris sui oboedientiam vinculis caritatis astringeret",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-bc078c4e-66b0-3a86-96c0-5c01df290391",
+          "id": "NORM-bc078c4e-66b0-3a86-96c0-5c01df290391",
+          "alternativeText": [],
+          "text": "Ad omne genus hominis. Omnis homo est exhortandus, ut caveat a malo",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-f584e301-a4fc-3511-9ad5-9f088ab0914c",
+          "id": "NORM-f584e301-a4fc-3511-9ad5-9f088ab0914c",
+          "alternativeText": [],
+          "text": "Adam homo terrenus, Abel vappor vel luctus vel vanus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-d8100db0-0145-36e7-8a06-d1786fce1a82",
+          "id": "NORM-d8100db0-0145-36e7-8a06-d1786fce1a82",
+          "alternativeText": [],
+          "text": "Adam interpretatur homo",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-5c8d6b65-11e1-354a-9177-c61d06737e4a",
+          "id": "NORM-5c8d6b65-11e1-354a-9177-c61d06737e4a",
+          "alternativeText": [],
+          "text": "Adam interpretatur homo sive terrenus aut indigena aut terra rubra",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-9d48e120-43b6-33a8-b443-58fd9fd8194e",
+          "id": "NORM-9d48e120-43b6-33a8-b443-58fd9fd8194e",
+          "alternativeText": [],
+          "text": "Adam interpretatur homo sive terrenus vel terra rubra. Agalma, tis, id est ovile. Allogior, aris, id est annuncio. Assequor, ris, id est famulor, aris, et inde assecla, id est famulus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-e4e80a9d-3f97-3594-8919-0772f93b921f",
+          "id": "NORM-e4e80a9d-3f97-3594-8919-0772f93b921f",
+          "alternativeText": [],
+          "text": "Adam interpretatur homo vel terrenus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-1b231a9d-76ef-32ec-bce5-1909f93e1dd0",
+          "id": "NORM-1b231a9d-76ef-32ec-bce5-1909f93e1dd0",
+          "alternativeText": [],
+          "text": "Adam interpretatur homo vel terrenus vel indigena",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-f9a22a95-1af7-3e90-8d30-0c9d1976f539",
+          "id": "NORM-f9a22a95-1af7-3e90-8d30-0c9d1976f539",
+          "alternativeText": [],
+          "text": "Adam interpretatur homo vel terrenus vel indigena vel terra rubra",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-63662523-4c50-3f0f-8b74-9044255923d4",
+          "id": "NORM-63662523-4c50-3f0f-8b74-9044255923d4",
+          "alternativeText": [],
+          "text": "Adam primus homo",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-6c554146-0343-3b06-b1c7-acc856b0bbec",
+          "id": "NORM-6c554146-0343-3b06-b1c7-acc856b0bbec",
+          "alternativeText": [],
+          "text": "Adam primus homo ad imaginem Dei",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-aaa03415-2e63-39e4-9d56-6ae4ef277b4b",
+          "id": "NORM-aaa03415-2e63-39e4-9d56-6ae4ef277b4b",
+          "alternativeText": [],
+          "text": "Adam primus homo ad imaginem dei formatus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-384a8e7b-a736-3c0e-9660-26a0f66511e4",
+          "id": "NORM-384a8e7b-a736-3c0e-9660-26a0f66511e4",
+          "alternativeText": [],
+          "text": "Adam primus homo ad imaginem dei in Ebron formatus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-7c8e4fcb-3469-389b-8667-6353d9f017b4",
+          "id": "NORM-7c8e4fcb-3469-389b-8667-6353d9f017b4",
+          "alternativeText": [],
+          "text": "Adam primus homo ad imaginem dei in Hebron formatus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-c90189a6-61cd-350a-97b2-5fafadbebec0",
+          "id": "NORM-c90189a6-61cd-350a-97b2-5fafadbebec0",
+          "alternativeText": [
+            "Adam primus homo ad ymaginem dei in Ebron creatus ... Sem"
+          ],
+          "text": "Adam primus homo ad ymaginem dei in Ebron creatus … Sem",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-baae70f8-0433-33fd-a782-89f5fab9d5de",
+          "id": "NORM-baae70f8-0433-33fd-a782-89f5fab9d5de",
+          "alternativeText": ["Adam primus homo/ damnavit saecula pomo"],
+          "text": "Adam primus homo damnavit saecula pomo",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-dfad17d6-4861-3ca3-8274-7e7f77e04bcd",
+          "id": "NORM-dfad17d6-4861-3ca3-8274-7e7f77e04bcd",
+          "alternativeText": [],
+          "text": "Adam primus homo damnavit secula pomo",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-8a1e2b34-656c-3298-9ab3-fe102c260b08",
+          "id": "NORM-8a1e2b34-656c-3298-9ab3-fe102c260b08",
+          "alternativeText": [],
+          "text": "Adam primus homo de terra in agro Damasceno a deo formatus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-9253c181-d8d2-3bd7-ae42-f84071b814ae",
+          "id": "NORM-9253c181-d8d2-3bd7-ae42-f84071b814ae",
+          "alternativeText": [],
+          "text": "Adam primus homo doctrinam commovet aleph",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-3e1aad11-1558-3f8f-a39d-c064430275f0",
+          "id": "NORM-3e1aad11-1558-3f8f-a39d-c064430275f0",
+          "alternativeText": [],
+          "text": "Adam primus homo donavit",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-da070d65-c3de-352b-b300-a82a81c3ed14",
+          "id": "NORM-da070d65-c3de-352b-b300-a82a81c3ed14",
+          "alternativeText": [],
+          "text": "Adam primus homo et vixit nongentis triginta annis",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-6d676291-0cf3-3eae-b784-f650c78f8b08",
+          "id": "NORM-6d676291-0cf3-3eae-b784-f650c78f8b08",
+          "alternativeText": [],
+          "text": "Adam primus homo ut quidam volunt fuit vii horis tantum in paradiso",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-37b0168b-7f9a-3d54-b905-8d9ab93743f2",
+          "id": "NORM-37b0168b-7f9a-3d54-b905-8d9ab93743f2",
+          "alternativeText": [],
+          "text": "Adam, homo primus, sexta feria factus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-61fb406d-10a0-3eae-9fe2-33c4754b91b5",
+          "id": "NORM-61fb406d-10a0-3eae-9fe2-33c4754b91b5",
+          "alternativeText": [],
+          "text": "Adest nox beatissima nostrae salutis conscius in qua novus homo natus est in terris",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-7f8a689e-487f-3cdf-a7db-9037f5e51d2d",
+          "id": "NORM-7f8a689e-487f-3cdf-a7db-9037f5e51d2d",
+          "alternativeText": [],
+          "text": "Adiuro te homo per patrem et filium",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-df965234-630c-3b99-8547-d648a88b2e70",
+          "id": "NORM-df965234-630c-3b99-8547-d648a88b2e70",
+          "alternativeText": [],
+          "text": "Agnosce homo quam nobilis est anima tua",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-112fe2ef-7b2f-35a2-bfbd-51af9c6443b8",
+          "id": "NORM-112fe2ef-7b2f-35a2-bfbd-51af9c6443b8",
+          "alternativeText": [
+            "‘Aleph’ id est doctrina, ‘Adam’ homo sive terrenus"
+          ],
+          "text": "Aleph id est doctrina, Adam homo sive terrenus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-563e556d-1b48-3f95-86b2-861c748186a1",
+          "id": "NORM-563e556d-1b48-3f95-86b2-861c748186a1",
+          "alternativeText": [],
+          "text": "Aleph. ›Doctrina‹, scilicet ut seipsum et seipsum cognoscat homo",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-3895b481-8ab3-32e1-a4e6-cb6adf67cb54",
+          "id": "NORM-3895b481-8ab3-32e1-a4e6-cb6adf67cb54",
+          "alternativeText": [
+            "*Algazel in tractatu de forma speculi dicit: Aliter contemplatur se homo in speculo, aliter in oleo, aliter in aqua"
+          ],
+          "text": "Algazel in tractatu de forma speculi dicit: Aliter contemplatur se homo in speculo, aliter in oleo, aliter in aqua",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-981d5d52-a229-369d-ae68-077d8357013f",
+          "id": "NORM-981d5d52-a229-369d-ae68-077d8357013f",
+          "alternativeText": [],
+          "text": "Alpha a, A sine, Antropus homo, Archos ursa, Arche morbus",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-54a50c1b-35b9-39ee-a43e-1081fe458de5",
+          "id": "NORM-54a50c1b-35b9-39ee-a43e-1081fe458de5",
+          "alternativeText": [],
+          "text": "Als die keyserliche Maiestat zw Saphomona",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4113292-0",
+              "id": "NORM-5f02f088-9301-3d7b-a1ac-972c11bf3e7d",
+              "preferredName": "deutsch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Hochdeutsch"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Neuhochdeutsch"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Deutsche Sprache"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Deutsch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-37268ad2-4d9f-3da9-983b-3f60de57843e",
+          "id": "NORM-37268ad2-4d9f-3da9-983b-3f60de57843e",
+          "alternativeText": [],
+          "text": "Alteratio et instabilitas mundi, quod homo numquam in eodem statu permanet",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-2df66f17-a40d-347e-8d33-20655be0b121",
+          "id": "NORM-2df66f17-a40d-347e-8d33-20655be0b121",
+          "alternativeText": [],
+          "text": "Amabile ad quod naturaliter vetus homo tendit",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-d1bf7963-8c27-3ef9-8368-6f7afea5e37a",
+          "id": "NORM-d1bf7963-8c27-3ef9-8368-6f7afea5e37a",
+          "alternativeText": [],
+          "text": "Amicus. Nota quod homo habet triplicem amicum",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-ce5e1257-ba4d-3638-8548-501bb0579ba9",
+          "id": "NORM-ce5e1257-ba4d-3638-8548-501bb0579ba9",
+          "alternativeText": [],
+          "text": "Amicus. Nota quod homo triplicem amicum habet",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uri": "https://normdaten.staatsbibliothek-berlin.de/hsp/initia/NORM-06fef099-fb9d-3a25-9a0e-b15bf32b3c72",
+          "id": "NORM-06fef099-fb9d-3a25-9a0e-b15bf32b3c72",
+          "alternativeText": [],
+          "text": "Amicus. Nota quod homo triplicem habet amicum",
+          "sameAsIds": [],
+          "closeRelationIds": [],
+          "languages": [
+            {
+              "gndIdentifier": "4114364-4",
+              "id": "NORM-c9089f3c-9ada-3018-af6f-fb1ee8d6501c",
+              "preferredName": "lateinisch",
+              "variantName": [
+                {
+                  "isoCode": "de",
+                  "text": "Lateinisch"
+                },
+                {
+                  "isoCode": "en",
+                  "text": "Latin"
+                },
+                {
+                  "isoCode": "de",
+                  "text": "Lateinische Sprache"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

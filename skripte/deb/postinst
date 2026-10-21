@@ -1,0 +1,5 @@
+#!/bin/bash
+if [ "$1" = "configure" ] && command -v a2enconf >/dev/null 2>&1; then
+    a2enconf hsp-erfassung-storybook || true
+    systemctl reload apache2 || true
+fi

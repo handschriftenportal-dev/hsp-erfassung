@@ -1,0 +1,14 @@
+.idea/
+dist/
+doc/
+hooks/
+node_modules/
+test-reports/
+.npmrc
+Jenkinsfile
+ci-pipeline.properties
+jest.config.js
+package-lock.json
+package.json
+tsconfig.json
+webpack.config.js

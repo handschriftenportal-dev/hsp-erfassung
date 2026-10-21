@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beispieltext Griechisch</title>
+      </titleStmt>
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <msDesc>
+        <msIdentifier>
+          <repository>.</repository>
+          <altIdentifier type="corpus">
+            <idno>Example</idno>
+          </altIdentifier>
+        </msIdentifier>
+        <head>
+          <title></title>
+          <note type="headline"></note>
+          <index indexName="norm_title">
+            <term type="title"></term>
+          </index>
+          <index indexName="norm_material">
+            <term type="material"></term>
+            <term type="material_type"></term>
+          </index>
+          <index indexName="norm_measure">
+            <term type="measure">.</term>
+            <term type="measure_noOfLeaves"></term>
+          </index>
+          <index indexName="norm_dimensions">
+            <term type="dimensions">.</term>
+            <term type="height"></term>
+            <term type="width"></term>
+            <term type="depth"></term>
+            <term type="dimensions_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_format">
+            <term type="format"></term>
+            <term type="format_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_origPlace">
+            <term type="origPlace"></term>
+            <term type="origPlace_norm"></term>
+          </index>
+          <index indexName="norm_origDate">
+            <term type="origDate"></term>
+            <term type="origDate_notBefore"></term>
+            <term type="origDate_notAfter"></term>
+            <term type="origDate_type"></term>
+          </index>
+          <index indexName="norm_textLang">
+            <term type="textLang"></term>
+            <term type="textLang-ID"></term>
+          </index>
+          <index indexName="norm_form">
+            <term type="form"></term>
+          </index>
+          <index indexName="norm_status">
+            <term type="status"></term>
+          </index>
+          <index indexName="norm_decoration">
+            <term type="decoration"></term>
+          </index>
+          <index indexName="norm_musicNotation">
+            <term type="musicNotation"></term>
+          </index>
+        </head>
+        <msContents>
+          <textLang mainLang=""></textLang>
+          <msItem>
+            <note type="text">
+              Beispiel Mischtext deutsch-latein-griechisch (Schrift: Palatinolinotype / Sprache
+              [Tastatur]: Griechisch (Polytonisch)
+            </note>
+            <note type="text">
+              (ff. 25r-30r [pp. 49-59]) Synodus Carthaginensis (a. 256): Dokumente zum
+              Ketzertaufstreit (Ms. Τῆς γενομένης συνόδου ἐπὶ Κυπριανοῦ τοῦ ἁγιωτάτου ἀρχιεπισκόπου
+              Καρχηδόνος ἐπισκόπων πδ’ συναχθέντων εἰς τὴν αὐτῆν Καρχηδόνα περὶ τοῦ δεῖν βαπτίζεσθαι
+              τοὺς αἱρετικοὺς, ἥτις σύνοδος προγενεστέρα μὲν ἔστι τῆς ἐν Νικαίᾳ δευτερεύει δὲ διὰ
+              τὴν τῆς οἰκουμενικῆς σύνοδου αὐθεντίαν). – Bei den in der Hs. überlieferten zwei
+              Dokumenten (ein Synodalschreiben des Cyprianus Carthaginensis sowie das Protokoll der
+              Synode zu Karthago am 1. September 256) handelt es sich um griech. Übersetzungen des
+              lat. Originaltextes (vgl. VON SODEN [s. Lit], S. 296-297]). Vor den Dokumenten Prolog
+              des griech. Übersetzers:
+            </note>
+            <note type="text">
+              (f. 25r, 4.-15. Z.) Prologus (Ms. ohne Titel); inc. Ἀποφάσις ἐπισκόπων, ἀριθμῷ πδ’,
+              ἑρμηνευθεῖσα ἑλληνιστὶ ἐκ τῶν ῥωμαϊκῶν κτλ., ed. DE LAGARDE (s. Lit), S. 37, 17-33,
+              nach dieser Hs.; ed. P.-P. JOANNOU, Fonti, Fascicolo IX: Discipline générale antique
+              (IVe-IXe s.), II: Les canons des Pères Grecs (Pontificia Commissione per la redazione
+              del codice di diritto canonico orientale), Grottaferrata 1963, S. 303, 8-304, 8.
+            </note>
+            <note type="text">
+              (ff. 25r-26r, 8. Z.) Cyprianus episc. Carthaginensis, Epistula synodica; epist. 70
+              (Ms. Ἐπιστολὴ γραφεῖσα παρὰ τινῶν ἐπισκόπων [...] ἀγαπητοῖς ἀδελφοῖς χαίρειν), ed.
+              JOANNOU, a. O., S. 304, 9-313, 13; ed. DE LAGARDE (s. Lit), S. 37, 34-40, 31, nach
+              dieser Hs.; ed. (lat./griech.) G. F. DIERCKS, Sancti Cypriani episcopi epistularium
+              (CCSL III C), Turnhout 1996, S. &lt;497&gt;-515; vgl. CPL, Nr. 50; L. DUQUENNE,
+              Chronologie des lettres de s. Cyprien. Le Dossier de la persécution de Dèce
+              (Subsidia Hagiographica 54) Brüssel 1972, S. 24-28.
+            </note>
+            <note type="text">
+              (ff. 26r, 8. Z.-30r, 6. Z.) Sententiae LXXXVII episcoporum (Ms. Ὅρος), ed. DE LAGARDE
+              (s. Lit), S. 41-55, nach dieser Hs.; ed. (lat.), VON SODEN (s. Lit), S.
+              &lt;247&gt;-277; vgl. CPL, Nr. 56; DUQUENNE, a. O., S. &lt;13&gt;-14, 26.
+            </note>
+            <note type="text">
+              (f. 30r, 7. Z.-30v, 3. Z.) Pamphilus Caesariensis, Ex Apostolorum synodo Antiochiae
+              celebrata canones X (Ms. Τοῦ ἁγίου ἱερομάρτυρος Παμφίλου ἐκ τῆς ἐν Ἀντιοχείᾳ Ἀποστόλων
+              συνόδου, τοῦτ̉ ἔστιν ἐκ τῶν συνοδικῶν αὐτῶν κανόνων· μέρος τῶν ὑπ̉ αὐτοῦ εὑρηθέντων εἰς
+              τὴν Ὠριγένους Βιβλιοθήκην), ed. FUNK (s. Lit), S. &lt;144&gt;-148, u. a. nach dieser
+              Hs.; ed. DE LAGARDE (s. Lit), S. 18-20, nach dieser Hs.; CPG Suppl. 1717.
+            </note>
+            <note type="text">
+              (ff. 30v-31v [pp. 60-62]) De conciliis localibus (Ms. Ἐγένοντο δὲ σύνοδοι πρὸ τῆς ἐν
+              Νικαίᾳ ἁγίας οἰκουμενικῆς συνόδου αὗται), ed. BENEŠEVIČ, Kanoničeskij Sbornik
+              (s. Lit), S. 73-79, u. a. nach dieser Hs.
+            </note>
+            <note type="text">
+              (ff. 31v-37v [pp. 62-74]) Epitome libri VIII Constitutionum Apostolorum (Ms.
+              Διδασκαλία τῶν ἁγίων Ἀποστόλων περὶ χαρισμάτων), ed. FUNK, Didascalia (s. Lit),
+              S. &lt;72&gt;-96, u. a. nach dieser Hs.; ed. DE LAGARDE (s. Lit), S. &lt;1&gt;-18,
+              nach dieser Hs.; CPG III 1741; vgl. M. METZGER, Les Constitutions apostoliques,
+              III: Livres VII et VIII (SC 336), Paris 1987, S. 124, 1-274 u. CPG III 1730 – (f. 37r,
+              25.-32. Z.) Am Textende Zusatz von anderer Hand (vgl. S, ##): Διά τοι τοῦτο διδάσκωμεν
+              ... τῷ πυρὶ αἰωνίῳ καταδικασθήσεται, ed. FUNK, a. O., S. 96 (app. crit.); ed. DE
+              LAGARDE, a. O., S. 18, 16-23 (als Teil der Epitome). – Mit Scholien am Rand, die
+              jeweils mit rotem Anfangsbuchstabe eingeleitet sind:
+            </note>
+            <note type="text">
+              (f. 35r-v [pp. 69-70] Zwölf Scholien (Ms. ohne Titel), ed. BENEŠEVIČ, Kanoničeskij
+              Sbornik, Priloženija (s. Lit), S. 78-79 (Nr. 728a-739), u. a. nach dieser Hs.; ed DE
+              LAGARDE, a. O., S. 11 (Anm. [BENEŠEVIČ, a. O., Nr. 735 fehlt]), nach dieser Hs.
+            </note>
+            <note type="text">
+              (f. 37v [p. 74]) Dreizehn Scholien (Ms. Σχόλια τῶν ὄπισθεν γεγραμμένων δύο κεφαλαίων,
+              τῶν ἐκ τῶν ἀποστολικῶν διατάξεων, ᾧν ἡ ἀρχή), ed. BENEŠEVIČ, a. O., S. 79-80
+              (Nr. 728b-744), nach dieser Hs.; ed. DE LAGARDE, a. O., S. 11-12 (Anm.).
+            </note>
+            <note type="text">
+              (f. 38r-v [pp. 75-76]) &lt;Ioannes III Scholasticus patr. CP&gt;, Synagogae L
+              Titulorum: Prologus (Ms. Πρόλογος ); ed. V. N. BENEŠEVIČ, Ioannis Scholastici synagoga
+              L titulorum ceteraque eiusdem opera iuridica, I, in: Abh. Bayer. Akad. Wiss.,
+              philos.-hist. Kl, N. F. 14, München 1937, S. 4-7; CPG III 7550 mit Suppl.
+            </note>
+            <note type="text">
+              Folgende Zeichen (meist griech. Zahlen) häufig benutzt, aber nicht enthalten in der
+              Palatinolinotypeschrift (hier unter den Symbolen aus dem Dialogfeld)<lb/>
+              Ϛ (= die Zahl 6)<lb/>
+              ‚ (Zahlzeichen für gewissen Zahlen)<lb/>
+              Ϟ (= die Zahl 90)<lb/>
+              Ϡ (= die Zahl 900)<lb/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDesc>
+    </body>
+  </text>
+</TEI>

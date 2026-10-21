@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Beispieltext Deutsch</title>
+      </titleStmt>
+      <publicationStmt>
+        <p></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <msDesc>
+        <msIdentifier>
+          <repository>.</repository>
+          <altIdentifier type="corpus">
+            <idno>Example</idno>
+          </altIdentifier>
+        </msIdentifier>
+        <head>
+          <title></title>
+          <note type="headline"></note>
+          <index indexName="norm_title">
+            <term type="title"></term>
+          </index>
+          <index indexName="norm_material">
+            <term type="material"></term>
+            <term type="material_type"></term>
+          </index>
+          <index indexName="norm_measure">
+            <term type="measure">.</term>
+            <term type="measure_noOfLeaves"></term>
+          </index>
+          <index indexName="norm_dimensions">
+            <term type="dimensions">.</term>
+            <term type="height"></term>
+            <term type="width"></term>
+            <term type="depth"></term>
+            <term type="dimensions_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_format">
+            <term type="format"></term>
+            <term type="format_typeOfInformation"></term>
+          </index>
+          <index indexName="norm_origPlace">
+            <term type="origPlace"></term>
+            <term type="origPlace_norm"></term>
+          </index>
+          <index indexName="norm_origDate">
+            <term type="origDate"></term>
+            <term type="origDate_notBefore"></term>
+            <term type="origDate_notAfter"></term>
+            <term type="origDate_type"></term>
+          </index>
+          <index indexName="norm_textLang">
+            <term type="textLang"></term>
+            <term type="textLang-ID"></term>
+          </index>
+          <index indexName="norm_form">
+            <term type="form"></term>
+          </index>
+          <index indexName="norm_status">
+            <term type="status"></term>
+          </index>
+          <index indexName="norm_decoration">
+            <term type="decoration"></term>
+          </index>
+          <index indexName="norm_musicNotation">
+            <term type="musicNotation"></term>
+          </index>
+        </head>
+        <msContents>
+          <textLang mainLang=""></textLang>
+          <msItem>
+            <note type="text">
+              131r-144r Bonaventura: ‚De triplici via‘ (Schwäbische Übertragung; M 4)<lb/>
+              SJich ich hǎn sÿ dir verschriben drÿualtiklich prouerbiorum XXII (22,20) wann aͤll
+              kunst sol tragen bezaichnung der hailigen drÿuaͤltikait vnd sunder die kunst Die
+              gelernet wirt in der hailigen geschrift … – Jn saͤllicher weiß das allweg vnd alzeit
+              die andachtig sel sprech jm hertzen vnd mit dem mund: (der folgende Text in roter
+              Tinte, in abgesetzten Zeilen geschrieben) Jch sůch dich / ich hoff in dich / ich uf
+              richt mich in dich / jch beger din / jch epfauch / dich ich frolocken in dir / Jch
+              will dir alzeit anhangen / Mein herr vnd Trost Ihesu Christi. Amen. Deo gracias.
+              – Text in schwäbischer Übertragung. Er endet mit Kapitel III,§ 5,8.<lb/>
+              Der Text wird durch rote Tinte und schematische Aufteilung strukturiert (so auch in
+              Cgm 789 und Cgm 4393, 186r-205r).
+            </note>
+            <note type="text">
+              153r-156v Marienandacht<lb/>
+              ›Dasz ist vnser lieben frawen ern das man petet fr vasten‹ Fraw dich werde iunckfraw
+              Maria, das du ainig alle keczerÿ vnd vnglauben ertod hast ... (CAO 6759 dt.) ... –
+              Grst seiest du Maria, prechender merstern ... (AH 51,123 dt.; Ave maris stella dei
+              mater alma; vgl. Walther LIPPHARDT, in: 2VL 1 (1978), Sp. 565-568 und 2VL 11 (2004),
+              Sp. 193) ...
+            </note>
+            <note type="text">
+              161v-162r Pseudo-Engelhart von Ebrach: ‚Das Buch der Vollkommenheit‘(Exzerpt)<lb/>
+              Wilt du erkennen ain recht gůten menschen ... (Nr. 126); Der ist ain gůter mensch, der
+              dise dr tůt ... (Nr. 151); Der an vnsers herrn marter denckt als ain wint ...
+              (Nr. 46).
+            </note>
+            <note type="text">
+              Ed.: Karin SCHNEIDER, Pseudo-Engelhart von Ebrach: Das Buch der Vollkommenheit
+              (DTM 86), Berlin 2006.<lb/>
+              164r-169v Marquard von Lindau, ‚Dekalogerklärung‘ (Exzerpte)<lb/>
+              ›Wie man zu ainem gůten edlen leben kumen slle‹ Wissest es wirt ze dem ersten saur
+              erarnet vnd wirt aber ie lichter vnd (164v) ÿe lichter  ... Aber ich wil dir sagen,
+              si werdent drÿ grd uf gefrt ... – (167v) die aller liebsten frnd gocz. Amen. –
+              Druck: Van Maren, s.u., S. 138, Zeile 15-S. 140, Zeile 29.<lb/>
+              (167v) ›Von leiden‹ Wa ains warer frnd gocz ist, der leidet allwegen vnd ist daz in
+              vierlai weiß. Das ain ist mit den werken ... – (169v) vnd der gaist leidet das werk
+              gotes. Amen. – Druck: VAN MAREN, s.u., S. 84, Zeile 31-S. 85, Zeile 42.
+            </note>
+            <note type="text">
+              Druck: Marquard von Lindau, O.F.M., Das Buch der zehn Gebote (Venedig 1483).
+              Textausgabe mit Einleitung und Glossar von Jacobus Willem VAN MAREN (Quellen und
+              Forschungen zur Erbauungsliteratur des späten Mittelalters und der Frühen Neuzeit 7),
+              Amsterdam 1984, – Vgl. WEIDENHILLER, S. 230f.; Nigel F. PALMER, Latein, Volkssprache,
+              Mischsprache. Zum Sprachproblem bei Marquard von Lindau, mit einem
+              Handschriftenverzeichnis der ‚Dekalogerklärung‘ und des ‚Auszugs der Kinder Israel‘,
+              in: Spätmittelalterliche geistliche Literatur in der Nationalsprache, Bd. 1
+              (Analecta Cartusiana 106,1), Salzburg 1983, S. 70-110; Nigel F. PALMER, in: 2VL 6
+              (1987), Sp. 81-126 (Drucke, Teiled. und Lit.) und 2VL 11 (2004), Sp. 978.
+            </note>
+            <note type="text">
+              169v-171v Predigt über die wahre Liebe, die zu Gott führt<lb/>
+              Vnser herr Ihesus Christus spricht: Waz hilft den menschen, daz er alle dis welt
+              gewunne vnd sein sel verlr (Mt 16,26) vnd Augustinus spricht: Mensch ht dich mit
+              aller deiner selbs kraft vor aller creatrlicher vnd vnd zergenklicher lieb ... – die
+              lieb gocz ist erber, nuczlich, gruntlos vnd ewig. Amen.
+            </note>
+            <note type="text">
+              171v-173r ‚Die dreißig Zeichen der vollkommenen Demut‘<lb/>
+              Das sint XXX Zaichen aines diemtigen grundes. Daz erst ist, daz sich der mensch hab
+              fr den minsten menschen, der in der zit ist ... – wer gern von got redet, der zucht
+              den vater vnd den sun vnd den hailigen gaist in sein hercz vnd in aller der hercz, die
+              es geren hrn. Amen. Daz sint XXX stkklach die horn ainen diemtigen grund etc.
+            </note>
+            <note type="text">
+              Parallelüberlieferung: Cgm 717, 134vb-135va (Nr. 44); Gotha, Forschungsbibliothek
+              Gotha der Universität Erfurt, Chart B 237, 9r-10r (mit weiterer Überlieferung).
+            </note>
+            <note type="text">
+              173r-v Hymnus<lb/>
+              ›Das singt man in der vasten in der complet‹ O Christe ain kunig vnd ain schpfer
+              aller ... – ain berwinder in vaterlicher wird. Amen. ›Daz singt man in der fasten in
+              der complet. Amen‹<lb/>
+              ›Maria verain mich mit deinem kind ÿmer vnd ewich. Amen‹.<lb/>
+              Hymnus ‚Rex Christe, factor omnium‘ dt., Str. 1-6; lateinischer Text: AH 51,72.
+              – Vgl. Johannes JANOTA, in: 2VL 8 (1992), Sp. 9-12. – S.a. Berliner Repertorium
+              http://opus.ub.hu-berlin.de/repertorium/browse/hymn/6653?_bc=S1.6653;
+              Cantus-Datenbank http://cantusindex.org/id/008384 (Nr. 8384)
+            </note>
+            <note type="text">
+              1r-8v Inhaltsübersicht<lb/>
+              Jn disem Půchlein werden gar vil schner vnd manicherlay gebete gefunden vnd so der
+              mensch in andacht kombt ... (1v) darnach sie ein yeder mennsch sůchen vnd findenn mag.
+              ‚Am ersten die gebete, wie sich der mensch, so er zůmorgen aůfsteet, gesegenn sol
+              such. I. II. III. IIII plat ... – (8v) Ein offne peicht, die der mensch sprechen sol
+              CCXXXXIX. – 9r-v leer.
+            </note>
+            <note type="text">
+              10r-38v Gebete und Gebetsübungen am Morgen<lb/>
+              a. 10r-10v  ›Hienach ůolgen vil schner gebet, wie sich der mensch frú, so er
+              aufgestannden ist vnd so er des nachtes slaffen wil, geen sich gesegen vnd got
+              beůelhen sol. Zum ersten, so er des morgens aufsteet‹ Gesegen vnd behút mich got, der
+              allmechtig vater, der alle dinck aus nichte geschaffen hat ... – Vgl. Metten,
+              BenediktinerstiftsB, Aufhausen 7, 1r ; (10v) ›Versickell‹ Herre beweise vnns dein
+              parmhertzikait ...; ›Die Collectenn‹ Allmechtiger ewiger got, richt vnnsere werck in
+              deinem lob ...
+            </note>
+            <note type="text">
+              12ra-38vb Ps.-Hieronymus: ‚Regula monachorum ad Eustochium‘ (dt. mit einem Vorspann zu
+              Hieronymus)<lb/>
+              ›Dise ding schreibt der hochwirdig lerer Augustinus von dem Erwirdigen lerer Sanctus
+              Jeronimus‹ Der Erwirdig lerer Sant Jeronimus hat gereichsnet in der kirchen gocz Als
+              man zalt von der gepurt des herrn dreẅ hundert vnd Neẅczig Jar ... – So main ich, daz
+              ich kein grossern fünd.
+            </note>
+          </msItem>
+        </msContents>
+      </msDesc>
+    </body>
+  </text>
+</TEI>

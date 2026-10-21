@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <persName role="author" key="03e887b8-48fc-3aa1-bf97-4e9cb2fb906b" ref="null">Eichstädt, Konrad</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/3.0/de/">
+            <p>Dieses Dokument steht unter einer Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen
+              3.0 Deutschland Lizenz (CC BY-SA).
+            </p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2022-06-14">2022-06-14 13:32:50</date>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date when="2022-06-14">2022-06-14 13:32:50</date>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <msDesc status="intern" xml:id="tei-HSP-neu.xml" xml:lang="de" subtype="medieval" type="hsp:description">
+        <msIdentifier>
+          <settlement key="0bea98de-2838-374d-8a56-16ef6c9a39f2" ref="4011077-1">Darmstadt</settlement>
+          <repository key="1eb44b0f-430d-36c7-9b4e-39af3472714d" ref="10073682-8">Universitäts- und Landesbibliothek
+            Darmstadt
+          </repository>
+          <idno>Hs 1004</idno>
+          <altIdentifier type="hsp-ID">
+            <collection>Handschriftenportal Kulturobjektdokument-ID</collection>
+            <idno>HSP-3bbfb69a-88c2-3c50-8e79-e86a2b7a15e0</idno>
+          </altIdentifier>
+        </msIdentifier>
+        <head>
+          <index indexName="norm_title">
+            <term type="title" />
+          </index>
+
+          <title/>
+
+          <note type="headline"/>
+          <index indexName="norm_material">
+            <term type="material"/>
+            <term type="material_type"/>
+          </index>
+
+          <index indexName="norm_measure">
+            <term type="measure"/>
+            <term type="measure_noOfLeaves"/>
+          </index>
+
+          <index indexName="norm_dimensions">
+            <term type="dimensions"/>
+            <term type="height">12.2</term><!--floating number not ending with .5-->
+            <term type="width">7.3</term><!--floating number not ending with .5-->
+            <term type="depth">4.4</term><!--floating number not ending with .5-->
+            <term type="dimensions_typeOfInformation">Invalid</term>
+          </index>
+
+          <index indexName="norm_format">
+            <term type="format"/>
+            <term type="format_typeOfInformation"/>
+          </index>
+
+          <index indexName="norm_origPlace">
+            <term type="origPlace"/>
+            <term type="origPlace_norm"/>
+          </index>
+
+          <index indexName="norm_origDate">
+            <term type="origDate"/>
+            <term type="origDate_notBefore"/>
+            <term type="origDate_notAfter"/>
+            <term type="origDate_type"/>
+          </index>
+
+          <index indexName="norm_textLang">
+            <term type="textLang"/>
+            <term type="textLang-ID"/>
+          </index>
+
+          <index indexName="norm_form">
+            <term type="form"/>
+          </index>
+
+          <index indexName="norm_status">
+            <term type="status"/>
+          </index>
+
+          <index indexName="norm_decoration">
+            <term type="decoration"/>
+          </index>
+
+          <index indexName="norm_musicNotation">
+            <term type="musicNotation"/>
+          </index>
+        </head>
+        <history>
+          <p>Text</p>
+          <p>Nicht erlaubter Paragraph</p>
+        </history>
+      </msDesc>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,5 @@
+<test>
+    <head>Hallo &amp; Welt &unknown; </head>
+    <body>&unknown; &unknownTwo; & &invalid</body>
+    <footer>&#xD;</footer>
+</test>
